@@ -1,0 +1,3101 @@
+{
+ "school": "清华大学",
+ "professors": [
+  {
+   "name": "奥马尔·亚吉",
+   "name_en": "Omar M. Yaghi",
+   "title": "教授 博士生导师",
+   "research_area": "共价有机框架（COFs）、金属有机框架（MOFs）、分子编织，以及面向材料和化学研究的机器人与人工智能平台（AIMATRY）",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1094/3742.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "共价有机框架（COFs）、金属有机框架（MOFs）、分子编织，以及面向材料和化学研究的机器人与人工智能平台（AIMATRY）"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Selective binding and removal of guests in a microporous metal-organic framework, O. M. Yaghi, G. Li, H. Li, Nature , 1995 , 378 , 703-706.",
+     "venue": "Nature",
+     "year": 1995
+    },
+    {
+     "title": "Establishing microporosity in open metal-organic frameworks: gas sorption isotherms for Zn(BDC) (BDC=1,4-benzenedicarboxylate), H. Li, M. Eddaoudi, T. L. Groy, O. M. Yaghi, J. Am. Chem. Soc. , 1998 , 120 , 8571-8572.",
+     "venue": "J. Am. Chem. Soc",
+     "year": 1998
+    },
+    {
+     "title": "Design and synthesis of an exceptionally stable and highly porous metal-organic framework, H. Li, M. Eddaoudi, M. O’Keeffe, O. M. Yaghi, Nature , 1999 , 402 , 276-279.",
+     "venue": "Nature",
+     "year": 1999
+    },
+    {
+     "title": "Systematic design of pore size and functionality in metal-organic frameworks and application in methane storage, M. Eddaoudi, J. Kim, N. Rosi, D. Vodak, M. O’Keeffe, O. M. Yaghi, Science , 2002 , 295 , 469-472.",
+     "venue": "Science",
+     "year": 2002
+    },
+    {
+     "title": "Reticular synthesis and the design of new materials, O. M. Yaghi, M. O’Keeffe, N. Ockwig, H. K. Chae, M. Eddaoudi, J. Kim, Nature , 2003 , 423 , 705-714.",
+     "venue": "Nature",
+     "year": 2003
+    }
+   ],
+   "homepage": "",
+   "email": "yaghi@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1094/3742.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "陈超",
+   "name_en": "Chen, Chao",
+   "title": "清华大学化学系博士生导师，副教授",
+   "research_area": "元素有机化学，有机合成化学，有机光电材料",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1094/2213.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "元素有机化学，有机合成化学，有机光电材料"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "C. Xi*, C. Lai, C. Chen , R. Wang, Synlett , 2004 , 1595-1597",
+     "venue": "",
+     "year": 2004
+    }
+   ],
+   "homepage": "",
+   "email": "chaochen01@mails.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1094/2213.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "陈晨",
+   "name_en": "Chen, Chen",
+   "title": "教授",
+   "research_area": "无机材料、催化、新能源、二氧化碳转化",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1094/2212.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "无机材料、催化、新能源、二氧化碳转化"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "cchen@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1094/2212.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "程虎虎",
+   "name_en": "Cheng, Huhu",
+   "title": "副研究员，高分子所副所长",
+   "research_area": "主要从事低维纳米材料的制备、改性和组装调控，激光微纳加工及新型环境能量转化、先进能源存储等方面研究工作 1. 先进功能材料研究（碳基、高分子基材料等，如石墨烯等） 2. 新型能量转化研究（利用水汽发电、水汽驱动、高效水蒸发等） 3. 激光微纳制造、可穿戴能量等",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1094/2209.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "主要从事低维纳米材料的制备、改性和组装调控，激光微纳加工及新型环境能量转化、先进能源存储等方面研究工作 1. 先进功能材料研究（碳基、高分子基材料等，如石墨烯等） 2. 新型能量转化研究（利用水汽发电、水汽驱动、高效水蒸发等） 3. 激光微纳制造、可穿戴能量等"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Air-dried high-strength black MXene aerogel for spatiotemporal infrared information management, Nature Communications , 2025, 16, 9780",
+     "venue": "Nature",
+     "year": 2025
+    },
+    {
+     "title": "Moisture-enabled self-charging and voltage stabilizing supercapacitor, Nature Communications , 2024, 15, 4929",
+     "venue": "Nature",
+     "year": 2024
+    },
+    {
+     "title": "Robustly and Intrinsically Stretchable Ionic Gel-Based Moisture-Enabled Power Generator with High Human Body Conformality, ACS Nano , 2024, 18, 12096-12104",
+     "venue": "ACS Nano",
+     "year": 2024
+    },
+    {
+     "title": "Inorganic hydrogel based on low-dimensional nanomaterials, ACS Nano , 2024, 18, 2730-274930.",
+     "venue": "ACS Nano",
+     "year": 2024
+    },
+    {
+     "title": "Multifunctional solar water harvester with high transport selectivity and fouling rejection capacity, Nature Water , 2023, 1, 982–991",
+     "venue": "Nature",
+     "year": 2023
+    }
+   ],
+   "homepage": "",
+   "email": "huhucheng@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1094/2209.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "陈永湘",
+   "name_en": "Chen, Yongxiang",
+   "title": "长聘副教授 博士生导师",
+   "research_area": "蛋白质和多肽化学生物学，修饰蛋白质的合成及生物医学功能研究",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1094/2211.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "蛋白质和多肽化学生物学，修饰蛋白质的合成及生物医学功能研究"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Zhou, Y.; Chang, R.; Yang, Z.; Guo, Q.; Wang, M.; Jia, B.; Li, B.; Deng, B. D.; Ren, Y.; Zhu, H.; Wang, X.; Wang, Q.; Wen, H.; Zhang, H.; Yu, J.*; Chen, Y.-X.* ; Liu, K.*, Dynamic peptide nanoframework-guided protein coassembly: advancing adhesion performance with hierarchical structures. Journal of",
+     "venue": "",
+     "year": null
+    },
+    {
+     "title": "Li, Y.; Chang, R..; Liu, Y.-J.; Chen, F.*; Chen, Y.-X.* ; Self-assembled Branched Polypeptides as Amelogenin Mimics for Enamel Repair. Journal of Material Chemistry B 2024 , 12, 6452–6465",
+     "venue": "",
+     "year": 2024
+    },
+    {
+     "title": "Zhao, T.; Yang, X.; Duan, G; Chen, J.; He, K; Chen, Y.-X.* ; Luo, S.-Z.*, Phosphorylation-regulated phase separation of syndecan-4 and syntenin promotes the biogenesis of exosomes. Cell Proliferation 2024 , e13645.",
+     "venue": "",
+     "year": 2024
+    },
+    {
+     "title": "Hu, J.*; Wang, S.-H..; Li, G.*; Chen, Y.-X.* , Phosphorylation-Responsive System for Enzyme Activity Detection Based on Peptide-Cucurbit[8]uril Interactions. Dyes and Pigments 2024, 229 , 112277.",
+     "venue": "",
+     "year": 2024
+    },
+    {
+     "title": "Wu, J.-J.; Chen, F.-Y.; Han, B.-B.; Zhang, H.-Q.; Zhao, L.; Zhang, Z.-R.; Li, J.-J.; Zhang, B.-D.; Zhang, Y.-N.; Yue, Y.-X.; Hu, H.-G.; Li, W.-H.; Zhang, B.*; Chen, Y.-X.* ; Guo, D.-S.*; Li, Y.-M.*, CASTING: A Potent Supramolecular Strategy to Cytosolically Deliver STING Agonist for Cancer Immunothe",
+     "venue": "",
+     "year": null
+    }
+   ],
+   "homepage": "",
+   "email": "chen-yx@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1094/2211.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "崔惠敬",
+   "name_en": "",
+   "title": "",
+   "research_area": "",
+   "profile_url": "",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "",
+   "sources": [],
+   "confidence": "coarse",
+   "verified": false
+  },
+  {
+   "name": "董桂芳",
+   "name_en": "Dong, Guifang",
+   "title": "",
+   "research_area": "",
+   "profile_url": "",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "",
+   "sources": [],
+   "confidence": "coarse",
+   "verified": false
+  },
+  {
+   "name": "段昊泓",
+   "name_en": "Duan, Haohong",
+   "title": "长聘副教授 博士生导师",
+   "research_area": "段昊泓博士，清华大学长聘副教授，农工党党员，国家杰出青年科学基金获得者，基金委创新研究群体B负责人，国家重点研发计划首席科学家。研究兴趣包括纳米催化和电催化。近几年，致力于解决塑料、生物质等碳资源的化学循环和高值化利用问题，发展电/光驱动的绿色催化方法，基于对反应机理的基础研究发展新型电催化剂和高效反应装置，在温和条件下将废弃塑料和生物质等碳资源转化为高附加值化学品，并将上述反应与电解水制氢、二氧化碳还原过程耦合，对推动化学品绿色合成和碳中和具有重要意义。 研究成果以第一作者或通讯作者发表在 Nat. Catal. 、 Nat. Synth. 、 Nat. Commun. 、 J. Am. Chem. Soc. 、 Angew. Chem. Int. Ed. 、 Chem. Soc. Rev. 等国际学术期刊，获得石化联合会科技进步奖一等奖（第一完成人），主编英文专著一部（ Royal Society of Chemistry 出版）。研究成果受到国家自然科学基金委、美国化学会 C&EN、Forbes、 英国 Nature Portfolio、Chemistry World 等网站报道，得到 National Science Review 、 Nature Catalysis 和 Nature Synthesis 等期刊的亮点报道。任中国化学会绿色化学专业委员会委员， Chemical Science 顾问委员会委员，《科学通报》和 Science Bulletin 特邀编委，《中国科学：化学》、 《 Precision Chemistry 》、《 Chinese Journal of Chemistry 》 、《高等学校化学学报》、《化学进展》、《中国化学快报》和《 Advanced Chemical Research 》等刊青年编委。 课题组欢迎优秀博士后加入，课题组介绍请见 http://haohongduan-group.com/ 。 讲授课程： 《化学原理》，本科生专业基础课（秋季学期） 《无机及分析化学实验B》，本科生实验课（春季学期）",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1094/2205.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "段昊泓博士，清华大学长聘副教授，农工党党员，国家杰出青年科学基金获得者，基金委创新研究群体B负责人，国家重点研发计划首席科学家"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Liu, X., Zhou, T., Shao, M.* and Duan, H.* et al. Dynamic attraction of leached metal species enables durable glucose electrooxidation in a strong acid, Nat. Commun. 2026, DOI: 10.1038/s41467-026-73501-6",
+     "venue": "Nat. Commun",
+     "year": 2026
+    },
+    {
+     "title": "Wang, X., Zhang, C.*, Duan, H.* et al. Electrosynthesis of ethylene glycol from methanol via oxidative C–C coupling, J. Am. Chem. Soc. 2026, 148, 21, 21963–21972",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2026
+    },
+    {
+     "title": "Ji, K., Liu, Y., Kong, K., Chau, Z., Liu, X., Yuan, B.-J., Wang, X., Xu, X., Duan, H.* A pH gradient at electrode−electrolyte interface for tandem reactions, Nat. Commun. 2026, 10.1038/s41467-026-72802-0",
+     "venue": "Nat. Commun",
+     "year": 2026
+    },
+    {
+     "title": "Liu, Y., Niu, X., Zhang, L.,* and Duan, H.* et al. Selective Electrocatalytic Hydrogenation of Phenol to Cyclohexanone at Industrial-Relevant Current Density, Angew. Chem. Int. Ed. 2026, e2978958 (Hot Paper)",
+     "venue": "Angew",
+     "year": 2026
+    },
+    {
+     "title": "Shi, Q., Liu, W.,* and Duan, H.* et al. The C–C Bond-Centric Mechanism in Electrocatalytic Waste Polyethylene Terephthalate Valorization, Angew. Chem. Int. Ed. 2026, e9944053",
+     "venue": "Angew",
+     "year": 2026
+    }
+   ],
+   "homepage": "http://haohongduan-group.com/",
+   "email": "hhduan@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1094/2205.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "段炼",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "1、新一代有机半导体发光材料的设计合成、性能表征及其在有机发光二极管器件的研究 2、新型有机注入和传输材料的设计合成、机理研究及其器件应用",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1094/2909.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "1、新一代有机半导体发光材料的设计合成、性能表征及其在有机发光二极管器件的研究 2、新型有机注入和传输材料的设计合成、机理研究及其器件应用"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "duanl@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1094/2909.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "冯琳",
+   "name_en": "Feng, Lin",
+   "title": "博士 副教授",
+   "research_area": "超浸润纳米界面分离材料",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1094/2204.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "超浸润纳米界面分离材料 研究概况"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Xiangyu Li, Jingjing Liu, Ruixiang Qu, Weifeng Zhang, Yanan Liu, Huajun Zhai, Yen Wei, Hanshi Hu, and Lin Feng*. Universal and Tunable Liquid-Liquid Separation by Nanoparticle-Embedded Gating Membranes Based on a Self-Defined Interfacial Parameter. Nat. Commun . 2021 , 12, 80.",
+     "venue": "Nat. Commun",
+     "year": 2021
+    },
+    {
+     "title": "Xiangyu Li, Qilin Gui, Yen Wei, and Lin Feng*. Novel Superwetting Nanofibrous Skins for Removing Stubborn Soluble Oil in Emulsified Wastewater. J. Mater. Chem. A 2021 , 9, 26127-26134.",
+     "venue": "",
+     "year": 2021
+    },
+    {
+     "title": "Huajun Zhai, Ruixiang Qu, Xiangyu Li, Yanan Liu, Shuaiheng Zhao, Yen Wei, and Lin Feng*. A Dually Charged Membrane for Seawater Utilization: Combining Marine Pollution Remediation and Desalination by Simultaneous Removal of Polluted Dispersed Oil, Surfactants and Ions. ACS Appl. Mater. Interfaces 20",
+     "venue": "",
+     "year": null
+    },
+    {
+     "title": "Yanan Liu, Ruixiang Qu, Xiangyu Li, Huajun Zhai, Shuaiheng Zhao, Yen Wei, and Lin Feng*. Integration of Catalytic Capability and pH-Responsive Wettability in a VxOy-Based Dual-Mesh System: towards Solving the Trade-Off Between the Separation Flow Rate and Degradation Efficiency. J. Mater. Chem. A 20",
+     "venue": "",
+     "year": null
+    },
+    {
+     "title": "Ruixiang Qu, Xiangyu Li, Yanan Liu, Huajun Zhai, Shuaiheng Zhao, Lin Feng* and Yen Wei. Superwetting Patterned Membranes with an Anisotropy/Isotropy Transition: Towards Signal Expression and Liquid Permeation. Angew. Chem. Int. Ed . 2020 , 59, 13437-13443.",
+     "venue": "Angew",
+     "year": 2020
+    }
+   ],
+   "homepage": "",
+   "email": "fl@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1094/2204.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "付华",
+   "name_en": "Fu, Hua",
+   "title": "教授",
+   "research_area": "不对称合成、 化学 生物学 、光催化 的 有机反应",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1094/2203.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "不对称合成、 化学 生物学 、光催化 的 有机反应"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "http://apps.webofknowledge.com/OneClickSearch.do?product=WOS&search_mode=OneClickSearch&colName=WOS&SID=1EbFm4pjoFc3h5aA7IA&field=AU&value=Xu, H",
+   "email": "fuhua@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1094/2203.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "郭庆辉",
+   "name_en": "Guo Qing-Hui",
+   "title": "博士 副教授 博士生导师",
+   "research_area": "新型碳纳米结构精准合成及性能 功能有机大环化合物及其超分子化学 分子纳米拓扑学和智能动态材料",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1094/3360.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "新型碳纳米结构精准合成及性能 功能有机大环化合物及其超分子化学 分子纳米拓扑学和智能动态材料 获得奖项 北京市优秀毕业生 清华大学优秀毕业论文 中国化学会第29届学术年会有机化学优秀博士生论坛奖 全国超分子化学学术新星"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Duan-Chao Wang, Jin-Ze Lv, Shenjie Zhong, Yuhang Wu, Yang Liu, Sheng-Nan Lei, Hou-Yong Yu, Liangti Qu, J. Fraser Stoddart, Qing-Hui Guo * \"One-step conversion of biomass to reduced graphene oxide at room temperature\" Nat Sustain 2024 , 7 , 1699.",
+     "venue": "",
+     "year": 2024
+    },
+    {
+     "title": "Sheng-Nan Lei, Ling Zhu, Ning Xue, Xuedong Xiao, Le Shi, Duan-Chao Wang, Zhe Liu, Xin-Ru GuanYuan Xie, Ke Liu, Lian-Rui Hu, Zhaohui Wang, J. Fraser stoddart, Qing-Hui Guo * \"Cyclooctatetraene-Embedded Carbon Nanorings\" Angew. Chem. Int. Ed. 2024 , 63 , e202402255 ‍ .",
+     "venue": "Angew",
+     "year": 2024
+    },
+    {
+     "title": "Yang Liu, Xin-Ru Guan, Duan-chao Wang, J. Fraser. Stoddart*, Qing-Hui Guo* “Soluble and Processable Single-Crystalline Cationic Polymers” J. Am. Chem. Soc. 2023 , 145, 13223 ‍‍ .‍‍",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2023
+    },
+    {
+     "title": "Ting Liu, Linxi Zhu, Ke Liu, Zhe Liu, Yang Liu, Yifei Zhang, Yue Hu*, Qing-Hui Guo * , Feihe Huang* \"Diameter-Controlled Synthesis of Carbon Nanotubes Using [2 n ]Collarenes as Rigid Organic Templates\" J. Am. Chem. Soc. 2024 , 146 , 32445 ‍. 5. Qing-Hui Guo * , Yang Jiao, Yuanning Feng, J Fraser Sto",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2024
+    }
+   ],
+   "homepage": "https://guo-group.net/",
+   "email": "guoqh@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1094/3360.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "何彦",
+   "name_en": "",
+   "title": "清华大学化学系教授",
+   "research_area": "生命分析化学（研究方向：基于单分子单细胞分析的复杂活性体系研究）",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2242.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "生命分析化学（研究方向：基于单分子单细胞分析的复杂活性体系研究）"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Peng, Y.; Xiong, B.; Peng, L.; Li, H.; He, Y.*; Yeung, E. S.*, Recent Advances in Optical Imaging with Anisotropic Plasmonic Nanoparticles. Anal. Chem. 2015, 87 (1), 200-215.",
+     "venue": "",
+     "year": 2015
+    },
+    {
+     "title": "Xu, D.; He, Y.*; Yeung, E. S., Direct Observation of the Orientation Dynamics of Single Protein-Coated Nanoparticles at Liquid/Solid Interfaces. Angew. Chem. Int. Ed. 2014, 53 (27), 6951-6955.",
+     "venue": "Angew",
+     "year": 2014
+    },
+    {
+     "title": "Xiong, B.; Zhou, R.; Hao, J.; Jia, Y.; He, Y.*; Yeung, E. S., Highly sensitive sulphide mapping in live cells by kinetic spectral analysis of single Au-Ag core-shell nanoparticles. Nat. Commun. 2013, 4:1708.",
+     "venue": "Nat. Commun",
+     "year": 2013
+    },
+    {
+     "title": "Zhou, R.; Zhou, H.; Xiong, B.; He, Y.*; Yeung, E. S., Pericellular Matrix Enhances Retention and Cellular Uptake of Nanoparticles. J. Am. Chem. Soc. 2012, 134 (32), 13404-13409.",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2012
+    },
+    {
+     "title": "Xiao, L.; Qiao, Y.; He, Y.*; Yeung, E. S., Imaging Translational and Rotational Diffusion of Single Anisotropic Nanoparticles with Planar Illumination Microscopy. J. Am. Chem. Soc. 2011, 133 (27), 10638-10645.",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2011
+    }
+   ],
+   "homepage": "",
+   "email": "yanhe2021@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2242.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "华瑞茂",
+   "name_en": "Hua, Ruimao",
+   "title": "博士、教授",
+   "research_area": "炔烃化学、有机材料化学",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2239.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "炔烃化学、有机材料化学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Jiaying Lv, Huixin Liu, Le Lu, and Ruimao Hua* Copper(I)-Catalyzed Syntheses of Benzo[ b ]fluorenes by the Cascade Reactions of 2‑Alkynylbenzaldehyde N‑Tosylhydrazones and Aromatic Terminal Alkynes. The Journal of Organic Chemistry 2022 , 87 , 16011-16018",
+     "venue": "",
+     "year": 2022
+    },
+    {
+     "title": "Le Lu, Ruimao Hua* A Monomer-Polymer-Monomer (MPM) Organic Synthesis Strategy: Synthesis and Application of Polybenzofuran for Functionalizing Benzene Ring of Benzofuran. Asian Journal of Organic Chemistry 2021 , 10 , 1846-1846",
+     "venue": "",
+     "year": 2021
+    },
+    {
+     "title": "Yiming Zhou, Ruimao Hua* Synthesis of 1-Benzyl-, 1-Alkoxyl-, and 1-Aminoisoquinolines via Rhodium(III)- Catalyzed Aryl C−H Activation and Alkyne Annulation. The Journal of Organic Chemistry 2021 , 86 , 8862-8872",
+     "venue": "",
+     "year": 2021
+    },
+    {
+     "title": "Liyao Zheng, Ruimao Hua* C–H Activation and Alkyne Annulation via Automatic or Intrinsic Directing Groups: Towards High Step Economy Chemical Record 2018 , 18 , 556-569 (personal account).",
+     "venue": "",
+     "year": 2018
+    },
+    {
+     "title": "Le Lu, Huixin Liu, Ruimao Hua* HNO 3 /HFIP: A Nitrating System for Arenes with Direct Observation of π‑Complex Intermediates. Organic Letters 2018 , 20 , 3197-3201.",
+     "venue": "",
+     "year": 2018
+    }
+   ],
+   "homepage": "",
+   "email": "ruimao@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2239.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "胡昉昊",
+   "name_en": "Hu, Fanghao",
+   "title": "副教授",
+   "research_area": "分子光谱和非线性光学成像，化学探针，生物光子学",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2240.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "分子光谱和非线性光学成像，化学探针，生物光子学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "http://www.hulab-thu.org",
+   "email": "hufanghao@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2240.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "胡憾石",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "相对论量子化学 镧系锕系元素理论计算化学 团簇理论计算化学",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2321.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "相对论量子化学 镧系锕系元素理论计算化学 团簇理论计算化学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "hshu@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2321.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "焦雷",
+   "name_en": "Jiao, Lei",
+   "title": "副教授 博士生导师",
+   "research_area": "焦雷课题组的主要研究方向是机理研究指导的新反应、新催化剂设计，目标是在对反应机理及构效关系深入认识的基础上，通过反应中间体化学研究和分子设计发展出具有独特功能的新催化剂和反应体系。课题组目前的主要研究方向是N-硼基吡啶负离子化学和具有协同催化功能的新型配体设计。",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2322.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "焦雷"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Qi, J.-Q.; Suo, W.; Liu, J.; Sun, S.; Jiao, L.*; Guo, X.* Direct Observation of All Open-Shell Intermediates in a Photocatalytic Cycle. J. Am. Chem. Soc. 2024 , 146 , 7140-7145.",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2024
+    },
+    {
+     "title": "Bai, L.; Jiao, L.* Modular Photoredox System with Extreme Reduction Potentials Based on Pyridine Catalysis. Chem 2023 , 9 , 3245-3267.",
+     "venue": "",
+     "year": 2023
+    },
+    {
+     "title": "Wang, F.-Y.; Li, Y.-X.; Jiao, L.* Functionalized Cycloolefin Ligand as a Solution to Ortho-Constraint in the Catellani-Type Reaction. J. Am. Chem. Soc. 2023 , 145 , 4871-4881.",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2023
+    },
+    {
+     "title": "Yuan, C.-H.; Wang, X.-X.; Jiao, L.* Ligand-Enabled Pd(II)-Catalyzed Enantioselective β-C(sp3)-H Arylation of Aliphatic Tertiary Amides. Angew. Chem. Int. Ed. 2023 , 62 , e202300854.",
+     "venue": "Angew",
+     "year": 2023
+    },
+    {
+     "title": "Zheng, Y.-X.; Jiao, L.* Hybrid Cycloolefin Ligands for Palladium/Olefin Cooperative Catalysis. Nat. Synth. 2022 , 1 , 180-187.",
+     "venue": "",
+     "year": 2022
+    }
+   ],
+   "homepage": "http://www.jiaolei.group",
+   "email": "leijiao@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2322.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "焦丽颖",
+   "name_en": "Jiao, Liying",
+   "title": "教授",
+   "research_area": "1．低维半导体材料的可控合成、结构表征、物性测量及其在纳电子学领域的应用研究 2．新型能源材料的制备及性能优化",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2237.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "1．低维半导体材料的可控合成、结构表征、物性测量及其在纳电子学领域的应用研究 2．新型能源材料的制备及性能优化 奖励与资助 2013年获自然科学基金委优秀青年基金的资助 2013年获求是“杰出青年学者”奖 2019年获得国家杰出青年基金的资助"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Wu, Y.Y., Zheng, J. Y., Li, Q., Song, M.M., Yue, S.F., Lin, N., Jiao, L. Y.* Synthesis of superconducting two-dimensional non-layered PdTe by interfacial reactions, Nature Synthesis 1 , 908-914 (2022).",
+     "venue": "Nature",
+     "year": 2022
+    },
+    {
+     "title": "Ping, X.F., Liu, W.G., Wu, Y.Y., Xu, G.C., Chen, F.E., Li, G.T., Jiao, L. Y.* Electrochemical Construction of Edge-Contacted Metal-Semiconductor Junctions with Low Contact Barrier, Advanced Materials 34 ,2202484 (2022).",
+     "venue": "",
+     "year": 2024
+    },
+    {
+     "title": "Zheng, J. Y.* ， Miao, T.T, Xu, R., Ping, X.F., Wu, Y.Y., Lu, Z.X., Zhang, Z.M., Hu, D.K., Liu, L.N., Zhang, Q., Li, D.W., Cheng, Z.H., Ma, W.G., Xie, L.M., Jiao, L. Y.* Chemical Synthesis and Integration of Highly Conductive PdTe 2 with Low-Dimensional Semiconductors for p-Type Transistors with Low ",
+     "venue": "",
+     "year": null
+    },
+    {
+     "title": "Zhang, Q.#, Wang, X.-F.# (co-first author), Shen, S.-H., Lu, Q., Liu, X.Z., Li, H.Y., Zheng, J.Y., Yu, C.-P., Zhong, X.Y., Gu, L., Ren, T.-L.*, Jiao, L. Y. * Simultaneous synthesis and integration of two-dimensional electronic components. Nature Electronics 2 , 164-170 (2019).",
+     "venue": "Nature",
+     "year": 2019
+    },
+    {
+     "title": "Hu, D. K. #, Zhao, T. Q. #(co-first author), Ping, X.F., Zheng, H.S., Xing, L., Liu, X.Z., Zheng, J.Y., Sun, L.F., Gu, L., Tao, C.G., Wang, D. *, Jiao, L. Y.* Unveiling the Layer-Dependent Catalytic Activity of PtSe 2 Atomic Crystals for the Hydrogen Evolution Reaction. Angew. Chem. Int. Ed . 58 , 6",
+     "venue": "Angew",
+     "year": null
+    }
+   ],
+   "homepage": "",
+   "email": "lyjiao@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2237.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "吉岩",
+   "name_en": "Ji, Yan",
+   "title": "博士 副教授",
+   "research_area": "动态共价键高分子材料、 液晶弹性体等智能高分子、软体机器人",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2238.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "动态共价键高分子材料、 液晶弹性体等智能高分子、软体机器人"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Q. Chen; Z. Pei; Y. Xu; Z. Li; Y. Yang; Y. Wei*, Y. J i* A durable monolithic polymer foam for efficient solar steam generation. Chem.Sci . 2018, 9 , 623. 9.Q. Chen，X. Yu，Z. Pei，Y. Yang，Y. Wei*, Y. Ji * Multi-stimuli responsive and multi-functional oligoaniline-modified vitrimers. Chem. Sci. 2017, 8",
+     "venue": "Chem. Sci",
+     "year": 2018
+    },
+    {
+     "title": "Z. Li, X. Zhang, S. Wang, Y. Yang, K. Qang, Y. Qin, T. Xie, Y. Wei*, Y. Ji * Polydopamine coated shape memory polymer: enabling light triggered shape recovery, light controlled shape reprogramming and surface functionalization. Chem. Sci. 2016, 7, 4741.",
+     "venue": "Chem. Sci",
+     "year": 2016
+    },
+    {
+     "title": "Y. Yang, Z. Pei, Z. Li, Y. Wei, Y. Ji * Making and remaking dynamic 3D structures by shining light on flat liquid crystalline vitrimer films without a mold. J. Am. Chem. Soc. 2016, 138, 2118-2121.",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2016
+    },
+    {
+     "title": "Z. Pei, Y. Yang, Q. Chen, Y. Wei*, Y. Ji * Regional Shape Control of Strategically-Assembled Multi-Shape Memory Vitrimers. Adv. Mater. , 2016, 28, 156-160.",
+     "venue": "Adv. Mater",
+     "year": 2016
+    },
+    {
+     "title": "Y. Yang, Z. Pei, X. Zhang, L. Tao, Y. Wei*, Y. Ji * Carbon nanotube-vitrimer composite for facile and efficient photo-welding of epoxy. Chem. Sci. , 2014, 5, 3486-3492.",
+     "venue": "Chem. Sci",
+     "year": 2014
+    }
+   ],
+   "homepage": "",
+   "email": "jiyan@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2238.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "巨勇",
+   "name_en": "Ju, Yong",
+   "title": "教授",
+   "research_area": "研究方向： 天然产物化学，有机合成化学，化学生物学。 研究领域： 生物活性天然产物的结构改造及其构效关系； 生物缀合物的化学合成及其生物学功能； 天然产物骨架功能分子的化学合成和性能。",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2236.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "研究方向： 天然产物化学，有机合成化学，化学生物学"
+   ],
+   "focus_areas": [],
+   "summary": "研究成果： ● 作为课题负责人和主要工作者，先后参加承担完成国家自然科学基金重大项目，重点项目和科技部“973”项目各1项，主持完成国家自然科学基金项目10项。 ● 主编《有机合成化学与路线设计》（2002），（第2版，2007），清华大学出版社，2008年被评为北京市高等教育精品教材；2010年被评为《首届中国大学出版社图书奖》优秀教材一等奖；2012年被评为清华大学优秀教材一等奖。 ● 合编《现代有机合成试剂》（2006），化学工业出版社。《现代有机合成试剂》（第2卷，2011），化学工业出版社。 参与编写《现代有机合成反应》（第3卷，2008），413-460, 化学工业出版社。《现代有",
+   "publications": [
+    {
+     "title": "Hao J, Gao YX, Li Y, Yan Q, Hu J, Ju Y( 巨勇 ). Thermosensitive triterpenoid-appended polymers with broad temperature tunability regulated by host–guest chemistry. Chem. Asian J., 2017, 12, 2231.",
+     "venue": "",
+     "year": 2017
+    },
+    {
+     "title": "Li JZ, Wu JD, Cui FC, Zhao X, Li YQ, Lin Y, Li Y, Hu J, Ju Y( 巨勇 ). A dual functional fluorescent sensor for human serum albumin andchitosan, Sensors and Actuators B, 2017, 243, 831.",
+     "venue": "",
+     "year": 2017
+    },
+    {
+     "title": "Wu JD, Lu JR, Liu JG, Zheng CH, Gao YX, Hu J, Ju Y(巨勇). A deoxycholic acid-based macrocycle: Recognition of mercury ion and cascade enantioselective sensing toward amino acids. Sensors and Actuators B , 2017, 241 , 931.",
+     "venue": "",
+     "year": 2017
+    },
+    {
+     "title": "Gao YX, Hao J, Wu JD, Li Y, Lin Y, Hu J, Ju Y( 巨勇 ) . Cooperative supramolecular helical assembly of a pyridinium-tailored methyl glycyrrhetate. Soft Matter , 2016, 12, 8979.",
+     "venue": "",
+     "year": 2016
+    },
+    {
+     "title": "Gao YX, Hao J, Wu JD, Zhang X, Hu J, Ju Y( 巨勇 ) . Solvent-directed assembly of a pyridinium-tailored methyl oleanolate amphiphile: stepwise growth of microrods and nanofibers. Langmuir , 2016, 32, 1685.",
+     "venue": "",
+     "year": 2016
+    }
+   ],
+   "homepage": "",
+   "email": "juyong@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2236.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "寇会忠",
+   "name_en": "Kou, Huizhong",
+   "title": "博士，教授",
+   "research_area": "研究兴趣: 配位化学 、多功能材料 、结构化学",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2235.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "研究兴趣: 配位化学 、多功能材料 、结构化学 研究概况 研究项目: 1. 多孔分子磁体复合材料的合成与性质研究（国家自然科学基金：21771115，2018.1－2021.12） 2. 基于自旋交叉和生物活性的过渡金属希夫碱配合物的结构调控、尺寸效应和性质研究（国家自然科学基金：2157111，2016.1－2019.12） 3. 功能导向晶态材料的结构设计和可控制备（国家自然科学基金：91222104，2013.1－2015.12） 4. 低自旋磁各向异性过渡金属配合物的合成与应用研究（国家自然科学基金：21171103，2012.1－2015.12）"
+   ],
+   "focus_areas": [],
+   "summary": "研究项目: 1. 多孔分子磁体复合材料的合成与性质研究（国家自然科学基金：21771115，2018.1－2021.12） 2. 基于自旋交叉和生物活性的过渡金属希夫碱配合物的结构调控、尺寸效应和性质研究（国家自然科学基金：2157111，2016.1－2019.12） 3. 功能导向晶态材料的结构设计和可控制备（国家自然科学基金：91222104，2013.1－2015.12） 4. 低自旋磁各向异性过渡金属配合物的合成与应用研究（国家自然科学基金：21171103，2012.1－2015.12） 5. 高核单分子磁体单元的有序组装与磁性研究（国家自然科学基金：50873053，2009.1",
+   "publications": [
+    {
+     "title": "Juan Yuan, Shu-Qi Wu, Mei-Jiao Liu, Osamu Sato* and Hui-Zhong Kou,* Rhodamine 6G-Labeled Pyridyl Aroylhydrazone Fe(II) Complex Exhibiting Synergetic Spin Crossover and Fluorescence,J. Am. Chem. Soc.,2018, 140, 9426-9433.",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2018
+    },
+    {
+     "title": "Mei-Jiao Liu, Juan Yuan, Jin Tao, Yi-Quan Zhang,* Cai-Ming Liuand Hui-Zhong Kou,* Rhodamine Salicylaldehyde Hydrazone Dy(III) Complexes: Fluorescence and Magnetism, Inorg. Chem., 2018, 57(7), 4061-4069.",
+     "venue": "Inorg. Chem",
+     "year": 2018
+    },
+    {
+     "title": "Xiang Jiangand Hui-Zhong Kou,* Solid state reconstructive phase transition from porous supramolecular networkto porous coordination polymer, Chem. Commun., 2016, 52(14), 2952-2955.",
+     "venue": "Chem. Commun",
+     "year": 2016
+    },
+    {
+     "title": "Kong-Qiu Hu, Xiang Jiang, Shu-Qi Wu, Cai-Ming Liu, Ai-Li Cui and Hui-Zhong Kou,* Slow Magnetization Relaxation in NiIIDyIIIFeIII Molecular Cycles, Inorg. Chem., 2015, 54(4), 1206？1208.",
+     "venue": "Inorg. Chem",
+     "year": 2015
+    },
+    {
+     "title": "Xi Chen, Shu-Qi Wu, Ai-Li Cui and Hui-Zhong Kou*, A cyano-bridged single-chain magnet featuring alternate high- and low-spin manganese(III) porphyrins, Chem. Commun., 2014, 50(17), 2120-2122.",
+     "venue": "Chem. Commun",
+     "year": 2014
+    }
+   ],
+   "homepage": "",
+   "email": "kouhz@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2235.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "梁琼麟",
+   "name_en": "Liang, Qionglin",
+   "title": "长聘教授",
+   "research_area": "药物分析，药品质量与安全，中药现代化",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2735.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "药物分析，药品质量与安全，中药现代化 研究概况 梁琼麟教授以微流控芯片及其与质谱、光谱联用分析技术为基础，发展生命分析与药物分析新方法，开发生物医用新材料新器件，发明器官类器官芯片新模型，致力于服务国家药品质量与安全、新药创制以及中药现代化研究与开发",
+    "重点聚焦于器官类器官芯片、单细胞亚细胞分析及基于质谱的多组学分析等",
+    "曾主持完成国家重大科技专项第一个微流控芯片药物研发关键技术项目，在器官芯片核心关键技术及血管、肝、肾、肠等器官芯片模型研究方面取得重要进展",
+    "入选2020年度教育部“长江学者”特聘教授、2013年度教育部新世纪优秀人才计划与北京高校青年英才计划",
+    "以通讯作者在 Nat. Protoc. , Adv. Mater. , Adv. Sci."
+   ],
+   "focus_areas": [],
+   "summary": "梁琼麟教授以微流控芯片及其与质谱、光谱联用分析技术为基础，发展生命分析与药物分析新方法，开发生物医用新材料新器件，发明器官类器官芯片新模型，致力于服务国家药品质量与安全、新药创制以及中药现代化研究与开发。重点聚焦于器官类器官芯片、单细胞亚细胞分析及基于质谱的多组学分析等。曾主持完成国家重大科技专项第一个微流控芯片药物研发关键技术项目，在器官芯片核心关键技术及血管、肝、肾、肠等器官芯片模型研究方面取得重要进展。入选2020年度教育部“长江学者”特聘教授、2013年度教育部新世纪优秀人才计划与北京高校青年英才计划。以通讯作者在 Nat. Protoc. , Adv. Mater. , Adv. S",
+   "publications": [],
+   "homepage": "",
+   "email": "liangql@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2735.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李必杰",
+   "name_en": "Li, Bijie",
+   "title": "副教授 博士生导师",
+   "research_area": "",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2234.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "金属有机化学 烯烃不对称催化 资源有机电化学 获得奖项： 2017 Thieme Chemistry Journals Award 2019 中国化学会青年化学奖 2020 基金委优秀青年科学基金"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Zhao, W.; Lu, H.-X.; Zhang, W.-W.; Li, B.-J. Acc. Chem. Res. 2023 , 56 , 308.",
+     "venue": "",
+     "year": 2023
+    },
+    {
+     "title": "Sun, X.; Gao, P. C.; Sun, Y. W.; Li, B.-J. J. Am. Chem. Soc. 2024 , 146 , 723.",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2024
+    },
+    {
+     "title": "Zhao, W.; Li, B.-J. J. Am. Chem. Soc. 2023 , 145 , 6861.",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2023
+    },
+    {
+     "title": "Zhang, W.-W.; Li, B.-J. Angew. Chem. Int. Ed. 2023 , 62 , e202214534",
+     "venue": "Angew",
+     "year": 2023
+    },
+    {
+     "title": "Zhao, W.; Chen, K.-Z.; Li, A. Z.; Li, B.-J. J. Am. Chem. Soc. 2022 , 144 , 13071. 地址：北京市海淀区清华大学化学系何添楼 100084 Copyright 2020 清华大学化学系 All Rights Reserved.",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2022
+    }
+   ],
+   "homepage": "",
+   "email": "bijieli@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2234.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李春",
+   "name_en": "",
+   "title": "长聘副教授 博士生导师",
+   "research_area": "二维纳米材料、导电高分子材料",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2233.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "二维纳米材料、导电高分子材料"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "chunli@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2233.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李广涛",
+   "name_en": "Li, Guangtao",
+   "title": "教授",
+   "research_area": "超分子化学与分子组装；胶体与界面化学；纳米材料化学；功能薄膜材料",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2232.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "超分子化学与分子组装",
+    "胶体与界面化学",
+    "纳米材料化学",
+    "功能薄膜材料 研究概况 本"
+   ],
+   "focus_areas": [],
+   "summary": "本",
+   "publications": [
+    {
+     "title": "Yun Liang, Wanlin Zhang, Tian Tian, Wanyue Ouyang, Peng Wang, Shiqiang Wang, Yong Ju*, and Guangtao Li*, Multifunctional Nanoporous Polymer Membranes from Supramolecular Assembly of Block Copolymer with Polymerizable Arginine Derivative. Macromolecules online ( 2020 )",
+     "venue": "Macromolecules",
+     "year": 2020
+    },
+    {
+     "title": "Wanlin Zhang, Yao Li, Yun Liang, Xianpeng Yin, Chengcheng Liu, Shiqiang Wang, Li Tian, Hao Dong and Guangtao Li* Direct Determination of Redox Statuses in Biological Thiols and Disulfides with Noncovalent Interactions of Poly(ionic liquid)s. ACS Appl. Mater. Interfaces 11, 30137-30145 ( 2019 )",
+     "venue": "",
+     "year": 2019
+    },
+    {
+     "title": "Wanlin Zhang, Yao Li, Yun Liang, Ning Gao, Chengcheng Liu, Shiqiang Wang, Xianpeng Yin and Guangtao Li* Poly(ionic liquid)s as a distinct receptor material to create a highly-integrated sensing platform for efficiently identifying numerous saccharides. Chem. Sci. , 10, 6617-6623 ( 2019 )",
+     "venue": "Chem. Sci",
+     "year": 2019
+    },
+    {
+     "title": "Chengcheng Liu, Wanlin Zhang, Yang Zhao, Changxu Lin, Kang Zhou, Yanmei Li and Guangtao Li* Urea-Functionalized Poly(ionic liquid) Photonic Spheres for Visual Identification of Explosives with a Smartphone. ACS Appl. Mater. Interfaces 11, 21078-21085 ( 2019 )",
+     "venue": "",
+     "year": 2019
+    },
+    {
+     "title": "Danjie Li, Lingmei Liu, Lijing Zhang, Shengyang Tao,* Guangtao Li, Yongxian Yu, Xin Liu, Self-Assembly of Nanoparticles in a Modular Fashion to Prepare Multifunctional Catalysts for Cascade Reactions: From Simplicity to Complexity. ACS Omega 4, 1549-1559 ( 2019 )",
+     "venue": "",
+     "year": 2019
+    }
+   ],
+   "homepage": "",
+   "email": "lgt@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2232.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李景虹",
+   "name_en": "Li, Jinghong",
+   "title": "新基石研究员",
+   "research_area": "1. 分析化学、生物分析化学、生物传感 2. 化学生物学与生物化学 3. 单细胞分析化学 4. 电化学环境与能源",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2231.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "1. 分析化学、生物分析化学、生物传感 2. 化学生物学与生物化学 3. 单细胞分析化学 4. 电化学环境与能源"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Fu Li, Shao-Feng Liu, Wangyu Liu, Zhengwei Hou, Jiaxi Jiang, Zhong Fu, Song Wang, Yilong Si, Shaoyong Lu, Hongwei Zhou, Dan Liu, Xiaoli Tian, Hengwei Qiu, Yuchen Yang, Zhengcao Li, Xiaoyan Li, Linhan Lin, Hongbo Sun, Hao Zhang, Jinghong Li, 3D printing of inorganic nanomaterials by photochemically b",
+     "venue": "",
+     "year": null
+    },
+    {
+     "title": "Jinjin Wang, Yuxuan Zhang, Yaru Jia, Haonan Xing, Fengfei Xu, Bozhang Xia, Wenjia Lai, Yuan Yuan, Xianlei Li, Shaobo Shan, Junge Chen, Weisheng Guo, Jinchao Zhang, Aiping Zheng, Jinghong Li, Ningqiang Gong, Xing-Jie Liang, Targeting vaccines to dendritic cells by mimicking the processing and present",
+     "venue": "",
+     "year": null
+    },
+    {
+     "title": "Ting Zhang, Yuxi Wang, Xucong Teng, Ruijie Deng, Jinghong Li, Preamplification-free viral RNA diagnostics with single-nucleotide resolution via a colorimetric nucleic acid test, Nature Protocols , 2024, 19, 3426–3455",
+     "venue": "Nature",
+     "year": 2024
+    },
+    {
+     "title": "Ningqiang Gong, Wenqun Zhong, Mohamad-Gabriel Alameh, Xuexiang Han, Lulu Xue, Rakan El-Mayta, Gan Zhao, Andrew E. Vaughan, Zhiyuan Qin, Fengyuan Xu, Alex G. Hamilton, Dongyoon Kim, Junchao Xu, Junhyong Kim, Xucong Teng, Jinghong Li, Xing-Jie Liang, Drew Weissman, Wei Guo, Michael J. Mitchell, Cancer",
+     "venue": "",
+     "year": null
+    },
+    {
+     "title": "Ying Wang, Longhua Tang, Zhaohui Li, Yuehe Lin, Jinghong Li, In situ simultaneous monitoring of ATP and GTP using graphene oxide nanosheet-based sensing platform in living cells, Nature Protocols , 2014, 9, 1944-1955",
+     "venue": "Nature",
+     "year": 2014
+    }
+   ],
+   "homepage": "",
+   "email": "jhli@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2231.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李隽",
+   "name_en": "Li, Jun",
+   "title": "(Jun Li)",
+   "research_area": "",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2230.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "H. Jiang, J. Zhao, Q. Meng, X.-K. Zhao, M. Guo, H.-S. Hu, J. Li , N. Chen, \"A lanthanide–carbon triple bond stabilized within a fullerene cage\", Nat. Chem. 2025, 17, 1364-1370, DOI: 10.1038/s41557-025-01856-2 .",
+     "venue": "",
+     "year": 2025
+    },
+    {
+     "title": "L.-W. Ye, H.-S. Hu, W. H. E. Schwarz, J. Li , \"Physical Origin and Periodicity of the Highest Oxidation States in Heavy-Element Chemistry\", Acc. Chem. Res. 2025, 58, 1903-1912. DOI: 10.1021/acs.accounts.5c00233.",
+     "venue": "",
+     "year": 2025
+    },
+    {
+     "title": "C.-S. Cao, J. Zhao, H.-S. Hu, W. H. E. Schwarz, J. Li , \"Polyvalent s-block elements: A missing link challenges the periodic law of chemistry for the heavy elements\", Proc. Natl. Acad. Sci. USA 2023, 120, e2303989120, DOI: 10.1073/pnas.2303989120",
+     "venue": "PNAS",
+     "year": 2023
+    },
+    {
+     "title": "X. Hai, Y. Zheng, Q. Yu, N. Guo, S. Xi, X. Zhao, S. Mitchell, X. Luo, V. Tulus, M. Wang, X. Sheng, L. Ren, X. Long, J. Li, P. He, H. Lin, Y. Cui, X. Peng, J. Shi, J. Wu, C. Zhang, R. Zou, G. Guillén-Gosálbez, J. Pérez-Ramírez, M. J. Koh, Y. Zhu, J. Li , J. Lu, \"Geminal-atom catalysis for cross-coupl",
+     "venue": "",
+     "year": null
+    },
+    {
+     "title": "W. L. Li, T. T. Chen, D. H. Xing, X. Chen, J. Li , L. S. Wang, “Observation of Highly Stable and Symmetric Lanthanide Octa-Boron Inverse Sandwich Complexes”, Proc. Natl. Acad. Sci. USA . 2018, 115, E6972-E6977 . 6 . Zhai HJ , Zhao Y , Li WL , Chen Q , Bai H , Hu HS , Piazza ZA , Tian WJ , Lu H , Wu ",
+     "venue": "",
+     "year": 2018
+    }
+   ],
+   "homepage": "http://www.sciencemag.org/content/295/5563/2242.full.html",
+   "email": "junli@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2230.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "林朝阳",
+   "name_en": "Lin Zhaoyang",
+   "title": "副教授",
+   "research_area": "课题组的主要研究方向包括，发展各类半导体、金属、电介质低维纳米晶体的液相合成方法，研究纳米晶体的表面配体化学，并制备一系列可加工的液体墨水材料。通过规模化的旋涂或者打印等方法，将纳米晶体组装成大规模的固体薄膜材料，进一步加工制备柔性的场效应晶体管和存储器等各种半导体电子器件。我们主要关注低维纳米材料在多个领域中的规模化、低成本应用前景。",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2759.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "课题组的主要研究方向包括，发展各类半导体、金属、电介质低维纳米晶体的液相合成方法，研究纳米晶体的表面配体化学，并制备一系列可加工的液体墨水材料",
+    "通过规模化的旋涂或者打印等方法，将纳米晶体组装成大规模的固体薄膜材料，进一步加工制备柔性的场效应晶体管和存储器等各种半导体电子器件",
+    "我们主要关注低维纳米材料在多个领域中的规模化、低成本应用前景"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "J. He, J. Ge, J. Xue, T. Xia, Y. Dai, S. Wang, W. Li, Z. Lin* . Solution-processed wafer-scale indium selenide semiconductor thin films with high mobilities. Nat. Electron. , 2025, 8, 244-253.",
+     "venue": "",
+     "year": 2025
+    },
+    {
+     "title": "S. Wang, W. Li, J. Xue, J. Ge, J. He, J. Hou, Y. Xie, Y. Li, H. Zhang, Z. Sofer, Z. Lin* . A Library of 2D electronic material inks synthesized by liquid-metal-assisted intercalation of crystal powders. Nat. Commun. , 2024, 15, 6388.",
+     "venue": "Nat. Commun",
+     "year": 2024
+    },
+    {
+     "title": "Y. Dai, Q. He, Y. Huang, X. Duan*, Z. Lin* . Solution-processable and printable two-dimensional transition metal dichalcogenide inks. Chem. Rev. , 2024, 124, 5795-5845.",
+     "venue": "Chem. Rev",
+     "year": 2024
+    },
+    {
+     "title": "J. Xue, Y. Dai, S. Wang, J. He, T. Xia, J. Hao, Z. Sofer, Z. Lin* . Solution-processable assembly of 2D semiconductor thin films and superlattices with photoluminescent monolayer inks. Chem , 2024, 10, 1471-1484.",
+     "venue": "",
+     "year": 2024
+    },
+    {
+     "title": "T. L, J. Xue, P. Shen, H. Liu*, X. Gao, X. Li, J. Hao, D. Huang, R. Zhao, J. Yan, M. Yang, B. Yan, P. Gao, Z. Lin* , Y. Yang, T. Ren*. Two-dimensional fully ferroelectric-gated hybrid computing-in-memory hardware for high-precision and energy-efficient dynamic tracking Sci. Adv. , 2024, 10, eadp0174",
+     "venue": "",
+     "year": 2024
+    }
+   ],
+   "homepage": "",
+   "email": "zlin@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2759.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "林金明",
+   "name_en": "Lin, Jinming",
+   "title": "博士、教授、博士生导师",
+   "research_area": "研究方向：生命与环境分析化学 1）微流控芯片质谱联用细胞分析 2）化学发光/荧光免疫分析 3）空气负离子检测与健康评估 4）复杂样品前处理与质谱分析 5）分析新仪器、新设备的开发与研制 （欢迎本系及外单位的师生加盟本研究组。每年接收博士生2名、硕士生1-2名、博士后2-3名、优秀访问学者1－2名。同时接收联合培养研究生） 讲授课程： 1）基础分析化学实验 2）环境分析化学 3）分析化学与现代社会（新生研讨课）",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2224.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "生命与环境分析化学 研究组： http://www.linlab-tsinghua-edu.org 更新日期：2016年10月15日"
+   ],
+   "focus_areas": [],
+   "summary": "林金明，工学博士，分析化学专业。1984年福州大学毕业，1992年在日本昭和大学国际交流基金的资助下前往该大学药学部从事访问研究。1994年获得日本政府奖学金转入东京都立大学攻读博士学位，1997年3月获得工学博士学位，同年留校任教，",
+   "publications": [
+    {
+     "title": "(47), 24929 – 24934. lRuizhi Ning, Shiqi Wang, Jing Wu, Feng Wang * , and Jin-Ming Lin * , ZnO nanowire arrays exhibit cytotoxic distinction to cancer cells with different surface charge density: cytotoxicity is charge-dependent, Small , 2014 , 10(20), 4113-4117. lWu Liu, Niejun Wang, Xuexia Lin, Yu",
+     "venue": "",
+     "year": 2014
+    },
+    {
+     "title": "(15)，7413–7418. l Dan Gao, Hongxia Liu, Jin -Ming Lin*, Yini Wang, Yuyang Jiang*, Characterization of drug permeability in Caco-2 monolayers by mass spectrometry on a membrane-based microfluidic device, Lab Chip , 2013 , 13, 978-985. lChen Luo, Yuan Ma,*, Haifang Li, Fengming Chen, Katsumi Uchiyama,",
+     "venue": "",
+     "year": 2013
+    },
+    {
+     "title": "(7), 1051 – 1053. lSifeng Mao, Dan Gao, Wu Liu, Huibin Wei, Jin-Ming Lin, Imitation of drug metabolism in human liver and cytotoxicity assay using a microfluidic device coupled to mass spectrometric detection, Lab Chip , 2012 , 12(1), 219-226. 地址：北京市海淀区清华大学化学系何添楼 100084 Copyright 2020 清华大学化学系 All Ri",
+     "venue": "",
+     "year": 2012
+    }
+   ],
+   "homepage": "http://www.linlab-tsinghua-edu.org",
+   "email": "jmlin@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2224.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李强",
+   "name_en": "Li, Qiang",
+   "title": "工学博士 教授 博士生导师",
+   "research_area": "主要从事晶体材料与晶体生长，固体与晶体化学，弛豫铁电与反铁电材料合成与晶体生长，新型功能与智能材料的制备等方向研究。",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2229.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "主要从事晶体材料与晶体生长，固体与晶体化学，弛豫铁电与反铁电材料合成与晶体生长，新型功能与智能材料的制备等方向研究"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "N.N. Luo, S.J. Zhang, Q. Li*, Q.F. Yan, W.H. He, Y.L. Zhang, and T.R. Shrout, “PMN-PT based quaternary piezoceramics with enhanced piezoelectricity and temperature stability”, Applied Physics Letters, 2014, 104, 182911",
+     "venue": "",
+     "year": 2014
+    },
+    {
+     "title": "Y.Y. Li, W.W. Cao, Q. Li*，Q.F. Yan，J.H. Gao, F.P. Zhuo, X.Q. Xi, Y.L. Zhang, and X.C. Chu，“Electric field induced metastable ferroelectric phase and its behavior in (Pb,La)(Zr,Sn,Ti)O3 antiferroelectric single crystal near morphotropic phase boundary”, Applied Physics Letters，2014, 104, 052912",
+     "venue": "",
+     "year": 2014
+    },
+    {
+     "title": "H.R. Liu, Q. Li*, Y.Y. Li, N.N. Luo, J.S. Shim, J.H. Gao, Q.F. Yan, Y.L. Zhang, and X.C. Chu, “Structure Evolution and Electrical Properties of Y3+-Doped Ba1–xCaxZr0.07Ti0.93O3 Ceramics”，Journal of the American Ceramic Society, 2014, 97 (7) , 2076–2081",
+     "venue": "",
+     "year": 2014
+    },
+    {
+     "title": "Y.Y. Li, Q. Li*, Q.F. Yan, Y.L. Zhang, X.Q. Xi, X.C. Chu, W.W. Cao, “Phase transitions and domain evolution in (Pb, La)(Zr, Sn, Ti)O3 single crystal,” Applied Physics Letters，2012, 110(13), 132904",
+     "venue": "",
+     "year": 2012
+    },
+    {
+     "title": "N.N. Luo, Q. Li*, Z.G.. Xia, X.C. Chu, “Phase Diagram, Temperature Stability, and Electrical Properties of (0.85-x)Pb(Mg1/3Nb2/3)O3-0.10Pb(Fe1/2Nb1/2)O3-0.05PbZrO3-xPbTiO3 System”, Journal of the American Ceramic Society, 2012, 95(10), 3246-3253",
+     "venue": "",
+     "year": 2012
+    }
+   ],
+   "homepage": "",
+   "email": "qiangli@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2229.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "刘凯",
+   "name_en": "Liu Kai",
+   "title": "长聘教授、博士生导师",
+   "research_area": "",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/3732.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "化学生物学、合成生物学、材料生物制造、生物无机化学 每年招生博士生 1-2 名，常年招聘博士后研究人员，欢迎报考 ! 办公室：生物医学馆 D207 联系邮箱："
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "kailiu@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/3732.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "刘磊",
+   "name_en": "Liu, Lei",
+   "title": "教授、博士生导师",
+   "research_area": "蛋白质化学合成",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2221.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "蛋白质化学合成"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "http://www.liulab-tsinghua.com/",
+   "email": "lliu@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2221.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "刘礼晨",
+   "name_en": "Liu, Lichen",
+   "title": "教授",
+   "research_area": "课题组主要从事多相催化方向的研究，尤其关注固体催化材料（特别是基于分子筛的多孔材料）的可控合成及其在能源和环境领域的应用。在开展基础研究（比如发展新的材料合成手段以及表征方法从而从分子、原子尺度理解 催化剂的工作原理和结构演化行为 ）的同时，将特别关注在工业界有应用潜力的课题，期望能够实现基础研究到工业应用的转化。 课题组招收材料化学、多相催化、表面化学等方向的博士后，有意者请邮件联系。",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2798.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "课题组主要从事多相催化方向的研究，尤其关注固体催化材料（特别是基于分子筛的多孔材料）的可控合成及其在能源和环境领域的应用",
+    "在开展基础研究（比如发展新的材料合成手段以及表征方法从而从分子、原子尺度理解 催化剂的工作原理和结构演化行为 ）的同时，将特别关注在工业界有应用潜力的课题，期望能够实现基础研究到工业应用的转化",
+    "课题组招收材料化学、多相催化、表面化学等方向的博士后，有意者请邮件联系"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "lichenliu@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2798.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "刘强",
+   "name_en": "",
+   "title": "教授、化学系副系主任",
+   "research_area": "金属氢配位化学与催化",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2663.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "金属氢配位化学与催化"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "qiang_liu@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2663.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "刘洋",
+   "name_en": "Liu, Yang",
+   "title": "长聘副教授 博士生导师",
+   "research_area": "生物分析化学，纳米电化学分析与与诊疗 ORCiD: 0000-0003-0042-5183 ResearcherID: K-2505-2012",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2219.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "生物分析化学，纳米电化学分析与与诊疗 ORCiD: 0000-0003-0042-5183 ResearcherID: K-2505-2012"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Wang, H.; Wang, F.; Wu, T.; Liu, Y.* Highly Active Electrochemiluminescence of Ruthenium Complex Co-assembled Chalcogenide Nanoclusters and the Application for Label-Free Detection of Alkaline Phosphatase. Anal. Chem. 2021 , 93 , 15794 – 15801. 5. Li, T.; Liu, Y.* Self-Assembled Nanorods of Phenylbo",
+     "venue": "",
+     "year": 2021
+    }
+   ],
+   "homepage": "",
+   "email": "liu-yang@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2219.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李亚栋",
+   "name_en": "Li, Yadong",
+   "title": "院士",
+   "research_area": "研究方向：纳米材料的合成、组装、结构、性能及其应用探索 主要研究领域：先进功能材料与无机合成化学",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2228.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "研究方向：纳米材料的合成、组装、结构、性能及其应用探索"
+   ],
+   "focus_areas": [],
+   "summary": "讲授的课程： 本科生基础课：无机化学、化学原理 研究生课程：无机合成、固体化学",
+   "publications": [],
+   "homepage": "",
+   "email": "ydli@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2228.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李艳梅",
+   "name_en": "Li, Yanmei",
+   "title": "欢迎点击进入 教授课题组主页",
+   "research_area": "化学合成疫苗 模式识别受体激动剂 新冠等传染性疾病疫苗新型佐剂 蛋白质的化学修饰 修饰蛋白合成 翻译后修饰对神经退行性疾病相关蛋白的影响 退行性疾病相关蛋白沉淀抑制策略",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2227.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "化学合成疫苗 模式识别受体激动剂 新冠等传染性疾病疫苗新型佐剂 蛋白质的化学修饰 修饰蛋白合成 翻译后修饰对神经退行性疾病相关蛋白的影响 退行性疾病相关蛋白沉淀抑制策略 研究概况："
+   ],
+   "focus_areas": [],
+   "summary": "国家重大科学研究计划（973项目）首席科学家，负责多项国家自然科学基金重点项目、国家自然科学基金重大国际合作项目、国家自然科学基金委杰出青年科学基金、国家863项目、国家自然科学基金面上项目、教育部基础研究重点项目等",
+   "publications": [],
+   "homepage": "",
+   "email": "liym@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2227.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李远",
+   "name_en": "Li, Yuan",
+   "title": "副教授",
+   "research_area": "分子电子学，自组装，纳米加工，有机合成",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2226.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "分子电子学，自组装，纳米加工，有机合成"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Chen, X. P. # ; Roemer, M. # ; Yuan, L. ; Wang T.; Jiang, L.; Wang, L. J.; Nijhuis, C. A. Molecular Diodes with Rectification Ratios Exceeding 10 5 Driven by Electrostatic Interactions , Nat. Nanotechnol . 2017 , 12 , 797-803. 3. Yuan, L. # ; Franco, C. # ; Crivillers, N. # ; Mas-Torrent, M.; Cao, L",
+     "venue": "",
+     "year": 2017
+    },
+    {
+     "title": "Nerngchanmnong, N. # ; Yuan, L. # ; Qi, D. C.; Jiang, L.; Thompson, D.; Nijhuis, C. A. The Role of van der Waals Forces in the Performance of Molecular Diodes, Nat. Nanotechnol. 2013 , 8 , 113-118. 地址：北京市海淀区清华大学化学系何添楼 100084 Copyright 2020 清华大学化学系 All Rights Reserved.",
+     "venue": "",
+     "year": 2013
+    }
+   ],
+   "homepage": "http://www.yuanligroupthu.com/",
+   "email": "yuanli_thu@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2226.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "罗三中",
+   "name_en": "",
+   "title": "博士，教授",
+   "research_area": "",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/2218.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "仿生催化，不对称催化，人工智能化学 荣誉与奖励 2017年入选科技部中青年创新领军人才 2017获中国化学会物理有机青年奖 2016获中国化学会手性青年奖 2015获中国科学院青年创新促进会优秀会员 2014年获中国青年五四奖章 2014年获中国科学院化学研究所教学创新奖"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "https://luoszgroup.com/",
+   "email": "luosz@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/2218.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "马超",
+   "name_en": "",
+   "title": "副研究员",
+   "research_area": "化学生物学、生物制造、绿色矿山",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/3733.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "化学生物学、生物制造、绿色矿山 成果小结： 1. 挖掘极端生境资源，构建非模式细胞工厂，实现关键金属绿色开采和高值利用",
+    "2. 在分子层面开展蛋白质理性设计，实现生物杂化材料多级组装和宏量制造",
+    "资助与奖励： 国家自然科学基金委优秀青年科学基金"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "chaoma_chem@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/3733.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "马冬昕",
+   "name_en": "Ma, Dongxin",
+   "title": "准聘副教授",
+   "research_area": "有机发光材料与器件，钙钛矿发光材料与器件",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1095/3112.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "有机发光材料与器件，钙钛矿发光材料与器件"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "dongxinma@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1095/3112.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "彭卿",
+   "name_en": "Peng, Qing",
+   "title": "（Qing PENG） 教授",
+   "research_area": "主要从事无机纳米材料的可控合成、组装、结构与性能等相关领域的科研与教学工作。2013年获杰出青年科学基金资助。2008年获国家自然科学奖二等奖(第3完成人)，2006年获北京市科学技术奖一等奖(第3完成人)，2008年获教育部“新世纪优秀人才支持计划”资助，2008年获清华大学学术新人奖。",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1096/2253.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "主要从事无机纳米材料的可控合成、组装、结构与性能等相关领域的科研与"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "X. Cao, A. J. Huang, C. Liang, H. C. Chen, T. Han, R. Lin, Q. Peng *, Z. W. Zhuang, R. A. Shen, H. M. Chen, Y. Yu, C. Chen*, Y. D. Li*, Engineering Lattice Disorder on a Photocatalyst: Photochromic BiOBr Nanosheets Enhance Activation of Aromatic C-H Bonds via Water Oxidation . J. Am. Chem. Soc. 2022",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2022
+    },
+    {
+     "title": "B. T. Hu, K. A. Sun, Z. W. Zhuang, Z. Chen, S. J. Liu, W. C. Cheong, C. Chen, M. Z. Hu, X. Cao, J. G. Ma, R. Y. Tu, X. S. Zheng, H. Xiao, X. Chen, Y. Cui, Q. Peng *, C. Chen*, Y. D. Li*, Distinct Crystal-Facet-Dependent Behaviors for Single-Atom Palladium-On-Ceria Catalysts: Enhanced Stabilization a",
+     "venue": "",
+     "year": null
+    },
+    {
+     "title": "T. Han, X. Cao, K. A. Sun, Q. Peng *, C. L. Ye, A. J. Huang, W. C. Cheong, Z. Chen, R. Lin, D. Zhao, X. Tan, Z. W. Zhuang, C. Chen*, D. S. Wang, Y. D. Li*, Anion-exchange-mediated internal electric field for boosting photogenerated carrier separation and utilization . Nat. Commun. 2021 , 12, 4952.",
+     "venue": "Nat. Commun",
+     "year": 2021
+    },
+    {
+     "title": "Z. Q. Chen, A. J. Huang, K. Yu, T. T. Cui, Z. W. Zhuang, S. J. Liu*, J. Z. Li, R. Y. Tu, K. A. Sun, X. Tan, J. Q. Zhang, D. Liu, Y. Zhang, P. Jiang, Y. Pan, C. Chen*, Q. Peng *, Y. D. Li, Fe 1 N 4 -O 1 site with axial Fe-O coordination for highly selective CO 2 reduction over a wide potential range.",
+     "venue": "",
+     "year": null
+    },
+    {
+     "title": "Y. G. Chen, S. Zhao, X. Wang, Q. Peng *, R. Lin, Y. Wang, R. A. Shen, X. Cao, L. B. Zhang, G. Zhou*, J. Li, A. D. Xia, Y. D. Li*, Synergetic Integration of Cu 1.94 S-Zn x Cd 1-x S Heteronanorods for Enhanced Visible-Light-Driven Photocatalytic Hydrogen Production. J. Am. Chem. Soc. , 2016 , 138 , 42",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2016
+    }
+   ],
+   "homepage": "",
+   "email": "pengqing@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1096/2253.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "乔娟",
+   "name_en": "",
+   "title": "博士，长聘教授",
+   "research_area": "有机光电材料物理化学，有机发光材料和器件",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1096/2250.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "有机光电材料物理化学，有机发光材料和器件 研究内容 从激发态结构和性质研究入手探索有机发光材料稳定性机理和高效率原理",
+    "主要包括（1）有机光电材料的本征稳定性及其老化机理，特别是蓝光OLED材料的长寿基因及其调控策略",
+    "（2）如何突破能隙定律实现高效近红外有机发光材料的设计开发?（3）新型高效近红外发光材料在显示、光医疗、生物成像等相关领域的应用研究等"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "qjuan@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1096/2250.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "邱新平",
+   "name_en": "Qiu, Xinping",
+   "title": "教授 博士生导师",
+   "research_area": "主要从事锂离子电池、直接醇燃料电池（包括重整制氢）及储能电堆（液流电池）为主的先进化学电源的基础及应用研究，包括新型电池材料、电催化材料、电解质材料、电极反应过程动力学、多孔电极结构、电池的新型表征方法以及新型电池生产工艺等研究方向。",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1096/2251.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "主要从事锂离子电池、直接醇燃料电池（包括重整制氢）及储能电堆（液流电池）为主的先进化学电源的基础及应用研究，包括新型电池材料、电催化材料、电解质材料、电极反应过程动力学、多孔电极结构、电池的新型表征方法以及新型电池生产工艺等研究方向"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "qiuxp@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1096/2251.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "邱勇",
+   "name_en": "Qiu, Yong",
+   "title": "院士",
+   "research_area": "有机光电材料基本问题研究 与无机光电材料相比，有机光电材料还存在许多基本问题有待解决，包括：如何通过分子设计来改善材料的性能，导致材料性能下降的环境因素是什么，如何设计薄膜结构以提升光电性能等。这些基本材料与结构问题的解决是发展高性能有机光电器件的重要基础。 研究了分子结构对发光性质和溶解性的影响，发展了具有高发光效率、良好溶解性的双核金属化合物等新型材料和多种可溶解的新型离子型磷光化合物。应邀在J. Mater. Chem.上撰写了评述文章（Journal of Materials Chemistry 2010, 20, 6392.和2012, 22, 4206.），系统阐述了相关领域的进展。 研究了有机薄膜结构对发光性能、传输性能的影响。提出采用两种不同有机材料交替形成多层膜的方法构建复合空穴传输层，实现了对空穴传输过程的调控。成功采用两种蒽类衍生物的同分异构体构建了有机复合发光层，既改善了材料成膜性，又使发光效率提高了60%以上。 确认了水分子可以吸附在有机半导体晶粒界面，吸附的水分子影响了材料的传输性能。研究了光照对材料传输性能的影响，提出了通过界面修饰改善光稳定性的方案；首次报道了全有机小分子光电耦合器，由于采用全有机薄膜制备工艺，大大降低了光电混合集成的难度。 高效稳定的发光二极管(OLED)研究 OLED是基于有机半导体的固体发光器件，具有自发光、超薄、响应速度快（无拖尾）、耐低温等特点，与传统的阴极射线管显示技术（CRT）、目前的液晶显示技术（LCD）相比具有很多突出的优点。但是，OLED面临发光效率和稳定性等技术瓶颈有待解决。 OLED器件中电子从金属阴极注入到有机层的势垒比较高，导致发光效率低、驱动电压高。针对此问题，提出了利用活泼金属化合物受热分解释放出金属原子，从而降低电子注入势垒的方案，发明了氮化锂、硼氢化钾等新型的可热分解的电子注入材料。与传统电子注入材料相比，不仅改善了发光效率和稳定性，还降低了工艺温度、扩大了金属阴极的选择范围。应邀在国际信息显示学会会刊上发表了阴极材料进展的综述文章。 有机材料的电子迁移率通常低于空穴迁移率，导致电子和空穴的不平衡，从而成为影响发光效率和稳定性的另一关键因素。发展了一种基于萘并噻二唑基团的新型材料作为电子传输层，使电子迁移率提高了两个数量级，实现了电子迁移率和空穴迁移率的平衡，绿光器件的发光效率提高了一倍以上、寿命提高了六倍以上。这种新材料还具有双极性，既能传输电子又能传输空穴，实现电子与空穴用同一种材料传输层，可望实现载流子传输层材料料和性能完全对称。应邀在Adv. Mater.上撰写关于双极性材料的进展报告（Advanced Materials 2011, 23, 1137.），系统阐述了给体受体结构及非给体受体结构设计双极性材料的策略。 OLED通过电子空穴在发光层的复合而实现发光，通常的结构复合区域往往过窄，导致发光淬灭。针对此问题，设计了一种新型的双发光层结构，拓宽了电子空穴复合区域，显著提高了OLED的发光效率和稳定性，发光寿命达15万小时，是当时国内外报道的最高数据。 OLED产业化 OLED在国际上被视为LCD之后最有发展前景的新型显示技术，是国家重点支持的战略新兴产业之一。我国在发展CRT和LCD产业时，走了一条技术引进的道路，导致我国显示产业长期处于被动状态。作为技术总负责人，邱勇致力于基于自主基础研究成果和技术突破实现OLED产业化。 带领团队于2002年建成了国内第一条OLED中试线，发展出了高纯OLED材料的制备工艺技术，有效降低了材料成本，材料纯度达到99.9%以上。开发了导电膜光刻、材料成膜等技术，简化了工艺步骤，解决了大面积有机薄膜均匀性问题。发明了耐高温的材料技术，器件工作温度从70度提高到100度，相关专利获北京市发明专利一等奖。发明了低驱动电压、高效率的透明器件技术，相关专利获中国专利优秀奖。在上述进展的基础上，2008年自主设计并建成国内第一条OLED大规模生产线。该生产线大量采用了自主技术，实现年产量超过1200万个器件，器件亮度、功耗等性能指标优于国外同类产品。产品占据了小尺寸OLED 50%以上的国内市场份额，进入全球产品出货量的前两位。发展出了满足航空航天和野战要求的OLED产品，具备了抗电磁干扰、抗振动、耐冲击、耐盐雾、耐高低温等特性，成功应用于“神七”舱外航天服和电台等军用装备上。将OLED技术应用于航天服在国际上是第一次。",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1096/2252.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "有机光电材料基本问题研究 与无机光电材料相比，有机光电材料还存在许多基本问题有待解决，包括：如何通过分子设计来改善材料的性能，导致材料性能下降的环境因素是什么，如何设计薄膜结构以提升光电性能等",
+    "这些基本材料与结构问题的解决是发展高性能有机光电器件的重要基础",
+    "研究了分子结构对发光性质和溶解性的影响，发展了具有高发光效率、良好溶解性的双核金属化合物等新型材料和多种可溶解的新型离子型磷光化合物",
+    "应邀在J. Mater. Chem.上撰写了评述文章（Journal of Materials Chemistry 2010, 20, 6392.和2012, 22, 4206.），系统阐述了相关领域的进展",
+    "研究了有机薄膜结构对发光性能、传输性能的影响",
+    "提出采用两种不同有机材料交替形成多层膜的方法构建复合空穴传输层，实现了对空穴传输过程的调控"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Ma, D.; Duan, L.*; Wei, Y.; He, L.; Wang, L.; Qiu, Y*. Increased phosphorescent quantum yields of cationic iridium(iii) complexes by wisely controlling the counter anions. Chemical Communications 2014, 50 (5), 530-532",
+     "venue": "",
+     "year": 2014
+    },
+    {
+     "title": "Zhao, Y. L.; Duan, L.*; Dong, G. F.; Zhang, D. Q.; Qiao, J.; Wan, L. D.; Qiu, Y*. High-Performance Transistors Based on Zinc Tin Oxides by Single Spin-Coating Process. Langmuir 2013, 29 (1), 151-157",
+     "venue": "",
+     "year": 2013
+    },
+    {
+     "title": "Zhang, D. D.; Duan, L.*; Zhang, D. Q.; Qiao, J.; Dong, G. F.; Wang, L. D.; Qiu, Y*. Extremely low driving voltage electrophosphorescent green organic light-emitting diodes based on a host material with small singlet-triplet exchange energy without p- or n-doping layer. Organic Electronics 2013, 14 (",
+     "venue": "",
+     "year": 2013
+    },
+    {
+     "title": "Li, H. Y.; Duan, L.*; Sun, Y. D.; Zhang, D. Q.; Wang, L. D.; Qiu, Y*. Study of the Hole and Electron Transport in Amorphous 9,10-Di-(2 '-naphthyl)anthracene: The First-Principles Approach. Journal of Physical Chemistry C 2013, 117 (32), 16336-16342",
+     "venue": "",
+     "year": 2013
+    },
+    {
+     "title": "Hu, T.; He, L.; Duan, L.*; Qiu, Y*.Solid-state light-emitting electrochemical cells based on ionic iridium(III) complexes. Journal of Materials Chemistry 2012, 22 (10), 4206-4215",
+     "venue": "",
+     "year": 2012
+    }
+   ],
+   "homepage": "",
+   "email": "qiuy@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1096/2252.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "曲良体",
+   "name_en": "Qu Liangti",
+   "title": "教授、博士生导师、长江学者特聘教授",
+   "research_area": "先进功能材料、微纳制造、新能源器件 • 先进材料制备（石墨烯、功能高分子、碳纳米材料、智能响应材料） • 微纳制造（分子/纳米级材料设计、纳米化学、电化学、微纳组装、激光微纳制造） • 新能源器件（海水淡化、空气发电、电池/电容器、柔性电子与微纳能源器件）",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1096/2249.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "先进功能材料、微纳制造、新能源器件 • 先进材料制备（石墨烯、功能高分子、碳纳米材料、智能响应材料） • 微纳制造（分子/纳米级材料设计、纳米化学、电化学、微纳组装、激光微纳制造） • 新能源器件（海水淡化、空气发电、电池/电容器、柔性电子与微纳能源器件）"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Chunlong Dai, Linyu Hu, Xuting Jin, Ying Wang, Rui Wang, Yukun Xiao, Xiangyang Li, Xinqun Zhang, Li Song, Yuyang Han, Huhu Cheng, Yang Zhao, Zhipan Zhang*, Feng Liu*, Lan Jiang, Liangti Qu*, “Fast constructing polarity-switchable zinc-bromine microbatteries with high areal energy density”, Sci. Adv ",
+     "venue": "",
+     "year": null
+    }
+   ],
+   "homepage": "",
+   "email": "lqu@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1096/2249.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "陶磊",
+   "name_en": "Tao, Lei",
+   "title": "陶 磊，副教授",
+   "research_area": "高分子合成方法学，基于多组分反应的新型功能高分子，自愈性/自适形水凝胶及其生物应用 欢迎对高分子合成、功能高分子、水凝胶感兴趣的同学加入课题组",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1096/2246.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "高分子合成方法学，基于多组分反应的新型功能高分子，自愈性/自适形水凝胶及其生物应用 欢迎对高分子合成、功能高分子、水凝胶感兴趣的同学加入"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Zeng, Y.; He, X. Z.; Ma, Z. Y.; Gou, Y. Z.; Wei, Y.; Pan, S. Y.; Tao, L.* , Coral-friendly and Nontransdermal Polymeric UV Filter via the Biginelli Reaction for In Vivo UV Protection . Cell Rep. Phys. Sci. 2023 , 4 (3), 101308.",
+     "venue": "",
+     "year": 2023
+    },
+    {
+     "title": "Xu, Z. Y.; Liu, G. Q.; Gao, L. J.; Xu, D.; Wan, H. X.; Dai, X. B.; Zhang, X. Y.; Tao, L. *; Yan *, L. T ., Configurational Entropy-Enabled Thermostability of Cell Membranes in Extremophiles: From Molecular Mechanism to Bioinspired Design. Nano Lett.; 2023 , 23 (3), 1109-1118.",
+     "venue": "Nano Lett",
+     "year": 2023
+    },
+    {
+     "title": "Zeng, Y.; Liu, G. Q.; Lv, T.; He, X. Z.; Wei, Y.; Pan, R. H.; Yang, L.*; Tao, L.* , Antioxidant Polymers via the Ugi Reaction for In Vivo Protection of UV-Induced Oxidative Stress. Chem. Mater. 2022 , 34 (6), 2645–2654.",
+     "venue": "",
+     "year": 2022
+    },
+    {
+     "title": "He, X. Z.; Yang, L.; Liu, G. Q.; Wei, Y.; Zeng, Y.; Tao L. * , Polymer Chelator Prepared via the Kabachnik-Fields Reaction for the In Vivo Prevention of Heavy-Metal Damage. Chem. Mater. 2022 , 34 (21), 9558-9568.",
+     "venue": "",
+     "year": 2022
+    },
+    {
+     "title": "He, X. Z.; Zeng, Y.; Liu, G. Q.; Tian, Y.; Wei, Y.; Zhao, L. Y.; Yang, L.*; Tao, L.* , Magnetic Self-Healing Hydrogel from Difunctional Polymers Prepared via the Kabachnik-Fields Reaction. ACS Macro Lett. 2022, 11 (1), 39-45.",
+     "venue": "",
+     "year": 2022
+    }
+   ],
+   "homepage": "",
+   "email": "leitao@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1096/2246.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "童爱军",
+   "name_en": "Tong, Aijun",
+   "title": "任教授",
+   "research_area": "发展基于荧光探针技术的发光分析新方法，研究生物成像、疾病诊疗及环境监测的应用。",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1096/2245.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "发展基于荧光探针技术的发光分析新方法，研究生物成像、疾病诊疗及环境监测的应用"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Yiwen Ding, Chu Zhang, Min Zhou, Yu Xiang, Aijun Tong *, Hetero-Diels-Alder Cycloaddition Reaction of Vinyl Ethers Enables Selective Fluorescent Labeling of Plasmalogens in Human Plasma Lipids, J. Org. Chem. , 2023, 88(19), 13741-13748.",
+     "venue": "",
+     "year": 2023
+    },
+    {
+     "title": "Chu Zhang, Yiwen Ding, Min Zhou, Yu Xiang, Aijun Tong *, An in Situ, Reversible Fluorescent Paper Sensor for Selective Detection of Ambient CO 2 , J. Mater. Chem.C , 2023, 11(1), 299-306. 3. 张楚 , 梁梓聪 , 童爱军 * , 基于有机小分子聚集体的荧光传感与生物成像（专题论述） , 中国科学（化学） , 2023, 53(8), 1290-1305.",
+     "venue": "",
+     "year": 2023
+    },
+    {
+     "title": "Yue Zheng, Aijun Tong , Chapter 3, Typical AIEgens Design: Salicylaldehyde Schiff Base, Handbook of Aggregation-Induced Emission, Edited by Youhong Tang, Ben Zhong Tang, John Wiley & Sons Ltd., 2022, Volume 2, 53-96.",
+     "venue": "",
+     "year": 2022
+    },
+    {
+     "title": "Yue Zheng, Yiwen Ding, Xiaokun Zheng, Yanli Zhang, Yu Xiang, Aijun Tong *, Long-Term Dynamic Imaging of Cellular Processes Using an AIE Lipid Order Probe in the Dual-Color Mode, Anal. Chem. , 2021, 93(29), 10272-10281. (Cover page, https://pubs.acs.org/toc/ancham/93/29?ref=pdf) 6.Xiaokun Zheng, Wenb",
+     "venue": "",
+     "year": 2021
+    }
+   ],
+   "homepage": "",
+   "email": "tongaj@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1096/2245.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "佟硕",
+   "name_en": "Tong, Shuo",
+   "title": "长聘副教授 博士生导师",
+   "research_area": "有机合成，不对称催化，超分子化学，新奇手性有机拓扑结构的合成、结构与物性",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1096/2244.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "有机合成，不对称催化，超分子化学，新奇手性有机拓扑结构的合成、结构与物性 获得奖项 Thieme Chemistry Journals Award Honored with “Rising Star” in the 21st National Symposium on Macrocyclic Chemistry & the 13th Supramolecular Chemistry Symposium of CCS"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Jiang, Y.-F.; Zhang, Y.; Tong, S. *; Zhu, J.; Wang, M.-X. Inherently Chiral Homo-Heteracalixarenes: Design and Synthesis via Enantioselective Intramolecular Sonogashira Cross-coupling Reaction. Chem. Sci. 2026 , 17 , 1365-1372. 2. Tong S. * Inherently Chiral Macrocycles: Catalytic Asymmetric Synthes",
+     "venue": "Chem. Sci",
+     "year": 2026
+    },
+    {
+     "title": "Han, H. # ; Wang, X.-G. # ; Tong, S. *; Zhu, J.; Wang, M.-X. C 4 -Symmetric Inherently Chiral Macrocycles from Organocatalytic Enantioselective Desymmetrization of Resorcin[4]arenes. ACS Catal. 2025 , 15 , 6018-6024.",
+     "venue": "",
+     "year": 2025
+    },
+    {
+     "title": "Chen, J.-H.; Huang, T.-Y.; Tong, S. *; Wang, M.-X.* N-Doped Zigzag-Type Aromatic Truncated Cone Belts. J. Am. Chem. Soc. 2025 , 147 , 1595-1603.",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2025
+    },
+    {
+     "title": "Peng, Y. # ; Tan, M.-L. # ; Ma, K.-X. # ; Tong, S. *; Wang, M.-X.* Large N-Doped Zigzag Hydrocarbon Belts from Calixarenes: Synthesis, Structure and Properties. Angew. Chem. Int. Ed. 2025 , e202509916.",
+     "venue": "Angew",
+     "year": 2025
+    },
+    {
+     "title": "Jiang, Y.-F.; Tong, S. *; Zhu, J.; Wang, M.-X. Inherently Chiral Nor-Heteracalixarenes: Design and Synthesis via Enantioselective Intramolecular Suzuki-Miyaura Reaction. Chem. Sci. 2024 , 15 , 12517-12522.",
+     "venue": "Chem. Sci",
+     "year": 2024
+    }
+   ],
+   "homepage": "https://mascl.group/shuotong/",
+   "email": "tongshuo@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1096/2244.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王朝",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "1.离子-偶极超分子作用及其力学、电学材料与器件 2.高性能软体机器人 3.可穿戴电子器件",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/3600.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "1.离子-偶极超分子作用及其力学、电学材料与器件 2.高性能软体机器人 3.可穿戴电子器件"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Chen L., Jin Z., Feng W., Sun L., Xu H., Wang C.* , A Hyperelastic Hydrogel with an Ultra-Large Reversible Biaxial Strain, Science 2024 , 383,1455.",
+     "venue": "Science",
+     "year": 2024
+    },
+    {
+     "title": "Feng W.; Sun L.; Jin Z.; Chen L.; Liu Y.; Xu H.; Wang C.* , A large-strain and ultrahigh energy density dielectric elastomer for fast moving soft robot, Nat. Commun. 2024 , 15, 4222.",
+     "venue": "Nat. Commun",
+     "year": 2024
+    },
+    {
+     "title": "Liu Y.; Chen T.; Jin Z.; Li M.; Zhang D.; Duan L.; Zhao Z.; Wang C.* , Tough, stable and self-healing luminescent perovskite-polymer matrix applicable to all harsh aquatic environments, Nat. Commun. 2022 , 13, 1338.",
+     "venue": "Nat. Commun",
+     "year": 2022
+    },
+    {
+     "title": "Li M., Chen L., Li Y., Dai X., Jin Z., Zhang Y., Feng W., Yan L., Cao Y., Wang C.* , Superstretchable, Yet Stiff, Fatigue-Resistant Ligament-Like Elastomers, Nat. Commun. 2022 , 13, 2279. 地址：北京市海淀区清华大学化学系何添楼 100084 Copyright 2020 清华大学化学系 All Rights Reserved.",
+     "venue": "Nat. Commun",
+     "year": 2022
+    }
+   ],
+   "homepage": "",
+   "email": "chaowangthu@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/3600.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王朝晖",
+   "name_en": "",
+   "title": "教授 博士生导师",
+   "research_area": "分子碳的精准创制与应用基础研究",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2331.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "分子碳的精准创制与应用基础研究 部分代表性"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "wangzhaohui@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2331.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王定胜",
+   "name_en": "Wang, Dingsheng",
+   "title": "教授",
+   "research_area": "纳米材料制备与性能 金属纳米催化",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2293.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "纳米材料制备与性能 金属纳米催化"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "wangdingsheng@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2293.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王梅祥",
+   "name_en": "Wang, Meixiang",
+   "title": "院士 教授 博士生导师",
+   "research_area": "",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2669.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "1.全新功能化大环分子杂杯芳烃 (heteracalixaromatics)、冠芳烃(corona[n]arenes) 和锯齿型环带(芳)烃分子 (beltarenes) 的设计与合成、结构与反应、识别与组装 2.阴离子-pi非共价相互作用 3.高价有机铜化学 4.基于叔烯酰胺合成子的有机杂环合成反应方法 5.对映选择性生物催化及在有机合成中的应用"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "wangmx@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2669.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王泉明",
+   "name_en": "",
+   "title": "2015- 清华大学化学系，教授，博导",
+   "research_area": "金属团簇化学",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2290.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "金属团簇化学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Zong-Jie Guan, Jiu-Lian Zeng, Zi-Ang Nan, Xian-Kai Wan, Yu-Mei Lin,* and Quan-Ming Wang* , Thiacalix[4]arene : New Protection for Metal Nanoclusters, Sci. Adv. 2016; 2 : e1600323.",
+     "venue": "",
+     "year": 2016
+    },
+    {
+     "title": "Chloride-Promoted Formation of a Bimetallic Nanocluster Au80Ag30 and the Total Structure Determination, Jiu-Lian Zeng, Zong-Jie Guan, Yang Du, Zi-Ang Nan, Yu-Mei Lin,* and Quan-Ming Wang *, J. Am. Chem. Soc . 2016, 138 , 7848-7851.",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2016
+    },
+    {
+     "title": "Yu Wang, Xian-Kai Wan, Liting Ren, Haifeng Su, Gang Li, Sami Malola, Shuichao Lin, Zichao Tang, Hannu Hakkinen, Boon K. Teo, Quan-Ming Wang ,* and Nanfeng Zheng*, Atomically Precise Alkynyl-Protected Metal Nanoclusters as a Model Catalyst: Observation of Promoting Effect of Surface Ligands on Cataly",
+     "venue": "",
+     "year": null
+    },
+    {
+     "title": "Xian-Kai Wan, Wen Wu Xu, Shang-Fu Yuan, Yi Gao,* Xiao-Cheng Zeng, and Quan-Ming Wang *, Near Infrared Emissive Alkynyl-Protected Au 24 Nanocluster, Angew. Chem. Int. Ed . , 2015, 54 , 9683-9686.",
+     "venue": "Angew",
+     "year": 2015
+    },
+    {
+     "title": "Xian-Kai Wan, Shang-Fu Yuan, Qing Tang, De-en Jiang,* and Quan-Ming Wang *, Alkynyl-Protected Au 23 Nanocluster: A 12-Electron System, Angew. Chem. Int. Ed . , 2015, 54 , 5977-5980.",
+     "venue": "Angew",
+     "year": 2015
+    }
+   ],
+   "homepage": "http://wangqmlab.org.cn/index.asp",
+   "email": "qmwang@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2290.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王歆燕",
+   "name_en": "Wang, Xinyan",
+   "title": "博士，副研究员",
+   "research_area": "有机合成 不对称合成 含氮杂环的合成方法学研究",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2287.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "有机合成 不对称合成 含氮杂环的合成方法学研究"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Li H , Shan L, Liu C , Liu N, Liu C , Wang X,* Hu, Y, * Chemospecific C3- and C2-Olefinations of Isatins by TfOH-Promoted Tandem Aldol-Grob and Semiacetalization-Grob Fragmentations, Organic Letters , 2023, 25, 4656-4660.",
+     "venue": "",
+     "year": 2023
+    },
+    {
+     "title": "Shan L, Li H , Zheng W , Wang X, Wang X,* Hu, Y, * Tandem Synthesis of 2 ‑ Azaspiro[4.5]deca-1,6,9-trien-8-ones Based on Tf 2 O ‑ Promoted Activation of N ‑ (2-Propyn-1-yl) Amides, Journal of Organic Chemistry , 2023, 88, 525-533.",
+     "venue": "",
+     "year": 2023
+    },
+    {
+     "title": "Shan L, Li H , Zheng W , Wang X, Wang X,* Hu, Y, * Mechanistic Insights into Tf 2 O ‑ Promoted Electrophilic Activation of 2 ‑ Propynamides and a New Synthesis of 2,4-Disubstituted Quinolines, Organic Letters , 2022, 24, 8806-8811.",
+     "venue": "",
+     "year": 2022
+    },
+    {
+     "title": "Shan L, Weng Y, Li H , Min L, Wang X,* Hu, Y, * Bischler−Napieralski Synthesis of Polycyclic N ‑Heteroaromatics Based on Tf 2 O‑Promoted Electrophilic Activation of N ‑Aryl-2-Propynamides, Journal of Organic Chemistry , 2022, 87, 4124-4133.",
+     "venue": "",
+     "year": 2022
+    },
+    {
+     "title": "Shan L, Li H , Min L, Weng Y, Wang X,* Hu, Y, * Bischler−Napieralski Synthesis of 6‑Alkynyl Phenanthridines Based on Tf 2 O‑Promoted Electrophilic Activation of N ‑Aryl-2-propynamides, Journal of Organic Chemistry , 2021, 86, 15726-15732.",
+     "venue": "",
+     "year": 2021
+    }
+   ],
+   "homepage": "https://apps.webofknowledge.com/OneClickSearch.do?product=UA&search_mode=OneClickSearch&excludeEventConfig=ExcludeIfFromFullRecPage&SID=N2zfoHGJzq2kkjLjaxe&field=AU&value=Liu,%20CL",
+   "email": "wangxinyan@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2287.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王训",
+   "name_en": "Wang, Xun",
+   "title": "教授 博士生导师",
+   "research_area": "功能纳米材料控制合成、组装及性能研究",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2286.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "功能纳米材料控制合成、组装及性能研究"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "http://thuwangxungroup.com",
+   "email": "wangxun@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2286.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王治强",
+   "name_en": "Wang, Zhiqiang",
+   "title": "教授",
+   "research_area": "",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2285.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "wangzhiqiang@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2285.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "危岩",
+   "name_en": "Wei, Yen",
+   "title": "教授 博士生导师",
+   "research_area": "",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2284.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "高分子和纳米材料及其在生命科学、生物医学及能源技术中的应用",
+    "研究概况 危岩教授的"
+   ],
+   "focus_areas": [],
+   "summary": "危岩教授的",
+   "publications": [
+    {
+     "title": "Sep 2011 . 497. Chang-Jian Weng, Yu-Sian Jhuo, Chi-Hao Chang, Chun-Fang Feng, Chi-Wei Peng, Chung-Feng Dai, Jui-Ming Yeh and Yen Wei(Tsinghua Univ.), “A smart surface prepared using the switchable superhydrophobicity of neat electrospun intrinsically electroactive polyimide fiber mats”, Soft Matter ",
+     "venue": "",
+     "year": 2011
+    },
+    {
+     "title": "Laboratory of Physical Biology,Shanghai Institute of Applied Physics, CAS, Shanghai 201800, China Toxicology Research (a new RSC journal), Vol.1, pp. 62-68, 2012. DOI: 10.1039/C2TX20006F,Received 20 Jan 2012, Accepted 06 Apr 2012, First published on the web 16 Apr 2012. 509. Ligui Li, Linhui Ferng,Y",
+     "venue": "",
+     "year": 2018
+    }
+   ],
+   "homepage": "http://www.tandfonline.com/toc/tbsp20/current",
+   "email": "weiyen@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2284.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "魏永革",
+   "name_en": "Wei, Yongge",
+   "title": "博士 教授 博士生导师",
+   "research_area": "多酸的合成、结构与化学修饰 多酸有机衍生物化学 多酸纳米簇的可控分子组装与超分子自组装 多酸促进的碳氢键直接官能团化 多酸基有机/无机杂化的分子材料",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2278.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "多酸的合成、结构与化学修饰 多酸有机衍生物化学 多酸纳米簇的可控分子组装与超分子自组装 多酸促进的碳氢键直接官能团化 多酸基有机/无机杂化的分子材料 研究概况"
+   ],
+   "focus_areas": [],
+   "summary": "研究领域与兴趣： 多酸的合成、结构与化学修饰 多酸有机衍生物化学 多酸纳米簇的可控分子组装与超分子自组装 多酸促进的碳氢键直接官能团化 多酸基有机/无机杂化的分子材料 目前主要致力于多酸的化学修饰及相应衍生物的反应化学与可控组装，设计合成具有特定功能的新奇纳米结构分子与超分子系统，为制备新颖磁性及光电活性的有机/无机杂化的分子材料奠定基础。",
+   "publications": [],
+   "homepage": "",
+   "email": "yonggewei@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2278.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "尉志武",
+   "name_en": "Yu, Zhiwu",
+   "title": "博士，教授，博导",
+   "research_area": "",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2267.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2267.htm"
+   ],
+   "confidence": "coarse",
+   "verified": false
+  },
+  {
+   "name": "向宇",
+   "name_en": "Xiang, Yu",
+   "title": "副教授",
+   "research_area": "核酸硫化学，可控基因编辑，蛋白互作共价抑制剂 研究概况 向宇课题组致力于核酸硫化学修饰新方法的开发，以此构建（1）基于化学修饰短链核酸的可控基因编辑系统、（2）蛋白互作共价短链核酸抑制剂的体外筛选技术，并（3）研究高等生物细胞内RNA硫代磷酸二酯的存在与潜在功能。 研究小组主页（英文）： https://xiang-lab.com",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2275.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "核酸硫化学，可控基因编辑，蛋白互作共价抑制剂 研究概况 向宇"
+   ],
+   "focus_areas": [],
+   "summary": "向宇",
+   "publications": [
+    {
+     "title": "Liu, R.#; Jiang, D. F.#; Yun, Y. F.; Feng, Z.; Zheng, F. F.*; Xiang, Y.* ; Fan, H. H.; Zhang, J. J.*, Photoactivatable Engineering of CRISPR/Cas9-Inducible DNAzyme Probe for In Situ Imaging of Nuclear Zinc Ions. Angewandte Chemie-International Edition , 2024 , 63, e202315536",
+     "venue": "Angew",
+     "year": 2024
+    },
+    {
+     "title": "Qin Z. C. #; Zhang K. N. #; He P.; Zhang X.; Xie M.; Fu Y. C.; Gu C. M.; Zhu Y. Y.; Tong A. J.; Wei H. P.; Zhang C.; Xiang Y.* , Discovering Covalent Inhibitors of Protein-Protein Interactions from Trillions of Sulfur(VI) Fluoride Exchange-Modified Oligonucleotides. Nature Chemistry , 2023 , 15, 170",
+     "venue": "Nature",
+     "year": 2023
+    },
+    {
+     "title": "Shang, J. C.; He, L.; Wang, J. Y.; Tong, A. J.; Xiang, Y.* , In Situ Visualizing Nascent mRNA by DNA-Templated Oxidative Amination of 4-Thiouridine. Bioconjugate Chemistry , 2022 , 33 , 164-171.",
+     "venue": "",
+     "year": 2022
+    },
+    {
+     "title": "Gu C. M.; Xiao, L.; Shang, J. C.; Xu, X.; He, L.; Xiang, Y.* , Chemical Synthesis of Stimuli-Responsive Guide RNA for Conditional Control of CRISPR-Cas9 Gene Editing. Chemical Science , 2021 , 12 , 9934-9945.",
+     "venue": "Science",
+     "year": 2021
+    },
+    {
+     "title": "Wang, J. Y.; Shang, J. C.; Qin, Z. C.; Tong, A. J.; Xiang, Y.* , Selective and Sensitive Fluorescence \"Turn-On\" Detection of 4-Thiouridine in Nucleic Acids via Oxidative Amination. Chemical Communications 2019 , 55 , 13096-13099.",
+     "venue": "",
+     "year": 2019
+    }
+   ],
+   "homepage": "https://xiang-lab.com",
+   "email": "xiang-yu@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2275.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "肖海",
+   "name_en": "Xiao, Hai",
+   "title": "副教授",
+   "research_area": "理论与计算化学，多相催化理论，电化学界面，数据驱动的化学理论涌现与构建",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2274.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "理论与计算化学，多相催化理论，电化学界面，数据驱动的化学理论涌现与构建"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "haixiao@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2274.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "瑕瑜",
+   "name_en": "Xia Yu",
+   "title": "教授",
+   "research_area": "生物大分子质谱，气相离子化学，脂质组学",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2276.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "生物大分子质谱，气相离子化学，脂质组学 研究概况 瑕瑜教授团队发展了一系列基于自由基化学的生物质谱方法，推动了质谱对生物大分子化学结构的深度解析能力",
+    "代表性工作包括建立了对脂质组精细结构鉴定和异构体定量方法，在本领域重要期刊"
+   ],
+   "focus_areas": [],
+   "summary": "瑕瑜教授团队发展了一系列基于自由基化学的生物质谱方法，推动了质谱对生物大分子化学结构的深度解析能力。代表性工作包括建立了对脂质组精细结构鉴定和异构体定量方法，在本领域重要期刊",
+   "publications": [
+    {
+     "title": "X. Zhao, J. Liang, Z. Chen, Y. Wang, Z. Guo, W. Zhang, H. Yin, Y. Xia *, “ sn -1 Specificity of Lysophosphatidylcholine Acyltransferase-1 Revealed by a Mass Spectrometry-based Assay”, Angew. Chem. Int. Ed., 2023 , 62, e202215556",
+     "venue": "Angew",
+     "year": 2023
+    },
+    {
+     "title": "W. Zhang, R. Jian, J. Zhao, Y. Liu, Y. Xia *, “Deep-lipidotyping by mass spectrometry: recent technical advances and applications”, J. Lipid Res., 2022 , 63,100219",
+     "venue": "",
+     "year": 2022
+    },
+    {
+     "title": "X. Ma, W. Zhang, Z. Li, Y. Xia *, Z. Ouyang*, “Enabling High Structural Specificity to Lipidomics by Coupling Photochemical Derivatization with Tandem Mass Spectrometry”, Acc. Chem. Res., 2021 , 54, 3873–3882",
+     "venue": "",
+     "year": 2021
+    },
+    {
+     "title": "X. Yang, L. Zhang, Y. Xia *, “Photochemical Disulfide-ene Modification Enhances Protein Sequencing and Disulfide Mapping by Mass Spectrometry”, Anal. Chem., 2021 , 93, 15231-15235",
+     "venue": "",
+     "year": 2021
+    },
+    {
+     "title": "S. Adhikari, R. Crehuet, J.M. Anglada*, J.S. Francisco*, Y. Xia *, “Two-Step Reaction Mechanism Reveals New Antioxidant Capability of Cysteine Disulfides against Hydroxyl Radical Attack”, Proc. Natl. Acad. Sci. USA, 2020 , 117, 18216-18223",
+     "venue": "",
+     "year": 2020
+    }
+   ],
+   "homepage": "https://www.labxing.com/yuxia",
+   "email": "xiayu@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2276.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "席婵娟",
+   "name_en": "Xi, Chanjuan",
+   "title": "博士，教授、博士生导师",
+   "research_area": "1.金属有机化合物的设计合成及其诱导的有机合成方法学研究 2.廉价过渡金属催化杂环化合物的合成方法学研究 3.二氧化碳的活化与转化",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2277.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "1.金属有机化合物的设计合成及其诱导的有机合成方法学研究 2.廉价过渡金属催化杂环化合物的合成方法学研究 3.二氧化碳的活化与转化 部分近期"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "cjxi@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2277.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "谢肖",
+   "name_en": "",
+   "title": "助理教授",
+   "research_area": "课题组融合化学、生物学、人工智能和医学等多学科方法，解析生命体系的空间组织规律及信号传递机制，开发精准调控策略，并探索其在重大疾病研究与干预中的应用。",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/3748.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Li, K., # Xie, X. , # Gao, R. # Chen, Z., Yang, M., Wen, Z., Weng, Y., Fan, X., Zhang, G., Liu, L., Zeng, X., Han, Y., Cao, M., Wang, X., Li, J., Yang, Z., Li, T., Chen, P. R.* “Spatiotemporal Protein Interactome Profiling through Condensation-enhanced Photocrosslinking”. Nat. Chem. 2025, 17, 111. 3",
+     "venue": "",
+     "year": 2025
+    }
+   ],
+   "homepage": "",
+   "email": "xiaoxie@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/3748.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "徐柏庆",
+   "name_en": "Xu, Boqing",
+   "title": "教授",
+   "research_area": "研究领域：多相催化化学； 主要学术兴趣：可持续发展学术领域的催化物理化学。",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2273.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "研究领域：多相催化化学",
+    "主要学术兴趣：可持续发展学术领域的催化物理化学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "B. Yan, L.-Z. Tao, A. Mahmood, Y. Liang, and B.-Q. Xu, Potassium-ion-exchanged zeolites for sustainable production of acrylic acid by gas-phase dehydration of lactic acid, ACS Catalysis 2017, 7, 538-550.",
+     "venue": "",
+     "year": 2017
+    },
+    {
+     "title": "Z.-K. Gao, Y.-C. Hong, Z. Hu, B.-Q. Xu*, Transfer hydrogenation of cinnamaldehyde with 2-propanol on Al 2 O 3 and SiO 2 -Al 2 O 3 catalysts: Role of Lewis and Br？nsted Acidic sites, Catalysis Science & Technology 2017, 7, 4511-4518.",
+     "venue": "Science",
+     "year": 2017
+    },
+    {
+     "title": "L.-L. Shen, G.-R. Zhang, S. Miao, J. Liu, and B.-Q. Xu, Core-shell nanostructured Au@NimPt 2 electrocatalysts with enhanced activity and durability for oxygen reduction reaction, ACS Catalysis 2016, 6, 1680-1690.",
+     "venue": "",
+     "year": 2016
+    },
+    {
+     "title": "S.-S. Liu, K.-Q. Sun, and B.-Q. Xu, Specific selectivity of Au-catalyzed oxidation of glycerol and other C3-polyols in water without the presence of a base, ACS Catalysis 2014, 4, 2226-2230.",
+     "venue": "",
+     "year": 2014
+    },
+    {
+     "title": "R.-Y. Zhong, K.-Q. Sun, Y.-C. Hong, and B.-Q. Xu, Impacts of organic stabilizers on catalysis of Au nanoparticles from colloidal preparation, ACS Catalysis 2014, 4, 3982-3993.",
+     "venue": "",
+     "year": 2014
+    }
+   ],
+   "homepage": "",
+   "email": "bqxu@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2273.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "许华平",
+   "name_en": "Xu, Huaping",
+   "title": "教授",
+   "research_area": "含硒/碲高分子 研究组主页： http://xuslab.com",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2271.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "含硒/碲高分子 研究组主页： http://xuslab.com"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Zhang, Y.; He, C.; Xu, H.* : Functional Heteroatom Substituted Hyperbranched Polymers: Recent Developments and Perspectives. ACS Appl. Mater. Interfaces, 2025 , 17 , 13324.",
+     "venue": "",
+     "year": 2025
+    },
+    {
+     "title": "Zhang, S.; Lu, Y.; Song, J.; Guan, J.; Dai, Y.; Cao, W.*; Xu, H.* : Assembly Regulates Gamma Radiation Polymerization of Polytelluoxane. Angew. Chem. Int. Ed . 2025 , 64 , e202415811.",
+     "venue": "Angew",
+     "year": 2025
+    },
+    {
+     "title": "Liu, C.; Xianyu, B.; He, C.; Cao, M.; Chen, Z.; Li, T.; Xu, H.* : Intracellular Construction of Topological Polymer Networks to Destruct Organelles. CCS Chem. 2025 , 7 , 403.",
+     "venue": "",
+     "year": 2025
+    },
+    {
+     "title": "Han, Y.; Liu, C.; Yin, S.; Cui, J.; Sun, Y.; Xue, B.; Jiang, C.; Gu, X.; Qin, M.; Wang, W.; Xu, H.* ; Cao, Y.*: Dynamic Diselenide Hydrogels for Controlled Tumor Organoid Culture and Dendritic Cell Vaccination. ACS Appl. Mater. Interfaces, 2024 , 16 , 69114.",
+     "venue": "",
+     "year": 2024
+    },
+    {
+     "title": "Liu, M.; Bu, F.; Li, G.; Xie, W.*; Xu, H.* ; Wang, X.*: S-Se-S type molecule: A bactericidal promoter against H 2 S-induced antibiotic resistance. The Innovation Life 2024 , 2 , 100076.",
+     "venue": "",
+     "year": 2024
+    }
+   ],
+   "homepage": "https://www.chinesechemsoc.org/doi/10.31635/ccschem.022.202201874",
+   "email": "xuhuaping@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2271.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "徐江飞",
+   "name_en": "Xu, Jiangfei",
+   "title": "助理研究员、副研究员",
+   "research_area": "超分子光化学，超分子聚合物",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2272.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "超分子光化学，超分子聚合物"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "xujf@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2272.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "杨杰",
+   "name_en": "Yang, Jie",
+   "title": "长聘副教授 博士生导师",
+   "research_area": "",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2859.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "https://jieyanglab.com/",
+   "email": "jieyang1@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2859.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "杨金东",
+   "name_en": "",
+   "title": "副研究员",
+   "research_area": "研究兴趣：化学键能量学、键能的应用、反应机理研究。",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2270.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "研究兴趣：化学键能量学、键能的应用、反应机理研究"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Yang, J.-D.; Cheng, J.-P. * ; et al . Internet Bond-energy Databank (p K a and BDE)- i BonD: http://ibond.nankai.edu.cn . 2. Xue, J.; Zhang, Y.-S.; Huan, Z.; Luo, H.-T.; Dong, L.; Yang, J.-D. * ; Cheng, J.-P., Phosphonium-Catalyzed Monoreduction of Bisphosphine Dioxides: Origin of Selectivity and Sy",
+     "venue": "",
+     "year": null
+    },
+    {
+     "title": "Xue, J.; Zhang, Y.-S.; Huan, Z.; Yang, J.-D. * ; Cheng, J.-P., Deoxygenation of Phosphine Oxides by P III /P V =O Redox Catalysis via Successive Isodesmic Reactions. J. Am. Chem. Soc. 2023 , 145 , 15589–15599. 4. Zhang, W.; Luo, H.-T.; Yang, J.-D. * , Breakthrough in phosphonylation of alkyl radical",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2023
+    },
+    {
+     "title": "Wu, J.-Y.; Mo, B.-R.; Yang, J.-D. * ; Cheng, J.-P. * , A Distinctive Pattern for Substituent Effects on Transition Metal Centers: Enhanced Electron-Donating Capacity of Cationic Palladium Species. CCS Chem. 2022, 5 , 1163-1175.",
+     "venue": "",
+     "year": 2022
+    },
+    {
+     "title": "Zhang, J.; Yang, J.-D. * ; Cheng, J.-P. * , Chemoselective catalytic hydrodefluorination of trifluoromethylalkenes towards mono-/gem-di-fluoroalkenes under metal-free conditions. Nat. Commun. 2021 , 12 , 2835.",
+     "venue": "Nat. Commun",
+     "year": 2021
+    },
+    {
+     "title": "Zhang, J.; Yang, J.-D. * ; Cheng, J.-P. * , Recent progress in reactivity study and synthetic application of N-heterocyclic phosphorus hydrides. Natl. Sci. Rev. 2021 , 8 , nwaa253.",
+     "venue": "",
+     "year": 2021
+    }
+   ],
+   "homepage": "",
+   "email": "jdyang@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2270.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "杨忠强",
+   "name_en": "Yang, Zhongqiang",
+   "title": "副教授",
+   "research_area": "液晶材料的成型加工及其在驱动器、人工肌肉和柔性机器人等领域的应用。 课题组网页： https://www.x-mol.com/groups/zyang Orcid ID: 0000-0002-9399-4424",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2269.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "液晶材料的成型加工及其在驱动器、人工肌肉和柔性机器人等领域的应用"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "J. Ma, Z. Yang * Smart Liquid Crystal Elastomer Fibers. Matter 2025 , 8 , 101950.",
+     "venue": "",
+     "year": 2025
+    },
+    {
+     "title": "W. Liao, Z. Chen, J. Ma, Z. Yang * Liquid Crystal Elastomer Soft Pneumatic Actuators. Chin. J. Liq. Cryst. Displays 2025 , 40 , 13-25.",
+     "venue": "",
+     "year": 2025
+    },
+    {
+     "title": "J. Ma, Z. Yang * Chiral Liquid Crystal Elastomers Advance Light Modulation. Light Sci. Appl. 2024 , 13 , 205.",
+     "venue": "",
+     "year": 2024
+    },
+    {
+     "title": "X. Zhang, † W. Liao, † C. Zhu, Z. Yang * In Situ Programmable Electrothermal Actuation of Liquid Crystal Elastomer Fibers Assisted by Microfluidics. ACS Appl. Poly. Mater. 2024 , 6 , 11050-11056.",
+     "venue": "",
+     "year": 2024
+    },
+    {
+     "title": "J. Ma, Y. Wang, J. Sun, Z. Yang * Liquid Crystal Elastomer Hollow Fibers as Artificial Muscles with Large and Rapid Actuation Enabled by Thermal-Pneumatic Enhanced Effect. Adv. Funct. Mater. 2024 , 34 , 2402403.",
+     "venue": "",
+     "year": 2024
+    }
+   ],
+   "homepage": "",
+   "email": "zyang@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2269.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "严清峰",
+   "name_en": "Yan, Qingfeng",
+   "title": "副教授",
+   "research_area": "晶体材料、材料化学",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2268.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "晶体材料、材料化学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "yanqf@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2268.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "袁金颖",
+   "name_en": "Yuan, Jinying",
+   "title": "博士 教授 博士生导师",
+   "research_area": "主要研究领域：高分子合成的新方法、活性/可控聚合、智能响应高分子、有机-无机纳米杂化材料、功能涂层",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2266.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "主要研究领域：高分子合成的新方法、活性/可控聚合、智能响应高分子、有机-无机纳米杂化材料、功能涂层 研究概况 (1)高分子合成方法学与各种特定结构功能聚合物的可控合成 (2)智能响应高分子体系的构建 (3) 基于聚合诱导组装的聚合物纳米材料：合成、形貌调控与功能应用 (4) AI for Science 方面：运用人工智能探索高分子合成与材料应用 (5) 量子点光谱传感技术与应用 (6) 合成生物学：环糊精合成及衍生物及高附加值产品"
+   ],
+   "focus_areas": [],
+   "summary": "(1)高分子合成方法学与各种特定结构功能聚合物的可控合成 (2)智能响应高分子体系的构建 (3) 基于聚合诱导组装的聚合物纳米材料：合成、形貌调控与功能应用 (4) AI for Science 方面：运用人工智能探索高分子合成与材料应用 (5) 量子点光谱传感技术与应用 (6) 合成生物学：环糊精合成及衍生物及高附加值产品 (7) 化学仿生和生物模拟材料 (8) 天然高分子的改性与应用",
+   "publications": [
+    {
+     "title": "Mingxin Zheng, Qiquan Ye, Xi Chen, Min Zeng, Guangjie Song, Jun Zhang and Jinying Yuan*, In-situ generation and evolution of polymer toroids by liquid crystallization-assisted seeded dispersion polymerization, Chem. Commun. , 2022, 58, 6922-6925 5.Zhilong Liang, Zhiwei Li, Shuo Zhou, Yiwen Sun, Jiny",
+     "venue": "Chem. Commun",
+     "year": 2022
+    },
+    {
+     "title": "Dan Li, Xi Chen, Min Zeng, Jinzhao Ji, Yun Wang, Zhenzhong Yang* and Jinying Yuan*, Synthesis of ABn-type colloidal molecules by polymerization-induced particle-assembly (PIPA), Chem. Sci . , 2020, 11(10) , 2855-2860. 7. Huo, Meng; Song, Guangjie; Zhang, Jun; Wei, Yen; Yuan, Jinying*, Non-spherical ",
+     "venue": "Chem. Sci",
+     "year": 2020
+    },
+    {
+     "title": "(9), 3308–3314 9. Meng Huo, Ziyang Xu, Min Zeng, Pengyu Chen, Lei Liu, Litang Yan*, Yen Wei*, Jinying Yuan * , Controlling vesicular size via topological engineering of amphiphilic polymer in polymerization-induced self-assembly, Macromolecules , 2017, 50(24), 9750-9759 10. Xi Chen, Lei Liu, Meng Hu",
+     "venue": "Macromolecules",
+     "year": 2017
+    },
+    {
+     "title": "Qiang Yan, Jun Hu, Rong Zhou, Yong Ju, Yingwu Yin, Jinying Yuan *, Visible light-responsive micelles formed from dialkoxyanthracene-containing block copolymer, Chem. Commun. , 2012, 48 (13), 1913 - 1915",
+     "venue": "Chem. Commun",
+     "year": 2012
+    },
+    {
+     "title": "Qiang Yan, Rong Zhou, Changkui Fu, Huijuan Zhang, Yingwu Yin, and Jinying Yuan* ， CO 2 -responsive polymeric vesicles that breath , Angew. Chem. Int. Ed. , 2011, 50(21), 4923-4927",
+     "venue": "Angew",
+     "year": 2011
+    }
+   ],
+   "homepage": "",
+   "email": "yuanjy@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2266.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "喻国灿",
+   "name_en": "Yu, Guocan",
+   "title": "副教授",
+   "research_area": "课题组主要从事新型载体材料的设计及药物/基因递送系统的开发。研究聚焦于化学、材料、生物与医学的交叉领域，围绕生命科学与临床医学中的重要科学问题，开发前沿生物技术、智能生物材料与器件，为疾病的精准治疗及药物研发提供新方法。",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2844.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "课题组主要从事新型载体材料的设计及药物/基因递送系统的开发",
+    "研究聚焦于化学、材料、生物与医学的交叉领域，围绕生命科学与临床医学中的重要科学问题，开发前沿生物技术、智能生物材料与器件，为疾病的精准治疗及药物研发提供新方法"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "guocanyu@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2844.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张东东",
+   "name_en": "",
+   "title": "助理研究员",
+   "research_area": "新一代有机发光材料的开发及有机发光二极管器件的研究",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2332.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "新一代有机发光材料的开发及有机发光二极管器件的研究"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Zeng, X.; Wang, L.; Dai, H.; Huang, T.; Du, M.; Wang, D.; Zhang, D.*; Duan, L*. Orbital Symmetry Engineering in Fused Polycyclic Heteroaromatics toward Extremely Narrowband Green Emissions with an FWHM of 13nm. Advanced materials (Deerfield Beach, Fla.) 2023, e2211316-e2211316.",
+     "venue": "",
+     "year": 2023
+    },
+    {
+     "title": "Zhang, C.; Zhang, D.*; Bin, Z.; Liu, Z.; Zhang, Y.; Lee, H.; Kwon, J. H.; Duan, L.* Color-Tunable All-Fluorescent White Organic Light-Emitting Diodes with a High External Quantum Efficiency Over 30% and Extended Device Lifetime. Advanced Materials 2022, 34.",
+     "venue": "",
+     "year": 2022
+    },
+    {
+     "title": "Zeng, X.; Wang, X.; Zhang, Y.; Meng, G.; Wei, J.; Liu, Z.; Jia, X.; Li, G.; Duan, L.*; Zhang, D.* Nitrogen-Embedded Multi-Resonance Heteroaromatics with Prolonged Homogeneous Hexatomic Rings. Angewandte Chemie-International Edition 2022, 61.",
+     "venue": "Angew",
+     "year": 2022
+    },
+    {
+     "title": "Yin, C.; Zhang, Y.; Huang, T.; Liu, Z.; Duan, L.; Zhang, D.* Highly efficient and nearly roll-off-free electrofluorescent devices via multiple sensitizations. Science Advances 2022, 8.",
+     "venue": "Science",
+     "year": 2022
+    },
+    {
+     "title": "Wang, X.; Zhang, Y.; Dai, H.; Li, G.; Liu, M.; Meng, G.; Zeng, X.; Huang, T.; Wang, L.; Peng, Q.; Yang, D.; Ma, D.; Zhang, D.*; Duan, L.* Mesityl-Functionalized Multi-Resonance Organoboron Delayed Fluorescent Frameworks with Wide-Range Color Tunability for Narrowband OLEDs. Angewandte Chemie-Interna",
+     "venue": "Angew",
+     "year": null
+    }
+   ],
+   "homepage": "",
+   "email": "ddzhang@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2332.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张昊",
+   "name_en": "Zhang Hao",
+   "title": "副教授， 博士生导师",
+   "research_area": "纳米材料2D图案化与3D打印 柔性分析化学传感器",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2265.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "纳米材料2D图案化与3D打印 柔性分析化学传感器",
+   "publications": [
+    {
+     "title": "Li F # , Liu S-F # , Liu W # , Hou Z-W, Jiang J, Fu Z, Wang S, Si Y, Lu S, Zhou H, Liu D, Tian X, Qiu H, Yang Y, Li Z, Li X, Lin L * , Sun H-B * , Zhang H * , Li J * . 3D Printing of Inorganic Nanomaterials by Photochemically Bonding Colloidal Nanocrystals. Science , 2023, 381, 1468−1474.",
+     "venue": "Science",
+     "year": 2023
+    },
+    {
+     "title": "Fu Z # , Musolino SF # , Qing W # , Li H, de Zwart FJ, Zheng Z, Cai M, Gao Y, de Briun B, Dai X, Wulff J E*, Zhang H* . Direct Photopatterning of Colloidal Quantum Dots with Electronically Optimized Diazirine Crosslinkers. J. Am. Chem. Soc. , 2024, 146, 28895 − 28905.",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2024
+    },
+    {
+     "title": "Tian X, Li W, Li F, Cai M, Si Y, Tang H, Li H, Zhang H* . Direct Photopatterning of Zeolitic Imidazolate Frameworks via Photoinduced Fluorination. Angew. Chem. Int. Ed . , 2025, 64, e202500476.",
+     "venue": "Angew",
+     "year": 2025
+    },
+    {
+     "title": "Tian X, Li F, Tang Z, Wang S, Weng K, Liu D, Lu S, Liu W, Fu Z, Li W, Qiu H, Tu M, Zhang H* , Li J. Crosslinking-Induced Patterning of MOFs by Direct Photo- and Electron-Beam Lithography. Nat. Commun. , 2024, 15, 2920.",
+     "venue": "Nat. Commun",
+     "year": 2024
+    },
+    {
+     "title": "Lu S # , Fu Z # , Li F, Weng K, Zhou L, Zhang L, Yang Y, Qiu H, Liu D, Qing W, Ding H, Sheng X, Chen M, Tang X, Duan L, Liu W, Wu L, Yang Y, Zhang H * , Li J, Beyond a Linker: The Role of Photochemistry of Crosslinkers in the Direct Optical Patterning of Colloidal Nanocrystals. Angew. Chem. Int. Ed.",
+     "venue": "Angew",
+     "year": null
+    }
+   ],
+   "homepage": "",
+   "email": "hzhangchem@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2265.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张洪杰",
+   "name_en": "",
+   "title": "院士",
+   "research_area": "无机化学，无机固体化学与材料科学；无机生物材料技术与应用",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/3734.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "无机化学，无机固体化学与材料科学",
+    "无机生物材料技术与应用 研究概况 长期致力于无机功能材料的研究，以材料的结构与功能关系为研究重点，致力于解决影响学科发展的关键科学和技术问题，发展了系列材料制备的新方法和技术",
+    "并将基础、高技术及应用研究有机结合，研制出的无机新材料已成功应用于交流LED照明、智慧农业补光和育种灯、儿童护眼灯、无毒无害环保着色剂、航天航空高超风洞测温、金属镁合金汽车零部件等领域，满足了国家的战略需求",
+    "发表学术论文700多篇，被他人引用60000多次，获授权发明专利150项",
+    "以第一完成人获得国家自然科学二等奖、中科院杰出科技成就奖、吉林省特殊贡献奖（吉林省最高奖）、吉林省科学技术发明一等奖、吉林省科技进步一等奖、香港“求是”基金会杰出青年学者奖、澳大利亚金袋鼠世界创新奖、卢嘉锡化学奖等奖项"
+   ],
+   "focus_areas": [],
+   "summary": "长期致力于无机功能材料的研究，以材料的结构与功能关系为研究重点，致力于解决影响学科发展的关键科学和技术问题，发展了系列材料制备的新方法和技术。并将基础、高技术及应用研究有机结合，研制出的无机新材料已成功应用于交流LED照明、智慧农业补光和育种灯、儿童护眼灯、无毒无害环保着色剂、航天航空高超风洞测温、金属镁合金汽车零部件等领域，满足了国家的战略需求。发表学术论文700多篇，被他人引用60000多次，获授权发明专利150项。以第一完成人获得国家自然科学二等奖、中科院杰出科技成就奖、吉林省特殊贡献奖（吉林省最高奖）、吉林省科学技术发明一等奖、吉林省科技进步一等奖、香港“求是”基金会杰出青年学者奖、澳",
+   "publications": [
+    {
+     "title": "Liu, Y., Zhao, H., Niu, R., Zhang B., Bi, S., Song, S., Wang, Y. H. *, Zhang , H. J. * , Zhao, Y. L.*, Defective Single-Site Nanozymes with Exposed Unsaturated Cu–N 2 Sites for Antitumor Immunotherapy via Innate Immune-Checkpoint Blockade, J. Am. Chem. Soc 2026, 148 (9): 9277-9295.",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2026
+    },
+    {
+     "title": "Du, P., Lei, P. P.*, Zheng, J., Liu, S., Dong J., An, R.*, Zhang , H. J. * , A General Synthesis Strategy for Alkali Metal Halide Nanosalts, J. Am. Chem. Soc 2025, 147 (45): 41443-41451.",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2025
+    },
+    {
+     "title": "Liu, Y., Zhao, H., Niu, R., Zhang B., Lim, B. T. G., Song, S., Wang, Y. h.*, Zhang , H. J. * , Zhao, Y. L.*, Single-site nanozyme with exposed unsaturated Cu-O2 sites for tumor therapy by coordinating innate immunity and vasculature normalization, C hem . 2025, 11 (2): 102297.",
+     "venue": "",
+     "year": 2025
+    },
+    {
+     "title": "Wen, D., Feng, J.*, Deng, R., Li, K.*, Zhang , H. J. * , Zn/Pt dual-site single-atom driven difunctional superimposition-augmented sonosensitizer for sonodynamic therapy boosted ferroptosis of cancer, N at. C ommun. 2024, 15 (1): 9359.",
+     "venue": "",
+     "year": 2024
+    },
+    {
+     "title": "Wu, X., Wang, X.*, Zhang, L., Wang, X., Song, S. Y.*, Zhang , H. J. * , Polyethylene Upgrading to Liquid Fuels Boosted by Atomic Ce Promoters, Angew. Chem. Int. Ed. 2024, 63 (8): 2317594.",
+     "venue": "Angew",
+     "year": 2024
+    }
+   ],
+   "homepage": "",
+   "email": "hjzhang2019@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/3734.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "章名田",
+   "name_en": "",
+   "title": "长聘副教授",
+   "research_area": "",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2335.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "1. 仿生催化：小分子（H2O、 O2、 CO2等）的活化与转化 2. 物理有机化学：质子耦合电子转移反应机理及应用 3. 金属有机化学与配位化学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "mtzhang@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2335.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张韶光",
+   "name_en": "Zhang, Shaoguang",
+   "title": "副教授 博士生导师",
+   "research_area": "金属有机化学、元素有机化学、有机合成化学 课题组招收金属有机化学、有机合成、计算有机化学方向的博士后与研究助理，有意者请邮件联系。",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2259.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "金属有机化学、元素有机化学、有机合成化学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Chen, L.; Zhang, S. * Dicationic Tetrylene Ligands Modulate Pt 0 π-Acid Catalysis. Angew. Chem. Novit accepted. (Preprint: ChemRxiv 2026 . DOI: https://chemrxiv.org/doi/full/10.26434/chemrxiv.10001982/v1 )",
+     "venue": "Angew",
+     "year": 2026
+    },
+    {
+     "title": "Liu, X.; Zhang, S. * Metal−Alkane σ-Complexes: Synthesis, Characterization, Isolation, Bonding and C−H Activation. Coord. Chem. Rev. accepted. (Review)",
+     "venue": "Chem. Rev",
+     "year": null
+    },
+    {
+     "title": "Cao, C. # ; Zhang, Y. # ; Wang, Q. # ; Gao, R.; Chen, L.; Zhang, S. * A Crystalline Iron Complex Stabilizing a Bent, Doubly Reduced Pyrazine. Submitted. (Preprint: ChemRxiv 2026 . DOI: https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000238/v2 )",
+     "venue": "",
+     "year": 2026
+    },
+    {
+     "title": "Li, Z.; Gao, R.; Zhang, S. * Ruthenium-Mediated Phospha-Buchner Ring Expansion: Phosphorus Insertion into a Pendant Arene. Chem. Commun. 2026 , doi: 10.1039/D6CC01946C.",
+     "venue": "Chem. Commun",
+     "year": 2026
+    },
+    {
+     "title": "Cao, C. # ; Li, Z. # ; Wang, Q. # ; Zhang, S. * A Planar N,P -Heteroindeno[1,2- b ]fluorene as Phosphine-stabilized Pyrazine Dication. Organometallics, 2026, 45 , 940–944.",
+     "venue": "",
+     "year": 2026
+    }
+   ],
+   "homepage": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.10001982/v1",
+   "email": "sgzhang@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2259.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张四纯",
+   "name_en": "Zhang, Sichun",
+   "title": "教授",
+   "research_area": "主要从事光谱/质谱分析的方法、仪器和应用研究。近年来的研究工作聚焦于单细胞代谢物质谱分析。",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2263.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "主要从事光谱/质谱分析的方法、仪器和应用研究",
+    "近年来的研究工作聚焦于单细胞代谢物质谱分析"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "sczhang@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2263.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张希",
+   "name_en": "Zhang, Xi",
+   "title": "院士",
+   "research_area": "超分子 聚合物 ； 超两亲分子；超分子化疗；超分子自由基 。",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2261.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "超分子 聚合物",
+    "超两亲分子",
+    "超分子化疗",
+    "超分子自由基",
+    "研究概况 超分子聚合新方法 超分子聚合物是一类由单体通过非共价键连接而成的，有别于传统共价键连接的聚合物",
+    "由于其具备动态可逆，自修复，易降解等独特的性质，近年来日益引起广泛地关注，并已逐渐发展成为高分子科学的重要分支"
+   ],
+   "focus_areas": [],
+   "summary": "超分子聚合新方法 超分子聚合物是一类由单体通过非共价键连接而成的，有别于传统共价键连接的聚合物。由于其具备动态可逆，自修复，易降解等独特的性质，近年来日益引起广泛地关注，并已逐渐发展成为高分子科学的重要分支。 我们致力于发展新的超分子聚合驱动力以及可控超分子聚合的新方法。近年来，我们引入主体增强相互作用作为新的聚合推动力，报道了一系列基于葫芦脲 [8] 的超分子聚合物。通过合理并巧妙地设计客体分子结构，例如设计ABBA型单体，引入大位阻连接基元等，有效抑制了二聚和环化效应，成功实现在稀溶液中制备高聚合度的超分子聚合物。 在此基础上，我们提出了可控多步自组装的策略实现超分子聚合物的可控制备。例如",
+   "publications": [
+    {
+     "title": "Tough and Multi-Recyclable Cross-Linked Supramolecular Polyureas via Incorporating Noncovalent Bonds into Main-Chains, Adv. Mater., 2020, 32, 2000096. 3 . Charge-Reversal Surfactant Antibiotic Material for Reducing Microbial Corrosion in Petroleum Exploitation and Transportation, Sci. Adv., 2020, 6,",
+     "venue": "Adv. Mater",
+     "year": 2020
+    },
+    {
+     "title": "A Supramolecular Radical Dimer: High-Efficiency NIR-II Photothermal Conversion and Therapy, Angew. Chem. Int. Ed., 2019, 58, 15526-15531.",
+     "venue": "Angew",
+     "year": 2019
+    },
+    {
+     "title": "Dissipative Supramolecular Polymerization Powered by Light, CCS Chem., 2019, 1, 335-342. 6. Supramolecularly Catalyzed Polymerization: From Consecutive Dimerization to Polymerization, Angew. Chem. Int. Ed., 2018, 57, 8545-8549.",
+     "venue": "Angew",
+     "year": 2019
+    },
+    {
+     "title": "Supramolecular Radical Anions Triggered by Bacteria in situ for Selective Photothermal Therapy, Angew. Chem. Int. Ed., 2017, 56, 16239-16242.",
+     "venue": "Angew",
+     "year": 2017
+    },
+    {
+     "title": "Supramolecular Interfacial Polymerization: A Controllable Method of Fabricating Supramolecular Polymeric Materials, Angew. Chem. Int. Ed., 2017, 56, 7639-7643.",
+     "venue": "Angew",
+     "year": 2017
+    }
+   ],
+   "homepage": "http://zhangxigroup.com/",
+   "email": "xi@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2261.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张莹莹",
+   "name_en": "Zhang, Yingying",
+   "title": "教授 博士生导师",
+   "research_area": "纳米碳材料与丝蛋白材料的制备、性能与应用 柔性可穿戴器件及其在生命健康和信息领域的应用 功能纤维与智能织物的设计、制备与应用 讲授课程：物理化学(1)；物理化学B",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2260.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "纳米碳材料与丝蛋白材料的制备、性能与应用 柔性可穿戴器件及其在生命健康和信息领域的应用 功能纤维与智能织物的设计、制备与应用 讲授课程：物理化学(1)",
+    "物理化学B"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "H. M. Wang, Y. Zhang, X. P. Liang, Y. Y. Zhang*. Smart Fibers and Textiles for Personal Health Management. ACS Nano 2021, 15, 12497-12508.",
+     "venue": "ACS Nano",
+     "year": 2021
+    },
+    {
+     "title": "X. P. Liang, H. F. Li, J. X. Dou, Q. Wang, W. Y. He, C. Y. Wang, D. H. Li, J. M. Lin, and Y. Y. Zhang*.Stable and Biocompatible Carbon Nanotube Ink Mediated by Silk Protein for Printed Electronics. Advanced Materials 2020, 32, 31, 2000165.",
+     "venue": "",
+     "year": 2020
+    },
+    {
+     "title": "M. C. Zhang, R Guo, K Chen, Y. L. Wang, J. L. Niu, Y. B. Guo, Y. Zhang, Z. Yin, K. L. Xia, B. H. Zhou, H. M. Wang, W. Y. He, J. Liu, Metin Sitti and Y. Y. Zhang*. Microribbons composed of directionally self-assembled nanoflakes as highly stretchable ionic neural electrodes. PNAS 2020, 117, 26, 14667",
+     "venue": "PNAS",
+     "year": 2020
+    },
+    {
+     "title": "H. M. Wang, S. Li, Y. L. Wang, H. M. Wang, X. Y. Shen, M. C. Zhang, H. J. Lu, M. S. He*, Y. Y. Zhang*. Bioinspired Fluffy Fabric with In Situ Grown Carbon Nanotubes for Ultrasensitive Wearable Airflow Sensor. Advanced Materials 2020, 32, 11, 1908214.",
+     "venue": "",
+     "year": 2020
+    },
+    {
+     "title": "H. M. Wang, H. M. Wang, Y. L. Wang, X. Y. Su, C. Y. Wang, M. C. Zhang, M. Q. Jian, K. L. Xia, X. P. Liang, H. J. Lu, S. Li, Y. Y. Zhang*. Laser-Writing of Janus Graphene/Kevlar Textile for Intelligent Protective Clothing. ACS Nano 2020, 14, 3, 3219-3226.",
+     "venue": "ACS Nano",
+     "year": 2020
+    }
+   ],
+   "homepage": "http://www.yyzhanggroup.com",
+   "email": "yingyingzhang@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2260.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "赵亮",
+   "name_en": "Zhao, Liang",
+   "title": "亮 教授",
+   "research_area": "",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2258.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "1. 有机金属簇合物的可控合成与反应性质研究",
+    "2. 手性金属簇合成及其应用研究",
+    "3. 金属簇超分子组装与簇基功能材料制备（金属簇前药、发光材料、催化剂等）",
+    "奖励及人才项目： 1. 教育部“新世纪优秀人才支持计划”（2012年） 2. 中国化学会青年化学奖 （2013年） 3. 教育部 “长江学者”奖励计划（青年学者）（2016年） 4. 全国大环芳烃超分子化学学术新星奖（2019年）"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zhaolchem@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2258.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "赵玉芬",
+   "name_en": "Zhao, Yufen",
+   "title": "教授",
+   "research_area": "生命有机磷化学、生物有机化学、有机合成化学,生命起源",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2257.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "生命有机磷化学、生物有机化学、有机合成化学,生命起源"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "药物化学，发明了合成抗癌药三尖杉酯碱母核的新方法。开发了一系列无毒的抗血吸虫新化合物。",
+     "venue": "",
+     "year": null
+    },
+    {
+     "title": "RNA及DNA的切割剂，发现了磷酰化组氨酸的饱和溶液可以切割RNA及DNA；切割机理是与生物化学中水解磷酸二酯键一样，正与美国俄亥俄大学合作核酸定点切割试剂的研究。",
+     "venue": "",
+     "year": null
+    },
+    {
+     "title": "N－磷酰氨基酸自催化作用：N－磷酰氨基酸可以自身组装成多肽，并将核苷磷酰化为核苷酸。因此，N－磷酰氨基酸可以在一锅反应中同时生成肽库；核酸库，及肽－核酸复合库。",
+     "venue": "",
+     "year": null
+    },
+    {
+     "title": "生命起源：磷酰氨基酸能同时生成核酸及蛋白，又能生成LB－膜及脂质体。因此，它是生命进化的最小系统。 作为课题负责人，负责完成多项国家自然科学基金重点项目，杰出青年基金，国家教委优秀人才基金等科研项目。曾获中科院科技进步二等奖、三等奖、首届中国青年科学家奖、国家教委科技进步二等奖2 项，在国际、国内刊物上发表高水平论文近200篇。 代表性论文目录:",
+     "venue": "",
+     "year": null
+    },
+    {
+     "title": "Xin Chen, Nan-Jiang Zhang and Yu-Fen Zhao, Bioorganic Chemistry, 1997, 25, 23-31, “Reaction Kinetics of Oxyphosphoranes with Model Compounds of Nucleosides”",
+     "venue": "",
+     "year": 1997
+    }
+   ],
+   "homepage": "",
+   "email": "",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2257.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "周群",
+   "name_en": "Zhou, Qun",
+   "title": "年清华大学化学系，讲师",
+   "research_area": "分子振动光谱法、二维相关光谱法、振动光谱图像等在复杂混合物体系中的应用，包括离子液体与纤维素凝胶、病原微生物的快速检测、中药和食品的宏观质量控制、文物鉴定等。",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2256.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "分子振动光谱法、二维相关光谱法、振动光谱图像等在复杂混合物体系中的应用，包括离子液体与纤维素凝胶、病原微生物的快速检测、中药和食品的宏观质量控制、文物鉴定等"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zhouqun@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2256.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "周子晖",
+   "name_en": "Zihui Zhou",
+   "title": "清华大学，化学系，助理教授",
+   "research_area": "共价有机框架材料（COFs）、空气二氧化碳直接捕集（DAC）、面向材料和化学研究的机器人与人工智能平台（AIMATRY）",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/3751.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "共价有机框架材料（COFs）、空气二氧化碳直接捕集（DAC）、面向材料和化学研究的机器人与人工智能平台（AIMATRY）"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zihuizhou@tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/3751.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "朱永法",
+   "name_en": "",
+   "title": "理学博士，教授",
+   "research_area": "（1） 光催化材料及其在环境净化和CO 2 资源化应用研究 通过探索纳米结构复合氧化物光催化新材料提高光催化活性以及拓展可见光的响应范围。通过表面杂化作用，提高光催化剂的活性以及耐光腐蚀性能，同时产生可见光活性。探索表面缺陷对光催化活性提高以及产生可见光活性的内在规律。利用光催化材料对室内空气中有机物的污染和微生物污染进行净化研究。探索光催化材料在光解水制氢以及CO 2 光还原资源化方面的规律和机制。 （2） 吸附-催化燃烧工业废气的净化研究 探索非贵金属催化燃烧催化剂，通过纳米结构的控制合成，提高其低温活性以及稳定性。并利用吸附作用和催化燃烧的联用技术，解决工业废气的净化难题。 （3） 室内空气的净化研究 利用高活性光催化材料，通过在各种基材上形成多孔膜，提高光催化的净化性能，开展了室内空气净化的研究。探索多孔和单层g-C 3 N 4 的可控合成，通过与半导体光催化剂的杂化，探索提高可见光活性的新途径，并应用于室内自然光下的空气净化研究。",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/info/1097/2255.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [
+    "（1） 光催化材料及其在环境净化和CO 2 资源化应用研究 通过探索纳米结构复合氧化物光催化新材料提高光催化活性以及拓展可见光的响应范围",
+    "通过表面杂化作用，提高光催化剂的活性以及耐光腐蚀性能，同时产生可见光活性",
+    "探索表面缺陷对光催化活性提高以及产生可见光活性的内在规律",
+    "利用光催化材料对室内空气中有机物的污染和微生物污染进行净化研究",
+    "探索光催化材料在光解水制氢以及CO 2 光还原资源化方面的规律和机制",
+    "（2） 吸附-催化燃烧工业废气的净化研究 探索非贵金属催化燃烧催化剂，通过纳米结构的控制合成，提高其低温活性以及稳定性"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "(2010) 295–298 分析化学 2 Yajun Wang, Rui Shi, Jie Lin, and Yongfa Zhu* ， Significant photocatalytic enhancement of TiO 2 photocatalysts via graphene-like carbon in-situ hybridization ， Applied Catalysis B: Environmental ， 100 (2010) 179–183 光催化 3 Rui Shi; Yajun Wang; Di Li; Jing Xu; Yongfa Zhu* ， Synth",
+     "venue": "",
+     "year": 2010
+    },
+    {
+     "title": "(2010) 138-146 光催化 7 Hao Zhang and Yongfa Zhu* ， Significant Visible Photoactivity and Antiphotocorrosion Performance of CdS Photocatalysts after Monolayer Polyaniline Hybridization ， J. Phys. Chem. C 2010, 114, 5822–5826 光催化 8 Rui Shi, Jie Lin, Yajun Wang, Jing Xu, and Yongfa Zhu* ， Visible-Light P",
+     "venue": "",
+     "year": 2010
+    },
+    {
+     "title": "(2010) 267–275 环境催化 10 ZONG WeiZheng， ZHU YongFa* ， Preparation of Single Chamber Solid Oxide Fuel Cell by Co-Pressing and Direct Forming Process , Acta Phys.Chim. Sin. , 2010, 26(4)：827-832 能源化学 11 W Wu Xiao-Qin, Zong Rui-Long,Mu Hao-Jie, Zhu Yong-Fa* ， Cataluminescence Performance on Catalysts of ",
+     "venue": "",
+     "year": 2010
+    },
+    {
+     "title": "March 2008 , Pages 1119-1124 环境催化 12 FEI TENG, Li Wang, Yongfa Zhu* ; Controllable hiberarchy Nanostructures with Mesopores by a Facile “Framework-Template in situ” Process ; Colloid and Surface A . 312 (2008) 39–46 环境催化 13 Hongbo Fu, Shicheng Zhang, Liwu Zhang, Yongfa Zhu* ， Visible–light–driven Na",
+     "venue": "",
+     "year": 2008
+    },
+    {
+     "title": "September 2008 , Pages 761-768 环境催化 19 Fei Teng, Wenqing Yao, Youfei Zheng, Yutao Ma, Tongguang Xu, Guizhi Gao, Shuhui Liang, Yang Teng, Yongfa Zhu* , F acile synthesis of hollow Co 3 O 4 microspheres and its use as a rapid responsive CL sensor of combustible gases , Talanta , Volume 76, Issue 5 ,",
+     "venue": "",
+     "year": 2008
+    }
+   ],
+   "homepage": "http://166.111.28.118/myweb/pub/pubnew/2010-APCATB-Controllable%20Synthesis%20of%20Bi2MoO6%20and%20Effect%20of%20morphology%20and%20Variation%20in%20Local%20Structure%20on%20Photocatalytic%20Activities.pdf",
+   "email": "zhuyf@mail.tsinghua.edu.cn",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/info/1097/2255.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "帅志刚",
+   "name_en": "Shuai, Zhigang",
+   "title": "",
+   "research_area": "",
+   "profile_url": "https://www.chem.tsinghua.edu.cn/szdw/jcrc.htm",
+   "department": "化学系",
+   "school": "清华大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "",
+   "sources": [
+    "https://www.chem.tsinghua.edu.cn/szdw/jcrc.htm"
+   ],
+   "confidence": "coarse",
+   "verified": false
+  }
+ ]
+}

@@ -1,0 +1,2629 @@
+{
+  "school": "南开大学",
+  "source_urls": [
+    "https://chem.nankai.edu.cn/hxx/main.htm",
+    "https://chem.nankai.edu.cn/yss/main.htm",
+    "https://chem.nankai.edu.cn/gfzs/main.htm",
+    "https://chem.nankai.edu.cn/yhs/main.htm",
+    "https://chem.nankai.edu.cn/fxkxzx/main.htm",
+    "https://chem.nankai.edu.cn/nygczx/main.htm"
+  ],
+  "professors": [
+    {
+      "name": "乔里恩 阿伦斯",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24382a377532/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "蔡康",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24382a477297/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "柴玉超",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24382a377916/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "李娜",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24382a567144/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "苏乃强",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24382a377920/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "周劲媛",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/1019/c24382a567175/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "卜显和",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a387521/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "陈湧",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a379480/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "程鹏",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a379482/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "郭东升",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a379458/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "韩杰",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a379743/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "贺峥杰",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a379479/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "李立存",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a379336/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "李兰冬",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a472834/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "李鑫",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a379453/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "刘育",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a363359/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "马建功",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a379733/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "邱晓航",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a379340/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "尚贞锋",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a378982/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "师唯",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a378981/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "宋礼成",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a386823/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "孙宏伟",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a378977/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "唐良富",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a378974/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "王佰全",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a378973/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "王贵昌",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a378227/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "许秀芳",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a378164/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "张振杰",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a377938/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "武光军",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a379801/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "张衡益",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a378159/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "张守民",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a378133/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "张瀛溟",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a376964/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "赵斌",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a378144/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "朱晓晴",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24383a377950/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "段文勇",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24384a379785/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "顾文",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24384a379734/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "李博",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24384a537040/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "李滨",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24384a379741/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "李庆山",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24384a379736/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "李瑞芳",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24384a379735/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "李悦",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24384a379719/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "马越",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24384a379730/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "庞美丽",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24384a379726/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "田金磊",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24384a379709/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "王庆伦",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24384a379604/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "王淑荣",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24384a379608/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "徐航",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24384a530157/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "朱宝林",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24384a378976/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "刘乃汇",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24445a378978/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "秦斌",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24445a543940/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "任红霞",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24445a379799/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "沈荣欣",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24445a379800/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "丁飞",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24404a379836/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "南晶",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24404a379822/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "欧阳砥",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24404a379816/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "王丽华",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24404a379832/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "王旭东",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24404a387725/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "王彦美",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24404a379821/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "张瑞红",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24404a379834/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "樊玲",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24405a379902/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "冯占恒",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24405a379903/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "郭淼",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24405a379910/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "李芳",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24405a379905/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "李琰",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24405a379906/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "王京",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24405a379907/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "温志慧",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24405a379817/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "武云丽",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24405a379909/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "张业云",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24405a379911/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "祁雪",
+      "name_en": "",
+      "title": "初级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24406a567220/page.htm",
+      "department": "化学系"
+    },
+    {
+      "name": "曹婵",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24385a375723/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "邓军",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24385a377447/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "李茂霖",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24385a387755/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "刘天飞",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24385a377311/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "仇友爱",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24385a386822/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "孙画婳",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24385a477681/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "王浩",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24385a504598/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "王飞",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24385a387756/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "肖力军",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/0908/c24385a392147/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "杨景翔",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/1019/c24385a404745/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "杨茵",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24385a377765/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "苑玉杰",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/1019/c24385a594524/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "陈弓",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a585027/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "陈莉",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a572686/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "陈悦",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377760/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "崔春明",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377757/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "范志金",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377706/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "何刚",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377393/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "何良年",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377449/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "黄有",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377951/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "孔祥蕾",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377707/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "李建峰",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377944/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "李靖",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377763/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "李玉新",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377954/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "苗志伟",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377729/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "莫贞波",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a595297/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "彭谦",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a564046/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "渠瑾",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a378214/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "苏循成",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377721/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "汤平平",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a387754/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "汪清民",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377715/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "王建国",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a572687/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "王良",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a572688/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "王晓晨",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a387758/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "王小野",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a595304/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "王忠文",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377766/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "谢建华",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377941/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "席真",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377394/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "玄元虎",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a530285/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "徐凤波",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377312/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "徐效华",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377957/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "叶萌春",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377731/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "尉迟之光",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/1019/c24386a592508/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "张弛",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a378375/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "赵东兵",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a564047/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "赵卫光",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a378221/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "郑健禺",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377477/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "中村荣一",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377768/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "周传政",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377762/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "周其林",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377726/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "周正洪",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377939/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "朱守非",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a378220/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "资伟伟",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377759/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "邹小毛",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24386a377475/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "陈文彬",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24387a377730/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "丁亚辉",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/0817/c24387a386298/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "樊超",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24387a554438/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "胡方中",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24387a377727/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "李华斌",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24387a565831/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "李静",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24387a378216/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "刘玉秀",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24387a377942/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "栾玉新",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24387a377764/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "柳凌艳",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24387a377770/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "卢亚欣",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24387a377758/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "牛聪伟",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24387a378217/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "宋海斌",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24387a377952/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "王宝雷",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24387a377953/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "王有名",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24387a377767/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "王志宏",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24387a377722/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "许寒",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24387a565037/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "朱里昭",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24387a562413/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "朱义州",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24387a377450/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "黄明耀",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c36789a565144/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "赵国锋",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24407a377545/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "李永强",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24407a377295/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "宋红健",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24408a377330/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "马翼",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24408a377595/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "王立新",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24408a377596/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "常卫星",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24409a378376/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "樊星超",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24409a377539/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "陈波",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24409a378218/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "崔永亮",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24409a377625/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "李树奇",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24409a377623/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "亓丽萍",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24409a377616/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "荣华",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24409a377621/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "王婵",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24409a377627/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "吴胜青",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24409a377624/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "张建颖",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24409a377719/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "张玲",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24409a377632/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "张森",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24409a377626/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "张树众",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24409a377633/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "赵凤革",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24409a377761/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "张新羽",
+      "name_en": "",
+      "title": "初级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24410a565105/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "丁蕙",
+      "name_en": "",
+      "title": "工勤",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24441a379812/page.htm",
+      "department": "元素有机化学研究所"
+    },
+    {
+      "name": "付强",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/1019/c24388a594919/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "李光辉",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24388a378058/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "林飞",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24388a564970/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "刘坤",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24388a504312/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "姚朝阳",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24388a378050/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "朱春雷",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24388a378059/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "陈永胜",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24389a378066/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "郭术涛",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24389a537838/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "李晨曦",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24389a378072/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "刘丽",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24389a378086/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "关英",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24389a378094/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "刘阳",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24389a504314/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "刘永胜",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24389a378057/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "刘遵峰",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24389a376907/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "石可瑜",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24389a378079/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "史林启",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24389a378074/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "史伟超",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24389a576759/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "孙平川",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24389a378070/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "王鸿",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24389a378054/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "万相见",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24389a378080/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "余志林",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24389a537839/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "张会旗",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24389a378061/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "张望清",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24389a378084/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "张新歌",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24389a378078/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "张珍坤",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24389a378097/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "赵汉英",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24389a378063/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "赵维强",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24390a571671/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "傅国旗",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24390a378090/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "何尚锦",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24390a378099/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "李湛勇",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24390a378085/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "马飞贺",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/1019/c24390a590460/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "王粉粉",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/1019/c24390a565861/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "马如江",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24390a378102/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "王春红",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24390a378087/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "王蔚",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24390a378088/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "王影",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24390a378095/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "伍国琳",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24390a378089/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "杨新林",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24390a378101/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "张洪涛",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24390a378092/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "张育英",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24390a378096/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "潘桂玲",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24412a378108/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "张莹",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24412a378104/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "朱丽荣",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24412a378110/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "方悦",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24413a378114/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "梁玉璐",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24413a378112/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "杨洁",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24413a378111/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "张楠",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24413a378115/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "张娴",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24413a378116/page.htm",
+      "department": "高分子化学研究所"
+    },
+    {
+      "name": "姜源植",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24391a534765/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "梁家岩",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/1019/c24391a593897/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "李文杰",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/1019/c24391a591386/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "卢勇",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24391a562852/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "阳科",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24391a378166/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "谢伟伟",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24391a483602/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "张熙悦",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/1019/c24391a589544/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "陈军",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24392a378242/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "程方益",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24392a378244/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "关庆鑫",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24392a378252/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "焦丽芳",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24392a378249/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "李伟",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24392a378237/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "李福军",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24392a378230/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "牛志强",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24392a377919/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "陶占良",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24392a378246/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "王欢",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24392a595293/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "王一菁",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24392a378238/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "谢微",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24392a378158/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "徐维林",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/1019/c24392a598424/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "于奡",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24392a378239/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "袁明鉴",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24392a375954/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "张凯",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24392a594231/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "张明慧",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24392a378240/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "章炜",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24392a594232/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "张新星",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24392a567215/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "赵庆",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24392a595308/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "包金鹏",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/1019/c24393a598425/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "金婷",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24393a530165/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "李熠鑫",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24393a549899/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "李振宇",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24393a587592/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "梁静",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24393a378253/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "刘玉萍",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24393a562839/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "倪优璇",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/1019/c24393a565844/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "王彩",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/1019/c24393a598393/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "于勐",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24393a575039/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "阎晓琦",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24393a378254/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "严振华",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24393a378257/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "张明涛",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24393a378251/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "李海霞",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24416a378865/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "赵毓",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24416a377421/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "杜晓萌",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/1019/c24417a567218/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "姜莹",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24417a378867/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "刘诗可",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/0817/c24417a567219/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "钮宏禹",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24417a378259/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "田晶",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24417a378873/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "高兴斌",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c35346a377376/page.htm",
+      "department": "应用化学与工程研究所"
+    },
+    {
+      "name": "董建桐",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/1019/c24394a573039/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "付浩浩",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24394a510977/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "黄亮",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/1019/c24394a404749/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "黄灵",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/1019/c24394a558029/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "李功玉",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24394a378964/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "孟一凡",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/1019/c24394a587120/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "武烈",
+      "name_en": "",
+      "title": "特聘",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24394a378988/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "姜秀娥",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/1019/c24395a589291/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "熊虎",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24395a589083/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "蔡文生",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24395a379003/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "陈朗星",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24395a379009/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "郭玮炜",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24395a378986/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "孔德明",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24395a379010/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "李文友",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24395a379004/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "刘书琳",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24395a567147/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "刘定斌",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24395a507116/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "庞代文",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24395a378813/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "邵学广",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24395a379006/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "王荷芳",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24395a379011/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "夏炎",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24395a379008/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "熊虎",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24395a576760/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "于泽",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/1019/c24396a575332/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "蔡佳蓉",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24396a562833/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "林深",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24396a378814/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "刘安安",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24396a565803/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "唐安娜",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24396a379012/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "王月",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24396a562423/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "贾潇丹",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2021/1019/c24421a568192/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "陈英军",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24421a379199/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "乔志清",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24421a379195/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "王笛",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24421a379191/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "吴利侠",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24421a379197/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "杨亚非",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24421a379187/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "于川茗",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24421a379192/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "张妍",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24421a379277/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "赵晓丽",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24421a379198/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "周慧静",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24421a379196/page.htm",
+      "department": "分析科学研究中心"
+    },
+    {
+      "name": "张智超",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "复杂体系中痕量有机物的分离分析、农药全组分分析、农药残留和环境行为",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24398a377284/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "李永红",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24399a377145/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "王平平",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24399a530173/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "张晓光",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24399a572691/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "边强",
+      "name_en": "",
+      "title": "正高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24423a379441/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "陈建宇",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24424a377328/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "寇俊杰",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24424a377321/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "刘斌",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24424a377335/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "童军",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24424a567161/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "王海英",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24424a377429/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "王红学",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24424a377431/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "徐大振",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24424a377433/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "严东文",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24424a377415/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "张树军",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24424a377418/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "郑占英",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24424a377424/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "周莎",
+      "name_en": "",
+      "title": "副高",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24424a377904/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "陈茜茜",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24425a377432/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "高雪锋",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24425a377420/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "鞠国栋",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24425a377440/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "冷连",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24425a377437/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "王阁",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24425a377425/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "李娇",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24425a377423/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "王力钟",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24425a377441/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "熊丽霞",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24425a377438/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "许丽萍",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24425a377419/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "邢天天",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24425a380691/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "杨娜",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24425a377434/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "于淑晶",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24425a380704/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "张舒楣",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24425a377422/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "张潇",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24425a377426/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "张晓",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24425a377436/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "赵洋洋",
+      "name_en": "",
+      "title": "中级",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24425a377428/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "战胜",
+      "name_en": "",
+      "title": "职员",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24434a377369/page.htm",
+      "department": "农药国家工程研究中心"
+    },
+    {
+      "name": "朱小冬",
+      "name_en": "",
+      "title": "工勤",
+      "research_area": "",
+      "profile_url": "https://chem.nankai.edu.cn/2019/0906/c24437a377370/page.htm",
+      "department": "农药国家工程研究中心"
+    }
+  ]
+}

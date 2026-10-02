@@ -1,0 +1,7 @@
+work/cache/
+work/*.html
+work/*.txt
+work/probe*.py
+work/dbg*.py
+__pycache__/
+*.pyc

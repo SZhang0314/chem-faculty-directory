@@ -1,0 +1,2737 @@
+{
+    "school":  "吉林大学",
+    "source_urls":  [
+                        "https://chem.jlu.edu.cn/szll/zzjg1/apypx1.htm",
+                        "https://chem.jlu.edu.cn/szll/zzjg1/ayjly.htm"
+                    ],
+    "professors":  [
+                       {
+                           "name":  "安妮",
+                           "name_en":  "",
+                           "title":  "助理教授",
+                           "research_area":  "具有修复性能和循环利用性能的高强度聚合物材料；填料增强的聚合物复合物材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/16385.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "安胜姬",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "课程与教学论-比较教育研究、大环化合物的合成及其性能研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9825.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "安泽胜",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "酶催化、超分子、可控聚合与解聚、生物基聚合物",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9824.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "白福全",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "1：光电转换分子材料设计及光物理和能量转移过程 / 2：表界面结构与反应性本源（氧化物结构稳定性规律；表界面活性及碳、氮、氧循环非均相催化反应机理） / 3：新能源电池体系基础研究及材料设计(电解液及电极材料界面载流子迁移动力学；电池正负极材料设计；电池场效应及多因素耦合仿真；新能源电池大数据及数据智能分析) / 4：非绝热动力学过程和过程有序动力学模拟（有机分子晶体结构稳定化动力学） / 5：混",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9823.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "毕立华",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "多金属氧酸盐功能材料、有机-无机杂化功能材料、纳米材料薄膜组装、电化学功能特性研究、电催化及有机催化剂开发与利用，光电功能材料制备及光电功能特性调控",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9822.htm",
+                           "department":  "化学（应用化学）"
+                       },
+                       {
+                           "name":  "晁单明",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "电活性聚合物设计合成、电致变色器件、导电高分子储能器件、导电水凝胶应用、药物分子电控释",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9821.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "陈飞剑",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "新型沸石分子筛的创制：新型大孔和超大孔分子筛、超薄分子筛纳米片、手性分子筛的定向合成",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/12566.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "陈光睿",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "多级结构分子筛功能材料的设计合成与催化应用",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/18466.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "陈辉",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "电化学催化、氢能源材料化学、电解水技术关键材料与器件",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/13537.htm",
+                           "department":  "化学学院"
+                       },
+                       {
+                           "name":  "陈杰",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9820.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "陈龙",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9819.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "陈晓欣",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "面向能源与环境的分子筛和多孔功能材料的合成及性能研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9818.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "陈亚坤",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "计算化学（量子化学、分子动力学、数据挖掘在化学中的应用）",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9817.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "陈岩",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "无机磁性材料、非均相催化材料、稀土材料。",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9816.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "陈艳华",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "食品和环境安全分析",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9815.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "陈于蓝",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "高分子力化学、力响应高分子材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9813.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "陈峥",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "电活性特种工程塑料的制备及复合加工、电池粘结剂、电致变色",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9812.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "陈志俊",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9811.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "崔小兵",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9808.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "崔学军",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "生物质基功能材料、固废资源开发利用与环境保护、智能生物材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9807.htm",
+                           "department":  "化学（应用化学）"
+                       },
+                       {
+                           "name":  "崔占臣",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9805.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "邸建城",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "无机多孔材料、纳米界面材料，一维纳米材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9804.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "丁长江",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9801.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "丁兰",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "食品和环境安全分析",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9803.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "丁雪峰",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "生物质资源利用，功能化表面活性剂",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9802.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "董庆锋",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "钙钛矿太阳能电池材料及器件、发光显示材料及器件、柔性超分子光电材料，医疗影像、空间探测",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9800.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "董泽元",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "超分子化学、仿生化学、人造折叠体、埃米通道、离子通道、超分子功能材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9799.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "窦传冬",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机超分子光电材料、纳米分子碳材料、硼元素化学，自由基合成化学，光电功能高分子",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9798.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "段海峰",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9797.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "段雪梅",
+                           "name_en":  "",
+                           "title":  "讲师",
+                           "research_area":  "小分子反应动力学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9796.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "范勇",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "1.无机功能材料的合成与性能研究 / 2.MOFs材料的合成与性能研究 / 3.天然矿物资源的高值化利用",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9795.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "方千荣",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "共价有机框架材料、金属-有机框架材料、多孔材料、晶态材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9794.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "房旭",
+                           "name_en":  "",
+                           "title":  "助理教授",
+                           "research_area":  "具有修复、循环利用与降解性能的可逆交联聚合物材料：可降解塑料、高强度水凝胶",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/15084.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "费强",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "光谱分析，质谱分析，分析仪器",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9793.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "冯国栋",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机分子荧光探针的设计、合成及其在环境和生物领域的应用研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9792.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "冯守华",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "无机固体化学、水热合成化学、复合固体能源材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9791.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "高慧敏",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "聚合物的结构与动力学模拟，聚合物接枝纳米粒子在非平衡态下的自组装、功能高分子材料的设计，量子化学与计算化学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9789.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "高路",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9788.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "高伟",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "金属有机化学，烯烃聚合",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9787.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "高岩",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "近临界水技术、农业废弃物循环利用、黑土地保护及盐碱土壤改良、保温材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9786.htm",
+                           "department":  "化学（应用化学）"
+                       },
+                       {
+                           "name":  "顾强",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "精细化学品合成化学：洗涤剂复配技术、医药中间体合成工艺过程开发、染料分散剂及荧光增白剂的合成及过程处理、石油开采精细化学品（调剖剂、杀菌剂、消泡剂）、油田污水处理（含硫化合物的处理）等的研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9785.htm",
+                           "department":  "化学（应用化学）"
+                       },
+                       {
+                           "name":  "关卜源",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9784.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "关绍巍",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "特种工程塑料及涂料（特种工程塑料：有机锂离子电池电极材料、聚酰亚胺多孔材料等，特种工程塑料涂料：包括耐高温、防腐、防粘、耐磨、抗静电等多功能的聚芳醚高性能涂料）",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9783.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "管景奇",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "纳米簇材料、单原子催化、水分解、锌-空气电池、二氧化碳电还原",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9782.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "郭建华",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "新一代半导体显示材料的研发及产业化",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9781.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "郭阳虹",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "硅酸盐(分子筛)与钛磷酸盐的合成，多维结构构筑与应用研究，无机手性材料及其光学与生物医学方面的研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9780.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "郭玉鹏",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "电化学储能材料、环保材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9779.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "国新华",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "核酸分析、微生物分析、拉曼光谱生物分析、有机生物质谱分析",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1048/9778.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "韩晓霞",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "拉曼光谱在生命科学领域的应用研究，包括：1）生物相容性SERS活性纳米材料；2）蛋白质结构表征；3）细胞死亡的分子调控机制",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9777.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "郝秀峰",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "能源存储与转换、烯烃聚合",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9775.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "何江华",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "受阻Lewis酸碱对（FLPs）催化聚合物精准合成 / 生物质降解与增值",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9774.htm",
+                           "department":  "化学（应用化学）"
+                       },
+                       {
+                           "name":  "赫奕",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "功能性杂化材料、化学荧光传感材料的合成与性能研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9773.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "侯长民",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "无机变色材料的制备及性能研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9771.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "侯春喜",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "生物有机超分子、生物交联化学、食品检测",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9772.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "胡滨",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9770.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "郇延富",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "纳米生物光/电化学分析",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9769.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "黄科科",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "无机固体化学；复合固体构筑与电子态调控；能源储存与转化",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9768.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "黄卫民",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "新型电极材料、固态电池材料、人工智能医学图像识别、高效析氢电催化材料，以及生物相容性功能材料等关键材料与器件研究。",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9767.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "黄臻臻",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "高性能金属纳米探针的理性设计、绿色制备及其在生物传感和智能抗菌中的应用",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9765.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "季桂娟",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9764.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "贾明君",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "环境友好催化技术、分子筛催化剂、负载型金属氧化物催化剂、烯烃环氧化、烷基化反应、酰基化反应",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9763.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "贾琼",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "复杂样品分离分析",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9762.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "贾然",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "凝聚态化学，低维材料体系的设计与性能，新能源的理论研究，表面等离激元，气体的分离与存储",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9761.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "菅文平",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9760.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "姜波",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "高分子创新合成及改性、新型工程塑料、生物基高性能聚合物及复合材料、高阻隔薄膜材料、木质素高附加值转化利用",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/15979.htm",
+                           "department":  "化学学院"
+                       },
+                       {
+                           "name":  "姜珊",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "纳米生物医用材料在药物传递、肿瘤治疗和抗菌领域的应用",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9758.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "姜世梅",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "刺激响应性有机发光材料、超分子凝胶的组装与功能、高灵敏高选择性荧光探针、智能响应材料及其传感应用",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9828.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "姜振华",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "高性能聚合物、多相高分子",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9757.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "江东",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "高分子复合材料，生物高分子的药物缓释",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9759.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "金恩泉",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "共价有机框架材料、二维有机半导体材料、纳米石墨烯及石墨烯纳米带材料、二维金属-有机框架材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/12087.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "金永日",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "天然药物化学、中药化学、药物分析",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9756.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "孔垂鹏",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "固液，气液界面处的计算模拟模拟",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9754.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "赖　睿",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "理论计算化学、生物大分子计算模拟方法开发与应用、酶催化反应机理和调控",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/16634.htm",
+                           "department":  "理论化学计算"
+                       },
+                       {
+                           "name":  "蓝林峰",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "动态分子晶体材料，基于超分子组装/结构调控的柔性光电功能晶体",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/18465.htm",
+                           "department":  "化学学院"
+                       },
+                       {
+                           "name":  "李豹",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "多金属氧簇超分子组装及功能化",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9753.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "李成龙",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机光电功能材料的设计、合成及应用",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9752.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "李峰",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "(1) 基于新的发光原理的有机发光材料与器件； / (2) 利用有机发光材料，开发生物相关新研究方法",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9749.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "李枫红",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机太阳能电池、有机-无机杂化钙钛矿太阳能电池、有机光电器件电极界面修饰和界面物理、有机电子器件中有机/无机和有机/有机界面物理与化学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9750.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "李光华",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9748.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "李广社",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "非常规功能固体材料的化学创制及其在能源与催化等领域的应用",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9747.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "李国栋",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "光电功能与传感材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9746.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "李海龙",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "探索数字化、高含量生物分析（检测）新方法、新技术，发现及解决目前主流应用技术的潜在问题，尝试对基础生物化学反应、生物分析赋于新的理解，并（尝试）实现方法和技术的突破",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9745.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "李昊龙",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "聚合物电解质、质子交换膜、氢能技术、新型储能技术",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9744.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "李洪伟",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "金属纳米簇的制备方法、表面修饰、分离纯化及应用研究；碳量子点的可控制备、表面修饰及其应用研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9743.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "李辉",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/14404.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "李辉",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "高精度势能面构建、全量子力学精确求解振动转动光谱、界面和频光谱理论模拟、超快振动-电子光谱理论、微观超流",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9742.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "李激扬",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "分子筛多孔功能材料的组装与设计合成",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9741.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "李继贞",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "现代有机合成化学和药物化学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9739.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "李克昌",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "电化学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9736.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "李莉萍",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "锂离子电池材料，水分解和环境修复等纳米催化材料；介电和荧光材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9735.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "李路",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "甲烷零碳制氢与增值转化 / 氢-氨融合零碳能源技术 / “单原子集合”新概念与卡宾化学 / 能源光催化与液态储氢应用技术",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9734.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "李玛琳",
+                           "name_en":  "",
+                           "title":  "助理教授",
+                           "research_area":  "二次电池新材料及新体系开发、多孔材料在储能领域的应用",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/13549.htm",
+                           "department":  "化学学院"
+                       },
+                       {
+                           "name":  "李茂",
+                           "name_en":  "",
+                           "title":  "准聘教授",
+                           "research_area":  "有机光电功能材料、电化学聚合、迭代合成、精确合成、聚合物单层，非线性导电",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/14375.htm",
+                           "department":  "化学（应用化学）"
+                       },
+                       {
+                           "name":  "李敏杰",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "超分子自组装机制，手性超分子，光学活性材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9733.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "李天奇",
+                           "name_en":  "",
+                           "title":  "助理教授",
+                           "research_area":  "具有修复性能和高性能离子导体；具有修复与回收性能的储能器件",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/16082.htm",
+                           "department":  "化学学院"
+                       },
+                       {
+                           "name":  "李文",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "寡肽、蛋白质分子组装体的表界面性质与生物活性材料：自组装纳米抗菌肽；仿生水下黏附；医用胶粘剂与功能涂层；可降解聚二硫生物材料。",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9732.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "李响",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机/无机复合纳米功能材料、纳米纤维吸附剂、血液净化膜材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9731.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "李绪文",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "药物分析、天然药物化学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9730.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "李雪峰",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "增材制造医用聚芳醚材料，增材制造专用聚芳醚材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9729.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "李亚鹏",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "医用药用高分子纳米材料、聚合物接枝纳米粒子、车辆用水性阻尼涂料、特种工程塑料应用、高分子纳米复合材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9728.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "李延春",
+                           "name_en":  "",
+                           "title":  "讲师",
+                           "research_area":  "高分子－液晶复合材料、高分子物理与高分子物理化学、聚合物接枝纳米粒子、化学信息学与人工智能",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9727.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "李洋",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "功能性高分子材料及应用，主要包括： / 1.自修复弹性体； / 2.自修复抗黏附/减阻材料； / 3.自修复导电材料；",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9725.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "李乙",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "分子筛；纳米孔材料；计算机模拟；高通量计算；机器学习；数据库；定向合成",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9724.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "李懿轩",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "自/可修复与可循环利用聚合物材料、可降解生物基聚合物材料、自修复质子交换膜",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9723.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "李莹",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "弱相互作用体系、新型团簇体系的结构和性质；超原子团簇的设计及组装；新型非线性光学分子的理论设计",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9722.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "李云峰",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "聚合物胶体动态组装、智能仿生水凝胶、肿瘤体外模型构建",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9721.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "梁宏伟",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "贵金属湿法冶金",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9720.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "梁宵",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "能源材料合成化学与应用技术",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/18157.htm",
+                           "department":  "化学学院"
+                       },
+                       {
+                           "name":  "梁志强",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "多孔功能材料：金属-有机框架材料、多孔有机框架材料、分子筛材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9719.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "寮渭巍",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "绿色有机合成新方法、不对称催化合成、有机电化学合成、药物及生物活性分子设计、合成研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9718.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "林海波",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "电化学工程（电极材料和电化学反应器），电催化和电合成，水系先进电池及其关键材料，环境电化学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9717.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "林楠",
+                           "name_en":  "",
+                           "title":  "助理教授",
+                           "research_area":  "电化学能源转换和物质转化系统跨尺度建模、离子及原子尺度p-n结效应、电池人工智能大模型、物理模型结合的算子神经网络",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/15090.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "林权",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "多功能纳米粒子、智能响应水凝胶材料、生物医用纳米材料、生物传感纳米复合材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9716.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "林艳红",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "光化学和光物理；无机半导体光电材料构筑及其在光催化、光电气敏中的应用",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9715.htm",
+                           "department":  "化学（应用化学）"
+                       },
+                       {
+                           "name":  "林英杰",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9714.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "刘佰军",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "[1] 燃料电池/锂电池用聚合物电解质 / [2] 高分子功能膜材料 / [3] 聚酰亚胺和聚芳醚酮等高性能聚合物的合成、改性及应用",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9713.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "刘福通",
+                           "name_en":  "",
+                           "title":  "助理教授",
+                           "research_area":  "窄谱带有机光电材料的设计与性质研究；有机发光二极管",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/17646.htm",
+                           "department":  "化学学院"
+                       },
+                       {
+                           "name":  "刘钢",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "低碳工业催化、气态污染物消除、工业电催化",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9711.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "刘海超",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "超分子二聚体材料的构筑、发光机理与智能响应 / 纯有机室温磷光材料的设计合成、光电应用与氧气传感应用",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9710.htm",
+                           "department":  "化学（应用化学）"
+                       },
+                       {
+                           "name":  "刘慧玲",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "单原子催化剂的理论设计、有机合成反应中的催化机理、离子/自由基-分子反应的理论研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9709.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "刘佳",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "有机多孔聚合物",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9708.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "刘靖尧",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "量子化学计算、计算催化、表面催化反应机理、电催化反应机理、新型催化材料理性设计",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9707.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "刘堃",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "聚合物接枝纳米粒子、表面等离子体纳米材料、铝纳米粒子、手性纳米材料、高分子纳米复合材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9705.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "刘雷静",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9704.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "刘磊",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "1993.9-1997.7 硕士期间从事吉化公司木糖醇的分离路线的改进尝试研究 / 1997.9-1999.7中国长白山区林蛙卵油和卵渣中有效成分的研究 / 2002.9-2008.7 在职博士期间从事以环糊精为模型有机合成模拟谷胱甘肽过氧化物酶 / 2010.1-2013.12在职博士后期间从事新型氮唑类金属-有机骨架化合物的合成、结构表征的初步研究 / 1997.9-至今 讲授《有机化学实验》",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9703.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "刘松艳",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "课程与教学论",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9702.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "刘小孔",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "超分子聚合物材料、柔性导电材料与柔性电子器件、可循环回收聚合物材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9701.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "刘晓丽",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9700.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "刘晓明",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "多孔有机聚合物的设计、合成及其在吸附、传感、非均相催化、非均相光催化等领域的应用",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9699.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "刘晓旸",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9698.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "刘艳华",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "热分析动力学、纳米复合材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9696.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "刘毅飞",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9694.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "刘轶",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9695.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "刘宇",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "功能有机材料、有机电致发光材料与器件",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9693.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "刘云凌",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "功能配位聚合物材料的设计合成、气体储存、气体吸附与分离、催化等性能研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9692.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "刘在群",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "生物抗氧化分子的合成与性能研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9691.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "刘朝阳",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "二维复合材料的表界面性质调控及应用探索。",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/14724.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "卢然",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机功能材料、有机光化学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9690.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "卢晓峰",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "导电高分子复合纳米材料，静电纺丝技术，纳米纤维及其复合材料，面向能源和催化应用的多功能材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9689.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "路　萍",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9686.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "陆海彦",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "锂离子电池：构建锂电衰减模型，预测不同工况下电池寿命；探究锂离子电池衰老机理，研究锂离子电池热失控及产气条件 /  钠离子电池：钠离子电池生物质基硬碳负极前驱体的构筑及碳化研究；探究钠离子电池内部机理与性能优化 / 电催化：基于金属有机多孔材料的电解水催化剂研究；非贵金属催化剂的开发与性能的提升； / 超级电容器：过渡金属氧化正极材料研究；非对称电容负极沉积现象探究及抑制",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9687.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "陆星远",
+                           "name_en":  "",
+                           "title":  "助理教授",
+                           "research_area":  "高强度可回收利用的可逆交联聚合物材料，基于超分子化学/动态共价化学的功能性/智能响应性聚合物",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/17183.htm",
+                           "department":  "超分子结构与材料"
+                       },
+                       {
+                           "name":  "栾加双",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "特种工程塑料改性、成型与加工，特种高分子纤维，先进纺织复合材料，纤维过滤材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9685.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "吕茂萍",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "新型工程塑料及其循环利用技术研究 / 生物基功能聚合物 / 高导热/低介电聚合物及其复合材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/18370.htm",
+                           "department":  "特种工程塑料"
+                       },
+                       {
+                           "name":  "吕男",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "表面功能微/纳结构的设计、构筑及其光电性能研究 / 基于表面性能调控提高现代分析方法的检测性能",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9683.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "吕学举",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9682.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "吕中元",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "聚合物结构与动力学模拟",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9835.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "马玖彤",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9680.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "马强",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "研究重点主要是针对临床医学检验和环境检测的技术需求，设计开发多种纳米功能材料和纳米结构，结合电化学发光技术和表面增强光谱学等多种光电技术，优化传感体系性能，阐明内在机制，提升检测能力。",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9679.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "毛世忠",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "仿生化学与超分子材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9678.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "门广文",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "系统化学与自适应材料，动态共价材料及其荧光传感应用",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9677.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "牟建新",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9676.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "母晓玥",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "半导体催化材料、有机光电材料、烯烃聚合催化剂、超分子材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1049/9675.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "庞广生",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "纳米材料、无机分离膜材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9673.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "庞金辉",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "[1] 聚合物电解质膜材料: 燃料电池膜、锂离子电池膜的制备及离子传输机理研究。 / [2] 分离膜材料：水处理膜、气体分离膜材料的设计合成及应用化研究。 / [3] 高性能聚合物膜：高性能聚合物膜的制备及应用研究；聚合物膜基复合材料，膜防护材料等研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9672.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "齐菊锐",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9671.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "钱虎军",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "高分子材料的理论模拟及实验研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9670.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "乔振安",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "介孔材料的设计合成与组装；介孔材料新合成方法学的开发；介孔材料在催化、储能、生命科学等领域的应用。",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9669.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "秦俊生",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "多组分金属-有机框架材料合成与性能 /",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9668.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "裘式纶",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "(I)新型催化剂的设计与定向合成； / (II)以分子筛孔道为模板的纳米复合材料的制备及性质研究； / (III)高质量分子筛大单晶的合成，以高质量分子筛大单晶或分子筛膜为基质的电子微器件的研究与开发； / (IV)有机-无机刚性骨架孔道（类分子筛）的设计与定向合成与性质研究。",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9667.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "曲泽星",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "理论与计算化学、电子结构理论、激发态非绝热过程、生物光化学、燃烧化学、高能化合物能量转移等。",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9666.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "饶衡",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "分子光/电催化，二氧化碳还原与水裂解，固氮，能源转换，人工光合成",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9665.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "任爱民",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "双极性传输有机半导体、有机金属配合物发光、有机小分子双光子荧光探针",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9664.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "任浩",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "有机多孔聚合物、多孔分离膜",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9663.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "阮伟东",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "表面单分子层物理化学与增强光谱学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9662.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "佘萍",
+                           "name_en":  "",
+                           "title":  "研究员",
+                           "research_area":  "无机多孔纳米材料催化；半导体光催化（包括水裂解产氢、二氧化碳还原、人工固氮、合成尿素等）；光/电/热能源催化",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9661.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "盛兰",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "1）水致变色分子开关染料、材料的设计及在喷水无墨打印、水响应智能变色涂料及超低湿度传感等方面的应用；2）基于仿生的光诱导质子转移机理探究及变色材料构筑与性能调控；3）热响应超分子荧光变色。",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9659.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "盛野",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "稀土无机发光材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9658.htm",
+                           "department":  "化学（应用化学）"
+                       },
+                       {
+                           "name":  "邱宇辰",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "物理化学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/15905.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "沈家骢",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "1. 微观聚合反应动力学与反应统计理论 / 2. 超分子层状结构与功能 / 3. 有机电致发光材料与器件 / 4. 酶模拟与聚合物仿生材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9660.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "施睿",
+                           "name_en":  "",
+                           "title":  "助理教授",
+                           "research_area":  "聚合物接枝纳米粒子、分子动力学模拟、高分子纳米复合材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/15121.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "施展",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "配位化学、晶体工程、纳米化学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9657.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "史作森",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "光引发剂、光波导光刻胶材料、光固化树脂、生物医用高分子涂层",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9656.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "宋大千",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "现场快速检测仪器研发、光学探针设计合成与应用、疾病早期诊断技术研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9655.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "宋薇",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "表面增强拉曼光谱及其在能源、环境及生物医学诊疗中的原位电催化、光催化、纳米酶催化表征与检测技术研究。",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9654.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "宋文波",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9653.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "宋文龙",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "1. 受生物启发高分子表/界面材料--仿生半转换水凝胶。 / 2. 智能高分子表/界面材料。",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9652.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "宋晓伟",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "无机纳米孔材料的合成及其在环境、催化、吸附分离和新兴交叉领域应用研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9651.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "宋艳华",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "稀土光功能材料的性质调控及应用",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9650.htm",
+                           "department":  "化学（应用化学）"
+                       },
+                       {
+                           "name":  "宋宇",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "聚合物材料纳米力学、聚合物超薄膜玻璃化转变动力学和导电聚合物自组装",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9649.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "宋志光",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机合成；手性催化；材料合成；化学生物学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9648.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "苏钽",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "稻壳炭的回收高值利用，过渡金属掺杂分子筛的合成及性质研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9646.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "苏清",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "1. 功能有机多孔材料设计、合成及性能研究 / 2. 荧光有机小分子的晶体学研究 / 3. 氮杂环有机小分子合成方法学研究 / 4. 烯烃聚合用金属有机催化剂的设计、合成及性能研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9647.htm",
+                           "department":  "化学（应用化学）"
+                       },
+                       {
+                           "name":  "苏星光",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "纳米生物与医学分析; 食品及环境中有毒有害物质的检测",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9630.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "苏忠民",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "功能材料化学；应用量子化学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/12749.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "孙福兴",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "晶态微孔材料、气体吸附和分离、分离膜材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9631.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "孙静",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "聚肽、聚类肽等生物活性高分子的设计合成、性能研究及其在抗菌、抗肿瘤等生物医学领域的应用",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/10612.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "孙静波",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9632.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "孙俊奇",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "可逆交联聚合物材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9633.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "孙琳",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9634.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "孙小丽",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "金属酶的反应机理研究；蛋白晶体结构的量子精修；液态金属、过渡金属催化反应机理的研究及催化剂设计；二维金属材料表面活性理论研究；气相小分子反应。",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9635.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "孙轶斌",
+                           "name_en":  "",
+                           "title":  "助理教授",
+                           "research_area":  "蛋白质组装、组装动力学、蛋白质工程、催组装",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/17181.htm",
+                           "department":  "超分子结构与材料"
+                       },
+                       {
+                           "name":  "孙颖",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "生物化学传感分析、核酸化学与检测",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9636.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "汤钧",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "绿色可控聚合方法学研究；生物质基与可持续高分子材料研究；可降解与可循环利用高分子材料研究。",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9637.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "陶淞源",
+                           "name_en":  "",
+                           "title":  "助理教授",
+                           "research_area":  "光功能纳米材料的合成与应用、高分子纳米复合材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/15091.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "田戈",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "无机固体催化剂的合成与性能研究、生物质的转化与利用（纤维素、碳水化合物等）",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9639.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "田文晶",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机高分子光电功能材料、高效有机发光晶体材料、刺激响应有机发光材料、超分子发光材料体系的构筑与性能",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9641.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "田玉美",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "生物质资源在电化学中的应用、纳米材料、复合功能材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9643.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "田媛",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "表面增强拉曼光谱分析、药物分析、农药检测、食品与环境中有害物质的检测",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9645.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "汪大洋",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "胶体界面化学，材料表界面化学，分子界面科学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9889.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "汪子明",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "生物质应用及分离纯化技术、色谱分析",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9890.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "王博",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机合成化学, 天然产物全合成, 连续流与自动合成技术",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9891.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "王晟道",
+                           "name_en":  "",
+                           "title":  "助理教授",
+                           "research_area":  "高性能聚合物的合成、改性及加工成型； / 复合材料纤维/树脂基体界面改性；复合材料界面行为及性能研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/17780.htm",
+                           "department":  "特种工程塑料"
+                       },
+                       {
+                           "name":  "王大明",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "电致变色/电控荧光功能性聚酰亚胺材料，空间应用抗原子氧材料，聚合物超滤/纳滤薄膜，生物基聚酰亚胺材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9893.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "王德权",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9894.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "王贵宾",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "高性能聚合物的合成、改性及加工成型；高性能聚合物片材、板材、棒材和纤维等成型加工工艺、微观形态及性能的研究；聚合物电解质及其储能元器件、新型高、低介电常数的聚芳醚酮、超滤膜及三阶非线性光限幅材料。",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9895.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "王海晶",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9896.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "王建",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "激发态性质与光电材料设计; 激发态分子动力学; 高性能并行计算集群",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9897.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "王力彦",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "超分子化学，聚合物多层膜，基于氢键的结构与组装",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9898.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "王莉",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "无机功能材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9899.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "王梅艳",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "理论与计算化学、均相金属配合物催化、非均相表面催化、反应机理、催化材料理论设计",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9900.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "王明",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9901.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "王奇峰",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "有机合成化学、基于多环芳烃的有机与高分子化学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9902.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "王润伟",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9903.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "王书刚",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9904.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "王嵩",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "纤维素酶连续性水解反应的机理、血管紧张素转换酶抑制剂的机理、碳纳米材料在酶体系的应用（专业硕士方向）",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9905.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "王涛",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "介孔材料、胶体纳米颗粒、高熵能源材料、多孔碳材料、自组装合成",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/18349.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "王晓峰",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "高温高压无机固相合成； / 生物质无机功能材料的制备及应用。",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9906.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "王晓晗",
+                           "name_en":  "",
+                           "title":  "助理教授",
+                           "research_area":  "可逆交联聚合物材料；高性能弹性体；高性能纤维；高性能高分子仿生设计等",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/15858.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "王晓雪",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "固态电池关键材料及器件研究 / 多孔材料在二次电池领域的应用",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/17179.htm",
+                           "department":  "无机合成与制备化学"
+                       },
+                       {
+                           "name":  "王兴华",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "光谱化学分析，色谱分析，质谱分析，分离技术，分析检测仪器，化学计量学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9907.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "王艳",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9909.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "王洋",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "具有特殊表界面性质的多孔材料的设计制备及其在液体分离、热管理、水收集等领域的应用。",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/13978.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "王宇",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "无机合成，手性无机纳米材料自组装合成及其光谱性质的研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9910.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "王悦",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机电致发光材料基础研究与产业化技术开发",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9911.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "王振旅",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "电催化能源储存与转化",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9912.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "王志才",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "天然产物化学、中药化学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9913.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "魏浩桐",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "光电功能材料、钙钛矿单晶、有机无机复合材料、光探测、X射线探测器件",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9914.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "魏巍",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "有机光电材料、基态和激发态芳香性、热激活延迟荧光材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9915.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "魏忠林",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "1. 有机合成化学 / 2. 有机质谱分析",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9916.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "吴刚",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "分子磁化学，晶体工程学，功能配合物，均相催化",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9917.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "吴光鹭",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "复杂分子体系的组装方法学、组装路径调控、超分子物理化学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9918.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "吴立新",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "柔性超分子框架材料、杂化超分子聚合物、近红外光热转换材料、纳米簇光热催化",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9919.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "吴雨辰",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/16136.htm",
+                           "department":  "化学学院"
+                       },
+                       {
+                           "name":  "吴宗铨",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "手性功能高分子、不对称催化与手性拆分、多孔框架材料、新能源电池、超分子自组装",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/12190.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "伍乔林",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "1. 光电功能导向的COFs、CMPs: 纳米孔有机聚合物材料的设计合成、功能修饰与应用研究 / 2. 光催化、均相催化、非均相催化 / 3. 烯烃聚合催化剂的设计合成及催化聚合工艺研究，促进高端聚烯烃树脂的合作开发",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1050/9921.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "解仁国",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "量子点材料、光电功能材料，纳米晶物理化学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9576.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "夏宝辉",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9578.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "孙颖",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "生物化学传感分析、核酸化学与检测",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/12871.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "谢腾峰",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "能源与环境光催化，光电化学，太阳能转化，光电测试谱仪的研发，光辅助新能源电池",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9577.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "徐斌",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机光电功能材料、智能响应材料、纳米生物材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9575.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "徐吉静",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "先进储能材料与器件：1. 固态锂电池；2. 固态金属空气电池；3.外场耦合辅助电池。",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9574.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "徐家宁",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "配位聚合物合成与性质表征",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9573.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "徐如人",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "微孔化合物的分子工程学 / 新型微孔无机化合物的合成与表征 / 分子筛晶化机理的研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9572.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "徐抒平",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "1. 纳米生物传感：单细胞纳米分析技术；亚细胞光谱分析；核酸分析新方法；液滴微流控单细胞分析技术等 / 2. 表面增强拉曼光谱学：利用实验手段探究SERS物理增强机制和化学增强机制；设计和构筑等离激元高效耦合结构；发展高灵敏、具有应用前景的SERS基底；建立和发展SERS生物分析技术 / 3. 生物光谱成像技术：双光子成像；生物成像探针构筑等",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9571.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "徐跃华",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9568.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "许迪欧",
+                           "name_en":  "",
+                           "title":  "讲师",
+                           "research_area":  "纳米尺寸微孔分子筛、介孔-微孔复合分子筛",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9567.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "许海",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "分子模拟与量化计算、有机光电功能材料、高分子复合材料、化学课程与教学论",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9566.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "许文瀚",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "高性能聚合物的合成及其聚集态研究，聚合物电介质的能量存储与转换，基于聚合物电介质的功能器件研究（电容器、传感器、驱动器等）。",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/18350.htm",
+                           "department":  "特种工程塑料"
+                       },
+                       {
+                           "name":  "薛玉瑞",
+                           "name_en":  "",
+                           "title":  "准聘教授",
+                           "research_area":  "超分子催化体系、新型碳基材料、新氢能源转换",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/16639.htm",
+                           "department":  "超分子结构与材料"
+                       },
+                       {
+                           "name":  "闫飞",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "无机仿生催化与癌症治疗，纳米医学，无机化学生物学与分子医学，癌症化学表观遗传学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9565.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "闫文付",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "以沸石分子筛为代表的无机多孔材料的合成以及在催化、吸附分离、离子交换（核废水处理等）及新兴领域的应用",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9564.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "杨兵",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "超分子光电功能材料与应用开发 / 新型有机电致发光材料与器件 / 纯有机室温磷光材料与器件",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9562.htm",
+                           "department":  "化学（应用化学）"
+                       },
+                       {
+                           "name":  "杨柏",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "高性能聚合物光学材料、聚合物纳米杂化与光功能材料、碳化聚合物点设计合成与应用",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9563.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "杨国炬",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9560.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "杨桦",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "纳米功能材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9558.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "杨明",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "仿生结构与功能材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9559.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "杨清彪",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "光化学检测及生物成像、功能纤维及复合材料、固态电池电解质",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9557.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "杨文胜",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9556.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "杨晓敏",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "生物质资源高值化利用研究：生物质基功能碳材料（储能材料、催化材料）; 生物质催化转化制备燃料和化学品。",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9555.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "杨延华",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9553.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "杨扬",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "胶体粒子的可控合成，胶体液晶，胶体粒子成核剂",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9552.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "杨英威",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机超分子化学与材料、有机无机高分子多元杂化材料、贵金属纳米材料、多孔材料、医用复合材料、智能药物递送系统与疾病诊疗",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9551.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "姚栋",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9550.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "姚洪岩",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "有机锂离子电池电极材料、水系锌离子电池电极材料、环氧树脂防腐涂料、交联型聚酰亚胺功能材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9549.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "叶开其",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9547.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "于吉红",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "分子筛纳米孔材料的设计合成及其在能源、环境和新兴领域的应用。具体包括： / 1.分子筛材料的定向设计与合成，包括分子筛新结构的开拓，新合成路线的开发，合成机理的研究，特定聚集态分子筛材料的制备； / 2.高效分子筛及金属@分子筛复合催化材料的制备与催化性能研究（C1转化、丙烷脱氢、烯烃环氧化、汽车尾气脱硝、生物质转化等）； / 3.多孔膜/块体材料用于环境治理 (CO2吸附、油水分离等) 及生物医",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9546.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "于杰辉",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "单晶材料的培养及其功能化",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9545.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "于苗",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "卟啉功能配合物的合成及性能研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9544.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "郁友军",
+                           "name_en":  "",
+                           "title":  "助理教授",
+                           "research_area":  "有机发光材料与器件；发光自由基材料与应用",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/18351.htm",
+                           "department":  "化学学院"
+                       },
+                       {
+                           "name":  "袁宏明",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "离子导电材料、金属氧化物、无机纳米材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9543.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "袁劲松",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "开环聚合方法学、可循环高分子、自降解高分子",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/15249.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "袁晓玲",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "炭材料的制备与应用；环境；催化",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9542.htm",
+                           "department":  "化学（应用化学）"
+                       },
+                       {
+                           "name":  "岳惠娟",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "磁性复合无机固体材料、电磁污染与电磁隐身、储能材料与电化学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9541.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "岳喜贵",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "高性能高分子材料合成与改性、高性能复合材料、高分子相结构控制、高分子医用材料、电磁波吸收材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9540.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "詹从红",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "太阳能光催化制氢、光催化降解、纳米氧气泡研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9539.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "张大伟",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "科研：化学生物分析；化学生态学和害虫绿色生物防控技术研发；计算化学 / 教学：化学基础课程教学与研究 / 科研工作，主要研究方向是化学生态学和害虫绿色生物防控技术研发。已累计获得国家级、省级、校级各类研发项目10余项资金支持。在JACS, O.L, Synlett, Tetrahedron, Molecules等SCI等期刊发表科研论文23篇；获国家专利授权10件。 / 教学工作，主要从事基础课程",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9538.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "张刚",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "纳微结构功能材料、等离子体纳米化学、纳米限域化学与组装、表面等离子体纳米材料、手性纳米超材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9537.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "张广良",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "手性有机小分子催化剂开发及应用研究、以工业应用为目的得医药中间体、农药等精细化学品生产工艺开发研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9536.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "张国艳",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "生物材料海量信息存储、酶法拆分、生物法污水净化",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9535.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "张海博",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "高性能聚合物设计与合成、高分子聚集态与摩擦学研究、特种工程塑料3D打印研究、特种高分子功能材料研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9534.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "张浩",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9533.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "张皓",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "聚合物基纳米复合材料、药物组装体的构建与精准治疗、光功能材料与器件",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9532.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "张红星",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "分子轨道图形理论、激发态量子化学、相对论量子化学、光电材料的分子设计、储氢材料机理及碳材料的构效关系、生物体系的理论模拟等",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9531.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "张红雨",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "柔性有机发光晶体；有机光电功能材料与器件；超分子复合材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9530.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "张厚玉",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "理论与计算化学、有机光电材料、能源材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9827.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "张继龙",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "生物大分子模拟、酶催化机理研究、药物设计",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9529.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "张俊虎",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "聚合物仿生智能微结构及纳米生物功能表界面",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9528.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "张恺",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "高分子纳米复合材料，中空材料，生物功能材料，电催化材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9527.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "张雷",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "天然药物化学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9526.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "张丽荣",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "多种条件下新型无机－有机杂化材料的合成、结构及物理化学的性质表征、杂化材料的新结构与组成、功能的开放",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9525.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "张凌",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "可修复材料、多孔聚合物材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9524.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "张梅",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "高性能纤维及复合材料；高分子基生物医用复合材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9523.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "张明",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机光电功能材料的设计、合成及先进多功能荧光传感器开发与应用",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9522.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "张宁宁",
+                           "name_en":  "",
+                           "title":  "助理教授",
+                           "research_area":  "表面等离子体纳米材料、手性纳米材料的构筑及其生物学效应",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/16133.htm",
+                           "department":  "化学生物学"
+                       },
+                       {
+                           "name":  "张诗童",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "有机光电功能材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9521.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "张淑玲",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "聚合物基电磁屏蔽材料、聚合物基多孔材料、聚合物基生物医用材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9520.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "张锁秦",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "药物化学、材料化学、有机不对称催化",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9519.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "张桐江",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9518.htm",
+                           "department":  "化学（应用化学）"
+                       },
+                       {
+                           "name":  "张薇",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9516.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "张文科",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "单分子力谱方法学、超分子组装、纳米药物、高分子力化学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9515.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "张文祥",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "主要从事催化新材料的合成；多相酸碱催化；环境污染物催化消除；催化氧化；催化加氢等。",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9514.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "张晓安",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "功能仿生材料及技术、分子和纳米光电材料及器件、 刺激响应功能材料与传感检测、动态超分子化学及微观反应动力学机制、绿色化学与化工",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9512.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "张亚南",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9511.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "张贻亮",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "理论与计算化学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9510.htm",
+                           "department":  "化学（应用化学）"
+                       },
+                       {
+                           "name":  "张颖",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "主要从事无机化学及实验、普通化学及实验课程的教学工作",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9509.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "张宇模",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "可逆电响应非共价键、有机电致变色材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9508.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "张玉敏",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "精细化学品的合成与应用开发、电有机合成及应用、污泥脱水研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9507.htm",
+                           "department":  "化学（应用化学）"
+                       },
+                       {
+                           "name":  "张越涛",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "高分子合成化学 / 生物质降解与增值 / 受阻Lewis酸碱对（FLPs）催化聚合物精准合成 / 开发新型有机合成方法构建新型聚合物主链",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9506.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "张云鹤",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "介电高分子/高性能聚合物及其复合材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9505.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "张志权",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "界面电化学、生物及纳米电化学、纳米材料及应用",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9504.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "张子微",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "电子顺磁共振、光谱分析、生物分析、纳米探针",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9826.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "张宗弢",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "1. 优化合成锂离子电池电极材料； / 2. 设计开发多级孔沸石分子筛，研究相关作用机制； / 3. 新型半导体光催化剂的制备及其光解水产氢性能研究； / 4. 开发新型无机多孔超级绝热材料； / 5. 新型高效光电功能材料制备； / 6. 智能纳米驱油材料的机制研究。",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9503.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "张佐伦",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机光电功能材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9502.htm",
+                           "department":  "有机化学"
+                       },
+                       {
+                           "name":  "赵冰",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "新型SERS基底的制备研究，SERS技术在生命科学、材料科学及分析科学中的应用。振动光谱(红外光谱；拉曼光谱、表面增强拉曼光谱)、电子光谱(紫外－可见吸收、荧光光谱)基础及应用研究。",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9501.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "赵成吉",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "氢能与燃料电池关键材料与核心组件、可持续高分子材料、生物基树脂及复合材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9500.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "赵环宇",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "聚合物纳米粒子、高分子纳米复合材料、多孔有机聚合物",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9499.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "赵武超",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "聚合物精准合成；基于可再生资源的高分子；聚合物降解与闭环回收；弹性体的可控合成",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/16641.htm",
+                           "department":  "超分子结构与材料"
+                       },
+                       {
+                           "name":  "赵熹",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "发展和应用理论化学与统计力学方法；人工智能方法应用于药物筛选方法和分子动力学模拟；药物先导物优化与作用机理研究；生物分子与材料的分子动力学模拟。",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9498.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "赵晓刚",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "聚合物基电致变色/电控荧光材料、高性能聚合物基多孔膜材料、热塑性复合材料及其树脂基体",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9497.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "赵旭",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "无机-聚合物复合材料物理化学、绿色功能材料物理化学",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9496.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "赵旭东",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9495.htm",
+                           "department":  "无机化学"
+                       },
+                       {
+                           "name":  "赵增霞",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "过渡金属催化偶联反应机理研究与催化剂设计、光驱动分子开关的设计与机理研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9494.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "郑海娇",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "智能响应型复合材料用于蛋白组学分析、功能化骨架材料用于PTMs多元检测、磁光多功能复合材料用于多组学分析",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/14403.htm",
+                           "department":  "化学学院"
+                       },
+                       {
+                           "name":  "郑克岩",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9493.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "钟荣林",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "1.多组分催化反应的动态效应模拟方法发展与机理研究 / 可控组装超分子催化剂的智能化创制",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9491.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "周兵",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "无机材料表面功能化、天然矿物材料改性、高分子纳米复合材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9490.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "周广栋",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "界面化学：液液界面化学、固液界面化学、乳状液及破乳、纳米界面活性剂、吸附分离等 / 多相催化化学：低碳烷烃催化转化、醇类催化转化、化学制氧、环境催化等",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9489.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "周宏伟",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机芳杂环材料、特种工程塑料、高性能有机复合材料",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9488.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "周中军",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "1.光化学反应机制的理论研究 / 2.复杂体系激发态路径搜索程序开发 / 3.新型热激活延迟荧光材料的理论设计 / 4.激发态反应力场及非绝热动力学模拟",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9487.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "朱守俊",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "分子探针、活体成像、光功能诊疗",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9486.htm",
+                           "department":  "高分子化学与物理"
+                       },
+                       {
+                           "name":  "朱万春",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "多相催化剂（复合氧化物、杂多化合物、纳米金属颗粒、分子筛）设计、制备、表征及催化反应性能评价",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9485.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "朱轩伯",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "仿生医用工程材料、特种功能材料、新能源材料与器件",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/13538.htm",
+                           "department":  "化学学院"
+                       },
+                       {
+                           "name":  "朱燕超",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "无机/有机复合材料、功能材料物理化学、生物质资源开发与利用、介电弹性体材料的开发与利用",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9484.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "朱有亮",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "高分子/超分子的大尺度分子动力学模拟方法和软件、高分子材料力学性能的分子机理、共价有机框架的生长动力学等",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9482.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "庄家骐",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "纳米生物材料的制备、组装及其在生物医学检测领域的应用研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9483.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "邹博",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9481.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "邹海峰",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "1.高效稀土发光材料的合成与发光、温敏、压敏等性能研究 / 2.高效LED用荧光粉的制备与器件封装 / 3.TiO2/SiO2基光催化与光致变色材料的制备与应用研究",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9480.htm",
+                           "department":  "化学（应用化学）"
+                       },
+                       {
+                           "name":  "邹连春",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "发光材料、纳米粒子、天然产物",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9479.htm",
+                           "department":  "分析化学"
+                       },
+                       {
+                           "name":  "邹陆一",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "理论模拟与人工智能在材料中的应用、碳基材料的开发、温差电池",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9478.htm",
+                           "department":  "物理化学"
+                       },
+                       {
+                           "name":  "邹晓新",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "氢/低碳能源关键材料开发与产业化技术",
+                           "profile_url":  "https://chem.jlu.edu.cn/info/1051/9477.htm",
+                           "department":  "无机化学"
+                       }
+                   ]
+}

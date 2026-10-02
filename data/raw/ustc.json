@@ -1,0 +1,1348 @@
+{
+    "school":  "中国科学技术大学",
+    "source_urls":  [
+                        "https://scms.ustc.edu.cn/41112/list.htm",
+                        "https://chem.ustc.edu.cn/2476/list.htm",
+                        "https://dcp.ustc.edu.cn/4437/list.htm",
+                        "https://mse.ustc.edu.cn/3334/list.htm",
+                        "https://polymer.ustc.edu.cn/2010/1123/c25100a474969/page.htm"
+                    ],
+    "professors":  [
+                       {
+                           "name":  "谢毅",
+                           "name_en":  "",
+                           "title":  "教授、院士",
+                           "research_area":  "无机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2014/0425/c2475a17251/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "俞书宏",
+                           "name_en":  "",
+                           "title":  "教授、院士",
+                           "research_area":  "无机化学",
+                           "profile_url":  "http://team.ustc.edu.cn/yulab/en/",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "江海龙",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "无机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2013/0304/c2474a17084/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "唐凯斌",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "无机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1023/c2474a17015/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "吴长征",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "无机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2013/1113/c2474a17095/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "杨晴",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "无机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1023/c2474a17049/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "梁海伟",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "无机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2016/0406/c2474a17114/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "刘建伟",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "无机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2019/1120/c2474a405571/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "庄涛涛",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "无机化学",
+                           "profile_url":  "https://faculty.ustc.edu.cn/zhuangtaotao/zh_CN/index.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "闵元增",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "无机化学、化学生物学",
+                           "profile_url":  "https://faculty.ustc.edu.cn/minyuanzeng/zh_CN/index/999166/list/index.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "孟征",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "无机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2022/0106/c2474a542337/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "焦龙",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "无机化学",
+                           "profile_url":  "https://chem.ustc.edu.cn/2023/0712/c2474a608426/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "郭宇桥",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "无机化学",
+                           "profile_url":  "https://faculty.ustc.edu.cn/guoyuqiao/zh_CN/",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "刘卫",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "无机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1029/c2473a17174/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "时亮",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "无机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1029/c2473a17178/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "宋乐新",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "无机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1029/c2470a17189/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "徐小龙",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "无机化学、化学生物学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1029/c2473a17126/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "龚流柱",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1023/c2474a17066/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "顾振华",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1023/c2474a16973/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "黄汉民",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2016/0323/c2474a17108/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "康彦彪",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1023/c2474a16990/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "宋钦华",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1023/c2474a16979/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "田仕凯",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1023/c2474a16981/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王官武",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1023/c2474a17060/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王细胜",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1023/c2474a16989/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "汪义丰",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "https://faculty.ustc.edu.cn/wangyifeng/zh_CN/index.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王中夏",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1023/c2474a17002/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "肖斌",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2020/1203/c2474a462601/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "徐允河",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2020/1203/c2474a462602/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "张清伟",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2018/0403/c2474a219657/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王川",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2016/1230/c2474a171523/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "汪普生",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "https://faculty.ustc.edu.cn/pusher/zh_CN/zzcg/164398/list/index.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "刘建忠",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2025/0202/c2474a673524/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "卓庆德",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2025/0202/c2474a673523/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "张海军",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "https://faculty.ustc.edu.cn/zhanghaijun/zh_CN/index.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "孙尚政",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "https://faculty.ustc.edu.cn/sunshangzheng/zh_CN/index.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "谷永红",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1023/c2473a17192/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "韩志勇",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "https://faculty.ustc.edu.cn/HANZHIYONG/zh_CN/zhym/231882/list/index.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "李光水",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1029/c2473a17166/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "罗时玮",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1029/c2473a17171/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "许毓",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1029/c2473a17129/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "郑小琦",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1101/c2473a17195/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "张凤莲",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2024/0710/c2473a647066/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "崔华",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "分析化学、化学生物学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1009/c2474a16969/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "邓兆祥",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "分析化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1009/c2474a16967/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "黄光明",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "分析化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1023/c2474a16977/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "龙冬",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "分析化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2018/1116/c2474a354403/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "李涛",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "分析化学、化学生物学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2015/0713/c2474a17106/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "钟文婉",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "分析化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2024/0320/c2474a633306/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "袁月",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "分析化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2021/0310/c2474a475882/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "江万权",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "分析化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1023/c2473a17180/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "邵利民",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "分析化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1029/c2473a17175/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "姚东宝",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "分析化学",
+                           "profile_url":  "https://faculty.ustc.edu.cn/yaodongbao/zh_CN/index.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "刘扬中",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "化学生物学、无机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1023/c2474a17056/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "马明明",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "化学生物学、有机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2014/0402/c2474a17098/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "石攀",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "化学生物学、无机化学",
+                           "profile_url":  "https://faculty.ustc.edu.cn/shipan/zh_CN/index.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "虞正亮",
+                           "name_en":  "",
+                           "title":  "职员",
+                           "research_area":  "分析化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1101/c2472a17254/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "傅得欣",
+                           "name_en":  "",
+                           "title":  "实验员",
+                           "research_area":  "无机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2012/1101/c2471a16863/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "田长麟",
+                           "name_en":  "",
+                           "title":  "兼职教授",
+                           "research_area":  "化学生物学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2020/1102/c2474a458357/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "苗庆庆",
+                           "name_en":  "",
+                           "title":  "兼职教授",
+                           "research_area":  "分析化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2024/0226/c2474a630614/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "林岳",
+                           "name_en":  "",
+                           "title":  "兼职教授",
+                           "research_area":  "无机化学",
+                           "profile_url":  "https://faculty.ustc.edu.cn/linyue/",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "宋磊",
+                           "name_en":  "",
+                           "title":  "兼职教授",
+                           "research_area":  "无机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2024/0320/c2474a633311/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "松尾豊",
+                           "name_en":  "",
+                           "title":  "兼职教授",
+                           "research_area":  "有机化学",
+                           "profile_url":  "http://chem.ustc.edu.cn/2016/1020/c2474a17122/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "朱清时",
+                           "name_en":  "",
+                           "title":  "院 士",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2013/1208/c4479a39695/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "吴奇",
+                           "name_en":  "",
+                           "title":  "院 士",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2013/1208/c4478a39682/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "包信和",
+                           "name_en":  "",
+                           "title":  "院 士",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2013/1208/c4477a39678/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "杨学明",
+                           "name_en":  "",
+                           "title":  "院 士",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2014/0331/c4476a39706/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "张东辉",
+                           "name_en":  "",
+                           "title":  "院 士",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/zdh/list.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "杨金龙",
+                           "name_en":  "",
+                           "title":  "院 士",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2014/0331/c4459a39447/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "陈东明",
+                           "name_en":  "",
+                           "title":  "教 授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/4473/list.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "陈旸",
+                           "name_en":  "",
+                           "title":  "教 授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2014/0331/c4474a39689/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "陈艳霞",
+                           "name_en":  "",
+                           "title":  "教 授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2013/1210/c4472a39501/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "胡水明",
+                           "name_en":  "",
+                           "title":  "教 授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2013/1209/c4471a39498/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "黄伟新",
+                           "name_en":  "",
+                           "title":  "教 授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/4470/list.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "侯中怀",
+                           "name_en":  "",
+                           "title":  "教 授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2014/0331/c4469a39465/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "蒋彬",
+                           "name_en":  "",
+                           "title":  "教 授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2017/1017/c13890a194507/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "江俊",
+                           "name_en":  "",
+                           "title":  "教 授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2014/0329/c4440a39708/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "刘光明",
+                           "name_en":  "",
+                           "title":  "教 授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2014/0329/c4464a39496/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "路军岭",
+                           "name_en":  "",
+                           "title":  "教 授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2014/0331/c4462a39443/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "李群祥",
+                           "name_en":  "",
+                           "title":  "教 授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2013/1223/c4467a39458/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "李全新",
+                           "name_en":  "",
+                           "title":  "教 授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2013/1209/c4468a39453/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "李微雪",
+                           "name_en":  "",
+                           "title":  "教 授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2015/0709/c4438a39472/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "李震宇",
+                           "name_en":  "",
+                           "title":  "教 授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2013/1209/c4466a39470/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "邵翔",
+                           "name_en":  "",
+                           "title":  "教 授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2013/1209/c4461a39434/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "田善喜",
+                           "name_en":  "",
+                           "title":  "教 授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2013/1210/c4460a39420/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "王兴安",
+                           "name_en":  "",
+                           "title":  "教 授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2020/1029/c4445a456431/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "闫立峰",
+                           "name_en":  "",
+                           "title":  "教 授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2013/1209/c4457a39424/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "曾杰",
+                           "name_en":  "",
+                           "title":  "教 授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2013/1209/c4456a39426/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "张群",
+                           "name_en":  "",
+                           "title":  "教 授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2013/1209/c4442a39711/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "周晓国",
+                           "name_en":  "",
+                           "title":  "教 授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2013/1209/c4441a39461/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "严欢",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2021/1104/c28730a531059/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "刘进勋",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/ljx/list.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "袁龙",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2022/1213/c33114a585941/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "李星星",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2019/0104/c17513a370170/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "李少锋",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2024/1227/c38190a670049/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "张亮",
+                           "name_en":  "",
+                           "title":  "特任研究员",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2025/0325/c38686a678081/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "叶树集",
+                           "name_en":  "",
+                           "title":  "教 授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2013/1209/c4443a39466/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "谭世倞",
+                           "name_en":  "",
+                           "title":  "教 授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2020/1221/c23705a465817/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "朱俊发",
+                           "name_en":  "",
+                           "title":  "研究员",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2021/0301/c25068a474540/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "程存峰",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2024/0119/c35636a628914/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "胡素磊",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2024/0119/c35638a628918/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "胡伟",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2024/0129/c35637a629952/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "刘安雯",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2013/1210/c4449a39463/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "马运生",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2013/1209/c4448a39485/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "汪文栋",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2013/1209/c4444a39492/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "叶晓东",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2014/0330/c4439a39422/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "张镇",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2018/0104/c14431a216176/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "千坤",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/13894/list.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "张国帧",
+                           "name_en":  "",
+                           "title":  "特任副研究员",
+                           "research_area":  "",
+                           "profile_url":  "http://dcp.ustc.edu.cn/2017/1017/c13893a194511/page.htm",
+                           "department":  "化学物理系"
+                       },
+                       {
+                           "name":  "杜平武",
+                           "name_en":  "",
+                           "title":  "教授、博导",
+                           "research_area":  "",
+                           "profile_url":  "http://staff.ustc.edu.cn/~dupingwu/index.html",
+                           "department":  "材料科学与工程系"
+                       },
+                       {
+                           "name":  "陈初升",
+                           "name_en":  "",
+                           "title":  "教授、博导",
+                           "research_area":  "",
+                           "profile_url":  "http://mse.ustc.edu.cn/2010/0707/c3333a28958/page.htm",
+                           "department":  "材料科学与工程系"
+                       },
+                       {
+                           "name":  "朱长飞",
+                           "name_en":  "",
+                           "title":  "教授、博导",
+                           "research_area":  "",
+                           "profile_url":  "http://mse.ustc.edu.cn/2010/0707/c3333a28961/page.htm",
+                           "department":  "材料科学与工程系"
+                       },
+                       {
+                           "name":  "陆亚林",
+                           "name_en":  "",
+                           "title":  "教授、博导",
+                           "research_area":  "",
+                           "profile_url":  "http://yllu.ustc.edu.cn/",
+                           "department":  "材料科学与工程系"
+                       },
+                       {
+                           "name":  "陈春华",
+                           "name_en":  "",
+                           "title":  "教授、博导",
+                           "research_area":  "",
+                           "profile_url":  "https://www.x-mol.com/groups/ustc-lilab",
+                           "department":  "材料科学与工程系"
+                       },
+                       {
+                           "name":  "陈乾旺",
+                           "name_en":  "",
+                           "title":  "教授、博导",
+                           "research_area":  "",
+                           "profile_url":  "http://mse.ustc.edu.cn/2010/0707/c3333a28956/page.htm",
+                           "department":  "材料科学与工程系"
+                       },
+                       {
+                           "name":  "徐集贤",
+                           "name_en":  "",
+                           "title":  "教授、博导",
+                           "research_area":  "",
+                           "profile_url":  "http://mse.ustc.edu.cn/2020/0309/c3333a414250/page.htm",
+                           "department":  "材料科学与工程系"
+                       },
+                       {
+                           "name":  "徐鑫",
+                           "name_en":  "",
+                           "title":  "教授、博导",
+                           "research_area":  "",
+                           "profile_url":  "http://mse.ustc.edu.cn/2010/0707/c3333a28963/page.htm",
+                           "department":  "材料科学与工程系"
+                       },
+                       {
+                           "name":  "向斌",
+                           "name_en":  "",
+                           "title":  "教授、博导",
+                           "research_area":  "",
+                           "profile_url":  "http://mse.ustc.edu.cn/2012/0912/c3333a29001/page.htm",
+                           "department":  "材料科学与工程系"
+                       },
+                       {
+                           "name":  "曹瑞国",
+                           "name_en":  "",
+                           "title":  "教授、博导",
+                           "research_area":  "",
+                           "profile_url":  "http://mse.ustc.edu.cn/2016/1024/c3333a29024/page.htm",
+                           "department":  "材料科学与工程系"
+                       },
+                       {
+                           "name":  "郝绿原",
+                           "name_en":  "",
+                           "title":  "教授级高工",
+                           "research_area":  "",
+                           "profile_url":  "http://mse.ustc.edu.cn/2010/0707/c3333a28966/page.htm",
+                           "department":  "材料科学与工程系"
+                       },
+                       {
+                           "name":  "彭冉冉",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "",
+                           "profile_url":  "http://mse.ustc.edu.cn/2011/0422/c3331a29053/page.htm",
+                           "department":  "材料科学与工程系"
+                       },
+                       {
+                           "name":  "丁锦文",
+                           "name_en":  "",
+                           "title":  "高级工程师",
+                           "research_area":  "",
+                           "profile_url":  "http://mse.ustc.edu.cn/2015/0724/c3331a29064/page.htm",
+                           "department":  "材料科学与工程系"
+                       },
+                       {
+                           "name":  "陈立东",
+                           "name_en":  "",
+                           "title":  "研究员",
+                           "research_area":  "",
+                           "profile_url":  "http://mse.ustc.edu.cn/2014/1015/c3332a30119/page.htm",
+                           "department":  "材料科学与工程系"
+                       },
+                       {
+                           "name":  "温兆银",
+                           "name_en":  "",
+                           "title":  "研究员",
+                           "research_area":  "",
+                           "profile_url":  "http://mse.ustc.edu.cn/2014/1015/c3332a30113/page.htm",
+                           "department":  "材料科学与工程系"
+                       },
+                       {
+                           "name":  "黄富强",
+                           "name_en":  "",
+                           "title":  "研究员",
+                           "research_area":  "",
+                           "profile_url":  "http://mse.ustc.edu.cn/2014/1015/c3332a30121/page.htm",
+                           "department":  "材料科学与工程系"
+                       },
+                       {
+                           "name":  "王绍荣",
+                           "name_en":  "",
+                           "title":  "研究员",
+                           "research_area":  "",
+                           "profile_url":  "http://mse.ustc.edu.cn/2014/1015/c3332a30124/page.htm",
+                           "department":  "材料科学与工程系"
+                       },
+                       {
+                           "name":  "吴文彬",
+                           "name_en":  "",
+                           "title":  "教授、博导",
+                           "research_area":  "",
+                           "profile_url":  "http://mse.ustc.edu.cn/2014/1015/c3332a30118/page.htm",
+                           "department":  "材料科学与工程系"
+                       },
+                       {
+                           "name":  "孙雪峰",
+                           "name_en":  "",
+                           "title":  "教授、博导",
+                           "research_area":  "",
+                           "profile_url":  "http://mse.ustc.edu.cn/2014/1015/c3332a30117/page.htm",
+                           "department":  "材料科学与工程系"
+                       },
+                       {
+                           "name":  "王德亮",
+                           "name_en":  "",
+                           "title":  "教授、博导",
+                           "research_area":  "",
+                           "profile_url":  "http://mse.ustc.edu.cn/2011/0422/c3332a30111/page.htm",
+                           "department":  "材料科学与工程系"
+                       },
+                       {
+                           "name":  "陈学思",
+                           "name_en":  "",
+                           "title":  "兼职教授，院士",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2020/0826/c25101a474970/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "陈昶乐",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "",
+                           "profile_url":  "http://staff.ustc.edu.cn/~changle/index.html",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "洪春雁",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2010/1119/c25101a474985/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "胡进明",
+                           "name_en":  "",
+                           "title":  "教授 ，系执行主任",
+                           "research_area":  "",
+                           "profile_url":  "https://faculty.ustc.edu.cn/jmhu",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "崔昆朋",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2022/0425/c25101a552734/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "刘世勇",
+                           "name_en":  "",
+                           "title":  "教授，学院执行院长",
+                           "research_area":  "",
+                           "profile_url":  "http://staff.ustc.edu.cn/~sliu",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "刘和文",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2010/1119/c25101a474986/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "汪峰",
+                           "name_en":  "",
+                           "title":  "教授，系总支书记",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2010/1119/c25101a474983/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "吴思",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "",
+                           "profile_url":  "https://faculty.ustc.edu.cn/siwu/zh_CN/index/899560/list/index.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "王延梅",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2010/1114/c25101a474991/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "王志刚",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2010/1114/c25101a474990/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "徐航勋",
+                           "name_en":  "",
+                           "title":  "教授，学院副院长",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2013/0301/c25101a474982/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "尤业字",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2013/1107/c25101a474979/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "朱平平",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2010/1114/c25101a474994/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "程群峰",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "",
+                           "profile_url":  "https://wp.ustc.edu.cn/_s46/2025/0919/c25101a701833/page.psp",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "邹纲",
+                           "name_en":  "",
+                           "title":  "教授",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2015/0731/c25101a474977/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "崔林松",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "",
+                           "profile_url":  "http://polymer.ustc.edu.cn/2021/0506/c25101a483987/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "李闯",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2021/0621/c25101a513898/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "张洁",
+                           "name_en":  "",
+                           "title":  "特任研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2021/1014/c25101a525552/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "王龙海",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2022/0701/c25101a561611/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "胡祥龙",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2023/0216/c25101a592414/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "邓正玉",
+                           "name_en":  "",
+                           "title":  "特任研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://wp.ustc.edu.cn/_s46/2024/0724/c25101a648357/page.psp",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "陈杜宇",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2025/0713/c25101a691147/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "何卫东",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2010/1122/c25102a475001/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "刘华蓉",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2010/1122/c25102a475002/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "阳丽华",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2013/0527/c25102a474997/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "张国颖",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2010/1122/c25102a474999/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "汪谟贞",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2012/1220/c25102a474998/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "王磊",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2026/0515/c25102a740750/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "肖石燕",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2021/0308/c25102a475570/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "张泽",
+                           "name_en":  "",
+                           "title":  "特任教授",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2023/0221/c25102a592636/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "李良彬",
+                           "name_en":  "",
+                           "title":  "双聘教授，同步辐射实验室党委书记 /副主任",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2013/0424/c25101a474981/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "闫立峰",
+                           "name_en":  "",
+                           "title":  "兼职教授，学院党委书记",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2013/1028/c25101a474980/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "徐铜文",
+                           "name_en":  "",
+                           "title":  "兼职教授，院士",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2021/0310/c25101a475842/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "胡源",
+                           "name_en":  "",
+                           "title":  "双聘教授",
+                           "research_area":  "",
+                           "profile_url":  "http://sklfs.ustc.edu.cn/2017/0727/c12630a189903/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "张忠",
+                           "name_en":  "",
+                           "title":  "双聘教授",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2022/0222/c25101a546253/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "王育才",
+                           "name_en":  "",
+                           "title":  "双聘教授",
+                           "research_area":  "",
+                           "profile_url":  "https://polymer.ustc.edu.cn/2023/0308/c25101a594183/page.htm",
+                           "department":  "高分子科学与工程系"
+                       },
+                       {
+                           "name":  "马骏",
+                           "name_en":  "",
+                           "title":  "双聘教授",
+                           "research_area":  "",
+                           "profile_url":  "https://wp.ustc.edu.cn/_s46/2023/1129/c25101a622905/page.psp",
+                           "department":  "高分子科学与工程系"
+                       }
+                   ]
+}

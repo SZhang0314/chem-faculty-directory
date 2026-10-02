@@ -1,0 +1,2 @@
+﻿$j = Get-Content -Raw -Encoding UTF8 "D:\USTC-AI\chem-faculty\data\raw\ustc.json" | ConvertFrom-Json
+$j.professors | Where-Object { $_.department -eq "高分子科学与工程系" -and $_.profile_url -match 'polymer.ustc.edu.cn/20' } | Select-Object -First 3 | ForEach-Object { Write-Output ($_.name + " => " + $_.profile_url) }

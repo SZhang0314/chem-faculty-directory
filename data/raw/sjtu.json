@@ -1,0 +1,1972 @@
+{
+ "school": "上海交通大学",
+ "source_urls": [
+  "https://scce.sjtu.edu.cn/teachers.html",
+  "https://scce.sjtu.edu.cn/active/ajax_zm_list.html",
+  "https://scce.sjtu.edu.cn/szdw.html",
+  "https://scce.sjtu.edu.cn/lyys.html",
+  "https://scce.sjtu.edu.cn/en/Faculty_Directory.html"
+ ],
+ "professors": [
+  {
+   "name": "于春阳",
+   "name_en": "Chunyang YU",
+   "title": "副教授（副研究员）",
+   "research_area": "聚合物多尺度建模、模拟以及动力学研究； AI驱动的高分子材料结构与性能关系研究； 聚合物体系MLP的开发与应用。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1629.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "仪得志",
+   "name_en": "",
+   "title": "实验师（工程师及其他）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4107.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "任垭萌",
+   "name_en": "",
+   "title": "长聘（教轨）副教授",
+   "research_area": "本课题组主要从事化学-生物混合电极的设计及其光电化学转换研究： （1）有机功能材料的设计及合成 （2）生物酶的固化及其催化性能研究 （3）生物质催化转化研究 （4）废弃塑料升级再利用研究 （5）光/电/光电化学转换器件的制备及其表征",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4133.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "任宁",
+   "name_en": "Ning REN",
+   "title": "助理研究员",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3029.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "何紫东",
+   "name_en": "",
+   "title": "助理研究员",
+   "research_area": "超支化聚合物应用与产业化； 聚合物溶液结晶； 功能聚合物可控合成与自组装；",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3906.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "俞炜",
+   "name_en": "Wei YU",
+   "title": "教授（研究员）",
+   "research_area": "复杂流体流变学与动力学： polymer melts and solutions, block copolymers, polymer composites/nanocomposites, emulsions, suspensions, gels 化学流变学： kinetics and mechanism of chemical reactions in polymeric systems under flow field 相转变与临界现象： liquid-solid transition, liquid-liquid phase separation, crystallization of polymers 本构模型与多尺度计算机模拟： rheological constitutive theory for polymer melts/polymer blends/composites, multiscale simulation of polymer blend/composites, simulation of polymer processing 高性能聚合物材料： microporous membranes, polymer alloys, vitrimers, polymer foams, gels",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1654.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "冯新亮",
+   "name_en": "Xinliang FENG",
+   "title": "教授（研究员）",
+   "research_area": "1) 二维大分子和超分子，二维纳米石墨烯的合成研究，盘状液晶分子的合成和自组织研究，共轭pi-体系分子的有机设计和合成，基于pi-体系分子的超分子化学，设计合成共轭寡聚物和高分子以及在有机电子学器件的测试和表征研究 (主要基于有机发光，场效应晶体管和有机薄膜太阳能电池材料); 2) 宏量制备高质量二维石墨烯材料研究，合成水溶和油溶可加工石墨烯研究，基于石墨烯的二维纳米能源材料和电子器件研究，基于石墨烯电极材料在太阳能电池和场效应晶体管器件的应用研究，有机和高分子多孔材料的合成和应用研究(主要包括储氢和催化材料)，可控纳米结构功能碳材料、有机/无机杂化材料的设计合成及其在能源储存和转化的应用研究(主要基于超级电容器，锂离子电池，光解水，燃料电池电极材料和催化剂的研究)。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1670.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "刘允航",
+   "name_en": "Yunhang LIU",
+   "title": "实验师（工程师及其他）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1501.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "刘峰",
+   "name_en": "Feng LIU",
+   "title": "长聘（教轨）副教授",
+   "research_area": "有机光电功能材料 人工智能材料设计 光电转换功能器件 印刷可穿戴光电子器件 神经形态视觉传感系统",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4900.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "刘彦男",
+   "name_en": "",
+   "title": "长聘（教轨）副教授",
+   "research_area": "1、 聚合物导向自组装（DSA） 2 、光电低维高分子及器件化 3、 超分子化学",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3700.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "刘思俊",
+   "name_en": "Sijun LIU",
+   "title": "长聘（教轨）副教授",
+   "research_area": "1) 功能性高分子凝胶 2) 高分子凝胶、溶液、悬浮体系流变学 3) 3D打印及柔性器件",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1644.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "刘烽",
+   "name_en": "Feng LIU",
+   "title": "教授（研究员）",
+   "research_area": "高分子物理，X射线/中子表征技术，薄膜光电器件，含氟功能薄膜，粒子表界面自组装。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1665.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "刘飞",
+   "name_en": "Fei LIU",
+   "title": "高级工程师（高级实验师）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1502.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "印杰",
+   "name_en": "Jie YIN",
+   "title": "教授（研究员）",
+   "research_area": "1. 光敏电子材料 2. 刺激响应性高分子 3. 特种复合材料",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1655.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "史坤明",
+   "name_en": "Kunming SHI",
+   "title": "副教授（副研究员）",
+   "research_area": "电介质功能材料与器件； 导热绝缘材料",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3579.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "史子兴",
+   "name_en": "Zixing SHI",
+   "title": "教授（研究员）",
+   "research_area": "石墨烯-聚合物基高性能复合材料的制备 Reference: Wang Yan, Shi Zixing, Fang Jianhua, Xu, Hongjie, Yin Jie, Graphene oxide/polybenzimidazole composites fabricated by a solvent-exchange method，Carbon， 49 (4)：1199-1207,2011 绿色环境友好材料的制备，仿天然生物材料的制备 利用茶叶中的茶多酚还原氧化石墨烯： Reference：Wang Yan; Shi Zixing; Yin Jie, Facile Synthesis of Soluble Graphene via a Green Reduction of Graphene Oxide in Tea Solution and Its Biocomposites, ACS Applied Materials & Interfaces, 3(4):1127-1133, 2011 智能弹性体材料的设计和制备 类似树叶两面不对称智能弹性体材料的制备 Reference：Adv. Funct. Mater. 2018, 1800939（DOI: 10.1002/adfm.201800939） 高性能纤维的制备和产业化",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1632.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "吴东清",
+   "name_en": "Dongqing WU",
+   "title": "教授（研究员）",
+   "research_area": "本人一直从事芳香化合物的合成和由之衍生的纳米碳与富碳功能材料的制备及其在储能、传感和催化等领域的应用。主要研究方向包括： 1）利用芳香化合物的溶液组装制备了多种有机二次电池电极材料，通过调控各组分在电极/电解质相界面间相互作用有效提高了所得复合材料在有机二次电池中的循环稳定性和倍率性能； 2）利用芳香化合物的溶液组装行为和良好热稳定性制备了多种新型纳米碳和富碳材料，为从分子级别调控纳米碳材料的形貌、结构、组成和性能提供了切实可行的方案； 3）结合在芳香化合物组装方面的经验和基础，开发了针对石墨烯等纳米碳材料的溶液组装技术，制备了多种具有优异电化学性能的碳基复合材料。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1630.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "吴建",
+   "name_en": "Jian WU",
+   "title": "助理研究员",
+   "research_area": "主要研究兴趣：塑料和橡胶加工与改性；导电、导热和阻燃等功能性 高分子 材料",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1507.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "周林珠",
+   "name_en": "Linzhu ZHOU",
+   "title": "助理研究员",
+   "research_area": "纳米生物医学",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1504.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "周永丰",
+   "name_en": "Yongfeng ZHOU",
+   "title": "教授（研究员）",
+   "research_area": "1、超分子自组装 2、嵌段共聚物的分子设计与可控合成 3、细胞仿生自组装",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1647.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "姜学松",
+   "name_en": "Xuesong JIANG",
+   "title": "教授（研究员）",
+   "research_area": "1、高分子材料表面微纳米结构和图案 2、感光高分子及其光固化高分子材料",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1666.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "孙炎",
+   "name_en": "",
+   "title": "助理研究员",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4544.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "孟东",
+   "name_en": "Dong MENG",
+   "title": "长聘（教轨）副教授",
+   "research_area": "课题组宗旨是在有机合成化学，材料化学，生物和能源化学等交叉领域开展工作，以合成化学为手段，材料功能为导向进行分子设计及其组装结构的精准调控，实现有机功能材料在新能源和生物医药领域应用中 “0到1” 的新突破。 团队致力于新型有机功能材料的设计与开发，以 “π” 为主线、“太阳光”为媒介，探索有机功能分子及其组装结构在光能向电能，热能 ，以及化学能的转化，研究其在清洁型新能源材料以及生物医药等前沿交叉学科领域的应用。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3556.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "宋静楠",
+   "name_en": "",
+   "title": "助理研究员",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3904.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "尤伟",
+   "name_en": "Wei YOU",
+   "title": "副教授（副研究员）",
+   "research_area": "1. 软物质/复杂流体流变学： Suspensions, Polymers, Polymer processing, Polymer nanocomposites 2. 高强韧功能高分子及其复合材料（导热/电磁屏蔽/耐辐照等功能）： Epoxy, IR, SBR, PMMA, PP, PC, PA6/PA66, and PEEK composites, Thermally conductive/Radiation shielding/Atomic oxygen-resistant composites",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1505.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "庄小东",
+   "name_en": "Xiaodong ZHUANG",
+   "title": "教授（研究员）",
+   "research_area": "（1）二维高分子的合成方法学开发：包括薁(azulene)、异氰(isocyanide)等非传统强偶极单元的聚合方法、拓扑结构、光电磁特性的研究； （2）偶极增强高分子膜材料与能源器件开发：包括阴离子交换膜（AEM电解水）、固态电解质膜（固态锂电池）、传质增强相界面膜（CO2转化）。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1645.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "张勇",
+   "name_en": "Yong ZHANG",
+   "title": "教授（研究员）",
+   "research_area": "（1） 聚合物加工与改性 （2）橡胶化学与工艺学 （3）聚合物共混物与复合材料",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1649.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "张川",
+   "name_en": "Chuan ZHANG",
+   "title": "教授（研究员）",
+   "research_area": "1） 新型核酸药物、基因递送和治疗 2） 药物递送系统、新型生物材料合成和应用 3） 核酸纳米技术，生物大分子功能材料及纳米生物医学 团队2024硕士研究生目前尚有名额，欢迎对上述方向感兴趣的同学报考！",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1643.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "张明",
+   "name_en": "",
+   "title": "助理研究员",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/5002.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "张智涛",
+   "name_en": "Zhitao ZHANG",
+   "title": "长聘（教轨）副教授",
+   "research_area": "主要致力于设计并构建高性能柔性电子皮肤材料与器件，并结合微电子集成电路技术，应用到可穿戴电子设备、生物医疗电子设备等领域。研究工作主要包括以下三方面： 1. 柔性电子皮肤材料与器件：通过化学合成和分子工程策略等手段制备高性能电子材料、并优化器件制备工艺得到高性能柔性电子皮肤器件； 2. 微电子集成电路技术：设计柔性PCB电路和新型无线电子传感技术； 3. 生物电子应用：开发可穿戴电子设备、生物医疗电子设备，用于监测、传感、刺激和治疗等领域。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3104.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "张永明",
+   "name_en": "Yongming ZHANG",
+   "title": "教授（研究员）",
+   "research_area": "主要从事含氟功能高分子材料化工及能源功能膜研究。具体研究方向：1、含氟聚合物分子设计及合成；2、含氟聚合物结构、形态和性能研究；3、全氟离子聚合物功能膜研究；4、先进光电转换膜研究。 一、氯碱工业离子膜研究 氯碱工业是我国重要基础产业，支撑国民经济安全健康发展。主要产品为氯气、烧碱、氢气和盐酸，装备规模超过9000万吨/年。氯碱工业生产装备的核心组件是全氟氯碱离子膜，此前100%被美国和日本垄断，是我国氯碱工业战略层面的重大卡脖子难题。2003年上海交大与山东东岳集团组成产学研团队，在张永明教授带领下，团队经过8年研发，于2010年研发成功第一代国产氯碱离子膜，结束了我国氯碱工业30年受制于人的历史，我国氯碱工业也因此实现了从氯碱大国到氯碱强国的历史性跨越，有力保障了国民经济的安全运行。在深入开展基础理论研究和关键技术不断发展的基础上，成功研发了不断迭代的系列氯碱全氟离子膜，实现了中国氯碱离子膜“从无到有、从有到好、从好到优、世界领先”的步步发展。该成果入选《我国改革开放四十周年重大成就展》和《中国化学工业百年发展大事记》。国产氯碱离子膜被国家领导人称为“争气膜”。 由于本领域的激烈技术竞争，团队在这一领域的科技创新不停步，以支撑我国氯碱工业健康发展。 二、超强酸全氟质子膜研究 以太阳能为主的可再生能源的有效利用是实现双碳目标的可靠保证，因此，国家发改委出台了《2021-2035我国氢能发展中国长期规划》，强调了太阳能和氢能耦合的关键作用。在太阳能和氢能利用中，包括电解水制氢全氟质子膜、液流电池储能全氟质子膜和氢燃料电池全氟质子膜在内的超强酸全氟质子膜是关键核心材料，也极大影响着氢能和太阳能的发展方向。团队从基础原材料出发，通过深入的基础理论研究、关键技术研究、装备技术研究和工程技术研究，形成了我国独居特色的超强酸全氟质子膜技术和工程体系，建成全球最完整的超强酸全氟质子膜全产业链，创新实力走到世界前列。产品通过了奔驰公司认证（全球仅两家，国内唯一），是五部委《燃料电池汽车示范应用》众多厂商签约的全氟质子膜产品，实现了大规模国产应用，装配多种类型车辆。 团队在超强酸质子膜领域的研究不断深入，技术不断进步。 三、突破以乙烯-四氟乙烯共聚物（ ETFE）为代表的多种含氟功能材料关键制备技术，推动我国先进含氟功能材料工业体系的全面发展 长期以来，我国含氟高分子功能材料领域整体技术水平较低，中高端产品需通过不同渠道进口，成为我国现代化发展的系列卡脖子难题。因此，建设我国先进含氟高分子功能材料工业体系，打破发展瓶颈，支撑我国现代化建设，十分迫切。 ETFE是特种高分子材料，阻燃、耐候性、耐高低温、耐腐，耐辐照。团队在解决功能单体合成、新引发剂体系、导向型全氟电解质聚合技术的基础上，形成具有中国特色的ETFE先进技术体系，并完成五千吨级ETFE工程建设和产线，满足了我国航空航天等领域所需特种线缆材料需求。带领团队，先后研发成功系列高性能关键含氟功能高分子材料且全部实现产业化。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1650.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "张洪斌",
+   "name_en": "Hongbin ZHANG",
+   "title": "教授（研究员）",
+   "research_area": "· 高分子材料流变学和高分子物理化学 Rheology & physical chemistry of polymer materials · 健康和生物材料用高分子 Polymers for health & biomaterials · 多糖类生物活性大分子的分子表征、溶液、乳液和水凝胶 Molecular characterization, solutions, emulsions & hydrogels of polysaccharides · 亲水胶体和天然高分子功能化及工业应用 Functionalization & industrial applications of hydrocolloids & natural polymers",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1652.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "张照明",
+   "name_en": "Zhaoming ZHANG",
+   "title": "副教授（副研究员）",
+   "research_area": "协同的共价-超分子聚合物 机械互锁聚合物 智能响应性高分子材料",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3189.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "张绍东",
+   "name_en": "Shaodong ZHANG",
+   "title": "教授（研究员）",
+   "research_area": "从聚合机制、合成策略、结构调控、功能特性及构效关系等多个维度，系统构建互锁聚合（polycatenation）的研究体系。 具体研究内容包括： 1. 互锁聚合中逐步聚合与链式聚合的统计学规律与热力学机制； 2. 不同化学组成与序列结构的聚索烃（polycatenane）的理性设计与精准合成； 3. 聚索烃独特性能与应用探索，包括极性效应、发光增强效应、质子传导特性等。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1642.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "张韬",
+   "name_en": "Tao ZHANG",
+   "title": "长聘（教轨）副教授",
+   "research_area": "1）细胞集群和生物大分子的物理模型 2）Learning in Physical Networks 3）软物质材料计算模拟-动态聚合物力学性质",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1641.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "彭宗林",
+   "name_en": "Zonglin PENG",
+   "title": "副教授（副研究员）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1360.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "徐富贵",
+   "name_en": "Fugui XU",
+   "title": "助理研究员",
+   "research_area": "（1）不同拓扑结构功能聚合物的合成、自组装及应用； （2）共轭功能分子的精确可控合成、形貌调控及应用；",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3619.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "戚嵘嵘",
+   "name_en": "Rongrong QI",
+   "title": "副教授（副研究员）",
+   "research_area": "1、聚烯烃和工程塑料的高性能化和功能化研究 2、聚合物与无机纳米复合材料在光电领域的应用研究 3、高性能泡沫塑料的开发与应用 4、环境可再生及生物降解材料的应用研究",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1633.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "朱新远",
+   "name_en": "Xinyuan ZHU",
+   "title": "教授（研究员）",
+   "research_area": "1、聚合方法学、复杂聚合反应 2、高度支化聚合物的可控制备及功能化 3、功能高分子材料 4、生物医用材料",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1646.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "朱晓张",
+   "name_en": "",
+   "title": "教授（研究员）",
+   "research_area": "长期聚焦π-共轭分子材料与光电器件研究，突破传统共轭扩展与推拉电子设计的性能局限，创造性地提出融合芳香与醌式共振优势的材料设计新理念，构建了拥有自主知识产权的醌型有机光电材料体系，应用于高性能光伏、热电、发光与光探测等领域。以通讯作者在Nature Energy、Science Advances、Nature Communications、Accounts of Chemical Research、Energy & Environmental Science、Joule、Chem、Advanced Materials、Angewandte Chemie、Journal of the American Chemical Society、CCS Chemistry等国际顶尖期刊发表论文180余篇，总引用超1万次（H因子>50）。获授权中国发明专利14件。 π-共轭分子材料与光电器件 • 有机太阳电池 • 有机光电探测器 • 有机场效应晶体管 • 有机热电器件",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4901.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "朱磊",
+   "name_en": "",
+   "title": "副教授（副研究员）",
+   "research_area": "有机薄膜光伏器件",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3709.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "朱金辉",
+   "name_en": "Jinhui ZHU",
+   "title": "副教授（副研究员）",
+   "research_area": "硫化物全固态电池关键材料及工艺开发 聚合物固态电池关键材料及工艺开发 电催化剂设计制备与催化机制研究",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/2580.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "李晨飞",
+   "name_en": "",
+   "title": "助理研究员",
+   "research_area": "互锁有机分子笼的聚合及功能化",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/5008.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "李瑾",
+   "name_en": "",
+   "title": "助理研究员",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3907.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "李磊",
+   "name_en": "Lei LI",
+   "title": "教授（研究员）",
+   "research_area": "1、电化学储能电池（锂离子电池、锂空电池、钠离子电池等） 2、电解水制氢 3、燃料电池 4、膜分离",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1635.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "李蕾",
+   "name_en": "Lei LI",
+   "title": "副教授（副研究员）",
+   "research_area": "绿色可持续高分子材料的设计合成及应用",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1626.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "李虹",
+   "name_en": "Hong LI",
+   "title": "副教授（副研究员）",
+   "research_area": "1) 含氟两亲高分子材料 2）多功能、高性能防护涂层（防化、防腐蚀、特殊润湿性） 3）聚合物电解质",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1636.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "江文峰",
+   "name_en": "Wenfeng JIANG",
+   "title": "教授（研究员）",
+   "research_area": "1. 手性聚合物纳米材料的合成及功能 2. 基于手性大环的分子识别和超分子聚合物 3. 聚乙烯基醚的立构可控聚合",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/2693.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "汪圣尧",
+   "name_en": "",
+   "title": "长聘（教轨）副教授",
+   "research_area": "近年来，主要从事无机与有机半导体光催化材料开发及其在光催化N2固定、CO2还原、CH4活化及NO去除等方面的基础研究工作。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4000.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "汪根林",
+   "name_en": "Genlin WANG",
+   "title": "实验师（工程师及其他）",
+   "research_area": "从事轻量化、功能化、高性能化高分子/塑胶新材料及其产业化关键技术等研发。 独立承接二十多家国内外五百强及知名企业的研发资助，与企业合作研发课题30余项，至今进校横向课题经费超千万元。 合作研发的多种新材料新产品在K展、NPE展、CHINAPLAS国际橡塑展等展会上交流，如免水煮硅烷交联或光交联系列管道、线缆、容器等产品，塑胶产品微纳米孔径构建及其轻量化复合材料系列产品，超韧耐油高分子系列产品，轻质/柔性/形状记忆/阻燃/交联等多功能复合塑胶产品等。 除了高分子材料的高性能化、轻量化、功能化外，对高分子复合化、结构化等也进行了相关项目开发,以及相关新材料的先进成型设备及工艺创新研究。协助研发资助企业构筑产业链闭环，在新材料、设备、制造工艺、新产品产业链上开发更多核心专利技术，建立强大的核心竞争优势。与企业一起合作申请了数十项发明专利。 已协助多家企业进行产品升级换代，以及市场急需的新材料及新产品的研发，如大口径免水煮硅交联管道、免水煮硅交联电缆、轻量化多层结构舟艇、特殊高性能油箱、大型水产养殖抗菌项目、低表面能高分子材料的喷涂产品、多层高分子粘结产品，仿石仿自然艺术产品等。 与企业合作的一些新材料新产品已在线缆、管道、板片膜以及各种塑胶制品上得到广泛应用，如轻质器材箱、高性能皮划艇、冲锋舟、特种环保化工槽罐反应容器、高性能车辆部件，以及游乐、体育、家居、景观艺术等领域的相关高附加值产品中得到应用。某些品种实现了进口替代和创新升级，为相关企业创造了可观的经济效益。在低空经济、人形机器人领域等，研发的相关新材料（柔软弹性材料、形状记忆材料、轻质化材料、仿石材料，特种功能材料等）及技术集成有潜在的巨大的产业化开发空间。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1499.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "汪羽翎",
+   "name_en": "Yuling WANG",
+   "title": "实验师（工程师及其他）",
+   "research_area": "1）功能性超支化聚合物的设计、合成与应用 2）聚合物加工",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1622.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "熊辉明",
+   "name_en": "Huiming XIONG",
+   "title": "教授（研究员）",
+   "research_area": "1、聚醚高分子、液晶高分子、缔合超分子、纳米复合物、聚合物电解质等软凝聚态物质的设计合成(阴离子聚合）、结构相态和多尺度动态过程。 2、聚合物基全固态锂离子电池，新型共聚物合成方法学，功能化聚烯烃的合成与应用。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1658.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "王仕峰",
+   "name_en": "Shifeng WANG",
+   "title": "教授（研究员）",
+   "research_area": "1.先进高分子加工与应用； 2.高分子循环利用； 3. 绿色建筑材料. 欢迎有志从事高分子加工与应用，有化学、建筑、机械和道路工程等背景的博士后、研究生、本科生和相关工程技术人员交流深造。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1661.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "王友付",
+   "name_en": "Youfu WANG",
+   "title": "副教授（副研究员）",
+   "research_area": "1. 基于金属有机笼的精确纳米医药（抗炎、抗癌、造影剂等）。 2. 基于金属有机笼的限域纳米反应器（聚合物、团簇）。 3. 特种材料与结构的开发与应用。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1508.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "王大力",
+   "name_en": "Dali WANG",
+   "title": "长聘（教轨）副教授",
+   "research_area": "1. 功能高分子可控合成与自组装 2. 核酸药物递送及生物医用 3. 航天高分子材料",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3199.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "王新灵",
+   "name_en": "Xinling WANG",
+   "title": "教授（研究员）",
+   "research_area": "从事功能化聚氨酯的设计、合成及性能的研究；以及碳纤维先进复合材料成型加工、检测/评价、低成本热塑性树脂/碳纤维先进复合材料制造、碳纤维先进复合材料回收再利用技术等。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1660.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "王智",
+   "name_en": "Zhi WANG",
+   "title": "教授（研究员）",
+   "research_area": "研究方向 1、用于极端环境的树脂基复合材料（硕士期间研究方向，至今） 2、超高温陶瓷基复合材料（博士期间研究方向，至今） 3、结构轻量化复合材料 4、高速冲击防护复合材料 5、高低温防护结构与材料 6、特种飞行器动力与结构一体化",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3661.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "程林",
+   "name_en": "",
+   "title": "助理研究员",
+   "research_area": "复杂流体的结构、动力学与流变学： Associative/Dissociative dynamic polymers, Mechanically interlocked polymers, Polymer network defects, Emulsions 高性能智能化动态高分子材料： Dynamic crosslinked polymers, Damping materials, Vitrimer, Polymer foams, Silicone rubber",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4605.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "童刚生",
+   "name_en": "Gangsheng TONG",
+   "title": "副教授（副研究员）",
+   "research_area": "[1] 超支化聚合物的可控制备及功能化 [2] 功能化纳米材料 [3] 聚合物加工 [4] 航天特种涂料",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1631.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "肖谷雨",
+   "name_en": "Guyu XIAO",
+   "title": "教授（研究员）",
+   "research_area": "1. 聚合物膜材料 2. 工程聚合物材料 3. 无机/有机多孔材料",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1659.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "董常明",
+   "name_en": "Changming DONG",
+   "title": "教授（研究员）",
+   "research_area": "（1）生物高分子与生物医用材料（聚氨基酸或聚肽、抗菌肽、糖聚合物、天然多糖） （2）生物降解高分子与生物医用材料（聚乳酸、聚己内酯、脂肪族聚酯） （3）医用高分子水凝胶及其止血愈合与软组织工程 （医用粘结剂、止血剂、创伤辅料） （4）药物递送体系、纳米医学与癌症治疗（免疫治疗、光热治疗、铁死亡治疗、联合治疗） （5）生物降解与生态环保塑料的先进制备、加工与升级回收",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1671.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "薛白",
+   "name_en": "Bai XUE",
+   "title": "助理研究员",
+   "research_area": "1）糖尿病、癌症等疾病发病、进展及其后果的分子生物学机制研究，疾病模型的构建以及相关药物研发。 2）药物代谢动力学/药效学研究及其相关模型的建立和应用。 3）系统生物学、生物信息学和转化生物学的研究。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1506.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "袁望章",
+   "name_en": "Wangzhang YUAN",
+   "title": "教授（研究员）",
+   "research_area": "有机簇聚诱导发光材料/非典型发光材料（1）发光机理与光物理过程；（2）光物理性质及其可控调节；（3）新材料创制与应用 纯有机室温磷光材料",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1653.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "许胜杰",
+   "name_en": "Shengjie XU",
+   "title": "副教授（副研究员）",
+   "research_area": "有机光电材料的设计、合成及其性能研究",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3096.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "路庆华",
+   "name_en": "Qinghua LU",
+   "title": "教授（研究员）",
+   "research_area": "1、封装和显示用聚酰亚胺光刻胶: 包括大尺寸晶圆级封装、3D和系统封装用PSPI及柔性OLED发光组件黑色矩阵PSPI和TFT平坦化PSPI。 2、柔性OLED显示用聚酰亚胺膜: 针对柔性OLED显示基板膜和cover window开展耐高温、低膨胀、高模量和抗疲劳透明聚酰亚胺研究。 3、黑色与彩色聚酰亚胺光电薄膜：发展基于分子结构设计的本征型黑色、彩色聚酰亚胺的分子设计和性能调控方法。 4、人工智能光刻胶图形缺陷分析与预测：建立光刻图形数据库，采用图形识别、知识蒸馏、机器学习对图形缺陷分类、预测和机理研究 5、嵌段共聚物手性相分离，研究手性分子诱导下嵌段共聚物的微相分离，手性传递、手性放大和手性结构形成规律，发展具有手性特征的聚合物光学薄膜。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1664.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "邱惠斌",
+   "name_en": "Huibin QIU",
+   "title": "教授（研究员）",
+   "research_area": "1. 嵌段共聚物合成与自组装。 2. 多功能纳米阵列在催化、传感、能源、医学等领域的应用探索。 3. 弯曲稠环芳烃的合成与自组装。 4. 分子铁电材料、分子多孔晶体等。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1662.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "郑思珣",
+   "name_en": "Sixun ZHENG",
+   "title": "教授（研究员）",
+   "research_area": "1、热固性聚合物的结构与性能：反应诱致微相分离、自组装行为以及材料断裂力学; 2、含笼型硅氧烷(Polyhedral Oligomeric Silsesquioxanes, POSS)的聚合物的结构与性能; 3、有机-无机复合聚合物水凝胶的微结构与凝胶行为; 4、具有拓扑结构高分子的合成及其微结构研究; 5、高分子固体核磁共振波谱研究(H-1、H-2、Si-29、C-13 CP/MAS NMR等)：a)多组分高分子体系的 相结构及其大分子动力学研究；b)有机/无机纳米复合材料中的组分间相互作用研究。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1648.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "郑震",
+   "name_en": "Zhen ZHENG",
+   "title": "副教授（副研究员）",
+   "research_area": "1、生物医用材料的研发（组织黏合剂等） Research and development of bio-adhesive materials for repairing fractured bone or soft tissue damage; functional hydrogel for achievement of clinical task. 2、功能聚氨酯材料的研发 Novel Polyurethane Resins, Especially Waterborne Polyurethane, Applied in Adhesives, Coating, and Other Special Fields. 3、基于高性能增强体的先进复合材料 Advance Composites Based on High-Performance Reinforcement, e.g. Ultrahigh Molecular Weight Polyethylene (UHMWPE) Fiber.",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1628.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "郭晓霞",
+   "name_en": "Xiaoxia GUO",
+   "title": "副教授（副研究员）",
+   "research_area": "燃料电池用质子交换膜材料的研究：主要合成新的单体及聚合物研究其结构与性能的关系从而筛选出性能优异的材料 耐高温聚合物材料的制备：主要合成新的单体和聚合物，并测试性能，研究结构与性能的关系，从而设计制备符合使用要求的新材料 无色透明芳香族高分子材料：主要应用于现代微电子和光学器件等领域 气体分离膜用高分子材料：主要应对“碳中和，碳减排”国家战略中的二氧化碳分离。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1638.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "金鑫",
+   "name_en": "Xin JIN",
+   "title": "副教授（副研究员）",
+   "research_area": "1）柔性压电材料设计和构建，a) 可穿戴压电传感器用于肌肉或医用监测；b) 压电式传感用于具身机器人灵巧手 2）具有取向结构的凝胶材料，及其在传感器、燃料电池等方面的应用 3) 纳米透皮递送体系设计和构建，及其在白头发治疗、皮肤病、疤痕治疗领域的应用 4）天然高分子（蛋白/多肽类药物/多糖等）的功能化，及其在疾病诊断、治疗方面的应用 长期合作的科研机构：清华大学、新加坡国立大学、瑞金医院、上海第九人民医院、中国科学院化学研究所等 长期合作的企业：华谊集团、金赛药业、南方电网等",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1637.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "陆学民",
+   "name_en": "Xuemin LU",
+   "title": "教授（研究员）",
+   "research_area": "（1）聚酰亚胺材料（光刻胶，水溶性聚酰亚胺及高导热聚酰亚胺方向） （2）手性组装超分子功能材料 （圆偏振发光及压电、铁电薄膜）",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1634.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "陈杰",
+   "name_en": "Jie CHEN",
+   "title": "副教授（副研究员）",
+   "research_area": "1、聚合物电介质 2、易位聚合方法 3、导热聚合物及复合材料",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3239.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "陶佳伟",
+   "name_en": "",
+   "title": "助理研究员",
+   "research_area": "1、纳米粒子组装 2、表面活性结晶自组装 3、催化、能源、传感等功能材料与器件",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4105.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "颜徐州",
+   "name_en": "Xuzhou YAN",
+   "title": "教授（研究员）",
+   "research_area": "基础研究： 课题组以小分子和聚合物的精细化设计与有机合成为基础，赋予其环境响应性、动态可逆性、机械力自适应性等功能特性为目标，探索聚合物材料的分子基础与作用机制，发展动态高分子材料新体系。 具体研究内容包括： • 协同的共价-超分子聚合物 (Synergistic Covalent-and-Supramolecular Polymers, CSPs) • 机械互锁聚合物 (Mechanically Interlocked Polymers, MIPs) • 编织聚合物网络 (Woven Polymer Networks, WPNs) 应用基础研究：硅橡胶、环氧树脂、聚氨酯、粘结剂等",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1656.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "颜德岳",
+   "name_en": "Deyue YAN",
+   "title": "教授（研究员）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1657.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "马晓东",
+   "name_en": "Xiaodong MA",
+   "title": "实验师（工程师及其他）",
+   "research_area": "1、有机/无机杂化材料",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1500.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "魏炜",
+   "name_en": "Wei WEI",
+   "title": "副教授（副研究员）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/2583.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "麦亦勇",
+   "name_en": "Yiyong MAI",
+   "title": "教授（研究员）",
+   "research_area": "高分子合成/自组装，高分子光电功能材料化学，主要包括： 1. 高分子合成：致力于不同拓扑结构高分子的合成，主要包括共轭高分子与超支化聚合物等，实现其良好的液相分散性和加工性，制备高性能功能高分子材料。开发超支化聚合物分散剂以及基于超支化聚合物分散剂的高固含量防隔热高分子涂料，用于火箭等航天飞行器表面隔热涂层以及建筑表面保温涂层等。 2. 聚合物相分离/自组装：通过聚合物溶液自组装方法，制备结构/尺寸可控的胶体粒子（胶束，囊泡，片层，双连续结构等），并研究其自组装机制；特别是在嵌段共聚物的导向自组装（DSA）与双连续结构多孔组装体（Polymer Cubosomes）的可控制备方面具备领先技术。 3. 多孔材料及其在能源存储与转化、催化、超材料等领域的应用探索：建立了高分子溶液自组装可控制备多维度功能性多孔材料的普适方法，尤其在双连续结构多孔材料的可控制备并揭示该结构独特物理性质（包括提高材料利用率和光的利用率，负曲率表面，超稳定结构）方面取得了突出成果。开发了该结构多孔材料（1）在二次电池（锂、钠离子/锂硫等）电极材料、固态电解质，超级电容器等方面的潜在应用；（2）作为催化剂在电解水、光解水、二氧化碳光电催化等能源转化应用；（3）在光学超材料、力学超材料等领域的潜在应用。 迄今已在Nat. Mater., Nat. Water, Nat. Commun., JACS, Angew. Chem., Adv. Mater., CCS Chem.等国际权威杂志上发表研究论文170余篇，ESI高被引论文16篇，论文被引用15000余次，曾入选英国皇家化学会 Top 1% 高被引中国学者（化学综合）；授权专利10余项。受邀在Chem. Soc. Rev., Acc. Chem. Res., Nano Today, Trend in Chem.等权威综述期刊上撰写综述10余篇，受邀参与撰写高分子自组装权威专著《大分子自组装新编》和101系列教材《高分子化学与物理》等。研究成果并多次被Nature Rev. Mater., Prog. Polym. Sci., Angew. Chem., Adv. Mater.等权威期刊，以及国家自然科学基金委，中国科学院，中国科学报，Wiley MaterialsViews等网站报道。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1663.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "黄兴溢",
+   "name_en": "Xingyi HUANG",
+   "title": "教授（研究员）",
+   "research_area": "1）聚合物的电学性质调控； 2）电极化储能用聚合物电介质； 3）电网状态感知用高分子材料； 4）电气电子装备用导热散热材料； 5）高压电缆绝缘及半导电屏蔽材料；",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1668.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "黄卫",
+   "name_en": "Wei HUANG",
+   "title": "教授（研究员）",
+   "research_area": "1. 新型超支化聚合物（聚磷酸酯、多肽等）设计、合成及生物医药应用研究 2. 特种功能高分子（可溶性聚酰亚胺等）设计、合成及应用研究",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1669.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "黄咸钢",
+   "name_en": "",
+   "title": "长聘（教轨）副教授",
+   "research_area": "口服核酸药物：构建新型装置与平台用于mRNA和siRNA等核酸药物的口服递送",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4841.html",
+   "department": "化学化工学院·高分子系"
+  },
+  {
+   "name": "任天辉",
+   "name_en": "Tianhui REN",
+   "title": "教授（研究员）",
+   "research_area": "（1）、环保燃料和润滑油添加剂的分子设计、合成工艺及其相应机理研究 （2）、新能源材料、光电有机材料、医药农药中间体等功能有机物的研究开发 （3）、石化加工助剂（如阻聚剂、高温缓蚀剂、减压深拔剂、原油减阻剂等）的研究开发 （4）、特种金属加工油液的新型评价方法及其应用研究开发 （5）、生物及人体肌肉组织润滑材料的研究",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1490.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "何雨石",
+   "name_en": "Yushi HE",
+   "title": "副教授（副研究员）",
+   "research_area": "1、先进的能源材料（锂离子电池，钠离子电池，空气电池等） 2、先进的生物材料（骨再生，生物膜，支架材料等）",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1473.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "倪伟焱",
+   "name_en": "",
+   "title": "长聘（教轨）副教授",
+   "research_area": "课题组围绕可再生能源的存储与转化，致力于开发高效的电化学反应体系，推动化工生产的脱碳转型和可持续发展。研究方向包括： 1. 氢-电化学：氢燃料电池与电解水 2. 碳-电化学：二氧化碳、一氧化碳电还原，有机分子电氧化升值 3. 氮-电化学：构建碳-氮偶联新体系 研究内容为电化学、异相催化、纳米材料、原位光谱、化学工程等方向的高度交叉融合。具体包括： 1. 电极-电解液界面的电化学过程和机理研究； 2. 功能电极材料的设计与合成； 3. 面向工业催化的电化学系统创新与优化；",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4419.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "刘成伟",
+   "name_en": "Chengwei LIU",
+   "title": "助理研究员",
+   "research_area": "面向工业应用的多相催化剂的设计与合成，金属、固体酸碱催化剂的构效关系、反应动力学",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3607.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "努丽燕娜",
+   "name_en": "Yanna NULI",
+   "title": "教授（研究员）",
+   "research_area": "可充镁电池（镁二次电池、镁硫（硒）电池、镁空气电池、镁离子电池、镁锂混合电池）关键材料",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1492.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "原鲜霞",
+   "name_en": "Xianxia YUAN",
+   "title": "教授（研究员）",
+   "research_area": "● 电化学新能源系统及其相关材料 ● 氢能与燃料电池 ● 锂空气电池 ● 锂/钠/钾离子电池 ● 电池回收技术",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1484.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "吴海超",
+   "name_en": "",
+   "title": "长聘（教轨）副教授",
+   "research_area": "（1）微纳机器人的制备与应用 （Micro/nanorobots fabrication and application） （2）微纳物质在限域空间内的传递过程 & 膜分离过程 (Soft matter transport phenomena & Membrane Separation)（3）人工智能辅助设计微纳材料（高分子，纳米颗粒）(AI assisted material design)",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4097.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "周寅宁",
+   "name_en": "Yinning ZHOU",
+   "title": "教授（研究员）",
+   "research_area": "2028年拟招收硕士及博士生各1名；长期招聘博士后聚合反应工程、聚合物产品工程 主要研究领域为AI+高分子、可控聚合方法及其强化技术、烯烃聚合物可控制备、烯烃聚合催化剂设计、高分子新材料数据库建设，及聚合反应器优化等。 1. 聚合/解聚动力学建模方法及理论 2. 先进可控聚合技术及其外场强化原理 3. 聚合物链结构的精确调控（环烯烃共聚物COP/COC、聚烯烃弹性体、含氟共聚物、聚硅氧烷等） 4. 可降解聚合物及聚合物升级再造（化学回收、机械回收、可逆交联聚合物/共价自适应网络） 5. 数据驱动的高性能聚合物智能设计（聚酰亚胺、聚酯等） 6. 数据驱动的高性能聚合催化剂智能设计（（后）茂金属、CGC、金属基卡宾催化剂等）",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1476.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "商敏静",
+   "name_en": "Minjing SHANG",
+   "title": "副教授（副研究员）",
+   "research_area": "1） 微化工技术，化工过程强化及流动化学 2） 精细化学品合成 3） 催化（包括光催化）反应研究",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1463.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "廖小珍",
+   "name_en": "Xiaozhen LIAO",
+   "title": "教授（研究员）",
+   "research_area": "电化学能源材料及新体系（锂离子电池、钠离子电池、锂空气电池）",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1496.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "张希宝",
+   "name_en": "Xibao ZHANG",
+   "title": "副教授（副研究员）",
+   "research_area": "聚合体系反应动力学、多相体系流体粒子聚并与破碎行为理论建模，复杂反应器建模与仿真研究，致力于从基础理论模型发展到反应器应用研究的系统性工作。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/2612.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "张鹏飞",
+   "name_en": "Pengfei ZHANG",
+   "title": "长聘（教轨）副教授",
+   "research_area": "1. 高熵金属基催化剂的设计机制及应用， 2. 乙炔氢氯化过程、苯酚脱水制备二苯醚、蒽醌染料新工艺。 围绕氧化物固体催化剂的制备和反应规律，在包括AIChE Journal (4篇)、Angewandte Chemie International Edition (2篇)、Nature Communications (5篇)、Journal of the American Chemical Society (2篇)、Advanced Materials (2篇) 、Chem (1篇) 等期刊发表SCI论文150多篇，引用5000多次。同时，长期与化工企业联合开发反应工艺、固体催化剂。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1477.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "房少华",
+   "name_en": "Shaohua FANG",
+   "title": "副教授（副研究员）",
+   "research_area": "主要从事锂离子电池电解液和电极材料相关研究。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1475.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "曹宵鸣",
+   "name_en": "Xiaoming CAO",
+   "title": "教授（研究员）",
+   "research_area": "计算化学、多相催化理论、半导体薄膜材料生长、催化信息学 1. 催化反应动力学：发展复杂催化体系（复合材料、多孔材料、光电催化）多尺度模拟的动力学方法 2. 反应机理自动化搜索：基于人工智能方法自动化搜索工况反应条件下动态催化过程、半导体薄膜材料生长和反应机理 3. 数据与机制共同驱动的催化剂理性设计：发展机制驱动的人工智能生成模型算法用于新型金属/沸石分子筛催化剂设计",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3654.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "朱丹丹",
+   "name_en": "",
+   "title": "助理研究员",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3978.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "李学刚",
+   "name_en": "Xuegang LI",
+   "title": "副教授（副研究员）",
+   "research_area": "研究领域：主要从事精细化学品生产工艺研究与工程化开发，包括电子材料、含能材料、绿色甲醇等 学术专长：反应工程、反应器开发、分离工程、化工系统工程、化工过程仿真（流程模拟，CFD，AI+化工等）",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1471.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "李宇航",
+   "name_en": "",
+   "title": "教授（研究员）",
+   "research_area": "主要从事二氧化碳级联电催化转化制化学品过程强化研究。 利用高分子配体调控合成微环境，创制具有丰富氧官能团的功能配位团簇材料，实现安培级电流密度二氧化碳制含碳化学品；提出构建富氧电催化界面原位衍生并动态稳定材料含氧配位，通过优化电解液配方使其匹配电催化材料，在工业级电流密度下二氧化碳制化学品能量转换效率达到75%；设计构建新型耦合电化学反应器，提出利用氧化还原对耦合阴阳两极反应过程，实现二氧化碳高活性、低电耗、级联转化制环氧化物、氨基酸等化学品。作为第一(共一)/共同通讯作者在 Nat. Catal.、Angew. Chem. Int. Ed.、Adv. Mater.、Sci. Bull.、Chem. Eng. Sci. 等期刊发表论文 50 余篇；授权中国发明专利 5 项和美国专利 1 项。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4775.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "李志鹏",
+   "name_en": "Zhipeng LI",
+   "title": "长聘（教轨）副教授",
+   "research_area": "招收2027级博士、硕士研究生 发展和使用最先进的器件制备和探测技术来探索二维材料的独特和奇妙的特性，具体来说，我们将设计和合成高质量的二维材料和制造高性能光电器件， 发展较为完善的电子和光电子探测技术，以探测二维材料中的电子-电子、电子-声子和电子-光子相互作用，为量子信息、光电子和谷电子学等领域的应用 铺平道路。我们还对二维材料表面改性技术感兴趣，以开发其在摩擦学和表面保护方面的应用前景: 1. 通过合理的化学处理，包括化学钝化、表面改性和接枝，调控二维材料的缺陷状态和能带结构； 2. 引入最先进的纳米制造技术，构建高质量的二维范德华结构光电器件; 3. 探讨二维材料中的多体效应、光子-激子和声子-激子的相互作用; 4. 开发二维材料在摩擦学和表面保护方面有前景的应用。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1479.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "李林森",
+   "name_en": "Linsen LI",
+   "title": "教授（研究员）",
+   "research_area": "1）电池正极材料化学：“微富锂”镍酸锂、梯度多孔超高镍三元、新型聚阴离子正极等 2）针对实际电池的多模态、工况表征技术的方法学发展：NanoSIMS 锂浓度成像，基于EBSD的颗粒内应力成像 3）面向不同应用场景的新型电池，包括钠离子电池、全固态电池、和浆料型半固态电池",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1480.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "杨晓伟",
+   "name_en": "Xiaowei YANG",
+   "title": "教授（研究员）",
+   "research_area": "1) 二次电池关键材料； 2）电催化、合成； 3）膜及膜分离。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1485.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "杨立",
+   "name_en": "Li YANG",
+   "title": "教授（研究员）",
+   "research_area": "电化学能源材料与器件",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1486.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "江志东",
+   "name_en": "Zhidong JIANG",
+   "title": "副教授（副研究员）",
+   "research_area": "催化剂及反应工艺开发，反应器分析与模拟等，集中于环境催化与工业催化领域。在气相及液相催化加氢、蜂窝催化剂开发等方面有多年积累。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1472.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "汤卫平",
+   "name_en": "Weiping TANG",
+   "title": "教授（研究员）",
+   "research_area": "主要从事固态氧化物材料在液相中的化学或电化学嵌/脱、或离子交换反应研究、及其在锂离子吸附材料和固态锂电池的应用。在近期的工作中，聚焦锰系锂离子筛吸附材料在锂离子嵌脱过程中的锰离子溶解过程，详细解析了离子筛材料中Mn3+含量、锂离子嵌脱过程动力学对锰溶损的影响，确立了调控措施，推动了在盐湖提锂产业的实用化；另一方面，从锂离子配位空间调控的思路出发，开发了溶剂热Li+/Na+交换反应方法，把传统钠离子导体（Nasicon，Na3Zr2Si2PO12)中离子半径为0.096nm的钠离子用离子半径为0.076nm的锂离子交换取代，成功的合成了下一代锂离子固态电解质材料Li3Zr2Si2PO12，离子电导率达到3.6x10-3S/cm，在氧化物体系中最高。详细解析了交换机理，揭示了高离子电导率、高稳定机制。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3365.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "沈佳妮",
+   "name_en": "Jiani SHEN",
+   "title": "副教授（副研究员）",
+   "research_area": "（1）储能电站智能运维：多维状态估计方法，电池故障AI诊断技术，安全预警方法，最优充电技术 （2）电池优化设计：电-热-机械多物理场耦合建模方法，多尺度参数优化设计方法 （3）能源互联网：多能耦合系统建模、运行优化与能量管理方法",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1462.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "潘云翔",
+   "name_en": "Yunxiang PAN",
+   "title": "教授（研究员）",
+   "research_area": "（1）催化反应工程：聚焦“反应物在催化剂表面的吸附”这一深刻影响转化率、反应路径、反应速率、产物分布等的催化反应关键步骤，围绕“催化剂表面反应物吸附的内在机制”以及“ 催化剂结构影响反应物吸附的规律”等关键科学问题，采用实验与理论模拟相结合的研究手段，通过认识、调控和利用吸附指导催化剂设计、制备和应用，揭示了催化剂与反应物之间的电子传输驱动反应物吸附的机制，阐明了催化剂结构限域电子传输进而强化反应物吸附的规律，建立起基于电子传输机制的精准调控反应物吸附的方法，构筑出系列高性能催化剂，显著提升了CH4重整、CO2加氢、CO加氢、光/电催化水分解制氢、葡萄糖氧化、汽油/柴油/渣油加氢等反应的效率。 （2）低温等离子体化工：低温等离子体由气体电离产生，独特的低温性质使低温等离子体在高效完成工作任务的同时可很好保护材料、电子器件、装备、生物体等原有优势结构和性能不受伤害。我们将“三传一反”等化工学科理论与低温等离子体紧密结合，围绕“低温等离子体设备内的传质和反应机制”这一关键科学问题以及“低温等离子体设备如何可靠放大”这一关键技术难题，揭示了低温等离子体设备内的传质和反应机制，提出了电极平行错位排布新技术以及气体交错循环流动新策略，开发出系列不同体积的低温等离子体设备，实现了设备的规模化生产和应用，应用领域包括化工过程强化、材料加工合成与表面改性、电子器件精细加工、军事装备/航天器防护镀膜、疾病靶向治疗、细菌病毒消杀等。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1491.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "王久林",
+   "name_en": "Jiulin WANG",
+   "title": "教授（研究员）",
+   "research_area": "自1999年以来长期研究锂硫电池，创制高导电硫@导电聚合物SPAN或S@pPAN）正极材料，开创硫正极固固转化反应新机制，稳定循环上万次；并开发与S@pPAN匹配的本征安全电解质、水性粘接剂和高可逆金属负极，构建本征安全锂硫电池；研究有机电解质中金属锌负极电化学行为以及长寿命锌离子电池。 4.1 金属基二次电池及其关键材料 4.2 锂硫电池 4.3 锌离子电池 4.4 其它相关表面处理及电化学器件",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1489.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "章正熙",
+   "name_en": "Zhengxi ZHANG",
+   "title": "副教授（副研究员）",
+   "research_area": "主要从事电化学储能关键材料与器件（锂离子电池、钠离子电池、钾离子电池、固态电池）研究。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1460.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "罗先金",
+   "name_en": "Xianjin LUO",
+   "title": "副教授（副研究员）",
+   "research_area": "1、抗小RNA病毒药物分子设计与筛选 2、工业有机化学",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1470.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "罗正鸿",
+   "name_en": "Zhenghong LUO",
+   "title": "教授（研究员）",
+   "research_area": "(1)、多相流反应工程 (2)、聚合反应工程 (3)、功能高分子化工 (4)、化工过程模拟与优化 已开展工作简介：罗正鸿教授长期从事聚合反应工程及多相流反应器工程方面的研究。较为系统研究了气-固、气-液、液-液及气-液-固等多相反应器中多尺度流体动力学特征，归纳出各尺度模型耦合的“关键信息传递”方法，实现了不同尺度模型实质性耦合，建立了描述流体动力学特征的多尺度计算流体力学(CFD)模型。就其中气-固两相流体系，自主开发了两相相互作用力及界面传递模型。所建立及开发的模型已经应用于多家大型企业的大型反应器改造与优化。 目前研究兴趣：我们继续保持“化工三传一反”建模的反应器研发方向，并扩充到AI辅助的多化工过程（反应器及工艺）耦合体系的多智能体开发（从实时数据检测、在线动态优化、故障诊断、自主控制到知识积累与迁移的整个闭环）和AI主导的多相反应器智能研究系统研发。我们特别欢迎有深厚的化工三传一反背景、计算机与AI背景、控制专业背景的同学加入。我们的研究是希望让加盟的年青学子注重“学术与实用”的结合，“前沿与有用”的结合，并具有“基于化工实用场景的化工与化学、AI、控制等多学科交叉”能力。我们不希望同学们去赶太热门的脱离中国化工领域实际需求的“化工理科化或化工AI化”的研究，而是一定有实际应用（非梦想）场景的化工与其他学科交叉的研究。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1494.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "肖文德",
+   "name_en": "Wende XIAO",
+   "title": "教授（研究员）",
+   "research_area": "学术专长：催化工程、反应工程、分离工程、化工系统工程，尤其在非定态催化，多相反应器，反应精馏和化学吸收，计算流体力学（CFD）和计算化学（DFT）等方面。 研究领域：化工与能源、环境和材料的交叉领域。 研究方向：洁净煤技术、绿色化学、C1化学（煤化工）、储能电池和新能源（太阳能光伏）和新材料（多晶硅）等方向的工程科学研究。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1488.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "苏远海",
+   "name_en": "Yuanhai SU",
+   "title": "教授（研究员）",
+   "research_area": "1）微反应技术，化工过程强化及流动化学 2）多相流体流动，传递现象及反应过程规律 3）医药化工、精细化工及功能材料连续流合成 4）光化学工程及聚合反应工程 5）新型反应器设计构建及过程放大（含CFD模拟、自动化控制及优化）",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1478.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "董潇健",
+   "name_en": "",
+   "title": "助理研究员",
+   "research_area": "（1）过程系统工程、复杂系统建模与优化 （2）人工智能辅助新能源与过程系统设计、运行与调控 （3）新能源应用：光伏发电、电解水制氢、燃料电池、绿色氨醇油合成、复合能源系统等",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4106.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "薄首行",
+   "name_en": "",
+   "title": "教授（研究员）",
+   "research_area": "• 全固态电池 • 电池成像诊断 • 新型电池体系",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1482.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "薛敏钊",
+   "name_en": "Minzhao XUE",
+   "title": "副教授（副研究员）",
+   "research_area": "1. 有机光电功能材料及有机/无机杂化材料的制备与性能； 2. 有机半导体薄膜制备及分子/超分子聚集态； 3. 功能性乳液及涂层； 4. 化学产品工程基础理论。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1469.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "贺玉莲",
+   "name_en": "Yulian HE",
+   "title": "副教授（副研究员）",
+   "research_area": "人工智能赋能多相催化交叉研究（实验-理论-AI交叉闭环）",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3040.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "贺益君",
+   "name_en": "Yijun HE",
+   "title": "教授（研究员）",
+   "research_area": "（1）复杂过程系统建模、优化与控制：融合过程机理、先验知识和运行数据的智能化建模方法，不确定性多目标优化方法，基于代理模型的优化方法，基于模型的预测控制方法，复杂过程系统集成与优化运行技术 （2）电池管理系统：高精度电池建模方法，精准状态估计方法，剩余寿命预测技术，电池组一致性评估方法，异常电池识别技术，安全预警方法，最优充电技术 （3）电池优化设计：电-热-机械多物理场耦合建模方法，多尺度参数优化设计方法 （4）电解水制氢：电解槽结构优化设计，高精度建模、实时优化与模型预测控制 （5）绿电-绿氢-绿色化学品耦合系统：电-氢-氧-碳(氮)优化匹配方法，多变量协同优化控制方法，生命周期分析方法，安全评价与预警方法 （6）绿色燃料：甲醇、氨、航空煤油等 （7）能源互联网：多能耦合系统建模、运行优化与能量管理方法 （8）工业大数据分析：神经网络方法，统计建模方法，模式分类/聚类方法，故障预测与健康管理",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/2694.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "贾金平",
+   "name_en": "Jinping JIA",
+   "title": "教授（研究员）",
+   "research_area": "1、废旧锂电池资源化利用 2、工业废水光电催化处理 3、工业烟气VOCs治理 团队拟招收硕士生、博士生（废旧锂电池资源化方向优先），欢迎邮件联系咨询。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1497.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "赵亚平",
+   "name_en": "Yaping ZHAO",
+   "title": "教授（研究员）",
+   "research_area": "1.超临界流体中的过程工程基础理论及其应用 2.石墨烯等纳米材料及其复合物的制备、性能和应用 3.柔性超级电容器、柔性电热器件等可穿戴电子器件构建 4.天然生物活性物质的分离纯化 5. 难溶药物超细化、微纳米药物包埋",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1483.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "赵婉玉",
+   "name_en": "",
+   "title": "助理研究员",
+   "research_area": "镁二次电池 二次电池电解液设计",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4796.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "邓楠楠",
+   "name_en": "Nannan DENG",
+   "title": "长聘（教轨）副教授",
+   "research_area": "本课题组主要从事人工细胞、活性软物质、微纳米机器人、液-液相分离和微流控技术相关的基础研究和技术开发，具体包括： 1）人工细胞和原始细胞（Artificial cells & Protocells） 2）光流体/活性软物质 (Photofluids & Active soft matter) 3）液液相分离（ATPS、Coacervates、DNA液滴等） 4）液滴微流控技术 5) 微纳米机器人 6）单细胞基因测序建库技术",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1481.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "阎建民",
+   "name_en": "Jianmin YAN",
+   "title": "副教授（副研究员）",
+   "research_area": "1、化工单元的传递特性分析 2、化工过程模拟优化",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1468.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "陆军",
+   "name_en": "",
+   "title": "长聘（教轨）副教授",
+   "research_area": "课题组主要研究方向： 1) 仿生离子通道膜及离子特异性传输； 2）离子和分子膜分离； 3）纳流控/纳米流； 4）MOFs/COFs等晶态多孔框架材料和超微孔聚合物等； 5) 膜蒸馏和渗透蒸发。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4866.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "陈俊超",
+   "name_en": "Junchao CHEN",
+   "title": "助理研究员",
+   "research_area": "聚焦新型氧化物系固态电解质及其固态电池技术研发。主要基于同位素标记、固体核磁共振、晶体衍射和密度泛函理论计算四种手段，系统解析材料结构、离子传输与电池性能之间的构效关系。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3602.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "陈锡忠",
+   "name_en": "Xizhong CHEN",
+   "title": "长聘（教轨）副教授",
+   "research_area": "2025年招收若干 化学工程、人工智能、计算机仿真、粉体工程、固体制剂制药、计算流体力学等方向 研究生及博后，欢迎有志之士联系！",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3196.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "马紫峰",
+   "name_en": "Zifeng MA",
+   "title": "教授（研究员）",
+   "research_area": "1、固态钠离子电池关键材料与器件设计制造 2、钠离子电池电极材料制备及其应用过程工程特性 3、钠离子电池多功能电解质优化设计与界面现象 4、甲醇重整制氢与甲醇绿色合成催化剂新体系 5、先进电化学储能与绿色综合能源系统优化设计",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1493.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "龚学庆",
+   "name_en": "Xueqing GONG",
+   "title": "教授（研究员）",
+   "research_area": "1、铈基稀土催化材料的理论模拟与开发 2、多相催化理论 3、计算化学，理论化学 4、人工智能方法开发及其在化学研究中的应用",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3655.html",
+   "department": "化学化工学院·化工系"
+  },
+  {
+   "name": "丁同梅",
+   "name_en": "Tongmei DING",
+   "title": "助理研究员",
+   "research_area": "1）绿色精细化学品的合成 2）环保型精密清洗剂的研制",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1380.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "丁蓓",
+   "name_en": "Bei DING",
+   "title": "教授（研究员）",
+   "research_area": "1） 天然和人工光酶光受体的反应动力学和结构动力学机制 含黄素辅基的蛋白质在自然界有广泛的分布并展现了多样的功能。课题组结合分子生物学和超快光谱学手段研究此类蛋白的分子机理。目前课题组开展的课题包括：1. 解析蓝光光受体蛋白BLUF域的光化学和异构化过程，理解其生物功能。2. 结合非平衡态电子转移理论，研究黄素氧化还原蛋白的光致电子转移过程。3. 解析光解酶光致还原机理和修复损伤DNA机理。 2） 围绕光生物体系动态机制发展混合飞秒脉冲中红外光谱技术 结合TRIR、2DIR和t-2DIR的可拓展光路，可进一步开发为其他脉冲技术高阶光谱。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1424.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "严畅",
+   "name_en": "Chang Yan",
+   "title": "长聘（教轨）副教授",
+   "research_area": "化学研究中隐藏的过程与变量往往多于可直接观测的过程与变量。新的观测手段有望揭示新的化学现象或令我们检验已有的知识。课题组致力于发展与运用新型物理化学技术手段对凝聚态下的复杂微观化学动态过程进行观察与测量，当前研究内容可分为两个方面：1）超快红外光谱学；2）基于超快红外光谱方法的新型光学显微镜技术。 红外波段所对应的振动光谱蕴含有大量的化学信息，且对分子结构及化学环境敏感。我们运用时间长度仅为数十至数百飞秒（1飞秒 = 10-15 秒）的红外脉冲对凝聚态化学系统内发生的诸如电荷转移、能量弛豫、氢键重排、构象翻转等超快过程直接进行动力学测量。我们所使用的非线性光谱学技术包括泵浦-探测技术、透射与反射式二维红外振动光谱技术等。我们选择并制备结构可控、适合进行系统性机理研究的人工或自然化学体系进行观测，例如表界面处的自组装膜结构的构象动力学（代表作5、7）、半导体胶体纳米晶的多激子激发态动力学（代表作3）、高分子水凝胶的氢键网络超快动力学（代表作4）、水合矿物石膏的晶格氢键动力学（代表作6）等。除了超快时间分辨谱学研究以外，我们希望开发含有谱学信息且兼具时间与空间分辨能力的新型显微镜技术（代表作1），以更好地观测和理解复杂化学系统的动态行为（代表作2）。 课题组的代表性技术： 1. 多维度宽场红外编码自发辐射显微术 （Multi-Dimensional Widefield Infrared-encoded Spontaneous Emission Microscopy, MD-WISE）； 2. 反射式超快二维红外振动回波光谱（Reflection-mode Ultrafast Two-dimensional Infrared Vibrational Echo Spectroscopy, R-2D IR）。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3453.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "仰志斌",
+   "name_en": "Zhibin YANG",
+   "title": "长聘（教轨）副教授",
+   "research_area": "本课题组主要从事光伏研究，具体研究方向包括： 1. 钙钛矿基叠层太阳能电池：窄带隙和宽带隙钙钛矿薄膜光电性质的研究与调控；全钙钛矿叠层电池；钙钛矿-有机叠层电池等。 2. 钙钛矿光伏模组：大面积高质量钙钛矿薄膜制备技术的研发，单节和叠层光伏模组的设计与创新。 3. 钙钛矿室内光伏：室内光伏器件及其多功能集成器件的研发，以适配物联网的智能分布式能源应用。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1402.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "仲冬平",
+   "name_en": "",
+   "title": "教授（研究员）",
+   "research_area": "1. 复杂生物体系超快动力学 · 光酶催化动力学 · 光受体结构动力学 · 非平衡电子，质子和能量转移动力学 · 蛋白质超快动力学 2. 材料和生物四维衍射和成像动力学 · 材料结构动力学 · 液相环境生物结构动态学",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3947.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "任奇志",
+   "name_en": "Qizhi REN",
+   "title": "副教授（副研究员）",
+   "research_area": "1、功能性金属卟啉纳米材料的制备及其抗菌抗癌等生物活性 2、金属卟啉-多功能材料复合体系在生物模拟酶中的应用 3、金属配合物作为燃料电池氧还原电催化剂",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1389.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "刘晰",
+   "name_en": "Xi LIU",
+   "title": "长聘（教轨）副教授",
+   "research_area": "1. 基于催化和电化学的原位透射电子显微镜技术的开发 2. 费托合成和相关催化反应研究 3. 构建新结构的纳米材料及其应用",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1405.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "刘燕",
+   "name_en": "Yan LIU",
+   "title": "教授（研究员）",
+   "research_area": "(1) 超分子化学 (2) 金属有机和配位化学 (3) 分子识别、传感与催化",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1440.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "卢岩",
+   "name_en": "Yan LU",
+   "title": "助理研究员",
+   "research_area": "不对称氢化，氢甲酰化，二氧化碳转化",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3031.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "叶俊涛",
+   "name_en": "Juntao YE",
+   "title": "长聘（教轨）副教授",
+   "research_area": "基于光/电催化及酶催化的新型有机合成方法学及其在高分子化学和药物化学等领域的应用。详情请访问课题组网页。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1401.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "吴啸宇",
+   "name_en": "",
+   "title": "助理研究员",
+   "research_area": "1、有机硅合成方法学研究（新型催化剂设计与合成、功能有机硅材料设计与合成） 2、有机硼合成方法学研究（硼中子俘获治疗BNCT药物设计与合成） 3、过渡金属不对称催化方法学研究（不对称氢化）",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4998.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "吴正兴",
+   "name_en": "Zhengxing WU",
+   "title": "副教授（副研究员）",
+   "research_area": "1) 烯烃的氧化官能化反应； 2) 烯烃的异构化反应; 3) 糖类化合物的高效合成。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1374.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "吴量",
+   "name_en": "Liang WU",
+   "title": "助理研究员",
+   "research_area": "液晶材料的分子模拟和统计力学理论研究 高分子的分子力场开发和聚合反应动力学模拟 复杂化学体系的分子模拟和机器学习",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1375.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "周琳",
+   "name_en": "Lin ZHOU",
+   "title": "长聘（教轨）副教授",
+   "research_area": "1）设计合成新型二维材料及结构； 2）二维材料的化学修饰、结构转化和性能调控； 3）二维材料的物性研究，及其在电子、光电、催化、能源领域应用基础研究; 4) 面向未来集成电路需求的新型电子、自旋和光电材料的批量制备、器件开发、集成及应用探索。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1398.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "孔学谦",
+   "name_en": "",
+   "title": "教授（研究员）",
+   "research_area": "2014-2023年担任浙江大学化学系百人计划研究员。于2023年加入上海交通大学转化医学研究院，负责转化医学国家重大基础设施的尖端磁共振中心建设。现兼聘上海交通大学化学化工学院、浙江大学化学系和附属邵逸夫医院。课题组主要从事核磁共振相关新原理、新方法和新应用探索，包括固体核磁波谱，动态核极化技术，高场磁共振显微成像等。发展了固体核磁界面测量方法，提升了核磁共振对界面化学成分、组装结构，动态变换的分辨能力。研究体系涉及生物组织、多孔材料、量子点、电池、聚合物、多相催化等多种体系。研究论文发表于Science，Nature，J. Am. Chem. Soc., Angew. Chem. Int. Ed. Sci. Adv. Nat. Comm.等杂志。于2024年获得基金委杰出青年基金资助，2019年获得基金委优秀青年基金资助，2018年获得浙江省杰出青年基金资助。担任《Magnetic Resonance Letters》编委，撰写了《固体核磁共振原理》教材。 课题组网站：www.supermagnetic.cn",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3479.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "孟庆华",
+   "name_en": "Qinghua MENG",
+   "title": "副教授（副研究员）",
+   "research_area": "1)光化学与分子探针 2)光学功能膜 3)光固化与3D打印",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1390.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "宰建陶",
+   "name_en": "Jiantao ZAI",
+   "title": "副教授（副研究员）",
+   "research_area": "主要从事异质结材料化学定向合成与应用。立足异质结材料的定向合成，通过协同优化表界面载流子/物质传输特性、强化界面反应动力学，提高器件功效。 多种组成和结构可调异质结材料的合成与表界面结构优化； 惰性强温室气体的活化与固定策略、材料与器件开发； 高效电极材料及其在电化学储能器件中的应用；",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1385.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "崔勇",
+   "name_en": "Yong CUI",
+   "title": "教授（研究员）",
+   "research_area": "1) 手性多孔材料（MOF、COF等） 2) 手性超分子组装与材料 3) 不对称催化 4) 手性识别、检测和传感 5) 手性分离（吸附、色谱和膜分离）",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1450.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "巩伟",
+   "name_en": "Wei GONG",
+   "title": "长聘（教轨）副教授",
+   "research_area": "（1）拓扑导向的新型网格化学及其吸附、分离以及催化功能 （2）高稳定多孔配位和共价框架材料的二氧化碳和水捕获以及分离 （3）新型超分子体系构建及其催化、分离以及识别功能",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3293.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "张万斌",
+   "name_en": "Wanbin ZHANG",
+   "title": "教授（研究员）",
+   "research_area": "1）有机合成及不对称催化 2）药物及其关键中间体的高效合成方法",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1430.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "张书宇",
+   "name_en": "Shuyu ZHANG",
+   "title": "教授（研究员）",
+   "research_area": "以合成化学为基础和核心的多学科交叉研究。 1）合成方法学：活性C-H键多位点选择性调控与惰性C-H键活化反应研究； 2）全合成化学：以C-H键选择性反应为核心的天然产物及药物分子的集体全合成； 3）功能分子创制：结合计算和机器学习的NIR II 荧光探针，CPL 探针，先进光刻材料。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1399.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "张仕楠",
+   "name_en": "",
+   "title": "助理研究员",
+   "research_area": "（1）多相异质结催化材料的开发以及在电催化，电合成等领域的应用 （2）多尺度理论模拟方法在异相催化体系中的开发与应用 （3）电解槽工艺开发与应用",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4690.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "张兆国",
+   "name_en": "Zhaoguo ZHANG",
+   "title": "教授（研究员）",
+   "research_area": "1、金属有机化学与不对称催化 2、精细有机合成 3、可见光条件下的催化反应",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1428.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "张勇健",
+   "name_en": "Yongjian ZHANG",
+   "title": "教授（研究员）",
+   "research_area": "1、绿色有机合成方法学 2、过渡金属催化剂的设计开发 3、不对称催化与过渡金属催化反应研究 4、高分子功能材料的设计开发与应用",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1429.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "张卫",
+   "name_en": "Wei ZHANG",
+   "title": "副教授（副研究员）",
+   "research_area": "（1）环境电化学分析 （2）计算机在化学中的应用 （3）基础化学教学建设和教学方法研究",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1384.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "张帆",
+   "name_en": "Fan ZHANG",
+   "title": "教授（研究员）",
+   "research_area": "1、有机金属化学 2、有机功能材料 3、碳基功能材料",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1431.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "张熠霄",
+   "name_en": "Yixiao ZHANG",
+   "title": "助理研究员",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/2570.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "徐鹏涛",
+   "name_en": "Pengtao XU",
+   "title": "长聘（教轨）副教授",
+   "research_area": "聚焦电化学领域的基础与应用研究，围绕电化学界面微观机制与电化学催化转化两大核心方向展开系统性探索，旨在通过发展界面表征新方法与催化反应新策略，推动可持续能源转化与绿色化工的技术发展。 在电化学界面微观机制研究方面，专注于利用非线性光学技术揭示电极–电解质界面的分子结构、电场分布与水网络重排等关键现象。通过将先进光谱方法与分子动力学模拟和第一性原理计算相结合，直接测量界面电场、解析电极表面水结构的电位响应，并揭示电解质离子、吸附物与反应中间体在界面处的协同作用，从而推动了对电化学双电层结构的基本理解，为电荷转移动力学以及界面调控策略提供了新的物理化学图像。 在电化学催化转化研究方面，致力于开发高效、稳定且可规模化的电催化策略，以实现可再生能源驱动的生物质、废弃物等材料的升级利用。探索动态电化学调控（如脉冲电解与电位循环）在复杂反应体系中的独特作用，揭示其在缓解催化剂失活、调控界面微环境、提升多碳产物选择性等方面的关键机制。相关研究涵盖从塑料解聚产物、生物质衍生物的电氧化到 CO2电还原与过氧化氢电合成，并结合原位光谱、电化学模拟与理论计算，构建从界面结构到反应性能的因果联系，为可持续电化学制造提供可推广的设计原则。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3325.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "曹潇丹",
+   "name_en": "",
+   "title": "助理研究员",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4314.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "李新昊",
+   "name_en": "Xinhao LI",
+   "title": "教授（研究员）",
+   "research_area": "发展电子界面催化材料（EIC），着手从小分子直接合成的策略从原子、分子水平构筑活性中心及界面结构，以期实现界面电子整流对催化活性中心的效率、选择性和稳定性的全面提升，拓展电子界面催化材料在有机合成、光催化、电催化等催化重要领域的应用。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1441.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "李杨燕",
+   "name_en": "Yangyan LI",
+   "title": "助理研究员",
+   "research_area": "核苷（酸）的化学修饰与应用 核苷/酸-碳硼烷偶联物的合成与在硼中子俘获治疗（BNCT）中的应用研究 核苷酸化学生物学",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1377.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "李涛",
+   "name_en": "Tao LI",
+   "title": "教授（研究员）",
+   "research_area": "新型偶氮光开关分子的设计合成与应用",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1420.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "李现鲲",
+   "name_en": "Xiankun LI",
+   "title": "长聘（教轨）副教授",
+   "research_area": "自然界中与光相关的蛋白质主要有三类：光合作用（Photosynthesis）中的蛋白复合体，光受体（Photoreceptor）和光酶（Photoenzyme）。光合作用将光能转化为化学能，为生物界提供能量来源；生物体依靠光受体感知环境中的光，以此调整自身、适应环境；光酶利用光能完成必要的催化反应。研究与光相关蛋白质的工作机理，并加以应用，可以促进人类对光能的利用和转化，对农业、环保、化工等领域都有重要意义。由于蛋白质分子是在动态、连续变化中完成生物学功能，所以需要在动力学的角度、从分子层面上阐述生物体系工作的机理。 李现鲲博士的研究结合了超快光谱分析和分子生物学，利用人工设计的蛋白质突变体（Mutant），配合超快光谱手段解析蛋白质动力学。李现鲲博士还致力于开发新的人工光酶，用于新的催化反应。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3294.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "李茜",
+   "name_en": "Qian LI",
+   "title": "教授（研究员）",
+   "research_area": "功能化核酸纳米结构的组装及生物成像应用",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1393.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "李长坤",
+   "name_en": "",
+   "title": "教授（研究员）",
+   "research_area": "(1) 金属有机化学 (2) 不对称催化 (3) 有机合成",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1421.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "杨龙",
+   "name_en": "Long YANG",
+   "title": "长聘（教轨）副教授",
+   "research_area": "基于机械化学以及电化学驱动的有机氟化学研究及其在高分子材料的合成、降解与升级回收中的应用。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4839.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "樊春海",
+   "name_en": "Chunhai Fan",
+   "title": "教授（研究员）",
+   "research_area": "生物传感器、DNA纳米技术与DNA计算、生物光子学",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1444.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "沈增明",
+   "name_en": "Zengming SHEN",
+   "title": "教授（研究员）",
+   "research_area": "1. 金属催化的C-C键和C-H键的活化 2. 金属催化的不对称反应的研究 3. 杂环化合物的研究，应用于药物和天然产物的合成",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1436.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "王平",
+   "name_en": "Ping WANG",
+   "title": "教授（研究员）",
+   "research_area": "1）化学合成具有重要生理活性的糖蛋白、糖肽 2）糖类分子合成及其方法学研究 3）多肽合成方法学研究",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1403.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "王开学",
+   "name_en": "Kaixue WANG",
+   "title": "教授（研究员）",
+   "research_area": "1. 无机功能材料的合成及纳米复合体系的构筑 2. 锂离子电池和新型储能器件关键电极材料的制备与性能研究",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1433.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "王迪昊",
+   "name_en": "",
+   "title": "长聘（教轨）副教授",
+   "research_area": "光响应蛋白的超快动力学及其功能机制。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4840.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "白贺元",
+   "name_en": "Heyuan BAI",
+   "title": "助理研究员",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/2611.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "石志贤",
+   "name_en": "",
+   "title": "助理研究员",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/5081.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "胡晨吉",
+   "name_en": "",
+   "title": "助理研究员",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4942.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "葛瑶",
+   "name_en": "Yao GE",
+   "title": "长聘（教轨）副教授",
+   "research_area": "课题组围绕有机合成与化学生物学交叉,开展以下方向: 新型催化体系与反应方法学（过渡金属催化、光催化）; 新型含硼有机分子的设计合成与应用; 核酸及其化学修饰的纯化学检测新策略; 面向致病蛋白的双官能化小分子开发; RNA 新靶点探索与小分子靶向 RNA 研究",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4667.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "董朝青",
+   "name_en": "Chaoqing DONG",
+   "title": "教授（研究员）",
+   "research_area": "（1）生物分析； （2）单分子/单颗粒分析方法研究 （3）单分子/单颗粒分析仪器研究",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1448.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "董金桥",
+   "name_en": "Jinqiao DONG",
+   "title": "长聘（教轨）副教授",
+   "research_area": "金属-多肽化学（Metal-Peptide Chemistry） (1) 金属-多肽结晶组装、折叠调控及结构可编程设计 (2) 金属-多肽压电材料的设计合成与创伤修复 (3) 金属-多肽抗生素的设计合成与广谱抗菌 (4) 金属-多肽超分子结构设计合成与生物分子检测 (5) 金属-多肽膜材料的制备与手性分离 (6) 金属-多肽螺旋体设计合成、拓扑结构调控以及手性诱导自旋选择性效应",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/2571.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "袁乾家",
+   "name_en": "Qianjia YUAN",
+   "title": "长聘（教轨）副教授",
+   "research_area": "烯烃和酮的高值转化 重大需求药物或关键中间体的高效绿色制备",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1400.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "谢小敏",
+   "name_en": "Xiaomin XIE",
+   "title": "副教授（副研究员）",
+   "research_area": "1、金属有机催化的合成方法学研究。 2、药物、及其中间体合成工艺的优化。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1386.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "车顺爱",
+   "name_en": "Shunai CHE",
+   "title": "教授（研究员）",
+   "research_area": "1.手性介观结构无机材料 2.多级孔介观结构材料",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1457.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "钱雪峰",
+   "name_en": "Xuefeng QIAN",
+   "title": "教授（研究员）",
+   "research_area": "主要从事功能纳米结构材料的控制合成、组装、机理以及性能研究，尤其侧重于微纳结构材料在锂电池、太阳能电池以及光催化材料等方面的应用基础研究。在材料表界面电子/物质传递动力学的调控和提高功效方面进行了较为系统的探索，发展了多种功能材料的微观结构、能带结构和表界面性质的调控方法，拓展了材料的应用范围。任现职以来，已在JACS, Angew Chem In Et, Nat Comm, Adv. Energy Mater.,等重要期刊上发表学术论文224篇，论文总他引过万次，H因子58。 2014年起连续多年入选中国高被引学者榜单；2015年获上海市自然科学一等奖（排名第二）。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1438.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "陆文军",
+   "name_en": "Wenjun LU",
+   "title": "教授（研究员）",
+   "research_area": "研究方向为精确化学-Precision Chemistry（此概念首次宣讲于2010年10月，公开发表于2011年7月“沪台材料化学会议”)。 精确化学就是探索理想的物质精确创造与转化的化学过程-HELLO Process。 包含从基本概念、基础理论和基元反应出发，主要针对芳烃、烷烃的惰性C-H键，经设计、试验、修正与验证，建立其新的高效、温和、环境友好的选择性活化功能化反应。研究所涉及的学科主要有金属有机、物理有机、催化合成、计算化学等。 HELLO Process : High yield 产物高收率； Effecient pathway 高效率过程包含从选择最简单起始物开始，精密设计与选择最短路线和最少耗时的物质转化方式，如催化、一锅法及串联反应等，并选择使用相应的热、光、电、磁、机械等反应能量方式； Low loading 精确控制全部物质最低量投入包含物质转化过程前、中、后的溶剂、底物、试剂及添加物等； Low complexity 低复杂性的精准操作运行包含室温、常压和简单设备及高安全度等； Only target product 核心是得到化学、区域和立体等唯一选择性的目标物质。 自2003年至今，提出并依据精确化学原则与方法，通过改变C-H健活化的钯催化物种的价态、结构与活性，或者控制C-H健的催化氢原子转移的连续过程等，分别研究建立了芳烃、烷烃惰性C-H键的原子经济型反应，如： 脱氢偶联反应(AE to >90%) C-H + X-H + [O] ——> C-X + H2[O] , X = C, O, Cl, Br, I, etc. 单键加成反应(AE to 100%) C-H + X ——> C-X-H , X = 0.5O2, CC, etc. 创建和发展的主要催化反应如下： 1. 无机催化（气相）：甲烷氧气室温光照制甲醇 (X-MOL 介绍-资讯 2024-4-10 )；氯化氢氧气室温光照制氯气 2. 金属催化（液相）：芳烃C-H/C-H键高选择性的氧化交叉偶联（简单芳烃、基团（酰基）导向芳烃1：1投料； 特邀专论Synlett, 2025, 36, 644-650）；天然基团导向（特戊酰胺β位）烷烃C-H键氧化酯化、芳基化反应",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1439.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "陈刚",
+   "name_en": "Gang CHEN",
+   "title": "长聘（教轨）副教授",
+   "research_area": "发展和应用新的方法学用于活性天然产物的高效和多样性合成，进行后续的医药与农药的药物化学和化学生物学研究。 具体开展方向 1. 活性天然产物的全合成与后修饰 2. 核苷酸化学 3. 生物农药的开发 4. 绿色化学",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1426.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "陈建中",
+   "name_en": "Jianzhong CHEN",
+   "title": "副教授（副研究员）",
+   "research_area": "1）不对称催化合成，如不对称氢化，丰产金属催化剂的开发 2）有机合成，新型配体的设计、合成及应用 3）药物和香料等合成工艺、工业化研究",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1397.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "陈志敏",
+   "name_en": "Zhimin CHEN",
+   "title": "教授（研究员）",
+   "research_area": "手性有机硫属元素化学：手性有机硫化学、硒化学、碲化学 人工酶/仿酶催化剂的设计、合成及不对称催化应用 活性天然产物、药物分子合成",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1425.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "陈接胜",
+   "name_en": "Jiesheng CHEN",
+   "title": "教授（研究员）",
+   "research_area": "（1）无机合成与制备化学。通过熔融反应法，溶液法，电解法，真空沉积法，光诱导法、气体输运法以及水热和溶剂热法等制备具有特殊结构特征或化学物理性质的一维，二维及三维固体化合物； （2）固体材料化学。在合成和制备基础上，揭示所获得新型固体化合物或材料的微观结构，研究它们的化学物理性质尤是发光、电化学、催化性质，探索新型固体作为高性能电极材料和催化剂的用途。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1455.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "陈斌",
+   "name_en": "Bin CHEN",
+   "title": "长聘（教轨）副教授",
+   "research_area": "1）半导体材料与器件的输运超快动力学 2）四维超快电镜的超高时空分辨成像-衍射-能谱 3）纳米光电磁学 4）催化反应动力学 5）电池材料",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1427.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "陈朝煌",
+   "name_en": "Chaohuang CHEN",
+   "title": "长聘（教轨）副教授",
+   "research_area": "1. 新型含硼功能试剂的设计合成与应用研究 2. 硼杂多重键在有机合成中的应用研究 3. 惰性小分子的活化与转化 4. 主族元素掺杂功能材料分子的合成与应用。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3327.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "陈立桅",
+   "name_en": "Liwei CHEN",
+   "title": "教授（研究员）",
+   "research_area": "1）原位表征技术，包括但不限于原位扫描探针、原位电镜等技术 2）软X-射线谱学与仪器创制 3）复合介电材料 4）固态储能技术 5）材料的催化降解",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1453.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "霍小红",
+   "name_en": "Xiaohong HUO",
+   "title": "教授（研究员）",
+   "research_area": "1）双金属协同催化 2）重要手性药物的高效不对称合成 3) 机理研究包括实验与高斯计算",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1422.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "靳智通",
+   "name_en": "",
+   "title": "助理研究员",
+   "research_area": "新型二维材料及相关异质结构的设计合成及结构调控； 新型二维材料的物性研究，及其在电子、光电、催化、新能源等领域的应用；",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3506.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "韩召斌",
+   "name_en": "",
+   "title": "教授（研究员）",
+   "research_area": "模拟金属酶结构和催化机制的金属催化剂开发 天然产物、手性药物及类似物的高效合成",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4997.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "韩莉",
+   "name_en": "Li HAN",
+   "title": "教授（研究员）",
+   "research_area": "非化学专业的化学和化学实验课的教学和课程建设",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1442.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "高峰",
+   "name_en": "Feng GAO",
+   "title": "副教授（副研究员）",
+   "research_area": "(1) 贝达喹啉类抗肺结核药物不对称合成新工艺研究 (2）丰产过渡金属不对称催化新机制、新反应开发 (3）基于骨架的活性小分子药物发现",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/2610.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "魏霄",
+   "name_en": "Xiao WEI",
+   "title": "副教授（副研究员）",
+   "research_area": "1、新型多孔复合光催化材料及太阳能转换材料的设计制备 2、光电转换体系中光诱导电荷微观动力学行为研究",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1387.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "黄香宜",
+   "name_en": "Xiangyi HUANG",
+   "title": "副教授（副研究员）",
+   "research_area": "1、光学探针设计与合成及其生物应用 2、单分子方法研究",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1395.html",
+   "department": "化学化工学院·化学系"
+  },
+  {
+   "name": "刘小果",
+   "name_en": "Xiaoguo LIU",
+   "title": "教授（研究员）",
+   "research_area": "1) DNA纳米技术与基于DNA的纳米光子学 2) 稀溶液生物分子组装体系的同步辐射SAXS表征 3) 仿生矿化与生物材料",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1404.html",
+   "department": "化学化工学院·化学生物学系"
+  },
+  {
+   "name": "张沛元",
+   "name_en": "",
+   "title": "长聘（教轨）副教授",
+   "research_area": "主要研究方向： 1. RNA配体筛选技术开发及平台构建 2. RNA靶向降解药物的设计与生物应用 3. RNA体内可视化工具的开发及应用",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4418.html",
+   "department": "化学化工学院·化学生物学系"
+  },
+  {
+   "name": "张良",
+   "name_en": "",
+   "title": "教授（研究员）",
+   "research_area": "团队致力于生物大分子修饰的化学生物学研究，开展的方向包括： 核酸表观遗传修饰的化学生物学研究 (1) 发展DNA/RNA修饰的质谱检测技术，鉴定新的核酸修饰/去修饰酶系，阐明酶系的底物识别和催化分子机制； (2) 发展细胞小分子代谢物的质谱代谢流靶向和非靶向检测技术，揭示DNA/RNA修饰在肿瘤中的细胞代谢调控机制，鉴定相关抗肿瘤药物新靶标； (3) 建立高通量实体药物筛选和确证体系，发展抗肿瘤靶向新药物，开展化学干预。 蛋白脂酰基修饰的化学生物学研究 (1) 发展蛋白的脂酰基共价修饰技术，鉴定新的脂酰基修饰酶系，阐明酶系的底物识别和催化分子机制; (2) 鉴定相关抗菌药物新靶标，发展抗菌靶向新药物，开展化学干预; (3) 基于机制开展酶功能的定向进化，拓展合成生物学和工业应用。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3846.html",
+   "department": "化学化工学院·化学生物学系"
+  },
+  {
+   "name": "徐丽凤",
+   "name_en": "",
+   "title": "实验师（工程师及其他）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4562.html",
+   "department": "化学化工学院·化学生物学系"
+  },
+  {
+   "name": "徐明",
+   "name_en": "Ming XU",
+   "title": "副教授（副研究员）",
+   "research_area": "（1）光化学长余辉研究 （2）生物医用发光材料及其成像与检测研究 （3）先进诊断试剂研究",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3231.html",
+   "department": "化学化工学院·化学生物学系"
+  },
+  {
+   "name": "李富友",
+   "name_en": "",
+   "title": "教授（研究员）",
+   "research_area": "主要从事稀土生物医用及转化研究，涉及发光体外诊断、活体定量成像与核素药物治疗等领域",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3465.html",
+   "department": "化学化工学院·化学生物学系"
+  },
+  {
+   "name": "李明强",
+   "name_en": "",
+   "title": "助理研究员",
+   "research_area": "1）AI科学家 2）DNA 存储与分子计算 3）多尺度分子模拟应用",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1378.html",
+   "department": "化学化工学院·化学生物学系"
+  },
+  {
+   "name": "杨帆",
+   "name_en": "",
+   "title": "副教授（副研究员）",
+   "research_area": "主要研究方向: 靶向神经疾病相关G蛋白偶联受体的创新配体分子的化学生物学研究 1.选择性神经肽类药物激活GPCR的化学生物学作用机制探究 神经肽能够参与大脑内的信息传递，调节人体的多种生理功能如痛觉、睡眠、情绪、学习及记忆等，因此神经肽类药物已成为治疗精神疾病的重要手段。GPCR是神经肽类药物的重要靶标，多肽药物在结合不同亚型的GPCR时具有选择性，这是药物开发的关键点。我们利用冷冻电镜, 液体核磁共振，顺磁共振等技术方法分析神经肽类药物在结合不同亚型GPCR时的结合模式及动态构象变化，结合细胞功能实验分析，探究其选择性作用机制, 为新药研发提供依据。 2.不同效应小分子药物调节神经递质受体的化学生物学机制探究 GPCR的配体包括拮抗剂, 部分激动剂, 完全激动剂, 反向激动剂等不同效应分子, 可调节不同的信号通路, 参与疾病的发生发展。通过揭示不同效应分子与GPCR, GPCR-G蛋白复合物的化学生物学作用机制, 将促进更高效、更准确的激动剂或抑制剂的设计和开发。 3. 基于GPCR化学生物学作用机制的神经肽类药物设计, 筛选与递送",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4543.html",
+   "department": "化学化工学院·化学生物学系"
+  },
+  {
+   "name": "林之",
+   "name_en": "",
+   "title": "长聘（教轨）副教授",
+   "research_area": "主要聚焦基于蛋白质的化学生物学，包括利用邻近标记技术和定量质谱结合研究蛋白互作网络，利用光亲和反应和蛋白化学反应研究小分子机理等。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4838.html",
+   "department": "化学化工学院·化学生物学系"
+  },
+  {
+   "name": "沈建磊",
+   "name_en": "Jianlei SHEN",
+   "title": "长聘（教轨）副教授",
+   "research_area": "1、细胞膜成像分析 2、原子精细发光团簇制备及应用",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1381.html",
+   "department": "化学化工学院·化学生物学系"
+  },
+  {
+   "name": "沈琦",
+   "name_en": "",
+   "title": "长聘（教轨）副教授",
+   "research_area": "方向一：AI辅助生物分子设计与酶工程 利用人工智能与分子工程技术开展酶和功能蛋白的设计、优化与创制，发展新型生物催化剂和功能分子。 方向二：DNA纳米反应器与分子组装 基于DNA纳米技术构建可编程分子组装体系，实现功能分子的精准组织与协同调控，发展新型DNA纳米反应器和人工分子系统。 方向三：仿生分子机器与智能生物器件 构建具有感知、响应和信息处理功能的仿生分子机器，发展生物电极、DNA生物芯片等智能器件，探索生物分子与电子系统的深度融合。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4015.html",
+   "department": "化学化工学院·化学生物学系"
+  },
+  {
+   "name": "潘漫",
+   "name_en": "Man PAN",
+   "title": "长聘（教轨）副教授",
+   "research_area": "蛋白质翻译后修饰—泛素化修饰—直接调控了细胞内几乎所有蛋白的稳态。简单来说，蛋白底物可以由泛素E1、E2、E3酶级联催化完成泛素化修饰，随后被蛋白质机器（诸如proteasome、p97）识别并降解处理。近年来通过药物设计来靶向泛素化修饰POI蛋白，以实现其快速降解（Targeted protein degradation）的策略，被证明可以实现疾病诊疗并广泛用于新药研发。 课题组致力于通过化学生物学交叉技术，包括蛋白合成化学、蛋白探针组学、冷冻电镜等技术，发掘新型蛋白稳态调控过程，解析蛋白稳态调控过程的关键酶促分子机制，并期望推动新型靶向蛋白稳态类药物研发。具体展开方向如下： · 开发设计新型泛素修饰蛋白探针，运用探针工具解析泛素化修饰调控蛋白稳态的关键酶促分子机制，并基于机制理性设计新型靶向蛋白稳态的方法策略； · 发展精准泛素修饰蛋白获取方法，用于新型蛋白稳态调控过程发掘，为蛋白稳态调控药物分子开发提供新赛道。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3194.html",
+   "department": "化学化工学院·化学生物学系"
+  },
+  {
+   "name": "王强斌",
+   "name_en": "",
+   "title": "教授（研究员）",
+   "research_area": "（1） 量子点合成及其发光机制 （2）生物大分子自组装调控与应用 （3）近红外生物医学与光电器件",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4996.html",
+   "department": "化学化工学院·化学生物学系"
+  },
+  {
+   "name": "田长麟",
+   "name_en": "",
+   "title": "教授（研究员）",
+   "research_area": "主要研究方向：生物自旋磁共振研究 主要研究内容： 磁共振（核磁共振NMR，电子自旋共振ESR，磁共振成像MRI）设备研制、方法发展及化学生物学、合成生物学应用研究。 发展基于非天然氨基酸的蛋白质特定位点标记及NMR分析方法，揭示蛋白质不同功能状态下的不同尺度动态构象变化与物理化学机制。目前已针对重要药物靶标膜蛋白（G蛋白偶联受体，离子通道）开展基于NMR的动态机制及创新多肽药物研发，以通讯作者在Acct Chem Res, Nat Protocols, J Am Chem Soc, Angew Chem Int Ed., Cell Research, Cell Discovery等杂志上发表论文40余篇，以合作作者协助合作伙伴在Nature, Mol Cell, EMBO J等杂志上发表论文20余篇。申请创新多肽药物专利10余项，其中多项进入转化阶段。 发展ESR设备与分析方法，揭示生物酶催化过程中的电子传递与物理化学机制，促进基于酶催化的合成生物学研究。主持搭建25T/690 GHz水冷磁体国际最高场ESR设备；自主搭建9.4T/240GHz超导磁体ESR设备；发展和应用低温ESR方法揭示线粒体酶、光催化酶等氧化还原反应，光催化反应过程中的自由基行为及电子传递机制，以通讯作者在Nature, Nat Catalysis, ACS Catalysis, Chem Commun 等杂志上发表论文20余篇，以合作作者协助合作伙伴在Science, PNAS, Nat Commun等杂志上发表论文10余篇。申请设备研制专利多项。 发展高场MRI检测线圈和分析方法，开展活体原位条件下重要疾病的病理及药理分析。基于9.4T/400 mm动物成像谱仪，发展31P, 23Na等杂核MRI检测线圈，发展基于14T/89mm 谱仪发展高场磁共振成像新方法，发展新型磁共振成像造影剂及揭示治疗神经退行性等脑疾病的药物作用机理。以通讯作者在NeuroImage, Adv HealthCare Mater, Small, Mag Res Lett等杂志上发表论文多篇。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4886.html",
+   "department": "化学化工学院·化学生物学系"
+  },
+  {
+   "name": "翟婷婷",
+   "name_en": "",
+   "title": "助理研究员",
+   "research_area": "框架核酸荧光探针设计与应用； DNA纳米结构组装；",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3206.html",
+   "department": "化学化工学院·化学生物学系"
+  },
+  {
+   "name": "胡宏岗",
+   "name_en": "",
+   "title": "教授（研究员）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/5074.html",
+   "department": "化学化工学院·化学生物学系"
+  },
+  {
+   "name": "葛志磊",
+   "name_en": "Zhilei GE",
+   "title": "长聘（教轨）副教授",
+   "research_area": "1) DNA纳米技术 2) 纳米材料医学诊疗 3) DNA材料仿生",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1382.html",
+   "department": "化学化工学院·化学生物学系"
+  },
+  {
+   "name": "董佳家",
+   "name_en": "",
+   "title": "教授（研究员）",
+   "research_area": "主要研究领域在高价主族氟化物的反应性研究，并且应用该领域所发现的新反应和新试剂于材料化学，药物化学，化学生物学等领域。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3495.html",
+   "department": "化学化工学院·化学生物学系"
+  },
+  {
+   "name": "郑清芸",
+   "name_en": "",
+   "title": "长聘（教轨）副教授",
+   "research_area": "1. 泛素化翻译后修饰探针的设计与开发 2. 靶标特异性的去泛素化酶、E3酶的鉴定及调控 3. 蛋白靶向降解药物的设计与转化应用",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/5075.html",
+   "department": "化学化工学院·化学生物学系"
+  },
+  {
+   "name": "陈丽君",
+   "name_en": "",
+   "title": "长聘（教轨）副教授",
+   "research_area": "功能化超分子材料",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3663.html",
+   "department": "化学化工学院·化学生物学系"
+  },
+  {
+   "name": "陈黎曼",
+   "name_en": "",
+   "title": "助理研究员",
+   "research_area": "新型框架核酸的构建、DNA可控多层级自组装 DNA纳米技术介导脂质体精准药物递送",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4315.html",
+   "department": "化学化工学院·化学生物学系"
+  },
+  {
+   "name": "顾宏周",
+   "name_en": "Hongzhou GU",
+   "title": "教授（研究员）",
+   "research_area": "擅长核酸编辑和组装，致力于开拓DNA在纳米材料、生物传感、临床诊断等方面的基础和应用研究，开展的方向包括： 1. 对靶点或标志物明确的重大恶性肿瘤和慢性疾病，开发可用于体液诊断的便捷核酶探针（试剂盒）；对于标志物未知的重大恶性肿瘤和慢性疾病（主要是三阴性乳腺癌），以核酶探针库为抓手，通过临床样本间的对冲抵消，筛选鉴定疾病相关的标志物和对应的检测探针，揭示疾病的分子机制并明确药物可作用的靶点； 2. 开发新型3D框架核酸的设计和组装方案，在保持组装体近原子分辨率的前提下，将自组装的尺度在3D空间从纳米推向微米和亚毫米级，以满足其作为介质在材料科学中的更多应用需求；同时开发活细胞生产制备框架核酸的生物技术，降低制备成本，为框架核酸的临床研究提供支持； 3. 利用试管内进化的高效筛选策略分离获得重大疾病相关的核酸酶（DNAzyme和Ribozyme），将其与框架核酸融合，编辑组装“环境响应型智能纳米药物载体”，用于重大疾病的靶向精确递药； 4. 利用DNA纳米技术辅助细胞外囊泡EV亚群的精准分离（如基于尺寸、磷脂成分及特定蛋白标签的分群），并在此基础上开展多组学整合分析、标志物挖掘与疾病机制探究，同时探索人工EV药物载体的设计与应用。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3094.html",
+   "department": "化学化工学院·化学生物学系"
+  },
+  {
+   "name": "高兆帅",
+   "name_en": "Zhaoshuai GAO",
+   "title": "助理研究员",
+   "research_area": "（1）等离激元纳米光子学 （2）先进显微镜的设计与应用",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1379.html",
+   "department": "化学化工学院·化学生物学系"
+  },
+  {
+   "name": "黄文茂",
+   "name_en": "",
+   "title": "长聘（教轨）副教授",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3701.html",
+   "department": "化学化工学院·化学生物学系"
+  },
+  {
+   "name": "仇毅翔",
+   "name_en": "",
+   "title": "实验师（工程师及其他）",
+   "research_area": "1、过渡金属配合物的结构与电子特性 2、过渡金属配合物催化反应机理的理论研究",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1370.html",
+   "department": "化学化工学院·基础化学实验教学上海市示范中心"
+  },
+  {
+   "name": "刘效艳",
+   "name_en": "Xiaoyan LIU",
+   "title": "实验师（工程师及其他）",
+   "research_area": "无机纳米功能材料制备及性能研究",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3298.html",
+   "department": "化学化工学院·基础化学实验教学上海市示范中心"
+  },
+  {
+   "name": "刘晓宁",
+   "name_en": "",
+   "title": "实验师（工程师及其他）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4108.html",
+   "department": "化学化工学院·基础化学实验教学上海市示范中心"
+  },
+  {
+   "name": "刘雪娇",
+   "name_en": "Xuejiao LIU",
+   "title": "实验师（工程师及其他）",
+   "research_area": "无机纳米材料的设计合成及在储能方面的应用。",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3309.html",
+   "department": "化学化工学院·基础化学实验教学上海市示范中心"
+  },
+  {
+   "name": "宋朝宇",
+   "name_en": "",
+   "title": "实验师（工程师及其他）",
+   "research_area": "固态电解质合成及电池性能研究；高分子PTFE材料改性研究 金属有机化合物的设计合成和抗肿瘤活性及机制研究 无机有机杂化材料设计合成及抗菌活性研究 金属簇合物的合成及性能研究",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4483.html",
+   "department": "化学化工学院·基础化学实验教学上海市示范中心"
+  },
+  {
+   "name": "张利",
+   "name_en": "li ZHANG",
+   "title": "高级工程师（高级实验师）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1371.html",
+   "department": "化学化工学院·基础化学实验教学上海市示范中心"
+  },
+  {
+   "name": "梁红梅",
+   "name_en": "Hongmei LIANG",
+   "title": "实验师（工程师及其他）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1367.html",
+   "department": "化学化工学院·基础化学实验教学上海市示范中心"
+  },
+  {
+   "name": "蔺丽",
+   "name_en": "Li LIN",
+   "title": "高级工程师（高级实验师）",
+   "research_area": "1.色谱分析",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1373.html",
+   "department": "化学化工学院·基础化学实验教学上海市示范中心"
+  },
+  {
+   "name": "谢少艾",
+   "name_en": "Shaoai XIE",
+   "title": "高级工程师（高级实验师）",
+   "research_area": "1、液-液界面电化学分析测定重金属离子 2、多相半导体材料的电化学合成",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4013.html",
+   "department": "化学化工学院·基础化学实验教学上海市示范中心"
+  },
+  {
+   "name": "迟子怡",
+   "name_en": "",
+   "title": "实验师（工程师及其他）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4155.html",
+   "department": "化学化工学院·基础化学实验教学上海市示范中心"
+  },
+  {
+   "name": "郑少瑜",
+   "name_en": "",
+   "title": "实验师（工程师及其他）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1362.html",
+   "department": "化学化工学院·基础化学实验教学上海市示范中心"
+  },
+  {
+   "name": "陈丽娟",
+   "name_en": "Lijuan CHEN",
+   "title": "实验师（工程师及其他）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3035.html",
+   "department": "化学化工学院·基础化学实验教学上海市示范中心"
+  },
+  {
+   "name": "陈先阳",
+   "name_en": "Xianyang CHEN",
+   "title": "副教授（副研究员）",
+   "research_area": "1、理论研究过渡金属配合物结构与反应机理； 2、手性分子分离机理的理论研究",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4012.html",
+   "department": "化学化工学院·基础化学实验教学上海市示范中心"
+  },
+  {
+   "name": "刘丽月",
+   "name_en": "Liyue LIU",
+   "title": "高级工程师（高级实验师）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1356.html",
+   "department": "化学化工学院·测试中心"
+  },
+  {
+   "name": "吴小婷",
+   "name_en": "Xiaoting WU",
+   "title": "实验师（工程师及其他）",
+   "research_area": "（1）生物高分子与生物医用材料（聚氨基酸或聚肽、糖聚合物、天然多糖） （2）多功能性纳米医学与癌症治疗（免疫治疗、光热治疗、联合治疗） （3）医用水凝胶及其止血愈合与软组织工程 （4）生物降解高分子与生物医用材料（聚乳酸、聚己内酯、脂肪族聚酯）",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/84.html",
+   "department": "化学化工学院·测试中心"
+  },
+  {
+   "name": "姜述芹",
+   "name_en": "Shuqin JIANG",
+   "title": "高级工程师（高级实验师）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1358.html",
+   "department": "化学化工学院·测试中心"
+  },
+  {
+   "name": "孙梦佳",
+   "name_en": "",
+   "title": "实验师（工程师及其他）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3905.html",
+   "department": "化学化工学院·测试中心"
+  },
+  {
+   "name": "岳懂",
+   "name_en": "",
+   "title": "实验师（工程师及其他）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4712.html",
+   "department": "化学化工学院·测试中心"
+  },
+  {
+   "name": "李琳",
+   "name_en": "Li LIN",
+   "title": "实验师（工程师及其他）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3232.html",
+   "department": "化学化工学院·测试中心"
+  },
+  {
+   "name": "李祥斌",
+   "name_en": "",
+   "title": "高级工程师（高级实验师）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4038.html",
+   "department": "化学化工学院·测试中心"
+  },
+  {
+   "name": "李辉",
+   "name_en": "Hui LI",
+   "title": "高级工程师（高级实验师）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1357.html",
+   "department": "化学化工学院·测试中心"
+  },
+  {
+   "name": "王佳",
+   "name_en": "Jia WANG",
+   "title": "实验师（工程师及其他）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3507.html",
+   "department": "化学化工学院·测试中心"
+  },
+  {
+   "name": "薛涵月",
+   "name_en": "Hanyue XUE",
+   "title": "实验师（工程师及其他）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/3553.html",
+   "department": "化学化工学院·测试中心"
+  },
+  {
+   "name": "郑永丽",
+   "name_en": "Yongli ZHENG",
+   "title": "高级工程师（高级实验师）",
+   "research_area": "1、超支化大分子自组装及其作为细胞模型薄膜的研究 2、荧光光谱分析法对大分子聚合物自组装的研究",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/86.html",
+   "department": "化学化工学院·测试中心"
+  },
+  {
+   "name": "郑钦锋",
+   "name_en": "",
+   "title": "实验师（工程师及其他）",
+   "research_area": "锂离子电池高能量密度正极材料的结构调控及电化学性能优化研究",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/5001.html",
+   "department": "化学化工学院·测试中心"
+  },
+  {
+   "name": "门玉龙",
+   "name_en": "",
+   "title": "实验师（工程师及其他）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/4334.html",
+   "department": "化学化工学院·测试中心"
+  },
+  {
+   "name": "陈燕",
+   "name_en": "Yan CHEN",
+   "title": "高级工程师（高级实验师）",
+   "research_area": "",
+   "profile_url": "https://scce.sjtu.edu.cn/teachers/1359.html",
+   "department": "化学化工学院·测试中心"
+  },
+  {
+   "name": "丁奎岭",
+   "name_en": "Kuiling DING",
+   "title": "中国科学院院士（有机化学专家，2013年当选）",
+   "research_area": "有机化学；不对称催化；手性科学与技术",
+   "profile_url": "https://scce.sjtu.edu.cn/lyys.html",
+   "department": "化学化工学院（两院院士）"
+  }
+ ]
+}

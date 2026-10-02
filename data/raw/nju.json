@@ -1,0 +1,3370 @@
+{
+ "school": "南京大学",
+ "source_urls": [
+  "https://chem.nju.edu.cn/szll/list.htm",
+  "https://chem.nju.edu.cn/_wp3services/generalQuery?queryObj=teacherHome",
+  "https://chem.nju.edu.cn/chemen/26899/list.htm"
+ ],
+ "professors": [
+  {
+   "name": "白志平",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/bzp/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "卞宁生",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/bns/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "毕树平",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/bsp/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "鲍松松",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/bss/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "褚目标",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/cmb/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "崔凯",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/ck/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陈庆民",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/cqm/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "程旭",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.nju.edu.cn/cx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陈淑英",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/csy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "曹永兴",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/cyx2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陈伟芝",
+   "name_en": "",
+   "title": "准聘助理教授",
+   "research_area": "高分子化学",
+   "profile_url": "http://chem.nju.edu.cn/cwz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陈慧兰",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/chl/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陈子轩",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/czx2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陈亮曾",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/clc/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陈学太",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/cxt/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陈葳",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "高分子化学",
+   "profile_url": "http://chem.nju.edu.cn/cw/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陈红",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/ch2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "淳远",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/cy_16143/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陈瑶",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/cy2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "曹毅",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "高分子化学",
+   "profile_url": "http://chem.nju.edu.cn/cy1/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陈德洪",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/cdh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陈云龙",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/cyl/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陈韵聪",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学,化学生物学",
+   "profile_url": "http://chem.nju.edu.cn/cyc/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陈兆旭",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/czx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "蔡开富",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/ckf/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陈懿",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/cy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "谌东中",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "高分子化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/cdz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陈浩",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/ch/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陈荣三",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/crs2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陈尚尚",
+   "name_en": "",
+   "title": "准聘副教授（HWYQ）",
+   "research_area": "高分子化学",
+   "profile_url": "http://chem.nju.edu.cn/css/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陈洪渊",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/chy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "曹登科",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/cdk/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "蔡军",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/cj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陈中峻",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/czj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陈佩琴",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/cpq/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "成义祥",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.nju.edu.cn/cyx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陈必凤",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/cbf/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陈伟兴",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/cwx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "丁漪",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/dy2_54223/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "杜云",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/dy2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "董林",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学",
+   "profile_url": "",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "丁维平",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/dwp/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "杜红宾",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/dhb/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "丁寅",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/dy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "丁梦宁",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/dmn/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "董家禄",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/djl/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "段春迎",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/dcy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "丁霖",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/dl/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "丁璇",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/dx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "丁孟辛",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/dmx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "戴洁",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/dj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "丁国伟",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/dgw/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "丁根娣",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/dgd/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "丁楠",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/dn/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "杜学忠",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/dxz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "傅玉川",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/fyc/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "冯福德",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "高分子化学",
+   "profile_url": "http://chem.nju.edu.cn/ffd/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "范换换",
+   "name_en": "",
+   "title": "准聘副教授",
+   "research_area": "化学生物学",
+   "profile_url": "http://chem.nju.edu.cn/fhh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "冯骏材",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/fjc/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "范以宁",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/fyn/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "郭子建",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学,化学生物学",
+   "profile_url": "http://chem.nju.edu.cn/gzj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "顾良证",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/glz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "郭琳",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/gl/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "郭少华",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "跨学科博导",
+   "profile_url": "http://chem.nju.edu.cn/gsh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "高云",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/gy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "郭盛",
+   "name_en": "",
+   "title": "准聘副教授（HWYQ）",
+   "research_area": "有机化学,高分子化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/gs/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "耿鼎才",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/gdc/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "高亚飞",
+   "name_en": "",
+   "title": "准聘副教授（HWYQ）",
+   "research_area": "无机化学,有机化学",
+   "profile_url": "http://chem.nju.edu.cn/gyf/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "高卫",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/gw/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "葛步春",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/gbc/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "郭学锋",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/gxf/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "甘绪成",
+   "name_en": "",
+   "title": "准聘副教授（HWYQ）",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.nju.edu.cn/gxc/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "耿皎",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "应用化学,跨学科博导",
+   "profile_url": "http://chem.nju.edu.cn/gj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "高海东",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/ghd/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "黄淑静",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/hsj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "黄小强",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学,化学生物学",
+   "profile_url": "http://chem.nju.edu.cn/hxq/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "胡茜茜",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/hqq/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "杭庆伟",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/hqw/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "华子春",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "跨学科博导",
+   "profile_url": "http://chem.nju.edu.cn/hzc/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "何其慧",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/hqh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "胡文兵",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "高分子化学",
+   "profile_url": "http://chem.nju.edu.cn/hwb1/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "华伯洋",
+   "name_en": "",
+   "title": "准聘副教授（HWYQ）",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/hby/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "胡柏星",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/hbx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "黄硕",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/hs/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "侯晓霞",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/hxx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "胡征",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/hz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "胡佩",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/hp/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "侯文华",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/hwh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "杭传亭",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/hct/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "胡兴邦",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "应用化学",
+   "profile_url": "http://chem.nju.edu.cn/hxb/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "黄宏文",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/hhw/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "何纪元",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/hjy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "黄伟",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/hw/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "黄木杉",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/hms/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "何卫江",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/hwj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "金敏燕",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/jmy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "季明",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/jm/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "蒋锡群",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "高分子化学",
+   "profile_url": "http://chem.nju.edu.cn/jxq/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "贾叙东",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "高分子化学",
+   "profile_url": "http://chem.nju.edu.cn/jxd/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "鞠熀先",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/jhx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "蒋宁新",
+   "name_en": "",
+   "title": "准聘副教授（HWYQ）",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/jnx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "蒋雨霏",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/jyf/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "金锐",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/jr/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "姜立萍",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/jlp/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "金钟",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/jz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "焦厚生",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/jhs/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "江德臣",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/jdc/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "季伟捷",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/jwj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "姜斌臣",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/jbc/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "蒋玉萍",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/jyp/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "解修伦",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/jxl/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "揭克诚",
+   "name_en": "",
+   "title": "准聘副教授（HWYQ）",
+   "research_area": "无机化学,有机化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/jkc/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "康斌",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学,化学生物学",
+   "profile_url": "http://chem.nju.edu.cn/kb/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "孔璇凤",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/kxf/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "匡素华",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/ksh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "柯晓康",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/kxk/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "孔令宇",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/kly/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "李百秦",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/lbq/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "李琳",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/ll/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "刘震",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/lz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陆云",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/ly_15972/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "李正清",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/lzq/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "李伟",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/lw/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "刘颖",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/ly/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "李有和",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/lyh2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "刘德军",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/ldj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "雷建平",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/ljp/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "李孟寅",
+   "name_en": "",
+   "title": "准聘助理教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/lmy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "刘春根",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/lcg/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "廖锦宁",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/ljn/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "李敏德",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/lmd/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "吕宝源",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/lby1/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "黎书华",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/lsh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陆婉芳",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/lwf/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陆大东",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/ldd/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "鲁艺",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/ly_16026/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "黎建",
+   "name_en": "",
+   "title": "准聘副教授（HWYQ）",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/lj2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "李展召",
+   "name_en": "",
+   "title": "准聘副教授（HWYQ）",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/lzz/main.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陆国元",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/lgy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "刘新冉",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/lxr/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "梁同明",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/ltm/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "刘斌",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/lb/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "李劼",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学,化学生物学",
+   "profile_url": "http://chem.nju.edu.cn/lj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "芦昌盛",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/lcs/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "刘芸",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/ly2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "刘广鉴",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/lgj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "刘艳梅",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/lym2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "李茹恬",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "跨学科博导",
+   "profile_url": "http://chem.nju.edu.cn/lrt/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "刘飞",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/lf/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "李磊",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "应用化学",
+   "profile_url": "http://chem.nju.edu.cn/ll_16242/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "李承辉",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/lch/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "骆培成",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "应用化学",
+   "profile_url": "http://chem.nju.edu.cn/lpc/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "龙亿涛",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/lyt/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "李意勉",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/lym/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "梁勇",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学,化学生物学",
+   "profile_url": "http://chem.nju.edu.cn/ly_16308/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "林思聪",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/lsc/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陆红健",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/lhj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陆轻铱",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/lqy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "罗晓鸣",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/lxm/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "李伟鹏",
+   "name_en": "",
+   "title": "准聘助理教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.nju.edu.cn/lwp/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "李耀华",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/lyh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "刘永江",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/lyj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "李建新",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.nju.edu.cn/ljx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "林晨",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.nju.edu.cn/lc/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "李重德",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/lzd/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "李一志",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/lyz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "练鸿振",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/lhz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "李金波",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学,化学生物学",
+   "profile_url": "http://chem.nju.edu.cn/ljb/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "孟楠",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/mn/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "孟为民",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/mwm/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "孟翠利",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/mcl/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "马晶",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/mj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "马文超",
+   "name_en": "",
+   "title": "研究员",
+   "research_area": "应用化学",
+   "profile_url": "http://chem.nju.edu.cn/mwc/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "马海凤",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/mhf/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "毛囡囡",
+   "name_en": "",
+   "title": "准聘助理教授",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/mnn/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "闵乾昊",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/mqh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "缪强",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/mq/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "马天琼",
+   "name_en": "",
+   "title": "准聘副教授（HWYQ）",
+   "research_area": "无机化学,高分子化学",
+   "profile_url": "http://chem.nju.edu.cn/mtq/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "孟庆金",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/mqj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "孟震",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/mz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "梅毓华",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/myh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "潘荣容",
+   "name_en": "",
+   "title": "准聘副教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/prr/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "庞洁",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/pj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "潘建斌",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/pjb/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "潘毅",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/py/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "彭路明",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/plm/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "潘小红",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/pxh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "潘惠杰",
+   "name_en": "",
+   "title": "准聘副教授（HWYQ）",
+   "research_area": "有机化学,化学生物学",
+   "profile_url": "http://chem.nju.edu.cn/phj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "邱金恒",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/qjh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "强琚莉",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.nju.edu.cn/qjl/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "戚苓",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/ql/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "全一武",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "高分子化学",
+   "profile_url": "http://chem.nju.edu.cn/qyw/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "芮必胜",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/rbs/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "芮纬",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/rw/main.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "任建安",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "跨学科博导",
+   "profile_url": "http://chem.nju.edu.cn/rja/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "沈小东",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/sxd/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "沈俭一",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/sjy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "孙祥祯",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/sxz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "尚芸",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/sy2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "宋凤麒",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "跨学科博导",
+   "profile_url": "http://chem.nju.edu.cn/sfq/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "史言瑛",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/syy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "孙为银",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/swy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "邵荣泉",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/srq/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "沈孟长",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/smz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "宋友",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/sy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "史红旗",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/shq/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "史壮志",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学,有机化学",
+   "profile_url": "http://chem.nju.edu.cn/szz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "邵毓芳",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/syf/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "史坚",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/sj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "沈珍",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/sz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "孙德坤",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/sdk/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "沈群东",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "高分子化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/sqd/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "孙志伟",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/szw/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "苏长会",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/szh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "唐爱玲",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/tal/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "陶友荣",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/tyr/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "涂航飞",
+   "name_en": "",
+   "title": "研究员",
+   "research_area": "有机化学,高分子化学",
+   "profile_url": "http://chem.nju.edu.cn/thf/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "田笑丛",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/txc/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "谭美华",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/tmh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "屠湘同",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/txt/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "屠庆云",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/tqy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "唐廒庚",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/tag/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "涂德双",
+   "name_en": "",
+   "title": "准聘副教授（HWYQ）",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/tds/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "田恬",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/tt/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "田玉玺",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/tyx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "吴琴媛",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wqy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王鹏",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/wp/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王庆",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/wq2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王晓亮",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "高分子化学",
+   "profile_url": "http://chem.nju.edu.cn/wxl/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王海旭",
+   "name_en": "",
+   "title": "准聘副教授（HWYQ）",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/whx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王学斌",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "跨学科博导",
+   "profile_url": "http://chem.nju.edu.cn/wxb/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "魏金华",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wjh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王国强",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/wgq/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "吴雪军",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/wxj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "吴美珠",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wmz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "吴三械",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wsx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王凤彬",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/wfb/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王庆军",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wqj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王亭",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wt/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王志林",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/wzl/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "吴洁",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/wj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "魏元训",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wyx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "巫士华",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wsh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王金晞",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wjx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王康",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/wk/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王晖",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/wh2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王新益",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/wxy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "魏玉娥",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wye/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "吴有庭",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "应用化学",
+   "profile_url": "http://chem.nju.edu.cn/wyt/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王乐勇",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/wly/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "吴琳",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wl/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "吴曦",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/wx2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王亦工",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wyg/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王杰",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wj_16317/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王治流",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wzl2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "武巧珍",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wqz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王春燕",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wcy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王毅",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.nju.edu.cn/wy_16281/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "魏嘉",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "跨学科博导",
+   "profile_url": "http://chem.nju.edu.cn/wj2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王家强",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wjq/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王理宗",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wlz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王晓",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/wx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王欢",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学,化学生物学",
+   "profile_url": "http://chem.nju.edu.cn/wh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "吴兴才",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wxc/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "武伟",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "高分子化学",
+   "profile_url": "http://chem.nju.edu.cn/ww_15987/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "翁筠蓉",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wyr/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王少仲",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.nju.edu.cn/wsz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王桂英",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wgy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王国雄",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wgx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "吴强",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/wq/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "吴石山",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wss/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王敏燕",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/wmy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "吴庐陵",
+   "name_en": "",
+   "title": "准聘助理教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/wll/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "汪榕榕",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wrr/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王英",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "汪蓉",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "高分子化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/wr/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "吴锦慧",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "跨学科博导",
+   "profile_url": "http://chem.nju.edu.cn/wjh2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王喜章",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/wxz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王晓晨",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/wxc2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王元元",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/wyy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "武府鹏",
+   "name_en": "",
+   "title": "研究员",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.nju.edu.cn/wfp/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王天维",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/wtw/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王伟",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/ww/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王德枌",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wdf/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "吴爱菊",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/waj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王秧年",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wyn/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "王昭群",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/wzq/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "许波连",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/xbl/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "肖守军",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/xsj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "徐卫",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/xw/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "夏小仙",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/xxx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "谢劲",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/xj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "奚忠华",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/xzh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "徐伟高",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/xwg/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "徐程",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "高分子化学",
+   "profile_url": "http://chem.nju.edu.cn/xc/main.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "薛奇",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/xq/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "徐维清",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/xwq/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "谢代前",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/xdq/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "谢然",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "化学生物学",
+   "profile_url": "http://chem.nju.edu.cn/xr/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "谢明一",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/xmy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "徐文元",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/xwy/main.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "徐正",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/xz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "薛念华",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/xnh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "许丹科",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/xdk/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "徐骞",
+   "name_en": "",
+   "title": "准聘副教授（HWYQ）",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.nju.edu.cn/xq2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "徐培珍",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/xpz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "徐静娟",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/xjj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "徐文生",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "高分子化学",
+   "profile_url": "http://chem.nju.edu.cn/xws/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "徐明祥",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/xmx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "谢鸿峰",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "高分子化学",
+   "profile_url": "http://chem.nju.edu.cn/xhf/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "徐洁",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/xj2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "夏兴华",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/xxh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "徐建华",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/xjh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "袭锴",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "高分子化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/xk/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "忻新泉",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/xxq/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "于涵洋",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "跨学科博导",
+   "profile_url": "http://chem.nju.edu.cn/yhy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "易敏",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/ym/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "尹桂",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/yg/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "余晓冬",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/yxd/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "应佚伦",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/yyl/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "雍延平",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/yyp/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "叶涛",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/yt/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "俞寿云",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.nju.edu.cn/ysy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "杨晓亮",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.nju.edu.cn/yxl/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "余学海",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/yxh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "余友杰",
+   "name_en": "",
+   "title": "准聘副教授（HWYQ）",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.nju.edu.cn/yyj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "颜其洁",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/yqj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "杨金月",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/yjy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "姚祝军",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学,化学生物学",
+   "profile_url": "http://chem.nju.edu.cn/yzj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "袁鑫",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "应用化学",
+   "profile_url": "http://chem.nju.edu.cn/yx/main.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "杨秀秀",
+   "name_en": "",
+   "title": "研究员",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/yxx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "杨昌正",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/ycz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "姚开安",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/yka/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "严爱珍",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/yaz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "叶德举",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学,化学生物学",
+   "profile_url": "http://chem.nju.edu.cn/ydj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "于俊生",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/yjs/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "郁清",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/yq/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "于世国",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/ysg/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "杨鼎",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/yd/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "叶蕾",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/yl2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "杨肃平",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/ysp/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "杨琥",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "跨学科博导",
+   "profile_url": "http://chem.nju.edu.cn/yh2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "杨士英",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/ysy2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "杨建",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/yj1_54550/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "虞磊",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/yl/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "仰贤莉",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/yxl2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "袁帅",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/ys/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "杨国璋",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/ygz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "杨永华",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "跨学科博导",
+   "profile_url": "http://chem.nju.edu.cn/yyh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "杨立军",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/ylj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "燕红",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/yh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "杨国富",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/ygf/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "朱惠祥",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zhx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "赵蕾",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zl2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "朱成建",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.nju.edu.cn/zcj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "祝艳",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/zy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "郑文华",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/zwh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "赵伟伟",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/zww/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张锡辉",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zxh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "朱龙根",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zlg/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张庆国",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zqg/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张晖",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "赵越",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/zy2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张艳",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学,化学生物学",
+   "profile_url": "http://chem.nju.edu.cn/zy_16329/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "朱建华",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zjh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张俊生",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/zjs/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张嘉芳",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zjf/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "朱慧珍",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zhz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张志洁",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zzj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "周政",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "应用化学",
+   "profile_url": "http://chem.nju.edu.cn/zz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张磊",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/zl/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "周旭",
+   "name_en": "",
+   "title": "准聘副教授（HWYQ）",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/zx2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张志炳",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zzb/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "周以泉",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zyq/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "朱玉华",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zyh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "章福平",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zfp/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张爱民",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zam/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张支尧",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zzy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "朱世民",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zsm/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "周精玉",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zjy/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张盼科",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/zpk/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张晶晶",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学,化学生物学",
+   "profile_url": "http://chem.nju.edu.cn/zjj_25287/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "朱春生",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zcs/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "左景林",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/zjl/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "朱进",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "高分子化学",
+   "profile_url": "http://chem.nju.edu.cn/zj_15993/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张家玫",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zjm/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "郑庆东",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "跨学科博导",
+   "profile_url": "http://chem.nju.edu.cn/zqd/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张文昭",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zwz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张锋",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "应用化学",
+   "profile_url": "http://chem.nju.edu.cn/zf/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "朱俊杰",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/zjj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "周述鹏",
+   "name_en": "",
+   "title": "准聘副教授（HWYQ）",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.nju.edu.cn/zsp/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "郑丽清",
+   "name_en": "",
+   "title": "准聘副教授（HWYQ）",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/zlq/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张正",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zz2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "周志萍",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zzp/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "郑佑轩",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/zyx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "周东山",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "高分子化学",
+   "profile_url": "http://chem.nju.edu.cn/zds/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张剑荣",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/zjr/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "周建华",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zjh2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张难先",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/znx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "郑鹏",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学,化学生物学",
+   "profile_url": "http://chem.nju.edu.cn/zp/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张照强",
+   "name_en": "",
+   "title": "准聘副教授（HWYQ）",
+   "research_area": "无机化学,应用化学",
+   "profile_url": "http://chem.nju.edu.cn/zzq/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "赵劲",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学,化学生物学",
+   "profile_url": "http://chem.nju.edu.cn/zj2/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "甄叙",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "高分子化学",
+   "profile_url": "http://chem.nju.edu.cn/zx/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张新民",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zxm/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张进琪",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zjq/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "郑丽敏",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/zlm/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张墩明",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zdm/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "周燕子",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/zyz/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "郑和根",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/zhg/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "朱静",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zj2_54366/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张秋红",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "高分子化学",
+   "profile_url": "http://chem.nju.edu.cn/zqh/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "朱少林",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.nju.edu.cn/zsl/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "赵斌",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "物理化学",
+   "profile_url": "http://chem.nju.edu.cn/zb/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "朱有山",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zys/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "章文伟",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.nju.edu.cn/zww_16092/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "赵静",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zj2_54363/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "朱婷玉",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "实验技术人员",
+   "profile_url": "http://chem.nju.edu.cn/zty/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "朱从青",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学,有机化学",
+   "profile_url": "http://chem.nju.edu.cn/zcq1/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "周俊",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.nju.edu.cn/zj/list.htm",
+   "department": "化学化工学院"
+  },
+  {
+   "name": "张海燕",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "离退休人员",
+   "profile_url": "http://chem.nju.edu.cn/zhy/list.htm",
+   "department": "化学化工学院"
+  }
+ ]
+}

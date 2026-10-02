@@ -1,0 +1,1688 @@
+{
+    "school":  "浙江大学",
+    "source_urls":  [
+                        "http://www.chem.zju.edu.cn/chemcn/34730/list.htm",
+                        "http://www.chem.zju.edu.cn/chemcn/axw/list.htm",
+                        "https://polymer.zju.edu.cn/szjs/list.htm",
+                        "https://polymer.zju.edu.cn/gfzkxyjs/list.htm",
+                        "https://polymer.zju.edu.cn/gfzfhclyjs/list.htm",
+                        "https://polymer.zju.edu.cn/swyydfzyjs/list.htm",
+                        "https://polymer.zju.edu.cn/81419/list.htm",
+                        "https://polymer.zju.edu.cn/81420/list.htm",
+                        "https://polymer.zju.edu.cn/main.htm"
+                    ],
+    "professors":  [
+                       {
+                           "name":  "曹亮",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/caoliang",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "曾秀琼",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/zengxiuqiong",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "陈万芝",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/ChenWanzhi",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "陈卫祥",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0096210",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "陈志杰",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/zhijiechen",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "陈洪亮",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/hongliang#",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "陈芳",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2019/1217/c43720a1828944/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "丁寒锋",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/ding",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "单冰",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0020077",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "董西昌",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/00230607",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "傅春玲",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0089119",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "冯建东",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/feng/",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "方文军",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0094016",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "方群",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0099482",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "范杰",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/jiefan",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "郭永胜",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/guoys",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "郭芸帆",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0021115",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "何巧红",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/heqh",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "侯昭胤",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0096363",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "华彬",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0024097",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "洪鑫",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/hxchem",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "胡吉明",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/hjm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "胡宁",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/zjuhuning",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "黄岭",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/person/0026121",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "黄建国",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0007043",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "黄飞鹤",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/feihehuang",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "季鹏飞",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/jipengfei",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "金一政",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/Yizhengjin",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "KenjiMochizuki",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/en/0020149",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "刘明",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/mingliu",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "刘昭明",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0617263",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "刘杨",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/person/0620386",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "刘迎春",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/yingchunliu",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "李伟",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0019013",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "李昊",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/lihao",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "李浩然",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0095075",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "林旭锋",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/lxfok",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "梁宇杰",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/person/0026037",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "罗杰",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/person/0025058",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "陆展",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/lu",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "雷鸣",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/leiming",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "孟祥举",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/mengxj",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "马光中",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/gm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "马成",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/Mac",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "彭笑刚",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/jiao8",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "潘慧霖",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0019023",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "潘赛勇",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/person/0026171",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "潘远江",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0094165",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "秦海燕",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/qin",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "史炳锋",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/bfshi",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "孙世超",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/person/0025033",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "沈宏",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/shzju",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "苏彬",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/binsu",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "唐睿康",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0005003",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "谈洁",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/person/0024176",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "吴健",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2021/0709/c43720a2404534/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "吴起",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0003155",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "吴韬",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/yongyi",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王从敏",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/congminwang",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王勇",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/chemwy",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王华敏",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/person/0024137",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王宇",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/person/0026102",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王宇平",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/yupingwang",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王建明",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0096133",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王彦广",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/orgwyg",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王敏",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/minwang",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王林军",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/linjunwang",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王琦",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0090096",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王鹏",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/pwang",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "邬建敏",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/wujianmin",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "宣军",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/person/0025150",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "肖宇晨",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/ycxiao",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "辛娜",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/person/0024059",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "姚加",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0004122",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "姚启钧",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0620808",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "姚波",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/bobodaisy",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "杨皓周",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/person/0026115",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "周默为",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0023827",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "张昭",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/zhangzhao",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "朱海明",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/zhugroup",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "朱黄天之",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/person/0026153",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "赵华绒",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0093084",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "郑剑",
+                           "name_en":  "",
+                           "title":  "教授与研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/jian?fulltext=%E9%83%91%E5%89%91",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "白宏震",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2021/0604/c43721a3012832/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "边平凤",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/bianpf",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "陈幼芳",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0095313",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "陈志春",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0099070",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "丁晓坤",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "http://www.oldchem.zju.edu.cn/redir.php?catalog_id=2923\u0026object_id=69962",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "冯鸿儒",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/fenghongru",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "冷文华",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/wenhua",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "刘占祥",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/liuzhanx",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "刘润",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/runliu",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "刘雅琴",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/nmr600_liu",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "厉刚",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0004127",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "李啸风",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/leexf",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "李宁",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/lining",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "毛侦军",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0013833",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "毛善俊",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0618169",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "毛建新",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/jxmao",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "聂晶晶",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/niejj",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "潘建章",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/jianzhangpan",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "裘雅渔",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2019/1217/c43721a2266333/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "邵海波",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/shaohb",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王国平",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0096025",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王欣雨",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2019/1217/c43721a2266335/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王永涛",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/wyongtao",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "习玲玲",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0098450",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "肖丽萍",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0099011",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "周涛",
+                           "name_en":  "",
+                           "title":  "副教授与副研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0617235",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "马晓鸣",
+                           "name_en":  "",
+                           "title":  "专职研究员",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2025/0721/c43723a3070819/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "李炯昭",
+                           "name_en":  "",
+                           "title":  "专职研究员",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2025/0619/c43723a3063026/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "张晨",
+                           "name_en":  "",
+                           "title":  "专职研究员",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0024807",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "蔡吉清",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/caijq",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "蔡黄菊",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/chj",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "车海燕",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.oldchem.zju.edu.cn/redir.php?catalog_id=2923\u0026object_id=3691",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "陈晨",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2021/0706/c43722a2403538/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "陈颍颍",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2019/1217/c43722a2266311/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "傅宇靖",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.oldchem.zju.edu.cn/redir.php?catalog_id=2923\u0026object_id=3718",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "方芳",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.oldchem.zju.edu.cn/redir.php?catalog_id=2923\u0026object_id=3692",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "顾昊睿",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0019529",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "高李娜",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2024/0522/c43722a2920553/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "何桂金",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/guikinghe",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "胡芳",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2020/1215/c43722a2266306/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "韩钊",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2024/0718/c43722a2947402/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "蒋艳",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2019/1217/c43722a2266323/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "刘继永",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/liujy",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "刘肖予",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2026/0114/c43722a3128229/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "李晓萍",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2024/0522/c43722a2920549/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "李杨",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2020/0701/c43722a2266307/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "蓝国纯",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0097378",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "秦敏锐",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/qmr",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "钱文霞",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.oldchem.zju.edu.cn/redir.php?catalog_id=2923\u0026object_id=3712",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "施蒂儿",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/shidier",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "邵东贝",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2019/1217/c43722a2266332/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "吴艳虹",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2022/0406/c43722a2514542/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王琳秦",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2026/0114/c43722a3128228/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "夏琦",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2022/1028/c43722a2661146/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "徐孝菲",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2019/1217/c43722a2266340/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "许小洲",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2019/1217/c43722a2266342/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "俞一峰",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2024/0522/c43722a2920552/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "俞滨",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2019/1217/c43722a2266343/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "杨林颜",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2024/0522/c43722a2920547/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "周峻",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2019/1217/c43722a2266353/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "张曼华",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2025/1009/c43722a3088699/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "张维娅",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2019/1217/c43722a2266350/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "张静",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2019/1217/c43722a2266347/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "赵玲丽",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0021779",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "赵璇",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/zhaoxuan",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "赵翌帆",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/zhaoyifan2017",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "邹尔纯",
+                           "name_en":  "",
+                           "title":  "其他教职工",
+                           "research_area":  "",
+                           "profile_url":  "http://www.chem.zju.edu.cn/chemcn/2024/0718/c43722a2947400/page.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "万灵书",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/lswan",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "王齐",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/wangqi",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "朱利平",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/lpzhu",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "朱宝库",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/zhubaoku",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "朱蔚璞",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/zhuweipu",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "伍广朋",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/gpwu",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "刘英军",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0617339",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "许震",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0013493",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "杜滨阳",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/dubinyang",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "李扬",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0000032",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "李鹏",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/lipeng",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "杨贯文",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0620795",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "杨皓程",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0022083",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "邱利焱",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0001008",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "宋少飞",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0022233",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "张成建",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0021428",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "张兴宏",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/xinghongzhang",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "张超",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0022227",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "聂磊",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/leinie",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "徐志康",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/SIEPM",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "徐君庭",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/xujt",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "凌君",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/jling",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "高超",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/chaogao",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "高薇薇",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0016151",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "黄小军",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/judson",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "梁洪卿",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/hqliang",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "傅智盛",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0003435",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "上官勇刚",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/sgyg",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "左立见",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/lijianzuo",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "左敏",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/zuomin",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "杜淼",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/dumiao",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "李昌治",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/czli",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "李颀",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/qilistan",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "李寒莹",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/hanying_li",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "吴子良",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/wuzl",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "吴刚",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0004162",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "宋义虎",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/songyihu",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "陈红征",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/hzchen",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "郑强",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/zhengqiang",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "施敏敏",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0003427",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "黄宁",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0019012",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "彭博宇",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/pengboyu",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "彭懋",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0001036",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "王征科",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/natural_biomaterials",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "王幽香",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/youxiangwang",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "毛峥伟",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/maozhengwei",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "计剑",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/biointerface",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "仝维鋆",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/tongwj",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "朱旸",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/zhuyang",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "任科峰",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0011025",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "刘文星",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/wenxing_liu",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "刘建钊",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0015018",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "孙景志",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0099429",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "张鉴予",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/zhangjianyu",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "张浩可",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/hkzhang",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "张鹏",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0020057",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "金桥",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0012160",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "高长有",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/biomaterials",
+                           "department":  "高分子科学与工程学系"
+                       },
+                       {
+                           "name":  "董晓飞",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://person.zju.edu.cn/0617379",
+                           "department":  "高分子科学与工程学系"
+                       }
+                   ]
+}

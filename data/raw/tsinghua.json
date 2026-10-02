@@ -1,0 +1,715 @@
+{
+    "school":  "清华大学",
+    "source_urls":  [
+                        "https://www.chem.tsinghua.edu.cn/szdw/zzjg/apypx1.htm",
+                        "https://www.chem.tsinghua.edu.cn/szdw/zzjg/ayjly1.htm",
+                        "https://www.chem.tsinghua.edu.cn/szdw/jcrc.htm",
+                        "https://www.chem.tsinghua.edu.cn/chemen/Faculty/View_Alphabetically.htm"
+                    ],
+    "professors":  [
+                       {
+                           "name":  "奥马尔·亚吉",
+                           "name_en":  "Omar M. Yaghi",
+                           "title":  "技术职称：教授 博士生导师",
+                           "research_area":  "共价有机框架（COFs）、金属有机框架（MOFs）、分子编织，以及面向材料和化学研究的机器人与人工智能平台（AIMATRY）",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1094/3742.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "陈超",
+                           "name_en":  "Chen, Chao",
+                           "title":  "清华大学化学系博士生导师，副教授",
+                           "research_area":  "元素有机化学，有机合成化学，有机光电材料",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1094/2213.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "陈晨",
+                           "name_en":  "Chen, Chen",
+                           "title":  "陈晨 教授",
+                           "research_area":  "无机材料、催化、新能源、二氧化碳转化",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1094/2212.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "程虎虎",
+                           "name_en":  "Cheng, Huhu",
+                           "title":  "副研究员，高分子所副所长",
+                           "research_area":  "主要从事低维纳米材料的制备、改性和组装调控，激光微纳加工及新型环境能量转化、先进能源存储等方面研究工作 1. 先进功能材料研究（碳基、高分子基材料等，如石墨烯等） 2. 新型能量转化研究（利用水汽发电、水汽驱动、高效水蒸发等） 3. 激光微纳制造、可穿戴能量等",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1094/2209.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "陈永湘",
+                           "name_en":  "Chen, Yongxiang",
+                           "title":  "陈永湘 长聘副教授 博士生导师",
+                           "research_area":  "蛋白质和多肽化学生物学，修饰蛋白质的合成及生物医学功能研究",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1094/2211.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "崔惠敬",
+                           "name_en":  "",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "董桂芳",
+                           "name_en":  "Dong, Guifang",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "段昊泓",
+                           "name_en":  "Duan, Haohong",
+                           "title":  "段昊泓 长聘副教授 博士生导师",
+                           "research_area":  "段昊泓博士，清华大学长聘副教授，农工党党员，国家杰出青年科学基金获得者，基金委创新研究群体B负责人，国家重点研发计划首席科学家。研究兴趣包括纳米催化和电催化。近几年，致力于解决塑料、生物质等碳资源的化学循环和高值化利用问题，发展电/光驱动的绿色催化方法，基于对反应机理的基础研究发展新型电催化剂和高效反应装置，在温和条件下将废弃塑料和生物质等碳资源转化为高附加值化学品，并将上述反应与电解水制氢、二氧化碳还原过程耦合，对推动化学品绿色合成和碳中和具有重要意义。 研究成果以第一作者或通讯作者发表在 Nat. Catal. 、 Nat. Synth. 、 Nat. Commun. 、 J. Am. Chem. Soc. 、 Angew. Chem. Int. Ed. 、 Chem. Soc. Rev. 等国际学术期刊，获得石化联合会科技进步奖一等奖（第一完成人），主编英文专著一部（ Royal Society of Chemistry 出版）。研究成果受到国家自然科学基金委、美国化学会 C\u0026EN、Forbes、 英国 Nature Portfolio、Chemistry World 等网站报道，得到 National Science Review 、 Nature Catalysis 和 Nature Synthesis 等期刊的亮点报道。任中国化学会绿色化学专业委员会委员， Chemical Science 顾问委员会委员，《科学通报》和 Science Bulletin 特邀编委，《中国科学：化学》、 《 Precision Chemistry 》、《 Chinese Journal of Chemistry 》 、《高等学校化学学报》、《化学进展》、《中国化学快报》和《 Advanced Chemical Research 》等刊青年编委。 课题组欢迎优秀博士后加入，课题组介绍请见 http://haohongduan-group.com/ 。 讲授课程： 《化学原理》，本科生专业基础课（秋季学期） 《无机及分析化学实验B》，本科生实验课（春季学期）",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1094/2205.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "段炼",
+                           "name_en":  "",
+                           "title":  "段炼教授",
+                           "research_area":  "1、新一代有机半导体发光材料的设计合成、性能表征及其在有机发光二极管器件的研究 2、新型有机注入和传输材料的设计合成、机理研究及其器件应用",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1094/2909.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "冯琳",
+                           "name_en":  "Feng, Lin",
+                           "title":  "博士 副教授",
+                           "research_area":  "超浸润纳米界面分离材料",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1094/2204.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "付华",
+                           "name_en":  "Fu, Hua",
+                           "title":  "教授",
+                           "research_area":  "不对称合成、 化学 生物学 、光催化 的 有机反应",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1094/2203.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "郭庆辉",
+                           "name_en":  "Guo Qing-Hui",
+                           "title":  "郭庆辉 博士 副教授 博士生导师",
+                           "research_area":  "新型碳纳米结构精准合成及性能 功能有机大环化合物及其超分子化学 分子纳米拓扑学和智能动态材料",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1094/3360.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "何彦",
+                           "name_en":  "",
+                           "title":  "何彦 清华大学化学系教授，博士生导师",
+                           "research_area":  "生命分析化学（研究方向：基于单分子单细胞分析的复杂活性体系研究）",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2242.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "华瑞茂",
+                           "name_en":  "Hua, Ruimao",
+                           "title":  "华瑞茂 博士、教授",
+                           "research_area":  "炔烃化学、有机材料化学",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2239.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "胡昉昊",
+                           "name_en":  "Hu, Fanghao",
+                           "title":  "副教授，博士生导师",
+                           "research_area":  "分子光谱和非线性光学成像，化学探针，生物光子学",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2240.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "胡憾石",
+                           "name_en":  "",
+                           "title":  "副教授",
+                           "research_area":  "相对论量子化学 镧系锕系元素理论计算化学 团簇理论计算化学",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2321.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "焦雷",
+                           "name_en":  "Jiao, Lei",
+                           "title":  "焦雷 副教授 博士生导师",
+                           "research_area":  "焦雷课题组的主要研究方向是机理研究指导的新反应、新催化剂设计，目标是在对反应机理及构效关系深入认识的基础上，通过反应中间体化学研究和分子设计发展出具有独特功能的新催化剂和反应体系。课题组目前的主要研究方向是N-硼基吡啶负离子化学和具有协同催化功能的新型配体设计。",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2322.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "焦丽颖",
+                           "name_en":  "Jiao, Liying",
+                           "title":  "教授",
+                           "research_area":  "1．低维半导体材料的可控合成、结构表征、物性测量及其在纳电子学领域的应用研究 2．新型能源材料的制备及性能优化",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2237.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "吉岩",
+                           "name_en":  "Ji, Yan",
+                           "title":  "吉岩 博士 副教授",
+                           "research_area":  "动态共价键高分子材料、 液晶弹性体等智能高分子、软体机器人",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2238.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "巨勇",
+                           "name_en":  "Ju, Yong",
+                           "title":  "教授",
+                           "research_area":  "研究方向： 天然产物化学，有机合成化学，化学生物学。 研究领域： 生物活性天然产物的结构改造及其构效关系； 生物缀合物的化学合成及其生物学功能； 天然产物骨架功能分子的化学合成和性能。",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2236.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "寇会忠",
+                           "name_en":  "Kou, Huizhong",
+                           "title":  "寇会忠 博士，教授。",
+                           "research_area":  "研究兴趣: 配位化学 、多功能材料 、结构化学",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2235.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "梁琼麟",
+                           "name_en":  "Liang, Qionglin",
+                           "title":  "长聘教授，博士生导师",
+                           "research_area":  "药物分析，药品质量与安全，中药现代化",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2735.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "李必杰",
+                           "name_en":  "Li, Bijie",
+                           "title":  "李必杰 副教授 博士生导师",
+                           "research_area":  "",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2234.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "李春",
+                           "name_en":  "",
+                           "title":  "李春   长聘副教授  博士生导师",
+                           "research_area":  "二维纳米材料、导电高分子材料",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2233.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "李广涛",
+                           "name_en":  "Li, Guangtao",
+                           "title":  "李广涛 教授",
+                           "research_area":  "超分子化学与分子组装；胶体与界面化学；纳米材料化学；功能薄膜材料",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2232.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "李景虹",
+                           "name_en":  "Li, Jinghong",
+                           "title":  "新基石研究员",
+                           "research_area":  "1. 分析化学、生物分析化学、生物传感 2. 化学生物学与生物化学 3. 单细胞分析化学 4. 电化学环境与能源",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2231.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "李隽",
+                           "name_en":  "Li, Jun",
+                           "title":  "李隽(Jun Li) 博士，教授，博士生导师",
+                           "research_area":  "",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2230.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "林朝阳",
+                           "name_en":  "Lin Zhaoyang",
+                           "title":  "林朝阳，副教授，博士生导师",
+                           "research_area":  "课题组的主要研究方向包括，发展各类半导体、金属、电介质低维纳米晶体的液相合成方法，研究纳米晶体的表面配体化学，并制备一系列可加工的液体墨水材料。通过规模化的旋涂或者打印等方法，将纳米晶体组装成大规模的固体薄膜材料，进一步加工制备柔性的场效应晶体管和存储器等各种半导体电子器件。我们主要关注低维纳米材料在多个领域中的规模化、低成本应用前景。",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2759.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "林金明",
+                           "name_en":  "Lin, Jinming",
+                           "title":  "林金明，博士、教授、博士生导师",
+                           "research_area":  "研究方向：生命与环境分析化学 1）微流控芯片质谱联用细胞分析 2）化学发光/荧光免疫分析 3）空气负离子检测与健康评估 4）复杂样品前处理与质谱分析 5）分析新仪器、新设备的开发与研制 （欢迎本系及外单位的师生加盟本研究组。每年接收博士生2名、硕士生1-2名、博士后2-3名、优秀访问学者1－2名。同时接收联合培养研究生） 讲授课程： 1）基础分析化学实验 2）环境分析化学 3）分析化学与现代社会（新生研讨课）",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2224.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "李强",
+                           "name_en":  "Li, Qiang",
+                           "title":  "工学博士 教授 博士生导师",
+                           "research_area":  "主要从事晶体材料与晶体生长，固体与晶体化学，弛豫铁电与反铁电材料合成与晶体生长，新型功能与智能材料的制备等方向研究。",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2229.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "刘凯",
+                           "name_en":  "Liu Kai",
+                           "title":  "刘凯，长聘教授、博士生导师，籍贯：山东兖州",
+                           "research_area":  "",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/3732.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "刘磊",
+                           "name_en":  "Liu, Lei",
+                           "title":  "教授、博士生导师",
+                           "research_area":  "蛋白质化学合成",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2221.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "刘礼晨",
+                           "name_en":  "Liu, Lichen",
+                           "title":  "教授",
+                           "research_area":  "课题组主要从事多相催化方向的研究，尤其关注固体催化材料（特别是基于分子筛的多孔材料）的可控合成及其在能源和环境领域的应用。在开展基础研究（比如发展新的材料合成手段以及表征方法从而从分子、原子尺度理解 催化剂的工作原理和结构演化行为 ）的同时，将特别关注在工业界有应用潜力的课题，期望能够实现基础研究到工业应用的转化。 课题组招收材料化学、多相催化、表面化学等方向的博士后，有意者请邮件联系。",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2798.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "刘强",
+                           "name_en":  "",
+                           "title":  "刘强 教授、化学系副系主任",
+                           "research_area":  "金属氢配位化学与催化",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2663.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "刘洋",
+                           "name_en":  "Liu, Yang",
+                           "title":  "刘洋 长聘副教授 博士生导师",
+                           "research_area":  "生物分析化学，纳米电化学分析与与诊疗 ORCiD: 0000-0003-0042-5183 ResearcherID: K-2505-2012",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2219.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "李亚栋",
+                           "name_en":  "Li, Yadong",
+                           "title":  "李亚栋 院士",
+                           "research_area":  "研究方向：纳米材料的合成、组装、结构、性能及其应用探索 主要研究领域：先进功能材料与无机合成化学",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2228.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "李艳梅",
+                           "name_en":  "Li, Yanmei",
+                           "title":  "欢迎点击进入李艳梅教授课题组主页",
+                           "research_area":  "化学合成疫苗 模式识别受体激动剂 新冠等传染性疾病疫苗新型佐剂 蛋白质的化学修饰 修饰蛋白合成 翻译后修饰对神经退行性疾病相关蛋白的影响 退行性疾病相关蛋白沉淀抑制策略",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2227.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "李远",
+                           "name_en":  "Li, Yuan",
+                           "title":  "李远 副教授，博士生导师",
+                           "research_area":  "分子电子学，自组装，纳米加工，有机合成",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2226.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "罗三中",
+                           "name_en":  "",
+                           "title":  "博士，教授",
+                           "research_area":  "",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/2218.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "马超",
+                           "name_en":  "",
+                           "title":  "，副研究员",
+                           "research_area":  "化学生物学、生物制造、绿色矿山",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/3733.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "马冬昕",
+                           "name_en":  "Ma, Dongxin",
+                           "title":  "马冬昕，准聘副教授",
+                           "research_area":  "有机发光材料与器件，钙钛矿发光材料与器件",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1095/3112.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "彭卿",
+                           "name_en":  "Peng, Qing",
+                           "title":  "彭卿（Qing PENG） 教授",
+                           "research_area":  "主要从事无机纳米材料的可控合成、组装、结构与性能等相关领域的科研与教学工作。2013年获杰出青年科学基金资助。2008年获国家自然科学奖二等奖(第3完成人)，2006年获北京市科学技术奖一等奖(第3完成人)，2008年获教育部“新世纪优秀人才支持计划”资助，2008年获清华大学学术新人奖。",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1096/2253.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "乔娟",
+                           "name_en":  "",
+                           "title":  "博士，长聘教授，博士生导师",
+                           "research_area":  "有机光电材料物理化学，有机发光材料和器件",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1096/2250.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "邱新平",
+                           "name_en":  "Qiu, Xinping",
+                           "title":  "邱新平 教授 博士生导师",
+                           "research_area":  "主要从事锂离子电池、直接醇燃料电池（包括重整制氢）及储能电堆（液流电池）为主的先进化学电源的基础及应用研究，包括新型电池材料、电催化材料、电解质材料、电极反应过程动力学、多孔电极结构、电池的新型表征方法以及新型电池生产工艺等研究方向。",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1096/2251.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "邱勇",
+                           "name_en":  "Qiu, Yong",
+                           "title":  "邱勇 院士",
+                           "research_area":  "有机光电材料基本问题研究 与无机光电材料相比，有机光电材料还存在许多基本问题有待解决，包括：如何通过分子设计来改善材料的性能，导致材料性能下降的环境因素是什么，如何设计薄膜结构以提升光电性能等。这些基本材料与结构问题的解决是发展高性能有机光电器件的重要基础。 研究了分子结构对发光性质和溶解性的影响，发展了具有高发光效率、良好溶解性的双核金属化合物等新型材料和多种可溶解的新型离子型磷光化合物。应邀在J. Mater. Chem.上撰写了评述文章（Journal of Materials Chemistry 2010, 20, 6392.和2012, 22, 4206.），系统阐述了相关领域的进展。 研究了有机薄膜结构对发光性能、传输性能的影响。提出采用两种不同有机材料交替形成多层膜的方法构建复合空穴传输层，实现了对空穴传输过程的调控。成功采用两种蒽类衍生物的同分异构体构建了有机复合发光层，既改善了材料成膜性，又使发光效率提高了60%以上。 确认了水分子可以吸附在有机半导体晶粒界面，吸附的水分子影响了材料的传输性能。研究了光照对材料传输性能的影响，提出了通过界面修饰改善光稳定性的方案；首次报道了全有机小分子光电耦合器，由于采用全有机薄膜制备工艺，大大降低了光电混合集成的难度。 高效稳定的发光二极管(OLED)研究 OLED是基于有机半导体的固体发光器件，具有自发光、超薄、响应速度快（无拖尾）、耐低温等特点，与传统的阴极射线管显示技术（CRT）、目前的液晶显示技术（LCD）相比具有很多突出的优点。但是，OLED面临发光效率和稳定性等技术瓶颈有待解决。 OLED器件中电子从金属阴极注入到有机层的势垒比较高，导致发光效率低、驱动电压高。针对此问题，提出了利用活泼金属化合物受热分解释放出金属原子，从而降低电子注入势垒的方案，发明了氮化锂、硼氢化钾等新型的可热分解的电子注入材料。与传统电子注入材料相比，不仅改善了发光效率和稳定性，还降低了工艺温度、扩大了金属阴极的选择范围。应邀在国际信息显示学会会刊上发表了阴极材料进展的综述文章。 有机材料的电子迁移率通常低于空穴迁移率，导致电子和空穴的不平衡，从而成为影响发光效率和稳定性的另一关键因素。发展了一种基于萘并噻二唑基团的新型材料作为电子传输层，使电子迁移率提高了两个数量级，实现了电子迁移率和空穴迁移率的平衡，绿光器件的发光效率提高了一倍以上、寿命提高了六倍以上。这种新材料还具有双极性，既能传输电子又能传输空穴，实现电子与空穴用同一种材料传输层，可望实现载流子传输层材料料和性能完全对称。应邀在Adv. Mater.上撰写关于双极性材料的进展报告（Advanced Materials 2011, 23, 1137.），系统阐述了给体受体结构及非给体受体结构设计双极性材料的策略。 OLED通过电子空穴在发光层的复合而实现发光，通常的结构复合区域往往过窄，导致发光淬灭。针对此问题，设计了一种新型的双发光层结构，拓宽了电子空穴复合区域，显著提高了OLED的发光效率和稳定性，发光寿命达15万小时，是当时国内外报道的最高数据。 OLED产业化 OLED在国际上被视为LCD之后最有发展前景的新型显示技术，是国家重点支持的战略新兴产业之一。我国在发展CRT和LCD产业时，走了一条技术引进的道路，导致我国显示产业长期处于被动状态。作为技术总负责人，邱勇致力于基于自主基础研究成果和技术突破实现OLED产业化。 带领团队于2002年建成了国内第一条OLED中试线，发展出了高纯OLED材料的制备工艺技术，有效降低了材料成本，材料纯度达到99.9%以上。开发了导电膜光刻、材料成膜等技术，简化了工艺步骤，解决了大面积有机薄膜均匀性问题。发明了耐高温的材料技术，器件工作温度从70度提高到100度，相关专利获北京市发明专利一等奖。发明了低驱动电压、高效率的透明器件技术，相关专利获中国专利优秀奖。在上述进展的基础上，2008年自主设计并建成国内第一条OLED大规模生产线。该生产线大量采用了自主技术，实现年产量超过1200万个器件，器件亮度、功耗等性能指标优于国外同类产品。产品占据了小尺寸OLED 50%以上的国内市场份额，进入全球产品出货量的前两位。发展出了满足航空航天和野战要求的OLED产品，具备了抗电磁干扰、抗振动、耐冲击、耐盐雾、耐高低温等特性，成功应用于“神七”舱外航天服和电台等军用装备上。将OLED技术应用于航天服在国际上是第一次。",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1096/2252.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "曲良体",
+                           "name_en":  "Qu Liangti",
+                           "title":  "曲良体 教授、博士生导师、长江学者特聘教授",
+                           "research_area":  "先进功能材料、微纳制造、新能源器件 • 先进材料制备（石墨烯、功能高分子、碳纳米材料、智能响应材料） • 微纳制造（分子/纳米级材料设计、纳米化学、电化学、微纳组装、激光微纳制造） • 新能源器件（海水淡化、空气发电、电池/电容器、柔性电子与微纳能源器件）",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1096/2249.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "陶磊",
+                           "name_en":  "Tao, Lei",
+                           "title":  "陶 磊，副教授",
+                           "research_area":  "高分子合成方法学，基于多组分反应的新型功能高分子，自愈性/自适形水凝胶及其生物应用 欢迎对高分子合成、功能高分子、水凝胶感兴趣的同学加入课题组",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1096/2246.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "童爱军",
+                           "name_en":  "Tong, Aijun",
+                           "title":  "任教授。",
+                           "research_area":  "发展基于荧光探针技术的发光分析新方法，研究生物成像、疾病诊疗及环境监测的应用。",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1096/2245.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "佟硕",
+                           "name_en":  "Tong, Shuo",
+                           "title":  "佟硕 长聘副教授 博士生导师",
+                           "research_area":  "有机合成，不对称催化，超分子化学，新奇手性有机拓扑结构的合成、结构与物性",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1096/2244.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王朝",
+                           "name_en":  "",
+                           "title":  "王朝，副教授，博士生导师",
+                           "research_area":  "1.离子-偶极超分子作用及其力学、电学材料与器件 2.高性能软体机器人 3.可穿戴电子器件",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/3600.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王朝晖",
+                           "name_en":  "",
+                           "title":  "教授 博士生导师",
+                           "research_area":  "分子碳的精准创制与应用基础研究",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2331.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王定胜",
+                           "name_en":  "Wang, Dingsheng",
+                           "title":  "王定胜 教授",
+                           "research_area":  "纳米材料制备与性能 金属纳米催化",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2293.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王梅祥",
+                           "name_en":  "Wang, Meixiang",
+                           "title":  "王梅祥 院士 教授 博士生导师",
+                           "research_area":  "",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2669.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王泉明",
+                           "name_en":  "",
+                           "title":  "2015- 清华大学化学系，教授，博导",
+                           "research_area":  "金属团簇化学",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2290.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王歆燕",
+                           "name_en":  "Wang, Xinyan",
+                           "title":  "王歆燕 博士，副研究员",
+                           "research_area":  "有机合成 不对称合成 含氮杂环的合成方法学研究",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2287.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王训",
+                           "name_en":  "Wang, Xun",
+                           "title":  "王训 教授 博士生导师",
+                           "research_area":  "功能纳米材料控制合成、组装及性能研究",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2286.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "王治强",
+                           "name_en":  "Wang, Zhiqiang",
+                           "title":  "王治强 教授，博士生导师",
+                           "research_area":  "",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2285.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "危岩",
+                           "name_en":  "Wei, Yen",
+                           "title":  "技术职称：教授 博士生导师",
+                           "research_area":  "",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2284.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "魏永革",
+                           "name_en":  "Wei, Yongge",
+                           "title":  "魏永革博士 教授 博士生导师",
+                           "research_area":  "多酸的合成、结构与化学修饰 多酸有机衍生物化学 多酸纳米簇的可控分子组装与超分子自组装 多酸促进的碳氢键直接官能团化 多酸基有机/无机杂化的分子材料",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2278.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "尉志武",
+                           "name_en":  "Yu, Zhiwu",
+                           "title":  "博士，教授，博导",
+                           "research_area":  "",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2267.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "向宇",
+                           "name_en":  "Xiang, Yu",
+                           "title":  "副教授，博士生导师",
+                           "research_area":  "核酸硫化学，可控基因编辑，蛋白互作共价抑制剂 研究概况 向宇课题组致力于核酸硫化学修饰新方法的开发，以此构建（1）基于化学修饰短链核酸的可控基因编辑系统、（2）蛋白互作共价短链核酸抑制剂的体外筛选技术，并（3）研究高等生物细胞内RNA硫代磷酸二酯的存在与潜在功能。 研究小组主页（英文）： https://xiang-lab.com",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2275.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "肖海",
+                           "name_en":  "Xiao, Hai",
+                           "title":  "副教授",
+                           "research_area":  "理论与计算化学，多相催化理论，电化学界面，数据驱动的化学理论涌现与构建",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2274.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "瑕瑜",
+                           "name_en":  "Xia Yu",
+                           "title":  "教授，博士生导师",
+                           "research_area":  "生物大分子质谱，气相离子化学，脂质组学",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2276.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "席婵娟",
+                           "name_en":  "Xi, Chanjuan",
+                           "title":  "博士，教授、博士生导师",
+                           "research_area":  "1.金属有机化合物的设计合成及其诱导的有机合成方法学研究 2.廉价过渡金属催化杂环化合物的合成方法学研究 3.二氧化碳的活化与转化",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2277.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "谢肖",
+                           "name_en":  "",
+                           "title":  "谢肖 助理教授，博士生导师",
+                           "research_area":  "课题组融合化学、生物学、人工智能和医学等多学科方法，解析生命体系的空间组织规律及信号传递机制，开发精准调控策略，并探索其在重大疾病研究与干预中的应用。",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/3748.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "徐柏庆",
+                           "name_en":  "Xu, Boqing",
+                           "title":  "教授，博士生导师，教育部长江学者特聘教授",
+                           "research_area":  "研究领域：多相催化化学； 主要学术兴趣：可持续发展学术领域的催化物理化学。",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2273.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "许华平",
+                           "name_en":  "Xu, Huaping",
+                           "title":  "许华平  教授",
+                           "research_area":  "含硒/碲高分子 研究组主页： http://xuslab.com",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2271.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "徐江飞",
+                           "name_en":  "Xu, Jiangfei",
+                           "title":  "助理研究员、副研究员",
+                           "research_area":  "超分子光化学，超分子聚合物",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2272.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "杨杰",
+                           "name_en":  "Yang, Jie",
+                           "title":  "长聘副教授  博士生导师",
+                           "research_area":  "",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2859.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "杨金东",
+                           "name_en":  "",
+                           "title":  "副研究员",
+                           "research_area":  "研究兴趣：化学键能量学、键能的应用、反应机理研究。",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2270.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "杨忠强",
+                           "name_en":  "Yang, Zhongqiang",
+                           "title":  "杨忠强 副教授",
+                           "research_area":  "液晶材料的成型加工及其在驱动器、人工肌肉和柔性机器人等领域的应用。 课题组网页： https://www.x-mol.com/groups/zyang Orcid ID: 0000-0002-9399-4424",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2269.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "严清峰",
+                           "name_en":  "Yan, Qingfeng",
+                           "title":  "副教授",
+                           "research_area":  "晶体材料、材料化学",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2268.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "袁金颖",
+                           "name_en":  "Yuan, Jinying",
+                           "title":  "袁金颖博士 教授 博士生导师",
+                           "research_area":  "主要研究领域：高分子合成的新方法、活性/可控聚合、智能响应高分子、有机-无机纳米杂化材料、功能涂层",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2266.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "喻国灿",
+                           "name_en":  "Yu, Guocan",
+                           "title":  "副教授，博士生导师",
+                           "research_area":  "课题组主要从事新型载体材料的设计及药物/基因递送系统的开发。研究聚焦于化学、材料、生物与医学的交叉领域，围绕生命科学与临床医学中的重要科学问题，开发前沿生物技术、智能生物材料与器件，为疾病的精准治疗及药物研发提供新方法。",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2844.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "张东东",
+                           "name_en":  "",
+                           "title":  "张东东 助理研究员",
+                           "research_area":  "新一代有机发光材料的开发及有机发光二极管器件的研究",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2332.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "张昊",
+                           "name_en":  "Zhang Hao",
+                           "title":  "副教授， 博士生导师",
+                           "research_area":  "纳米材料2D图案化与3D打印 柔性分析化学传感器",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2265.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "张洪杰",
+                           "name_en":  "",
+                           "title":  "院士",
+                           "research_area":  "无机化学，无机固体化学与材料科学；无机生物材料技术与应用",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/3734.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "章名田",
+                           "name_en":  "",
+                           "title":  "章名田 长聘副教授",
+                           "research_area":  "",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2335.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "张韶光",
+                           "name_en":  "Zhang, Shaoguang",
+                           "title":  "张韶光 副教授 博士生导师",
+                           "research_area":  "金属有机化学、元素有机化学、有机合成化学 课题组招收金属有机化学、有机合成、计算有机化学方向的博士后与研究助理，有意者请邮件联系。",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2259.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "张四纯",
+                           "name_en":  "Zhang, Sichun",
+                           "title":  "张四纯 教授，博士生导师",
+                           "research_area":  "主要从事光谱/质谱分析的方法、仪器和应用研究。近年来的研究工作聚焦于单细胞代谢物质谱分析。",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2263.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "张希",
+                           "name_en":  "Zhang, Xi",
+                           "title":  "张希  院士",
+                           "research_area":  "超分子 聚合物 ； 超两亲分子；超分子化疗；超分子自由基 。",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2261.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "张莹莹",
+                           "name_en":  "Zhang, Yingying",
+                           "title":  "张莹莹 教授 博士生导师",
+                           "research_area":  "纳米碳材料与丝蛋白材料的制备、性能与应用 柔性可穿戴器件及其在生命健康和信息领域的应用 功能纤维与智能织物的设计、制备与应用 讲授课程：物理化学(1)；物理化学B",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2260.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "赵亮",
+                           "name_en":  "Zhao, Liang",
+                           "title":  "亮   教授",
+                           "research_area":  "",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2258.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "赵玉芬",
+                           "name_en":  "Zhao, Yufen",
+                           "title":  "教授",
+                           "research_area":  "生命有机磷化学、生物有机化学、有机合成化学,生命起源",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2257.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "周群",
+                           "name_en":  "Zhou, Qun",
+                           "title":  "年清华大学化学系，讲师",
+                           "research_area":  "分子振动光谱法、二维相关光谱法、振动光谱图像等在复杂混合物体系中的应用，包括离子液体与纤维素凝胶、病原微生物的快速检测、中药和食品的宏观质量控制、文物鉴定等。",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2256.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "周子晖",
+                           "name_en":  "Zihui Zhou",
+                           "title":  "清华大学，化学系，助理教授",
+                           "research_area":  "共价有机框架材料（COFs）、空气二氧化碳直接捕集（DAC）、面向材料和化学研究的机器人与人工智能平台（AIMATRY）",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/3751.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "朱永法",
+                           "name_en":  "",
+                           "title":  "朱永法, 理学博士，教授，博士生导师",
+                           "research_area":  "（1） 光催化材料及其在环境净化和CO 2 资源化应用研究 通过探索纳米结构复合氧化物光催化新材料提高光催化活性以及拓展可见光的响应范围。通过表面杂化作用，提高光催化剂的活性以及耐光腐蚀性能，同时产生可见光活性。探索表面缺陷对光催化活性提高以及产生可见光活性的内在规律。利用光催化材料对室内空气中有机物的污染和微生物污染进行净化研究。探索光催化材料在光解水制氢以及CO 2 光还原资源化方面的规律和机制。 （2） 吸附-催化燃烧工业废气的净化研究 探索非贵金属催化燃烧催化剂，通过纳米结构的控制合成，提高其低温活性以及稳定性。并利用吸附作用和催化燃烧的联用技术，解决工业废气的净化难题。 （3） 室内空气的净化研究 利用高活性光催化材料，通过在各种基材上形成多孔膜，提高光催化的净化性能，开展了室内空气净化的研究。探索多孔和单层g-C 3 N 4 的可控合成，通过与半导体光催化剂的杂化，探索提高可见光活性的新途径，并应用于室内自然光下的空气净化研究。",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/info/1097/2255.htm",
+                           "department":  "化学系"
+                       },
+                       {
+                           "name":  "帅志刚",
+                           "name_en":  "Shuai, Zhigang",
+                           "title":  "",
+                           "research_area":  "",
+                           "profile_url":  "https://www.chem.tsinghua.edu.cn/szdw/jcrc.htm",
+                           "department":  "化学系"
+                       }
+                   ]
+}

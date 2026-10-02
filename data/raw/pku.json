@@ -1,0 +1,1593 @@
+{
+  "school": "北京大学",
+  "source_urls": [
+    "https://www.chem.pku.edu.cn/szll/index.htm",
+    "https://www.chem.pku.edu.cn/szll/zzjs/index.htm"
+  ],
+  "professors": [
+    {
+      "name": "卞江",
+      "name_en": "",
+      "title": "副研究员",
+      "research_area": "专业：无机理论化学；量子化学方法及应用；功能材料的理论研究；生物酶反应机理的理论研究",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9hxyzww55815.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "卞祖强",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9hxyzww55814.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "董浩",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9hxyzww168362.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "Vladimir P. Fedin",
+      "name_en": "",
+      "title": "ChairProfessorofInorganicChemistry",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9645059758eb4d98a42f7476d7017f9b.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "傅永平",
+      "name_en": "",
+      "title": "助理教授，博士生导师",
+      "research_area": "课题组的研究方向是有机无机杂化材料的固态化学和光物理性质。这类材料通过在特定无机固体中引入有机分子带来新的化学键作用，使其晶格沿着特定的取向或晶面断裂，形成无机和有机组分相互交替的杂化结构。一方面，无机晶格的低维化产生强烈的量子限域效应；另一方面，无机和有机晶格存在许多对立性质（如原子静态有序vs动态无序，电子离域vs局域），这些性质的冲突和融合导致杂化界面电子结构和晶格重构，从而带来丰富的固态化学和物理性质。我们课题组致力于新型杂化材料的开发和构效关系研究，同时结合时空分辨光谱和电学测试，研究杂化材料的光电、铁电和自旋等性质以及不同性质间的耦合，发展杂化材料在新型光电器件、激光和量子器件等领域的应用。",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9hxyzww129147.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "高松",
+      "name_en": "",
+      "title": "博士，教授",
+      "research_area": "磁性配位高分子的设计，合成，结构与磁性； 高核分子的结构与磁性，纳米金属团簇的化学制备及磁性； 多孔和有机-无机杂化分子固体材料的晶体工程与性质； 多功能性分子材料的设计，合成和多功能性质间的相互作用。",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9hxyzww55812.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "侯凯鹏",
+      "name_en": "",
+      "title": "特聘研究员，助理教授，博士生导师",
+      "research_area": "生物无机化学，蛋白质设计，酶催化",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9hxyzww170886.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "黄闻亮",
+      "name_en": "",
+      "title": "长聘副教授，博士生导师",
+      "research_area": "研究方向：无机化学，放射化学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9hxyzww55808.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "蓝光旭",
+      "name_en": "",
+      "title": "研究员，博士生导师",
+      "research_area": "研究方向：无机–生物杂化体系",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9hxyzww146037.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "李国宝",
+      "name_en": "",
+      "title": "",
+      "research_area": "钙钛矿化合物的结构与铁电性、离子导电性及磁性",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9hxyzww55804.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "李江南",
+      "name_en": "",
+      "title": "博士，副研究员",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9hxyzww158400.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "李彦",
+      "name_en": "",
+      "title": "教授博士生导师",
+      "research_area": "研究方向：纳米材料与纳米结构",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9hxyzww55805.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "刘志伟",
+      "name_en": "Zhiwei Liu",
+      "title": "研究员，PI，博士生导师",
+      "research_area": "研究方向：稀土配位化学、光电功能材料与器件",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9hxyzww146645.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "施祖进",
+      "name_en": "",
+      "title": "",
+      "research_area": "1. 单（双）层碳纳米管、富勒烯包合物的高产率合成、分离和纯化； 2. 碳纳米管、富勒烯包合物的化学修饰及功能化； 3. 碳纳米管管内填充及纳米空间中的化学； 4. 石墨烯和单层碳纳米角的大量制备及应用。",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9hxyzww55800.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "孙聆东",
+      "name_en": "",
+      "title": "",
+      "research_area": "半导体纳米材料中的激子跃迁与表面局域等离子体行为； 稀土纳米材料的发光与生物成像、检测应用； 无机纳米材料的制备及功能组装；",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9hxyzww55799.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "王炳武",
+      "name_en": "",
+      "title": "研究员",
+      "research_area": "物理化学，无机化学，计算化学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9hxyzww94549.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "王颖霞",
+      "name_en": "",
+      "title": "教授",
+      "research_area": "研究方向：无机化学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9hxyzww55797.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "王哲明",
+      "name_en": "",
+      "title": "教授",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9hxyzww55796.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "徐怡庄",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9hxyzww55794.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "严纯华",
+      "name_en": "",
+      "title": "博士，长江特聘教授，中国科学院院士",
+      "research_area": "研究方向:无机化学、稀土分离化学及应用、 稀土功能材料化学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9hxyzww55793.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "杨 娟",
+      "name_en": "",
+      "title": "副教授",
+      "research_area": "纳米材料与纳米结构、光谱学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9hxyzww55789.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "杨四海",
+      "name_en": "",
+      "title": "李革赵宁讲席教授",
+      "research_area": "无机化学 多孔材料",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/0cb97d4e9d17474fa17cdc61a91119b6.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "张俊龙",
+      "name_en": "Junlong Zhang",
+      "title": "教授，博士生导师",
+      "research_area": "模拟光合作用系统，发展新型金属四吡咯类功能分子； 可用于活细胞内重要分子事件检测的发光金属配合物探针； 惰性小分子活化与能源化学。",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9hxyzww55791.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "张文雄",
+      "name_en": "",
+      "title": "博士，教授，博士生导师",
+      "research_area": "研究方向：配位化学、稀土金属有机化学和元素有机化学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9hxyzww125454.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "张亚文",
+      "name_en": "",
+      "title": "教授",
+      "research_area": "1. 稀土-贵金属纳米催化及其在能源转化和环境保护中的应用； 2. 具有均匀表界面结构的无机纳米催化剂的可控合成及组装化学； 3. 探针催化反应，小分子活化和基于实验和理论模拟相结合的分子反应动力学； 4. 高性能异相纳米催化剂的筛选和优化原理。",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9hxyzww55790.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "郑 捷",
+      "name_en": "",
+      "title": "博士，研究员",
+      "research_area": "储氢材料",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wjhxyjs1/9hxyzww55787.htm",
+      "department": "化学与分子工程学院/无机化学"
+    },
+    {
+      "name": "白玉",
+      "name_en": "",
+      "title": "教授，博士生导师，生物分离和质谱分析，",
+      "research_area": "分离分析和质谱分析",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/fxhxyjs1/9hxyzww97015.htm",
+      "department": "化学与分子工程学院/分析化学"
+    },
+    {
+      "name": "陈继涛",
+      "name_en": "",
+      "title": "博士，博士生导师",
+      "research_area": "储能材料与储能器件； 清洁能源； 能源领域中的分析表征方法研究。",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/fxhxyjs1/9hxyzww97016.htm",
+      "department": "化学与分子工程学院/分析化学"
+    },
+    {
+      "name": "金长文",
+      "name_en": "",
+      "title": "分析化学，博士，长江特聘教授",
+      "research_area": "G蛋白偶联受体（GPCR）的动态结构、相互作用和药物设计。 蛋白质是生命活动的主要执行者。要深入了解生命活动现象，就需要在蛋白质三维结构水平，也就是分子和原子层面研究这些相互作用的机制，即蛋白质发挥生理功能的分子机理。核磁共振技术可以在接近生理环境的溶液条件下进行蛋白质三维结构研究，还能够在原子分辨率上进行蛋白质相互作用，尤其是弱相互作用的检测。此外，蛋白质功能强烈地依赖于其结构由未发挥功能时的状态向发挥生理功能时的状态的转化过程, 亦即与蛋白质的动态结构特性密切相关。应用核磁共振技术可以研究蛋白质的动态结构，表征蛋白质分子运动的时间尺度、化学交换、相互作用方式，获得蛋白质折叠、激活和信号转导等过程中的重要动态构象变化信息为蛋白质工程、药物设计和药物筛选从作用机理上提供指导。 生物体内约有三分之一以上的蛋白质是膜蛋白，承担着跨膜信号转导和物质转运等重要生物功能。其中，G蛋白耦联受体（GPCR）是一大类与众多人类疾病相关的、具有7个跨膜螺旋的膜蛋白，也是重要的药物靶标。近年来，随着越来越多高分辨率的GPCR的晶体或电镜结构得到解析，人们对于这一大类受体的激活机制有了愈发深入的了解。然而，目前对GPCR的动态结构研究尚处于起步阶段。尤其是，GPCR的构象在激活过程中具有高度的动态性，这种结构动态性与不同配体引起的配体活化效率差异之间的关联尚不明确；更重要的是，GPCR蛋白参与多种不同信号通路，目前对于GPCR的动态结构与信号通路的选择性之间的关系更缺乏了解。 本课题组的主要研究兴趣在于，应用结构生物学和生物物理技术方法，研究GPCR与不同配基/下游蛋白相互作用条件下的结构动态学(protein dynamics)，探索GPCR动态结构与相互作用的特异性，以及对不同下游信号通路的的选择和调节作用。具体研究包括以下几个方面： GPCR结构动态学； GPCR与配体的相互作用； GPCR信号通路下游蛋白的动态结构研究； 针对GPCR的药物设计与筛选； 发展核磁共振方法学，提高检测的灵敏度和精确度。 课题组访问地址： http://jinlab.pku.edu.cn 英文网页： http://www.chem.pku.edu.cn/en/faculty/Faculty1/j/86837.htm",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/fxhxyjs1/9hxyzww91990.htm",
+      "department": "化学与分子工程学院/分析化学"
+    },
+    {
+      "name": "李美仙",
+      "name_en": "",
+      "title": "博士，教授",
+      "research_area": "碳簇类物质包括富勒烯及其衍生物、碳纳米管以及纳米豆荚的电分析化学研究； 基于纳米材料的电化学传感和电催化",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/fxhxyjs1/9hxyzww97017.htm",
+      "department": "化学与分子工程学院/分析化学"
+    },
+    {
+      "name": "李 娜",
+      "name_en": "",
+      "title": "博士，教授，博士生导师",
+      "research_area": "光学传感新原理、新方法。主要兴趣为： 基于金属纳米材料光谱（荧光、局域表面等离子体共振吸收/散射）的生物传感。",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/fxhxyjs1/9hxyzww97018.htm",
+      "department": "化学与分子工程学院/分析化学"
+    },
+    {
+      "name": "罗海",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/fxhxyjs1/9hxyzww55841.htm",
+      "department": "化学与分子工程学院/分析化学"
+    },
+    {
+      "name": "邵元华",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/fxhxyjs1/9hxyzww60632.htm",
+      "department": "化学与分子工程学院/分析化学"
+    },
+    {
+      "name": "唐淳",
+      "name_en": "",
+      "title": "教授，博士生导师",
+      "research_area": "生物磁共振，生物物理化学，生物分子动态学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/fxhxyjs1/9hxyzww112404.htm",
+      "department": "化学与分子工程学院/分析化学"
+    },
+    {
+      "name": "王欢",
+      "name_en": "",
+      "title": "博士,研究员,博士生导师",
+      "research_area": "研究方向：分析化学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/fxhxyjs1/9hxyzww125860.htm",
+      "department": "化学与分子工程学院/分析化学"
+    },
+    {
+      "name": "夏斌",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/fxhxyjs1/9hxyzww91994.htm",
+      "department": "化学与分子工程学院/分析化学"
+    },
+    {
+      "name": "赵美萍",
+      "name_en": "",
+      "title": "教授，博士生导师",
+      "research_area": "研究方向：分析化学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/fxhxyjs1/9hxyzww60634.htm",
+      "department": "化学与分子工程学院/分析化学"
+    },
+    {
+      "name": "张新祥",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/fxhxyjs1/9hxyzww99995.htm",
+      "department": "化学与分子工程学院/分析化学"
+    },
+    {
+      "name": "郑俊荣",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/fxhxyjs1/9hxyzww55817.htm",
+      "department": "化学与分子工程学院/分析化学"
+    },
+    {
+      "name": "周颖琳",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/fxhxyjs1/9hxyzww55818.htm",
+      "department": "化学与分子工程学院/分析化学"
+    },
+    {
+      "name": "朱志伟",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/fxhxyjs1/9hxyzww55839.htm",
+      "department": "化学与分子工程学院/分析化学"
+    },
+    {
+      "name": "甘良兵",
+      "name_en": "",
+      "title": "教授",
+      "research_area": "富勒烯衍生物的合成 新型金属配合物的合成及其在有机合成中的应用",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/yjhxyjs1/9hxyzww60638.htm",
+      "department": "化学与分子工程学院/有机化学"
+    },
+    {
+      "name": "焦阳",
+      "name_en": "",
+      "title": "特聘研究员，博士生导师",
+      "research_area": "本课题组聚焦于有机化学、超分子化学和高分子化学等多学科分支的交叉融合，重点关注“自由基”这类开壳层的化学物种，通过深入理解自由基的结构和性质，探索自由基体系的精准识别、可控组装、活性调控，发展高效的自由基反应和有潜力的自由基功能材料。现阶段，我们主要的研究兴趣包括： 1. 策略性地运用超分子组装，实现化学/立体选择性的小分子自由基反应； 2. 借助精准的分子识别，发展可控自由基聚合的新策略； 3. 利用电子、质子等基本粒子，催化自由基及相关超分子体系的可控组装。",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/yjhxyjs1/9hxyzww147333.htm",
+      "department": "化学与分子工程学院/有机化学"
+    },
+    {
+      "name": "雷晓光",
+      "name_en": "",
+      "title": "长江学者特聘教授，博士生导师",
+      "research_area": "有机合成、化学生物学、生物催化、合成生物学、创新药物研发",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/yjhxyjs1/9hxyzww157730.htm",
+      "department": "化学与分子工程学院/有机化学"
+    },
+    {
+      "name": "罗佗平",
+      "name_en": "",
+      "title": "教授",
+      "research_area": "研究方向：有机合成，化学生物学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/yjhxyjs1/9hxyzww97027.htm",
+      "department": "化学与分子工程学院/有机化学"
+    },
+    {
+      "name": "钮大文",
+      "name_en": "",
+      "title": "博雅特聘教授，博士生导师",
+      "research_area": "糖化学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/yjhxyjs1/8c669c4656a14a3bb00dc4e2abf302d4.htm",
+      "department": "化学与分子工程学院/有机化学"
+    },
+    {
+      "name": "裴坚",
+      "name_en": "",
+      "title": "教授，博士生导师",
+      "research_area": "有机化学，功能发光分子材料",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/yjhxyjs1/9hxyzww60641.htm",
+      "department": "化学与分子工程学院/有机化学"
+    },
+    {
+      "name": "王婕妤",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/yjhxyjs1/9hxyzww55856.htm",
+      "department": "化学与分子工程学院/有机化学"
+    },
+    {
+      "name": "王能东",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/yjhxyjs1/9hxyzww55854.htm",
+      "department": "化学与分子工程学院/有机化学"
+    },
+    {
+      "name": "魏俊年",
+      "name_en": "",
+      "title": "博士，副研究员",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/yjhxyjs1/9hxyzww125448.htm",
+      "department": "化学与分子工程学院/有机化学"
+    },
+    {
+      "name": "席振峰",
+      "name_en": "",
+      "title": "北京大学博雅讲席教授，中国科学院院士",
+      "research_area": "研究方向：氮气的活化与转化、 金属有机化学、配位化学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/yjhxyjs1/9hxyzww89595.htm",
+      "department": "化学与分子工程学院/有机化学"
+    },
+    {
+      "name": "许言",
+      "name_en": "",
+      "title": "特聘研究员，博士生导师",
+      "research_area": "有机合成化学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/yjhxyjs1/9hxyzww129413.htm",
+      "department": "化学与分子工程学院/有机化学"
+    },
+    {
+      "name": "余志祥",
+      "name_en": "",
+      "title": "有机化学，博士，长江特聘教授",
+      "research_area": "有机化学反应机理 有机合成方法 天然产物与药物分子的合成 药物化学和化学生物学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/yjhxyjs1/9hxyzww60623.htm",
+      "department": "化学与分子工程学院/有机化学"
+    },
+    {
+      "name": "赵达慧",
+      "name_en": "",
+      "title": "教授博士生导师",
+      "research_area": "研究方向:有机/高分子功能材料化学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/yjhxyjs1/9hxyzww128962.htm",
+      "department": "化学与分子工程学院/有机化学"
+    },
+    {
+      "name": "朱戎",
+      "name_en": "",
+      "title": "研究员博士生导师",
+      "research_area": "研究领域：有机材料和高分子化学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/yjhxyjs1/9hxyzww63029.htm",
+      "department": "化学与分子工程学院/有机化学"
+    },
+    {
+      "name": "杜福胜",
+      "name_en": "",
+      "title": "研究员",
+      "research_area": "刺激响应性聚合物及智能型高分子药物传递系统；高分子基因载体；降解型生物医用高分子材料。 所属课题组 ：李子臣功能高分子研究组",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/gfzhxyjs/9hxyzww97034.htm",
+      "department": "化学与分子工程学院/高分子化学"
+    },
+    {
+      "name": "李子臣",
+      "name_en": "",
+      "title": "博士，教授，博士生导师",
+      "research_area": "高分子合成化学；聚合反应新方法；生物基可降解回收高分子材料；刺激响应性高分子及其生物医学应用 。",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/gfzhxyjs/9hxyzww60670.htm",
+      "department": "化学与分子工程学院/高分子化学"
+    },
+    {
+      "name": "梁德海",
+      "name_en": "",
+      "title": "教授,博士生导师",
+      "research_area": "研究方向：高分子物理与生命起源",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/gfzhxyjs/9hxyzww89117.htm",
+      "department": "化学与分子工程学院/高分子化学"
+    },
+    {
+      "name": "刘允",
+      "name_en": "",
+      "title": "特聘研究员，博士生导师",
+      "research_area": "本课题组的主要研究方向是基于动态结构-性质-功能关系的高分子物理化学。其中我们尤为感兴趣的内容包括动态含硫高分子的合成方法学与新单体制备，机械力化学赋能的高分子骨架编辑与转化，以及针对大分子微观结构的分子探针开发。 我们的研究涉及动态高分子和高分子力化学的前沿领域。 欢迎优秀学子报考博士研究生或参与本科生科研，同时面向国内外诚招博士后加盟。",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/gfzhxyjs/9hxyzww130439.htm",
+      "department": "化学与分子工程学院/高分子化学"
+    },
+    {
+      "name": "吕华",
+      "name_en": "",
+      "title": "博雅特聘教授，博士生导师",
+      "research_area": "研究方向：高分子化学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/gfzhxyjs/9hxyzww89615.htm",
+      "department": "化学与分子工程学院/高分子化学"
+    },
+    {
+      "name": "牛佳莉",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/gfzhxyjs/9hxyzww55867.htm",
+      "department": "化学与分子工程学院/高分子化学"
+    },
+    {
+      "name": "沈志豪",
+      "name_en": "",
+      "title": "博士,研究员,博士生导师",
+      "research_area": "研究方向：高分子物理",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/gfzhxyjs/9hxyzww129072.htm",
+      "department": "化学与分子工程学院/高分子化学"
+    },
+    {
+      "name": "唐小燕",
+      "name_en": "",
+      "title": "研究员，博士生导师",
+      "research_area": "通过设计合成金属催化剂，精确控制聚合物微结构，制备高性能生物可降解以及可化学回收高分子材料； 合成不同拓扑结构的新型聚合物材料及其在相关领域的应用； 开发聚合新方法，实现可控聚合。 本课题组常年招收博士后和研究助理，欢迎对以上研究方向有兴趣的同学和学者加入本课题组。",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/gfzhxyjs/9hxyzww119365.htm",
+      "department": "化学与分子工程学院/高分子化学"
+    },
+    {
+      "name": "杨爽",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/gfzhxyjs/9hxyzww157293.htm",
+      "department": "化学与分子工程学院/高分子化学"
+    },
+    {
+      "name": "张洁",
+      "name_en": "",
+      "title": "研究员博导优青",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/gfzhxyjs/9hxyzww55863.htm",
+      "department": "化学与分子工程学院/高分子化学"
+    },
+    {
+      "name": "张文彬",
+      "name_en": "",
+      "title": "教授，博士生导师",
+      "research_area": "本课题组致力于集成合成高分子和生物高分子的独特基元和设计理念，发展具有不寻常结构和性质的精密结构大分子，并探索其在生物医药领域的应用。具体研究项目包括： 蛋白质拓扑工程及其生物医学应用； 巨型分子杂化体系的精准合成、可控组装和功能化； 生物大分子的催组装和系统化学。 欢迎对以上研究方向有兴趣的同学和学者加入本课题组。本课题组常年招收博士后和研究助理，请随时 联系我们 递交申请材料（包括个人简历和研究总结）。",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/gfzhxyjs/9hxyzww60676.htm",
+      "department": "化学与分子工程学院/高分子化学"
+    },
+    {
+      "name": "郑玉",
+      "name_en": "",
+      "title": "助理教授，研究员，博士生导师",
+      "research_area": "高分子电子材料与生命系统具有相似的机械性能（柔性和可拉伸性）和信号传导机制（混合离子-电子传输）。这使其在开发能够与生命体紧密结合的精准医疗设备，以及高效的智能计算系统方面具有巨大的应用前景。基于高分子化学与物理的原理，课题组聚焦于从分子层面构筑多功能集成的动态聚合物网络体系。通过设计构筑单元和分子间相互作用来调控网络贯穿动力学，理解其在外界刺激下拓扑结构的动态变化及对物质传输过程的影响机制。据此建立聚合物网络多级结构与材料/器件宏观性能（电学/电化学响应性、机械性能、生物学和环境稳定性）的定量关系。目标是实现电子设备与生命系统长时间高效、稳定、安全的信息交互，用于实时健康监测与治疗，人机交互，脑机接口，类神经计算等。具体研究方向包括： 有机混合离子-电子导体的输运机制和电化学晶体管，可穿戴和可植入器件 导电聚合物网络力学性能的分子机制，以及流变学行为研究 新型柔性可拉伸封装材料设计与器件集成",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/gfzhxyjs/9hxyzww171457.htm",
+      "department": "化学与分子工程学院/高分子化学"
+    },
+    {
+      "name": "常晓侠",
+      "name_en": "Xiaoxia Chang",
+      "title": "博士，副研究员，海外优青",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww146705.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "盖锋",
+      "name_en": "Feng Gai",
+      "title": "教授，博士生导师",
+      "research_area": "研究方向：物理化学，生物物理，分子光谱",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww134424.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "郭雪峰",
+      "name_en": "",
+      "title": "教授，博士生导师",
+      "research_area": "化学的魅力在于创造新的物质，物理的魅力在于研究物质的本质特征，两者的结合便能揭示自然奥秘，并改变自然。我们的小组的研究将聚焦于探索新功能分子材料或低维纳米材料的光电子性质，譬如电子传输性质、光电转换性质以及条件刺激反应的能力等等。这些材料包括功能有机单分子或聚集体，碳纳米管，有机无机纳米线，单分子层石墨烯，生物大分子以及纳米粒子等等。这是一个富有挑战性和前瞻性但充满活力和机遇的具有重要应用前景的强交叉前沿领域。从事这方面研究的研究生或博士后将会在有机合成、自组装技术、器件微纳米加工和测试手段各个方面得到全面的锻炼。具体研究方向主要包括： 纳米/分子电子学 单分子生物检测/生物物理 单分子化学反应动力学 单分子基因测序技术 有机/柔性电子学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww55902.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "黄建滨",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww55901.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "来鲁华",
+      "name_en": "",
+      "title": "",
+      "research_area": "主要应用物理化学、计算和实验生物化学以药物化学方法研究蛋白质及其参与的生命过程。试图揭示蛋白质序列、结构和功能的关系，探讨生物分子作用机理，开展蛋白质结构和功能设计，进行基于结构和基于系统的药物设计方法与应用研究。我们发展新的计算设计方法与程序，模拟生物分子机制及系统规律；采用理论计算与实验密切结合的方法定量研究生物分子作用机制并进行蛋白质、药物和生物系统设计。",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww55899.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "厉建龙",
+      "name_en": "",
+      "title": "副教授",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww55897.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "李慕凡",
+      "name_en": "",
+      "title": "研究员，博士生导师",
+      "research_area": "围绕原子尺度电催化剂的设计以及对其反应机制的探索，以单原子仿生酶材料为研究特色，开发原位光谱及电子传输谱学平台，探索材料在电催化及热电催化体系中的应用，包括： 借鉴生物酶体系在原子尺度上调整催化活性位点，提出创新的电催化剂设计及合成思路。 建立原位光谱观测平台以确定电化学反应中关键中间体产物，对催化剂表，界面反应进行实时观测，为解释电催化机理提供更标准可靠的平台。 发展电子传输谱学平台来研究电化学反应中动态吸附的过程，通过对催化剂电讯号的原位实时检测，对动态电化学吸附过程有更完善的认知，揭示实时电位与特定化学吸附过程之间的关联，从而指导进一步改良催化剂。 以电催化为起点，探索新电催化体系（如热电催化，脉冲电催化）以及拓展学科交叉可能性（如电催化有机合成，生物电催化）。",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww132411.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "李琦",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww55898.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "李全伟",
+      "name_en": "",
+      "title": "助理教授，研究员，博士生导师",
+      "research_area": "研究方向：量子光光谱学，能量、电荷转移，量子材料",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww171676.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "刘岩",
+      "name_en": "",
+      "title": "刘岩",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww55896.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "刘海超",
+      "name_en": "",
+      "title": "长江学者特聘教授博士生导师",
+      "research_area": "从原子/分子水平上研究催化剂的结构和组成与其催化性能之间的关系，研究催化反应动力学和反应机理，揭示制约催化剂活性和选择性的关键因素，设计构筑高效催化剂，实现绿色或原子经济性反应。这些反应涉及能源利用、石油化工与精细化工合成等。目前重点研究：(1) 基于不可再生化石资源的低碳烷烃以及甲醇等分子的选择催化转化; (2) 纤维素等可再生生物质资源的选择催化转化；(3)聚酯等废弃塑料的选择催化转化等。",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww55894.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "马 丁",
+      "name_en": "",
+      "title": "教授，中国科学院院士，博士生导师",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww55891.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "彭海琳",
+      "name_en": "",
+      "title": "教授，博士生导师",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww55888.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "亓月",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww127728.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "唐淳",
+      "name_en": "",
+      "title": "教授，博士生导师",
+      "research_area": "生物磁共振，生物物理化学，生物分子动态学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww112404.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "谭聪伟",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww168364.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "童廉明",
+      "name_en": "",
+      "title": "",
+      "research_area": "金属纳米结构的表面等离激元共振产生局域电磁场增强，可以极大的增强表面分子的光学响应。表面增强光谱的增强机制包括电磁场增强和化学增强，具有单分子的检测灵敏度。二维原子晶体材料由于其独特的结构和光学性质，为表面增强光谱的机理和应用研究提供了全新的思路。 主要研究方向包括： 基于二维原子晶体材料的表面增强拉曼散射（SERS）研究 二维原子晶体材料的各向异性光学光谱研究 碳纳米材料和二维原子晶体材料的近场光学光谱研究",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww55877.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "王蒙",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww110841.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "王 远",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww60680.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "吴凯",
+      "name_en": "",
+      "title": "长江特聘教授，博士生导师",
+      "research_area": "表面结构及模型催化剂； 表面分子吸附与反应调控； 分子组装调控的表面化学； 表面分子电子自旋； 离子化学。",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww55882.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "阎云",
+      "name_en": "",
+      "title": "教育部长江学者特聘教授",
+      "research_area": "构建界面能辅助非共价作用驱动的跨尺度超分子组装，为可持续发展提供绿色超分子自组装材料。目前的主要研究方向包括： 可自然降解的超分子塑料及其器件 环糊精主客体动力学调控的功能分子自组装材料 面向肿瘤液体活检、诊疗的先进医学材料 可持续绿色粘附及阻燃等功能材料",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww97116.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "于志浩",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww55883.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "徐冰君",
+      "name_en": "",
+      "title": "长江特聘教授，博士生导师",
+      "research_area": "催化化学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww113473.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "徐东升",
+      "name_en": "",
+      "title": "教授，博士生导师",
+      "research_area": "从事高效能量转化材料与应用研究，关注等离激元材料的可控制备、太阳能电池器件、光(热)催化转化及二次电池材料与器件： 光催化、光热催化材料的可控制备、多尺度结构设计与能源相关的催化体系研究 高效太阳能电池器件的结构设计及性能调控规律研究 二次电池材料的结构设计和新电池体系研究 等离激元材料和新型吸波材料研究",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww60682.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "张长胜",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww92004.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "张锦",
+      "name_en": "",
+      "title": "教授，中国科学院院士，博士生导师",
+      "research_area": "物理化学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww108463.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "郑俊荣",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww60684.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "周继寒",
+      "name_en": "",
+      "title": "研究员，博士生导师",
+      "research_area": "研究方向：物理化学，多维原子分辨成像，电子显微学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww118814.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "周雄",
+      "name_en": "",
+      "title": "博士，副研究员",
+      "research_area": "研究方向：表界面科学的可视化研究",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww154417.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "朱月香",
+      "name_en": "",
+      "title": "",
+      "research_area": "高表界面功能体系:催化剂、吸附剂、纳米材料",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/wlhxyjs1/9hxyzww55878.htm",
+      "department": "化学与分子工程学院/物理化学"
+    },
+    {
+      "name": "陈庆德",
+      "name_en": "",
+      "title": "副教授",
+      "research_area": "超分子体系的辐射化学规律(如 W/O 微乳液中电子的产生、迁移和湮灭)研究 辐照法合成聚合物微凝胶、无机－有机杂化微凝胶、纳米粒子及纳米结构 离子印迹聚合物的合成及其在核素富集、分离中的应用",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/yyhxyjs/9hxyzww55915.htm",
+      "department": "化学与分子工程学院/应用化学"
+    },
+    {
+      "name": "褚泰伟",
+      "name_en": "",
+      "title": "",
+      "research_area": "药物合成以及核素、荧光标记，用于心肌、肿瘤以及乏氧组织的显像； 开展核燃料循环化学的基础性和前瞻性研究，尤其是发展先进的核燃料后处理方法。",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/yyhxyjs/9hxyzww60686.htm",
+      "department": "化学与分子工程学院/应用化学"
+    },
+    {
+      "name": "李能旭",
+      "name_en": "",
+      "title": "助理教授，博士生导师",
+      "research_area": "课题组主攻新一代功能半导体的设计合成与能源转化应用，主要研究方向包括： 解析高能辐射-半导体相互作用机制，阐明材料辐射老化机理，支撑耐辐射半导体材料的定向设计； 研制新型同位素电池，优化能量转换效率，打造新一代长效特种微能源技术路线； 优化半导体辐射探测器性能，推动其在医疗诊断、工业检测等场景中的实际应用； 针对空天辐射环境开展半导体材料与器件优化，研发高性能空天光伏体系。",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/yyhxyjs/cda4ac757ef14889a962b9db72a5d1d3.htm",
+      "department": "化学与分子工程学院/应用化学"
+    },
+    {
+      "name": "李泽军",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/yyhxyjs/9hxyzww55911.htm",
+      "department": "化学与分子工程学院/应用化学"
+    },
+    {
+      "name": "刘春立",
+      "name_en": "",
+      "title": "教授",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/yyhxyjs/9hxyzww60688.htm",
+      "department": "化学与分子工程学院/应用化学"
+    },
+    {
+      "name": "刘志博",
+      "name_en": "",
+      "title": "教授，博士生导师，国家青年科学基金（A类）获得者",
+      "research_area": "放射性药物、放疗响应药物、核辐射驱动的物质活化与转化",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/yyhxyjs/9hxyzww97037.htm",
+      "department": "化学与分子工程学院/应用化学"
+    },
+    {
+      "name": "彭 静",
+      "name_en": "",
+      "title": "副教授，博士生导师",
+      "research_area": "研究方向：应用化学，辐射化学与材料",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/yyhxyjs/9hxyzww55909.htm",
+      "department": "化学与分子工程学院/应用化学"
+    },
+    {
+      "name": "沈兴海",
+      "name_en": "",
+      "title": "博士，教授，（博士生导师）",
+      "research_area": "超分子化学基础研究 环糊精纳米管、环糊精新型包合物、轮烷、分子传感器等超分子体系的设计合成、结构表征和物化性质研究。 超分子光物理、光化学及量热学研究。 W/O微乳液、离子液体微乳液的结构特征和基本物化性质研究。 超分子体系在核化学领域的应用基础研究 超分子体系在核燃料化学领域的应用（离子液体、离子印迹聚合物、浊点萃取等核素分离新方法、新技术研究；微乳液在萃取分离体系中的应用研究）。 超分子体系中纳米粒子的γ-辐射合成及新的调控方法。",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/yyhxyjs/9hxyzww97039.htm",
+      "department": "化学与分子工程学院/应用化学"
+    },
+    {
+      "name": "谢懿",
+      "name_en": "",
+      "title": "副教授，博士生导师",
+      "research_area": "研究方向：核材料化学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/yyhxyjs/9hxyzww159531.htm",
+      "department": "化学与分子工程学院/应用化学"
+    },
+    {
+      "name": "翟茂林",
+      "name_en": "",
+      "title": "教授，博士生导师",
+      "research_area": "研究方向：功能高分子材料，辐射化学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/yyhxyjs/9hxyzww89468.htm",
+      "department": "化学与分子工程学院/应用化学"
+    },
+    {
+      "name": "高毅勤",
+      "name_en": "",
+      "title": "YiQinGao",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/llhxyjs/9hxyzww55922.htm",
+      "department": "化学与分子工程学院/理论与计算化学"
+    },
+    {
+      "name": "蒋鸿",
+      "name_en": "",
+      "title": "研究员，长聘副教授（PI）",
+      "research_area": "本课题组致力于发展针对d/f电子材料的理论方法和计算程序，并将其应用于重要新材料的理论研究，包括： 材料电子能带结构性质的第一性原理方法发展：GW方法及其扩展； 针对强关联电子材料的第一性原理方法发展； 光电能量转化材料、分子磁性材料、过渡金属及其氧化物表面与多相催化的理论模拟。",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/llhxyjs/9hxyzww55921.htm",
+      "department": "化学与分子工程学院/理论与计算化学"
+    },
+    {
+      "name": "Chen Li",
+      "name_en": "",
+      "title": "特聘研究员；博士生导师",
+      "research_area": "理论与计算化学，密度泛函理论，非绝热动力学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/llhxyjs/9hxyzww118127.htm",
+      "department": "化学与分子工程学院/理论与计算化学"
+    },
+    {
+      "name": "刘剑",
+      "name_en": "Jian Liu",
+      "title": "博雅特聘教授，PI，博士生导师",
+      "research_area": "研究方向：物理化学, 理论和计算化学, 化学动力学和光谱,",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/llhxyjs/ff9ef7a6812a4498bac773256b20ffe8.htm",
+      "department": "化学与分子工程学院/理论与计算化学"
+    },
+    {
+      "name": "吴云东",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/llhxyjs/9hxyzww60620.htm",
+      "department": "化学与分子工程学院/理论与计算化学"
+    },
+    {
+      "name": "肖云龙",
+      "name_en": "",
+      "title": "副教授，博士生导师",
+      "research_area": "密度泛函理论（DFT）是研究电子结构问题中应用最为广泛的理论框架之一。然而，现有主流交换–相关泛函几乎均建立在共线自旋（collinear）假设之上，即电子自旋密度仅允许取自旋向上或向下两种取向，这在本质上限制了其对一般自旋构型体系的描述能力。 肖云龙近年来的工作，系统性地将传统共线自旋泛函推广为非共线（noncollinear）形式，使其能够自然处理包含自旋–轨道耦合的noncollinear体系。同时，noncollinear 泛函也可用于共线体系的含时密度泛函理论（TDDFT）激发态计算，在复现常规TDDFT对自旋保持激发态的描述的同时，自然引入了自旋翻转 TDDFT来描述自旋翻转的激发。 自旋翻转 TDDFT 在理论上与常规自旋保持 TDDFT 形成互补的双驱动描述。在实际应用中，自旋翻转TDDFT在双自由基、热激活延迟荧光（TADF）分子、键解离以及势能面锥形交叉等问题中展现出优势。此外，该方法支持解析梯度与解析导数耦合，从而具备用于非绝热分子动力学的潜力。",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/llhxyjs/9hxyzww55916.htm",
+      "department": "化学与分子工程学院/理论与计算化学"
+    },
+    {
+      "name": "杨立江",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/llhxyjs/9hxyzww55917.htm",
+      "department": "化学与分子工程学院/理论与计算化学"
+    },
+    {
+      "name": "陈鹏",
+      "name_en": "",
+      "title": "教授，博士生导师",
+      "research_area": "长期从事化学生物学研究，聚焦化学与生命健康的交叉前沿，致力于通过化学家的知识与手段，为生命科学、医学的研究探索提供一系列创新的工具、研究方式和诊疗手段。具体研究方向如下： 面向活体的化学反应开发与应用； 蛋白质工程，蛋白质组学，蛋白质药物化学； 免疫化学生物学。",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxswxx1/9hxyzww60651.htm",
+      "department": "化学与分子工程学院/化学生物学"
+    },
+    {
+      "name": "陈 兴",
+      "name_en": "",
+      "title": "北京大学化学学院教授",
+      "research_area": "生命科学联合中心高级研究员",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxswxx1/9hxyzww60653.htm",
+      "department": "化学与分子工程学院/化学生物学"
+    },
+    {
+      "name": "戴鹏",
+      "name_en": "",
+      "title": "博士，副研究员",
+      "research_area": "研究方向：化学生物学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxswxx1/9hxyzww156853.htm",
+      "department": "化学与分子工程学院/化学生物学"
+    },
+    {
+      "name": "Xinyuan Fan",
+      "name_en": "",
+      "title": "PhD,ResearchAssociateProfessor",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxswxx1/9hxyzww92003.htm",
+      "department": "化学与分子工程学院/化学生物学"
+    },
+    {
+      "name": "季者",
+      "name_en": "",
+      "title": "助理教授，博士生导师",
+      "research_area": "课题组将围绕酶、蛋白、蛋白质机器，以物理化学的理论模型和测量手段，揭示生物大分子的工作机制；运用和发展化学生物学的工具和技术， 探索生物大分子的新反应、新功能、和生物学应用。 具体研究目标包括： 利用静电催化原理，设计改造金属酶和核酶； 发展静电活化理论，开发新型的蛋白共价反应和共价抑制剂； 在蛋白质机器中安装基于非天然氨基酸的荧光和振动探针，探索化学机械能的传导机制； 改造蛋白质机器，实现全新的生物和化学功能。",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxswxx1/9hxyzww151496.htm",
+      "department": "化学与分子工程学院/化学生物学"
+    },
+    {
+      "name": "贾桂芳",
+      "name_en": "",
+      "title": "教授，博士生导师",
+      "research_area": "研究方向：化学生物学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxswxx1/9hxyzww112306.htm",
+      "department": "化学与分子工程学院/化学生物学"
+    },
+    {
+      "name": "林锋",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxswxx1/9hxyzww168365.htm",
+      "department": "化学与分子工程学院/化学生物学"
+    },
+    {
+      "name": "孙荣华",
+      "name_en": "",
+      "title": "高级工程师",
+      "research_area": "研究趋化运动的分子机理，免疫系统的调节，并寻找治疗性抗癌药物",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxswxx1/9hxyzww55927.htm",
+      "department": "化学与分子工程学院/化学生物学"
+    },
+    {
+      "name": "王初",
+      "name_en": "",
+      "title": "博士，教授",
+      "research_area": "主要通过化学蛋白质组学,生物化学和计算生物学等多种跨领域的技术和手段，大规模发掘蛋白质组中被内源生物小分子或外源化学药物分子特异修饰的功能位点和靶点，并深入研究这些修饰对蛋白质的结构、功能以及其所在的细胞内新陈代谢和信号传导通路的影响。这些研究将有力地推动在后基因组时代人们对大量未知蛋白功能注释的进程，揭示其在各种新陈代谢通路中的关键作用，以及从分子水平上解释多种病理环境的形成和诱因，为相关的药物和治疗手段的研发提供理论基础。目前主要研究方向包括： 发展高效的化学探针和定量质谱方法，实现活细胞内蛋白质翻译后修饰的精准探测，研究了它们参与细胞命运调控的生物学功能。 建立活性小分子靶标鉴定的组学方法，在复杂生物样品内发现天然产物、内源代谢物、外源药物的作用靶点，揭示它们的分子机制。 研发计算化学生物学方法，发掘全新的蛋白质活性中心、翻译后修饰和小分子结合位点，实现对蛋白质功能的精准调控。",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxswxx1/9hxyzww114022.htm",
+      "department": "化学与分子工程学院/化学生物学"
+    },
+    {
+      "name": "邹 鹏",
+      "name_en": "",
+      "title": "教授，博士生导师",
+      "research_area": "研究方向：神经化学生物学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxswxx1/9hxyzww60618.htm",
+      "department": "化学与分子工程学院/化学生物学"
+    },
+    {
+      "name": "陈明星",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/cszy/9hxyzww55940.htm",
+      "department": "化学与分子工程学院/材料化学"
+    },
+    {
+      "name": "扶晖",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/cszy/9hxyzww55941.htm",
+      "department": "化学与分子工程学院/材料化学"
+    },
+    {
+      "name": "关妍",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/cszy/9hxyzww55939.htm",
+      "department": "化学与分子工程学院/材料化学"
+    },
+    {
+      "name": "贺晓然",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/cszy/9hxyzww55947.htm",
+      "department": "化学与分子工程学院/材料化学"
+    },
+    {
+      "name": "鞠晶",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/cszy/9hxyzww55942.htm",
+      "department": "化学与分子工程学院/材料化学"
+    },
+    {
+      "name": "李红卫",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/cszy/9hxyzww91933.htm",
+      "department": "化学与分子工程学院/材料化学"
+    },
+    {
+      "name": "刘佳蕙",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/cszy/9hxyzww91930.htm",
+      "department": "化学与分子工程学院/材料化学"
+    },
+    {
+      "name": "聂洪港",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/cszy/9hxyzww55938.htm",
+      "department": "化学与分子工程学院/材料化学"
+    },
+    {
+      "name": "牛晓刚",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/cszy/9hxyzww91934.htm",
+      "department": "化学与分子工程学院/材料化学"
+    },
+    {
+      "name": "潘伟",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/cszy/9hxyzww55937.htm",
+      "department": "化学与分子工程学院/材料化学"
+    },
+    {
+      "name": "邱忆",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/cszy/9hxyzww168370.htm",
+      "department": "化学与分子工程学院/材料化学"
+    },
+    {
+      "name": "宋环君",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/cszy/9hxyzww168371.htm",
+      "department": "化学与分子工程学院/材料化学"
+    },
+    {
+      "name": "苏婕",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/cszy/9hxyzww91929.htm",
+      "department": "化学与分子工程学院/材料化学"
+    },
+    {
+      "name": "王晓鸽",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/cszy/9hxyzww168367.htm",
+      "department": "化学与分子工程学院/材料化学"
+    },
+    {
+      "name": "徐尧",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/cszy/9hxyzww168368.htm",
+      "department": "化学与分子工程学院/材料化学"
+    },
+    {
+      "name": "张莉",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/cszy/9hxyzww55936.htm",
+      "department": "化学与分子工程学院/材料化学"
+    },
+    {
+      "name": "张秀",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/cszy/9hxyzww55944.htm",
+      "department": "化学与分子工程学院/材料化学"
+    },
+    {
+      "name": "周江",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/cszy/9hxyzww55943.htm",
+      "department": "化学与分子工程学院/材料化学"
+    },
+    {
+      "name": "周文",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/cszy/9hxyzww55934.htm",
+      "department": "化学与分子工程学院/材料化学"
+    },
+    {
+      "name": "边磊",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxjcsyjxzx/9hxyzww55974.htm",
+      "department": "化学与分子工程学院/化学基础实验教学中心"
+    },
+    {
+      "name": "高珍",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxjcsyjxzx/9hxyzww55973.htm",
+      "department": "化学与分子工程学院/化学基础实验教学中心"
+    },
+    {
+      "name": "耿金灵",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxjcsyjxzx/9hxyzww55972.htm",
+      "department": "化学与分子工程学院/化学基础实验教学中心"
+    },
+    {
+      "name": "关玲",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxjcsyjxzx/9hxyzww55971.htm",
+      "department": "化学与分子工程学院/化学基础实验教学中心"
+    },
+    {
+      "name": "何芃",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxjcsyjxzx/9hxyzww156278.htm",
+      "department": "化学与分子工程学院/化学基础实验教学中心"
+    },
+    {
+      "name": "黄军",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxjcsyjxzx/9hxyzww55970.htm",
+      "department": "化学与分子工程学院/化学基础实验教学中心"
+    },
+    {
+      "name": "贾莉",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxjcsyjxzx/9hxyzww55968.htm",
+      "department": "化学与分子工程学院/化学基础实验教学中心"
+    },
+    {
+      "name": "李田",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxjcsyjxzx/9hxyzww55967.htm",
+      "department": "化学与分子工程学院/化学基础实验教学中心"
+    },
+    {
+      "name": "李维红",
+      "name_en": "",
+      "title": "博士，教授",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxjcsyjxzx/9hxyzww119456.htm",
+      "department": "化学与分子工程学院/化学基础实验教学中心"
+    },
+    {
+      "name": "李霄",
+      "name_en": "",
+      "title": "博士，讲师",
+      "research_area": "基础实验教学中心",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxjcsyjxzx/9hxyzww156277.htm",
+      "department": "化学与分子工程学院/化学基础实验教学中心"
+    },
+    {
+      "name": "吕占霞",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxjcsyjxzx/9hxyzww55965.htm",
+      "department": "化学与分子工程学院/化学基础实验教学中心"
+    },
+    {
+      "name": "马锴果",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxjcsyjxzx/9hxyzww55964.htm",
+      "department": "化学与分子工程学院/化学基础实验教学中心"
+    },
+    {
+      "name": "马艳子",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxjcsyjxzx/9hxyzww55963.htm",
+      "department": "化学与分子工程学院/化学基础实验教学中心"
+    },
+    {
+      "name": "王岩",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxjcsyjxzx/9hxyzww55961.htm",
+      "department": "化学与分子工程学院/化学基础实验教学中心"
+    },
+    {
+      "name": "吴忠云",
+      "name_en": "",
+      "title": "副教授",
+      "research_area": "研究方向：物理化学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxjcsyjxzx/9hxyzww120018.htm",
+      "department": "化学与分子工程学院/化学基础实验教学中心"
+    },
+    {
+      "name": "徐金荣",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxjcsyjxzx/9hxyzww55957.htm",
+      "department": "化学与分子工程学院/化学基础实验教学中心"
+    },
+    {
+      "name": "徐烜峰",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxjcsyjxzx/9hxyzww55958.htm",
+      "department": "化学与分子工程学院/化学基础实验教学中心"
+    },
+    {
+      "name": "杨玲",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxjcsyjxzx/9hxyzww55962.htm",
+      "department": "化学与分子工程学院/化学基础实验教学中心"
+    },
+    {
+      "name": "张奇涵",
+      "name_en": "",
+      "title": "副教授",
+      "research_area": "研究方向：有机化学",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxjcsyjxzx/9hxyzww120015.htm",
+      "department": "化学与分子工程学院/化学基础实验教学中心"
+    },
+    {
+      "name": "赵浩",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hxjcsyjxzx/9hxyzww55955.htm",
+      "department": "化学与分子工程学院/化学基础实验教学中心"
+    },
+    {
+      "name": "白宇",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/jghq/9hxyzww56015.htm",
+      "department": "化学与分子工程学院/教辅"
+    },
+    {
+      "name": "邓安琪",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/jghq/9hxyzww161605.htm",
+      "department": "化学与分子工程学院/教辅"
+    },
+    {
+      "name": "高杨",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/jghq/9hxyzww152256.htm",
+      "department": "化学与分子工程学院/教辅"
+    },
+    {
+      "name": "姜婕筠",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/jghq/9hxyzww152571.htm",
+      "department": "化学与分子工程学院/教辅"
+    },
+    {
+      "name": "李晖",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/jghq/9hxyzww56012.htm",
+      "department": "化学与分子工程学院/教辅"
+    },
+    {
+      "name": "李玲",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/jghq/9hxyzww56010.htm",
+      "department": "化学与分子工程学院/教辅"
+    },
+    {
+      "name": "李文斐",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/jghq/9hxyzww161610.htm",
+      "department": "化学与分子工程学院/教辅"
+    },
+    {
+      "name": "刘宇",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/jghq/9hxyzww56009.htm",
+      "department": "化学与分子工程学院/教辅"
+    },
+    {
+      "name": "吕明泉",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/jghq/9hxyzww56008.htm",
+      "department": "化学与分子工程学院/教辅"
+    },
+    {
+      "name": "牟凯",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/jghq/9hxyzww152257.htm",
+      "department": "化学与分子工程学院/教辅"
+    },
+    {
+      "name": "牛林",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/jghq/9hxyzww56005.htm",
+      "department": "化学与分子工程学院/教辅"
+    },
+    {
+      "name": "时征",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/jghq/9hxyzww56003.htm",
+      "department": "化学与分子工程学院/教辅"
+    },
+    {
+      "name": "王芊越",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/jghq/9hxyzww161607.htm",
+      "department": "化学与分子工程学院/教辅"
+    },
+    {
+      "name": "王中琰",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/jghq/9hxyzww55998.htm",
+      "department": "化学与分子工程学院/教辅"
+    },
+    {
+      "name": "吴菁",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/jghq/9hxyzww55993.htm",
+      "department": "化学与分子工程学院/教辅"
+    },
+    {
+      "name": "肖熠",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/jghq/9hxyzww161608.htm",
+      "department": "化学与分子工程学院/教辅"
+    },
+    {
+      "name": "徐一方",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/jghq/9hxyzww55997.htm",
+      "department": "化学与分子工程学院/教辅"
+    },
+    {
+      "name": "贠琳",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/jghq/9hxyzww55996.htm",
+      "department": "化学与分子工程学院/教辅"
+    },
+    {
+      "name": "张兴华",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/jghq/9hxyzww152570.htm",
+      "department": "化学与分子工程学院/教辅"
+    },
+    {
+      "name": "赵玉",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/jghq/14cf5d68f41d48a196ef30838ed5e6af.htm",
+      "department": "化学与分子工程学院/教辅"
+    },
+    {
+      "name": "周勇",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/jghq/9hxyzww55994.htm",
+      "department": "化学与分子工程学院/教辅"
+    },
+    {
+      "name": "刘德佳",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/xbbjb/9hxyzww168366.htm",
+      "department": "化学与分子工程学院/学报编辑部"
+    },
+    {
+      "name": "欧阳贱华",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/xbbjb/9hxyzww55977.htm",
+      "department": "化学与分子工程学院/学报编辑部"
+    },
+    {
+      "name": "熊英",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/xbbjb/9hxyzww55979.htm",
+      "department": "化学与分子工程学院/学报编辑部"
+    },
+    {
+      "name": "於秀芝",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/xbbjb/9hxyzww55978.htm",
+      "department": "化学与分子工程学院/学报编辑部"
+    },
+    {
+      "name": "袁梅",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/xbbjb/9hxyzww55976.htm",
+      "department": "化学与分子工程学院/学报编辑部"
+    },
+    {
+      "name": "张小娟",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/xbbjb/9hxyzww55975.htm",
+      "department": "化学与分子工程学院/学报编辑部"
+    },
+    {
+      "name": "金长文",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hczx/9hxyzww60655.htm",
+      "department": "化学与分子工程学院/化学中心"
+    },
+    {
+      "name": "李红卫",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hczx/9hxyzww55983.htm",
+      "department": "化学与分子工程学院/化学中心"
+    },
+    {
+      "name": "牛晓刚",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hczx/9hxyzww55982.htm",
+      "department": "化学与分子工程学院/化学中心"
+    },
+    {
+      "name": "夏斌",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/hczx/9hxyzww60633.htm",
+      "department": "化学与分子工程学院/化学中心"
+    },
+    {
+      "name": "唐伟",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/gcgs/9hxyzww55991.htm",
+      "department": "化学与分子工程学院/工程技术"
+    },
+    {
+      "name": "张斌",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/gcgs/9hxyzww55989.htm",
+      "department": "化学与分子工程学院/工程技术"
+    },
+    {
+      "name": "张佳平",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/gcgs/9hxyzww55986.htm",
+      "department": "化学与分子工程学院/工程技术"
+    },
+    {
+      "name": "余赪",
+      "name_en": "",
+      "title": "",
+      "research_area": "",
+      "profile_url": "https://www.chem.pku.edu.cn/szll/zzjs/qt/9hxyzww55992.htm",
+      "department": "化学与分子工程学院"
+    }
+  ]
+}

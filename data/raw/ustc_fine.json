@@ -1,0 +1,3907 @@
+{
+ "school": "中国科学技术大学",
+ "professors": [
+  {
+   "name": "谢毅",
+   "name_en": "",
+   "title": "教授、院士",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2014/0425/c2475a17251/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "(1) 机敏纳米材料的结构设计、可控合成、性能及理论研究",
+    "(2) 纳米单元有序组装与宏观尺度纳米结构构筑的新原理、新方法研究",
+    "(3) 基于纳米结构的高效柔性能量存储与转换器件",
+    "(4) 基于纳米结构的CO2富集和转换的光催化剂",
+    "获奖及荣誉 曾获中国青年科学家奖、中国青年女科学家奖、中国科学院-拜耳青年科学家奖、教育部霍英东青年教师奖、中国科学院十大女杰称号，中国科学院青年科学家奖、中国科学院优秀研究生指导教师称号，宝钢教育基金会优秀教师奖、全国首届优秀博士学位论文奖、安徽省自然科学一等奖等奖项",
+    "曾作为学术带头人主持完成国家基金委创新研究群体科学基金，现主持承担国家基金委重点基金，并作为首席科学家主持科技部重大研究计划项目及中国科学院方向性项目等重要课题"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "yxie@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2014/0425/c2475a17251/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "俞书宏",
+   "name_en": "",
+   "title": "教授、院士",
+   "research_area": "无机化学",
+   "profile_url": "http://team.ustc.edu.cn/yulab/en/",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "",
+   "sources": [
+    "http://team.ustc.edu.cn/yulab/en/"
+   ],
+   "confidence": "coarse",
+   "verified": false
+  },
+  {
+   "name": "江海龙",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2013/0304/c2474a17084/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "本"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "jianglab@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2013/0304/c2474a17084/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "唐凯斌",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1023/c2474a17015/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "新型（纳米）结构材料的设计、合成及物性",
+    "材料合成新方法、新技术的研究 获奖及荣誉"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "http://www.bayansikisizle.com/",
+   "email": "kbtang@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1023/c2474a17015/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "吴长征",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2013/1113/c2474a17095/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "l 过渡金属氧化物和硫化物强关联体系材料的相关机制及功能性应用研究 l 无机功能纳米材料的结构设计、可控合成、性能及理论研究 l 准二维关联材料体系微观作用机制、功能性及其器件构建相关性 获得"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "czwu@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2013/1113/c2474a17095/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "杨晴",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1023/c2474a17049/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1. Synthetic methodologies for solid-state materials including crystals, nanostructured crystals and thin films 2. Chemical synthesis, growth mechanism and property investigation of low-dimensional functional nanostructured crystals 获奖及荣誉 2006年 安徽省自然科学奖二等奖 2006年 入选教育部“新世纪优秀人才支持计划” 2009年 获助中国科学院王宽诚基金会“多学科交叉奖金项目” 文章及专著 1. Zhou, J",
+    "Yang, Q., Facile Synthesis of Monodisperse Noble Metal Nanoparticles"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "qyoung@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1023/c2474a17049/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "梁海伟",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2016/0406/c2474a17114/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "聚焦质子交换膜燃料电池（ PEMFCs ）催化剂的设计和制备，旨在发展面向乘用车和商用车应用的高性能合金催化剂和碳载体",
+    "具体包括： 1 ）依据金属间化合物形成热力学和动力学，以及催化剂烧结热力学和动力学等基本原理，发展尺寸和组分均一的金属间化合物催化剂合成方法学",
+    "2 ）发展先进介孔碳载体材料，重点解决 PEMFCs"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "hwliang@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2016/0406/c2474a17114/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "刘建伟",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2019/1120/c2474a405571/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1. 宏观尺度纳米线薄膜的结构设计 2. 纳米线功能器件的研制 获奖及荣誉 2021年度 Nano Research 青年编委"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "jwliu13@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2019/1120/c2474a405571/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "庄涛涛",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "无机化学",
+   "profile_url": "https://faculty.ustc.edu.cn/zhuangtaotao/zh_CN/index.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "[1] 手性纳米结构的精准合成 [2] 圆偏振发光器件、3D显示、信息交互、人形机器人操控、生物功能 版权所有 ©2020 中国科学技术大学 地址：安徽省合肥市金寨路 96 号，邮政编码：230026 总访问量： 日访问量："
+   ],
+   "focus_areas": [],
+   "summary": "庄涛涛，中国科学技术大学化学系 教授，博士生导师；精准智能化学全国重点实验室双聘教授、安徽省立医院（科大附属第一医院）特聘教授。2015年博士毕业于中国科学技术大学化学系，导师俞书宏院士；2016-2020年在加拿大多伦多大学从事博士后研究，合作导师Prof. Ted Sargent；2020年4月入职中国科学技术大学，建立手性结构与功能",
+   "publications": [],
+   "homepage": "",
+   "email": "",
+   "sources": [
+    "https://faculty.ustc.edu.cn/zhuangtaotao/zh_CN/index.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "闵元增",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "无机化学、化学生物学",
+   "profile_url": "https://faculty.ustc.edu.cn/minyuanzeng/zh_CN/index/999166/list/index.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "[1] 生物材料 [2] 药物递送 [3] 金属药物 [4] 化学生物学"
+   ],
+   "focus_areas": [],
+   "summary": "闵元增于中国科学技术大学获得生物无机化学的博士学位。先后分别在新加坡南洋理工大学化学与生物化学系、美国北卡罗来纳大学教堂山分校医学院、Carolina纳米药物研究所和UNC Lineberger Comprehensive Cancer Center工作。于2018年通过面试后入职中国科大开展交叉学科的教学（包括本科生和研究生）和科研工作。 主要研究包括金属药物、纳米药物和免疫疾病相关的纳米生物技术。迄今为止，在化学、材料和医学的交叉研究中，在Nautre Biomedical Engineering、Nature Nanotechnology、Chemical Review、Angewand",
+   "publications": [],
+   "homepage": "",
+   "email": "",
+   "sources": [
+    "https://faculty.ustc.edu.cn/minyuanzeng/zh_CN/index/999166/list/index.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "孟征",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2022/0106/c2474a542337/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "新型导电框架材料的设计与合成 导电框架材料在传感、电子 / 离子传导、电合成中的应用 自组装二维导电材料的构建"
+   ],
+   "focus_areas": [],
+   "summary": "孟征博士的研究围绕一类新型的导电材料，即导电框架材料的设计、合成与应用展开，主要包括三个方面： (1) 利用框架化学的基本概念，采用类似搭积木的方式，开发新型的导电框架材料； (2) 在原子水平阐释导电框架材料的多孔性、导电性、磁性与结构的关系，促进对这类材料物理性质的理解，为其应用提供实验和理论依据； (3) 探索导电框架材料在传感、电子和离子传导、电合成等方面的应用，发掘这类材料作为新一代功能电极材料的巨大潜力，通过化学和材料的底层创新，为电子、能源和人类健康问题带来新的有效方案。近年来，在国内国际高水平期刊",
+   "publications": [],
+   "homepage": "",
+   "email": "zhengmeng@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2022/0106/c2474a542337/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "焦龙",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "无机化学",
+   "profile_url": "https://chem.ustc.edu.cn/2023/0712/c2474a608426/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1. 基于金属有机框架（ MOF ）的电催化材料原子精度控制合成 2. 能源小分子电催化转化 3. 电催化反应装置与器件"
+   ],
+   "focus_areas": [],
+   "summary": "焦龙， 1992 年生，中国科学技术大学特任教授，博士生导师；国家优秀青年基金获得者（ 2022 年）。长期从事 MOF 基催化材料原子精度合成调控及其电催化性能研究，近五年以第一 /",
+   "publications": [],
+   "homepage": "",
+   "email": "longjiao@ustc.edu.cn",
+   "sources": [
+    "https://chem.ustc.edu.cn/2023/0712/c2474a608426/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "郭宇桥",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "无机化学",
+   "profile_url": "https://faculty.ustc.edu.cn/guoyuqiao/zh_CN/",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "社会兼职 教育经历"
+   ],
+   "focus_areas": [],
+   "summary": "研究方向 社会兼职 教育经历",
+   "publications": [],
+   "homepage": "",
+   "email": "",
+   "sources": [
+    "https://faculty.ustc.edu.cn/guoyuqiao/zh_CN/"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "刘卫",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1029/c2473a17174/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "hpf@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1029/c2473a17174/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "时亮",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1029/c2473a17178/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "sliang@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1029/c2473a17178/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "宋乐新",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1029/c2470a17189/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "配位化学, 超分子化学, 纳米材料和软物质 获奖及荣誉 连续三届(至今共举办四届)荣获安徽省优秀硕士学位论文指导教师称号",
+    "获2012年“王宽诚育才奖”二等奖",
+    "获2013年“安徽省自然科学优秀学术论文”三等奖",
+    "主持完成国家自然科学青年基金和面上项目各1项、省级自然科学基金2项",
+    "作为访问学者先后在日本科学技术厅生命工学工业技术研究所(2年)和法国阿尔图瓦大学催化实验室(1月)作学术研究",
+    "主持国际交流项目3次, 与法国阿尔图瓦大学的Monflier教授和Anno教授以及南非开普敦大学的Mino教授有良好的合作关系"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "solexin@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1029/c2470a17189/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "徐小龙",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "无机化学、化学生物学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1029/c2473a17126/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1029/c2473a17126/page.htm"
+   ],
+   "confidence": "coarse",
+   "verified": false
+  },
+  {
+   "name": "龚流柱",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1023/c2474a17066/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "有机合成方法学，不对称催化和天然产物合成",
+    "获奖及荣誉"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "gonglz@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1023/c2474a17066/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "顾振华",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1023/c2474a16973/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "有机合成方法学（金属导向的有机合成）及其在复杂天然产物合成中的应用 获奖及荣誉 Roche Creative Chemistry Award （2006） 中国科学院院长特别奖 （2007） 全国优秀博士论文 （2009） 文章及专著 1. Shengming Ma* and Zhenhua Gu, PdCl2-Catalyzed Two-Component Cross-coupling Cyclization of 2,3-Allenoic Acids with 2,3-Allenols: An Efficient Synthesis of 4-(1’, 3’-Dien-2’-yl)-2-furan-one Derivatives, J. Am. Chem. Soc. 2005, 127, 6182-6183. 2. Shengming Ma* and Zhenhua Gu, Seque"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zhgu@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1023/c2474a16973/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "黄汉民",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2016/0323/c2474a17108/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "导向有机合成的金属有机化学，均相催化反应及机理研究 获奖及荣誉 2012年获得国家自然科学基金“优秀青年基金”的资助",
+    "2015获中国科学院优秀研究生指导教师奖，入选英国皇家化学会会士 （ RSC-Fellow）和科技部中青年科技创新领军人才",
+    "文章及专著 1."
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "hanmin@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2016/0323/c2474a17108/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "康彦彪",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1023/c2474a16990/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1. 面向工业化的选择性清洁氧化反应",
+    "1. 前沿手性催化与合成",
+    "2. 基于化学反应动力学的有机反应机理研究",
+    "4. 新型聚合材料新型聚合方法"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "ybkang@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1023/c2474a16990/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "宋钦华",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1023/c2474a16979/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1. 功能发光分子的设计合成与性质 2. 有机光化学 获奖及荣誉 2006年度王宽诚育才奖一等奖 文章及专著 1. Ren MG, Mao M, Song QH,* The equilibria and conversions between three excited states: the LE state and two charge transfer states, in twisted pyrene-substituted tridurylboranes, Chem. Commun. 2012, 48, 2970-2972 2. Wang JB, Fang XQ, Pan X, Dai SY, Song QH,* New 2, 6-modified Bodipy sensitizers for dye-sensitized solar cells, Chem. Asian J."
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "qhsong@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1023/c2474a16979/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "田仕凯",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1023/c2474a16981/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "有机合成 文章及专著 1. Man-Bo Li, Yong Wang, and Shi-Kai Tian*, Regioselective and Stereospecific Cross-Coupling of Primary Allylic Amines with Boronic Acids and Boronates through Palladium-Catalyzed C-N Bond Cleavage, Angew. Chem., Int. Ed. 2012, 51, 2968-2971. 2. Fu-Lai Yang, Xian-Tao Ma, and Shi-Kai Tian*, Oxidative Mizoroki-Heck-Type Reaction of Arylsulfonyl Hydrazides for a Highly Regio- and Stereosel"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "tiansk@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1023/c2474a16981/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王官武",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1023/c2474a17060/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "富勒烯化学、绿色有机合成 获奖及荣誉"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "gwang@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1023/c2474a17060/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王细胜",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1023/c2474a16989/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Tao Wang, Yi-Ning Wang, Rui Wang, Bo-Chao Zhang, Chi Yang, Yan-Lin Li and Xi-Sheng Wang* Enantioselective cyanation via radical-mediated C–C single bond cleavage for synthesis of chiral dinitriles. Nat Commun. 2019, 10, 5373-5382",
+     "venue": "",
+     "year": 2019
+    },
+    {
+     "title": "Kai-Fan Zhang, Kang-Jie Bian, Chao Li, Jie Sheng, Yan Li, and Xi-Sheng Wang*.Nickel-Catalyzed Carbofluoroalkylation of 1,3-Enynes to Access Structurally Diverse Fluoroalkylated Allenes. Angew Chem Int Ed. 2019, 58, 5069-5074.",
+     "venue": "Angew",
+     "year": 2019
+    },
+    {
+     "title": "Chao Li, Yi-Xuan Cao, Rui Wang, Yi-Ning Wang, Quan Lan and Xi-Sheng Wang*.Cobalt-catalyzed difluoroalkylation of tertiary aryl ketones for facile synthesis of quaternary alkyl difluorides. Nat. Commun. 2018, 9, 4951.",
+     "venue": "Nat. Commun",
+     "year": 2018
+    },
+    {
+     "title": "Jie Sheng,+ Hui-Qi Ni,+ Hao-Ran Zhang, Kai-Fan Zhang, Yi-Ning Wang and Xi-Sheng Wang*.Nickel-Catalyzed Reductive Cross-Coupling of Aryl Halides with Monofluoroalkyl Halides for Late-Stage Monofluoroalkylation. Angew. Chem. Int. Ed. 2018, 57, 7634-7639.",
+     "venue": "Angew",
+     "year": 2018
+    },
+    {
+     "title": "Yu-Chao Zhu+, Yan Li+, Bo-Chao Zhang, Feng-Xu Zhang, Yi-Nuo Yang, and Xi-Sheng Wang*. Palladium-Catalyzed Enantioselective C-H Olefination of Diaryl Sulfoxides through Parallel Kinetic Resolution and Desymmetrization. Angew. Chem. Int. Ed. 2018, 57, 5129 –5133",
+     "venue": "Angew",
+     "year": 2018
+    }
+   ],
+   "homepage": "",
+   "email": "xswang77@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1023/c2474a16989/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "汪义丰",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学",
+   "profile_url": "https://faculty.ustc.edu.cn/wangyifeng/zh_CN/index.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "论文成果"
+   ],
+   "focus_areas": [],
+   "summary": "Personal Profile 汪义丰，教授，国家杰出青年基金获得者。2011年3月在新加坡南洋理工大学获得博士学位，其后继续在该单位从事博士后研究工作，并于2012-2014年被聘为“李光耀博士后研究员”。 2015年8月，加入中国科学技术大学，开展独立研究工作。在Science, Nat. Chem., CCS Chem., J. Am. Chem. Soc., Angew. Chem. Int. Ed., Nat. Commun., 等国际著名期刊",
+   "publications": [],
+   "homepage": "",
+   "email": "",
+   "sources": [
+    "https://faculty.ustc.edu.cn/wangyifeng/zh_CN/index.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王中夏",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1023/c2474a17002/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1. 金属有机化合物的合成和结构 2. 惰性碳-杂原子键的催化活化与转化 3. 环酯聚合催化剂研究 获奖及荣誉 中国科技大学优秀班主任(1989) 中国科技大学张宗植青年教师奖(1990) Sino-British Friendship Scholarship(1993) 文章及专著"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zxwang@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1023/c2474a17002/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "肖斌",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2020/1203/c2474a462601/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1、 过渡金属催化的交叉偶联反应 2、 生物质化学品应用和转化"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "binxiao@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2020/1203/c2474a462601/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "徐允河",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2020/1203/c2474a462602/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "（1）金属有机化合物的合成",
+    "（2）过渡金属催化的C(SP2)-H/C(SP3)-H键串联活化及偶联反应的研究 文章及专著 1) Enantioselective epoxidation of α, β-enones promoted by (1R,3S,4S)-2- azanorbornyl-3-methanol as an organocatalyst Jun Lu, Yun-He Xu, Feng Liu, Teck-Peng Loh * Tetrahedron Lett. 2008, 49, 6007-6008. 2) Direct Cross-Coupling Reaction of Simple Alkenes with Acrylates Catalyzed by Palladium Catalyst"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "xyh0709@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2020/1203/c2474a462602/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张清伟",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2018/0403/c2474a219657/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1. 不对称过渡金属催化 2. 手性磷催化"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "qingweiz@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2018/0403/c2474a219657/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王川",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2016/1230/c2474a171523/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "有机合成方法学，过渡金属和有机小分子催化，不对称合成，具有生物活性分子以及天然产物的合成 获奖及荣誉 2010 中国政府优秀自费留学生奖学金 2012 Borchers-奖章: RWTH Aachen 优秀博士论文奖 2012-2014 德国洪堡基金会Feodor-Lynen博士后奖学金 文章及专著: http://www.researcherid.com/rid/Q-9922-2016 Copyright © 2004 - 2010 中国科技大学 化学系All Rights Reserved."
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "chuanw@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2016/1230/c2474a171523/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "汪普生",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "有机化学",
+   "profile_url": "https://faculty.ustc.edu.cn/pusher/zh_CN/zzcg/164398/list/index.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "论文成果"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "",
+   "sources": [
+    "https://faculty.ustc.edu.cn/pusher/zh_CN/zzcg/164398/list/index.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "刘建忠",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2025/0202/c2474a673524/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "刘建忠，中国科学技术大学化学与材料科学学院，独立",
+   "publications": [
+    {
+     "title": "Jianzhong Liu , M atthew J. Gaunt *. Versatile, Modular, and General Strategy for the Synthesis of α-Amino Carbonyls . J. Am. Chem. Soc 2024, 146 , 35, 24699. （ Highlighted by process chemists and engineers @OPRD_ACS ，当月最高阅读量文章） https://pubs.acs.org/doi/10.1021/jacs.4c09434",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2024
+    },
+    {
+     "title": "Jianzhong Liu , Cheng Zhang, Ziyao Zhang, Xiaojin Wen, Xiaodong Dou, Jialiang Wei, Xu Qiu, Song, Song, Ning Jiao *. Nitromethane as a nitrogen donor in Schmidt-type formation of amides and nitriles. Science, 2020 , 367, 281. （ Research Report, Highlighted by C&EN 2019, X-MOL, Synfact, Science, 被收录到新",
+     "venue": "Science",
+     "year": 2020
+    },
+    {
+     "title": "Jianzhong Liu , Xu Qiu, Xiaoqiang Huang, Xiao Luo, Cheng Zhang, Jialiang Wei, Jun Pan, Yujie Liang, Yuchao Zhu, Qixue Qin, Song Song, Ning Jiao*. From alkylarenes to anilines via site-directed carbon–carbon amination. Nature Chemistry. 2019 , 11,",
+     "venue": "Nature",
+     "year": 2019
+    },
+    {
+     "title": "( Highlighted by X-MOL, 与中石化工艺合作研究 ) ，申请专利： CN 109134267 B. https://www.nature.com/articles/s41557-018-0156-y",
+     "venue": "Nature",
+     "year": null
+    },
+    {
+     "title": "Jianzhong Liu + , Jun Pan + , Xiao Luo, Xu Qiu, Cheng Zhang, Ning Jiao*. Selective dealkenylative functionalization of styrenes via C-C bond cleavage. 10.34133/2020/7947029, 2020 , Research. 申请专利： CN 112321436 B. https://spj.science.org/doi/10.34133/2020/7947029",
+     "venue": "Science",
+     "year": 2020
+    }
+   ],
+   "homepage": "",
+   "email": "liujianzhong@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2025/0202/c2474a673524/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "卓庆德",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2025/0202/c2474a673523/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "新型金属有机化合物的创制与应用，具体包括： 1、 与工业催化反应关键活性中间体相关的分子模型的设计与构筑",
+    "2、 金属酶的结构和功能模拟",
+    "3、 资源性小分子（氮气、二氧化碳、一氧化碳、烃类等）的活化与利用",
+    "论文成果"
+   ],
+   "focus_areas": [],
+   "summary": "卓庆德博士，中国科学技术大学化学与材料科学学院特任教授，独立",
+   "publications": [],
+   "homepage": "",
+   "email": "qdzhuo@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2025/0202/c2474a673523/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张海军",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "有机化学",
+   "profile_url": "https://faculty.ustc.edu.cn/zhanghaijun/zh_CN/index.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "社会兼职 教育经历"
+   ],
+   "focus_areas": [],
+   "summary": "研究方向 社会兼职 教育经历",
+   "publications": [],
+   "homepage": "",
+   "email": "",
+   "sources": [
+    "https://faculty.ustc.edu.cn/zhanghaijun/zh_CN/index.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "孙尚政",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "有机化学",
+   "profile_url": "https://faculty.ustc.edu.cn/sunshangzheng/zh_CN/index.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "社会兼职 教育经历"
+   ],
+   "focus_areas": [],
+   "summary": "研究方向 社会兼职 教育经历",
+   "publications": [],
+   "homepage": "",
+   "email": "ssun123@ustc.edu.cn",
+   "sources": [
+    "https://faculty.ustc.edu.cn/sunshangzheng/zh_CN/index.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "谷永红",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1023/c2473a17192/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1）天然产物全合成和生物活性分子的合成 2）有机合成新方法的研究 文章及专著 1) Mark Froimowitz, Yonghong Gu, Les A. Dakin, Charles J. Kelly, Damon Parrish and Jeffrey R. Deschamps “Vinylogous Amide Analogs of Methylphenidate?Bioorg. Med. Chem.Lett. 2005, 15, 3044-3047. 2) Yonghong Gu and Barry B. Snider \"Synthesis of ent-Haterumalide NA (ent-Oocydin A) Methyl Ester\" Org. Lett. 2003, 5, 4385-4388. 3) Barry B. Snider and Yonghong Gu \"T"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "ygu01@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1023/c2473a17192/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "韩志勇",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "有机化学",
+   "profile_url": "https://faculty.ustc.edu.cn/HANZHIYONG/zh_CN/zhym/231882/list/index.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "",
+   "sources": [
+    "https://faculty.ustc.edu.cn/HANZHIYONG/zh_CN/zhym/231882/list/index.htm"
+   ],
+   "confidence": "coarse",
+   "verified": false
+  },
+  {
+   "name": "李光水",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1029/c2473a17166/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "ligsh@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1029/c2473a17166/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "罗时玮",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1029/c2473a17171/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1029/c2473a17171/page.htm"
+   ],
+   "confidence": "coarse",
+   "verified": false
+  },
+  {
+   "name": "许毓",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1029/c2473a17129/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "主要从事有机质谱学、有机分析、有机绿色化学和生物质能源等领域的研究",
+    "研究方向包括: (1)复杂基质中有机物定性和定量分析的质谱研究",
+    "(2)新药的临床药代动力学和生物等效性研究",
+    "(3)过渡金属催化剂催化机理的质谱研究",
+    "(4)生物油的分析分离",
+    "文章及专著 1. Aixiang Liu, Fei Liu, Yu Xu*, Fang Xu, Wanqun Hu and Qingxiang Guo*, Determination of ritodrine in human plasma by high-performance liquid chromatography coupled with electrospray ionization tandem mass spectrometry, Journal of Chromatography B, 2008, accepted."
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "http://www.hatunsikisizle.com/Got-Sikis-kategori2.html",
+   "email": "xyu@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1029/c2473a17129/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "郑小琦",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1101/c2473a17195/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "xqzheng@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1101/c2473a17195/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张凤莲",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2024/0710/c2473a647066/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "有机合成化学，有机反应机理研究 文章及专著 1) 1) Chang-Ling Wang, † Jie Wang, †"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zfl9@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2024/0710/c2473a647066/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "崔华",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学、化学生物学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1009/c2474a16969/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "主要从事纳米化学发光与电致化学发光及其在免疫分析和DNA分析中的应用研究",
+    "近年来取得一系列重要"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "hcui@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1009/c2474a16969/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "邓兆祥",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1009/c2474a16967/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "Research in our group is highly interdisciplinary, which covers analytical chemistry, bio-nanotechnology, electrochemistry and even more. We are taking advantage of cutting-edge bio-techniques and nanotechnologies towards constructing sikiş electrochemistry-based sensors for high sensitivity and easy detection of biomolecules (DNA and proteins, in particular). We are also interested in using bio-i"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "http://www.kizsikisizle.com/Turk-Sikis-Izle-kategori1.html",
+   "email": "zhxdeng@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1009/c2474a16967/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "黄光明",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1023/c2474a16977/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "质谱的大气压离子源研发和应用 小型质谱的研发和应用 质谱离子传输效率提高应用 新型电喷雾离子化质谱在生物化学中的应用 电喷雾/纳米电喷雾基础理论研究 文章及专著 Guangming Huang, Guangtao Li, Zheng Ouyang and R. Graham Cooks, “Induced Nanoelectrospray Ionization for High Throughput Mass Spectrometry”, Angewandte Chemie International Edition, 2011 , 50, 9907 -9910 Guangming Huang, Guangtao Li, Jason Ducan, Zheng Ouyang and R. Graham Cooks, “Synchronized Inductive Desorption Ele"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "gmhuang@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1023/c2474a16977/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "龙冬",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.ustc.edu.cn/2018/1116/c2474a354403/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "dlong@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2018/1116/c2474a354403/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李涛",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学、化学生物学",
+   "profile_url": "http://chem.ustc.edu.cn/2015/0713/c2474a17106/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1. 四链核酸结构与功能研究及分析应用：设计开发折叠可控的双分子 G- 四链体与 i-motif 结构，用于 DNA 纳米组装及可开关传感分析",
+    "研究四链核酸与荧光配体作用情况，发展新型信号读出体系，用于免标记生物分析及细胞成像",
+    "研究四链核酸引导金纳米、金棒组装与等离子体增强情况，拓展其活体应用前景"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "http://www.researcherid.com/rid/B-4586-2012",
+   "email": "tlitao@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2015/0713/c2474a17106/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "钟文婉",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.ustc.edu.cn/2024/0320/c2474a633306/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "wenwanz@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2024/0320/c2474a633306/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "袁月",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.ustc.edu.cn/2021/0310/c2474a475882/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1. 胞内自组装在肿瘤探针 / 药物靶向富集中的应用 2. 化学交换饱和转移磁共振成像介导下的疾病诊断及治疗 获奖及荣誉 2020:"
+   ],
+   "focus_areas": [],
+   "summary": "袁月教授专注于超分子自组装与分子影像，疾病靶向成像与治疗，新型磁共振成像方法应用等方面的研究，在上述领域取得了一系列科研成果。参与发表 SCI 文章 38 篇，第一作者身份论文 18 篇，包括 Nat. Mater., Angew. Chem. Int. Ed. (3",
+   "publications": [],
+   "homepage": "",
+   "email": "yueyuan@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2021/0310/c2474a475882/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "江万权",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1023/c2473a17180/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1023/c2473a17180/page.htm"
+   ],
+   "confidence": "coarse",
+   "verified": false
+  },
+  {
+   "name": "邵利民",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1029/c2473a17175/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "化学计量学方法的研究和应用",
+    "红外光谱分析",
+    "大气红外监测 获奖及荣誉 http://staff.ustc.edu.cn/~lshao 文章及专著 http://staff.ustc.edu.cn/~lshao Copyright © 2004 - 2010 中国科技大学 化学系All Rights Reserved. 地址:中国合肥市金寨路96号中国科技大学东区 化学系 邮编:230026 Email:jfding@ustc.edu.cn"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "lshao@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1029/c2473a17175/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "姚东宝",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "分析化学",
+   "profile_url": "https://faculty.ustc.edu.cn/yaodongbao/zh_CN/index.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "研究方向聚焦于核酸纳米组装结构的设计、构筑及功能应用",
+    "致力于发展精准、可编程的核酸自组装反应网络，推动其在纳米粒子超晶格组装、DNA逻辑运算、刺激响应性核酸器件以及核酸/多肽自组装反应介导的基因转录调控网络等方面的发展与应用",
+    "科研概况： 近年来共发表 SCI 论文 40 余篇，其中以第一/通讯作者（含共同）身份在Nat. Rev. Methods Primers、PNAS（2篇）、JACS（3篇）、Angew. Chem.、JACS Au、ACS Nano（2篇）、Nano Lett. （2篇） 、Sci. China Chem.等重要学术期刊"
+   ],
+   "focus_areas": [],
+   "summary": "姚东宝 ，中国科大化学与材料科学学院副教授，博士生导师。2012年6月毕业于济南大学高分子材料与工程专业，获工学学士学位；2017年11月毕业于中国科大高分子科学与工程系，获理学博士学位（导师：梁好均 教授）；2016年9月至2017年9月，受国家留学基金委资助于美国得克萨斯大学奥斯汀分校分子生物科学系进行联合培养（导师：Andrew D. Ellington 教授）。博士毕业后留校从事博士后研究工作（合作导师：梁好均 教授）；2020年8月加入中国科大化学与材料科学学院高分子科学与工程系，任特任副研究员；2025年4月至今，任中国科大化学与材料科学学院化学系副教授。",
+   "publications": [
+    {
+     "title": "Bárbara B Mendes#, João Conniot#, Aviram Avital#, Dongbao Yao #, Xingya Jiang#, Xiang Zhou#, Noga Sharf-Pauker#, Yuling Xiao#, Omer Adir#, Haojun Liang*, Jinjun Shi*, Avi Schroeder*, João Conde*, Nanodelivery of nucleic acids. Nature Reviews Methods Primers 2022, 2(1), 24. 2. Dongbao Yao #,*, Yunhan",
+     "venue": "Nature",
+     "year": 2022
+    },
+    {
+     "title": "Xiang Zhou#, Dongbao Yao #,*, Wenqiang Hua, Ningdong Huang, Xiaowei Chen, Liangbin Li, Miao He, Yunhan Zhang, Yijun Guo, Shiyan Xiao*, Fenggang Bian*, Haojun Liang*, Programming Colloidal Bonding Using DNA Strand-Displacement Circuitry. Proceedings of the National Academy of Sciences 2020, 117(11), ",
+     "venue": "Science",
+     "year": 2020
+    },
+    {
+     "title": "Xiaoyun Sun#, Wenqiang Hua#, Xiaoyu Liu, Jing Jin, Jianing Zhang, Jie Tian, Bin Zheng, Wei Jiang, Dongbao Yao *, Haojun Liang, Programming Supercrystals Using DNA-Functionalized Colloids That Can Replicate Themselves. Angewandte Chemie International Edition 2024, 63(22), e202403492.",
+     "venue": "Angew",
+     "year": 2024
+    },
+    {
+     "title": "Xiaoyu Liu#, Dongbao Yao #,*, Yun Wang, Dian Ni, Wenqiang Hua,*, Jie Tian, Liulin Yang, Haixin Lin, Haojun Liang, Zhaoxiang Deng*, Implementation of Digital Computing by Colloidal Crystal Engineering with DNA. Journal of the American Chemical Society 2024, 146(44), 30573-30583.",
+     "venue": "",
+     "year": 2024
+    },
+    {
+     "title": "Miao He#, Xiang Zhou#,*, Zhigang Li, Xue Yin, Wenjie Han, Junxiang Zhou, Xiaoyun Sun, Xiaoyu Liu, Dongbao Yao *, Haojun Liang*, Programmable Transcriptional Modulation with a Structured RNA-Mediated CRISPR-dCas9 Complex. Journal of the American Chemical Society 2022, 144(28), 12690-12697. 7. Dongbao",
+     "venue": "",
+     "year": 2022
+    }
+   ],
+   "homepage": "",
+   "email": "",
+   "sources": [
+    "https://faculty.ustc.edu.cn/yaodongbao/zh_CN/index.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "刘扬中",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "化学生物学、无机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1023/c2474a17056/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "Researches in this group focus on the bio-inorganic chemistry, more specifically, the structure of biological molecules and their interaction with inorganic compounds. Currently, this group is studying the solution structure of enzyme Intein and developing their inhibitors, including metal complexes and organic compounds. Another research project in this group is about the interaction between anti"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "liuyz@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1023/c2474a17056/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "马明明",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "化学生物学、有机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2014/0402/c2474a17098/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "本"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "mma@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2014/0402/c2474a17098/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "石攀",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "化学生物学、无机化学",
+   "profile_url": "https://faculty.ustc.edu.cn/shipan/zh_CN/index.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "（1）基于化学生物学方法研究神经系统疾病、肿瘤等重大疾病相关膜蛋白的动态构象机制 （2）发展19F核磁共振波谱学方法研究大分子量蛋白质动态特性 （3）重要疾病相关蛋白的创新型药物设计和筛选 版权所有 ©2020 中国科学技术大学 地址：安徽省合肥市金寨路 96 号，邮政编码：230026 手机版"
+   ],
+   "focus_areas": [],
+   "summary": "博士毕业于中国科学技术大学，现任中国科学技术大学副教授。主要研究方向是发展非天然氨基酸标记研究重要疾病相关靶标蛋白的动态功能机制，基于化学生物学方法开展重大疾病靶向性创新型药物研究。在 Nat. Commun.、Natl Sci Rev、Angew. Chem. Int. Ed.、Cell Research （4篇）、 Cell Discovery （4篇）、 Acta Pharmacol Sin （2篇）等杂志发表40余篇研究论文，主持国家自然科学基金青年项目和面上项目多项，中科院合肥大科学中心协同创新培育基金2项，中国科学技术大学青年创新重点基金1项。作为课题骨干参与国家重点研发计划和国家",
+   "publications": [],
+   "homepage": "",
+   "email": "",
+   "sources": [
+    "https://faculty.ustc.edu.cn/shipan/zh_CN/index.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "虞正亮",
+   "name_en": "",
+   "title": "职员",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1101/c2472a17254/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zlyu@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1101/c2472a17254/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "傅得欣",
+   "name_en": "",
+   "title": "实验员",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2012/1101/c2471a16863/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "oscar@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2012/1101/c2471a16863/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "田长麟",
+   "name_en": "",
+   "title": "兼职教授",
+   "research_area": "化学生物学",
+   "profile_url": "http://chem.ustc.edu.cn/2020/1102/c2474a458357/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "cltian@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2020/1102/c2474a458357/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "苗庆庆",
+   "name_en": "",
+   "title": "兼职教授",
+   "research_area": "分析化学",
+   "profile_url": "http://chem.ustc.edu.cn/2024/0226/c2474a630614/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1. 靶向核医学探针及诊疗应用 2. 余辉发光探针开发及高灵敏成像应用 3. 响应型探针设计及生物医学应用 4. 转化医学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Jieli Zhu, Wan Chen, Li Yang, Yuyang Zhang, Baoliang Cheng, Wei Gu, Qing Li, and Qingqing Miao*. A Self-Sustaining Near-Infrared Afterglow Chemiluminophore for High-Contrast Activatable Imaging. Angew. Chem. Int. Ed. , 2024, 63, e202318545.",
+     "venue": "Angew",
+     "year": 2024
+    },
+    {
+     "title": "Li Yang, Min Zhao, Wan Chen, Jieli Zhu, Weina Xu, Qing Li, Kanyi Pu*, Qingqing Miao*. A Highly Bright Near-Infrared Afterglow Luminophore for Activatable Ultrasensitive In Vivo Imaging . Angew. Chem. Int. Ed., 2024, 63, e202313117. ( Hot Paper )",
+     "venue": "Angew",
+     "year": 2024
+    },
+    {
+     "title": "Min Zhao, Yuyang Zhang, Jia Miao, Hui Zhou, Yue Jiang, Yuan Zhang, Minqian Miao, Wan Chen, Wei Xing*, Qing Li*, Qingqing Miao*. An Activatable Phototheranostic Probe for Anti-hypoxic Type I Photodynamic- and Immuno-Therapy of Cancer. Adv. Mater. , 2023, 2305243.",
+     "venue": "Adv. Mater",
+     "year": 2023
+    },
+    {
+     "title": "Hui Zhou, Yuan Zhang, Ruru Zhang, Min Zhao, Wan Chen, Yinghua Liu, Yue Jiang, Qing Li, Qingqing Miao*, Minyuan Gao*. Tumor Microenvironment ‐ Activatable Molecular Pro ‐ theranostic Agent for Photodynamic and Immunotherapy of Cancer . Adv. Mater . , 2023, 2211485.",
+     "venue": "Adv. Mater",
+     "year": 2023
+    },
+    {
+     "title": "Jia Miao # , Minqian Miao # , Yue Jiang, Min Zhao, Qing Li*, Yuan Zhang, Yi An, Kanyi Pu*, Qingqing Miao*. An Activatable NIR ‐ II Fluorescent Reporter for In Vivo Imaging of Amyloid ‐ β Plaques . Angew. Chem. Int. Ed. , 2023, 62, e202216351. ( Hot Paper )",
+     "venue": "Angew",
+     "year": 2023
+    }
+   ],
+   "homepage": "",
+   "email": "qqmiao@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2024/0226/c2474a630614/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "林岳",
+   "name_en": "",
+   "title": "兼职教授",
+   "research_area": "无机化学",
+   "profile_url": "https://faculty.ustc.edu.cn/linyue/",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1.多相催化的原位电镜研究 2.能量转换与存储原位研究 3.先进透射电镜技术的发展"
+   ],
+   "focus_areas": [],
+   "summary": "林岳，中国科学技术大学特任教授，博士生导师，国家优秀青年基金获得者。 2020-2025年连续6次入选科睿唯安“全球高被引科学家”、 2024年度高校分析测试优秀青年人才支撑计划（一等项目） ，获 2020年中国科学院青年创新促进会人才支持计划，担任中国电镜学会首届青年学者专家委员会委员。作为通讯作者在 Science、Nature、PNAS、Sci. Adv.、Nat. Commun.、Adv. Mater.、Angew. Chem. Int. Ed. 等高水平期刊发表五十余篇论文，他引三万余次。担任Carbon Energy、Green Energy & Environment与 Nano",
+   "publications": [],
+   "homepage": "",
+   "email": "linyue@ustc.edu.cn",
+   "sources": [
+    "https://faculty.ustc.edu.cn/linyue/"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "宋磊",
+   "name_en": "",
+   "title": "兼职教授",
+   "research_area": "无机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2024/0320/c2474a633311/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "新型绿色阻燃原理和技术 高性能聚合物基纳米复合材料 先进功能材料 材料火灾安全性评价方法和技术"
+   ],
+   "focus_areas": [],
+   "summary": "中国科学技术大学无机化学专业博士 (2002) 中国科学技术大学博士后（ 2002-2005 ） 中国科学技术大学助理研究员 (2005-2007) 中国科学技术大学副研究员",
+   "publications": [],
+   "homepage": "",
+   "email": "leisong@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2024/0320/c2474a633311/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "松尾豊",
+   "name_en": "",
+   "title": "兼职教授",
+   "research_area": "有机化学",
+   "profile_url": "http://chem.ustc.edu.cn/2016/1020/c2474a17122/page.htm",
+   "department": "化学系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "： Organic semiconducting materials and organic electronic devices"
+   ],
+   "focus_areas": [],
+   "summary": "（教育经历） 1992–1996 Department of Chemistry, Faculty of Engineering Science, Osaka University Awarded the degree of B.S. in chemistry 1996–2001 Department of Chemistry, Graduate School of Engineering Science, Osaka University Awarded the degree of Ph.D. in chemistry under direction of Professors Kazuhi",
+   "publications": [
+    {
+     "title": "Direct and Dry Deposited Single-Walled Carbon Nanotube Films Doped with MoOx as Electron-Blocking Transparent Electrodes for Flexible Organic Solar Cells Il Jeon, Kehang Cui, Takaaki Chiba, Anton Anisimov, Albert Nasibulin, EskoKauppinen, Shigeo Maruyama*, Yutaka Matsuo* J. Am. Chem. Soc . 2015 , 13",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2015
+    },
+    {
+     "title": "Electronic Infrared Light Absorption of Tri-palladium Complex Containing Two π-Expanded Tetracene Ligands Tsuyoshi Suzuki, Takafumi Nakagawa, Kei Ohkubo, Shunichi Fukuzumi, Yutaka Matsuo* Chem. Sci . 2014 , 5, 4888–4894.",
+     "venue": "Chem. Sci",
+     "year": 2014
+    },
+    {
+     "title": "Selective Synthesis of Co8S15 Cluster in Bowl-shaped Template of the Pentaaryl[60]fullerene Ligand Masashi Maruyama, Kenta Imoto, Matthias König, Dirk M. Guldi,* Shin-ichiOhkoshi, Eiichi Nakamura, Yutaka Matsuo* J. Am. Chem. Soc . 2013 , 135, 10914–10917. [DOI: 10.1021/ja405045t]",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2013
+    },
+    {
+     "title": "Synthesis of Thieno-Bridged Porphyrins: Changing Antiaromatic Contribution by Direction of the Thiophene Ring Yusuke Mitsushige, Shigeru Yamaguchi, Byung Sun Lee, Young Mo Sung, Susanne Kuhri, Christoph Schierl, Dirk M. Guldi,* Dongho Kim,* Yutaka Matsuo* J. Am. Chem. Soc . 2012 , 134, 16540–16543. ",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2012
+    },
+    {
+     "title": "Isolation of Planar 4-Membered Aromatic Systems by Using Confined Spaces of Cobalt Pentaaryl[60]fullerene Complexes Masashi Maruyama, Jing-Dong Guo, Shigeru Nagase, Eiichi Nakamura, Yutaka Matsuo* J. Am. Chem. Soc . 2011 , 133, 6890-6893. [DOI: 10.1021/ja111474v] Copyright © 2004 - 2010 中国科技大学 化学系Al",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2011
+    }
+   ],
+   "homepage": "http://www.matsuo-lab.net/",
+   "email": "matsuo@ustc.edu.cn",
+   "sources": [
+    "http://chem.ustc.edu.cn/2016/1020/c2474a17122/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "朱清时",
+   "name_en": "",
+   "title": "院 士",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2013/1208/c4479a39695/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "分子高振动态的实验和理论研究"
+   ],
+   "focus_areas": [],
+   "summary": "男，汉族，化学家，教授，博士生导师，中国科学院院士。1946年2月出生，四川省成都市人。1968年毕业于中国科学技术大学近代物理系。曾任中国科学院青海盐湖所和大连化学物理研究所",
+   "publications": [],
+   "homepage": "",
+   "email": "qszhu@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2013/1208/c4479a39695/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "吴奇",
+   "name_en": "",
+   "title": "院 士",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2013/1208/c4478a39682/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "他的研究长于“集合成化学，高分子物理和分子生物之成，设计和执行决定性的实验来回答一些与大分子，生物以及胶体有关的重要问题",
+    "”其中包括，分子药物非病毒载体的设计与研发",
+    "与神经退化型疾病有关的蛋白聚集的初始成核过程",
+    "功能性大分子的设计，合成和聚集",
+    "大分子溶液和凝胶网络的动力学与结构",
+    "以及难解和特殊高分子的分子特性"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "chiwu@cuhk.edu.hk",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2013/1208/c4478a39682/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "包信和",
+   "name_en": "",
+   "title": "院 士",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2013/1208/c4477a39678/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "从事表面化学、金属催化材料以及多孔材料等相关的催化基础研究和应用开发工作",
+    "工作重点集中在金属催化剂的表面 化学、纳米催化理论，多孔材料的合成、表征，在催化中的应用研究和采用原位、动态方法观察在反应过程中，金属催 化剂表面在时间和空间坐标下发生的结构自组合效应以及由此导致的非线性表面反应动力学特征等"
+   ],
+   "focus_areas": [],
+   "summary": "1959年8月生于江苏省扬中市，1978年入复旦大学化学系，1987年在该校物理化学专业获博士学位后留校任教， 1989 年获洪堡奖学金赴德国马普Fritz－Haber研究所从事合作研究，1995年回国，在中科院大连化物所催化基 础国家重点实 验室工作，被聘为研究员、博士生导师。2009年当选为中国科学院院士",
+   "publications": [],
+   "homepage": "http://fruit.dicp.ac.cn/",
+   "email": "baoxh@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2013/1208/c4477a39678/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "杨学明",
+   "name_en": "",
+   "title": "院 士",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2014/0331/c4476a39706/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1.表面化学反应动力学以及表面光化学反应动力学研究 2.基元化学反应的微观机理的研究 3.分子光化学动力学机理的研究 4.复杂体系动力学的研究 代表作 1. Li Che, Zefeng Ren, Xingan Wang, Wenrui Dong, Dongxu Dai, Xiuyan Wang, Dong H. Zhang, Xueming Yang, Liusi Sheng, Guoliang Li, Hans-Joachim Werner, François Lique, Millard H. Alexander, Breakdown of the Born-Oppenheimer approximation in the F+o-D2→DF+D reaction, Science 317, 1061(2007). 2."
+   ],
+   "focus_areas": [],
+   "summary": "2016-至今 主任, 中国科学技术大学化学物理系 2015-至今 讲座教授, 德国哥廷根科学院 2011-至今 院士, 中国科学院 2006-至今 会士, 美国物理学会 2001-至今 主任, 分子反应动力学国家重点实验室化学动力学研究中心 2001-至今 研究员, 大连化学物理研究所 2000-至今 终身研究员, 台湾原子与分子科学研究所 1995-2000 副研究员，台湾原子与分子科学研究所",
+   "publications": [],
+   "homepage": "",
+   "email": "xmyang@dicp.ac.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2014/0331/c4476a39706/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张东辉",
+   "name_en": "",
+   "title": "院 士",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/zdh/list.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "气相反应动力学 复杂体系的量子动力学 高精度势能面的构造 代表论文： 1. C. Xiao, X. Xu, S. Liu, T. Wang, W. Dong, T. Yang, Z. Sun, D. Dai, X. Xu, 张东辉*, X. Yang*, Experimental and Theoretical Differential Cross Sections for a Four-Atom Reaction: HD+OH→H2O+D, Science, 333, 440 (2011). 2. T. Wang, J. Chen, T. Yang, C. Xiao*, Z. Sun*, L. Huang, D. Dai, X. Yang*, 张东辉*, Dynamical Resonances Accessible Only by Reagent Vibrational Excitat"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zhangdh@dicp.ac.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/zdh/list.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "杨金龙",
+   "name_en": "",
+   "title": "院 士",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2014/0331/c4459a39447/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "jlyang@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2014/0331/c4459a39447/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "陈东明",
+   "name_en": "",
+   "title": "教 授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/4473/list.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "dmchen@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/4473/list.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "陈旸",
+   "name_en": "",
+   "title": "教 授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2014/0331/c4474a39689/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2014/0331/c4474a39689/page.htm"
+   ],
+   "confidence": "coarse",
+   "verified": false
+  },
+  {
+   "name": "陈艳霞",
+   "name_en": "",
+   "title": "教 授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2013/1210/c4472a39501/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "表面电化学、光谱电化学和电催化，着重于电化学界面结构、燃料电池以及生物电化学相关的电催化反应机理和动力学的基础研究以及相关研究技术的开发",
+    "代 表性的学术论文 1. Boosting Oxygen Reduction at Pt(111)|Proton Exchange Ionomer Interfaces through Tuning the Microenvironment Water Activity , ACS Applied Materials & Interfaces, 2024, 16, 4540 2."
+   ],
+   "focus_areas": [],
+   "summary": "1989.09 – 1993.07 厦门大学化学系，学士学位，物理化学专业； 1993.09 – 1995.07 厦门大学化学系，硕士学位，物理化学专业； 1995.09 – 1998.10 厦门大学化学系，博士学位，物理化学专业； 1998.11 – 1999.02 厦大化学系，科研助手，物理化学专业；",
+   "publications": [],
+   "homepage": "",
+   "email": "yachen@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2013/1210/c4472a39501/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "胡水明",
+   "name_en": "",
+   "title": "教 授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2013/1209/c4471a39498/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "原子分子的精密激光光谱",
+    "大气分子的红外光谱探测技术与应用 痕量同位素探测技术与应用 教学经历 结构化学（量子化学I），2002-2007",
+    "量子物理（化学与材料科学学院荣誉学士班），2008-2012 中国科学技术大学教学委员会委员（2010 - ） 学术服务与奖励"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "smhu@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2013/1209/c4471a39498/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "黄伟新",
+   "name_en": "",
+   "title": "教 授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/4470/list.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1. 固体表界面化学 2. 多相催化作用机制 3. 低碳烃催化反应 奖励/"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "https://publons.com/researcher/2891685/weixin-huang/",
+   "email": "huangwx@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/4470/list.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "侯中怀",
+   "name_en": "",
+   "title": "教 授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2014/0331/c4469a39465/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2014/0331/c4469a39465/page.htm"
+   ],
+   "confidence": "coarse",
+   "verified": false
+  },
+  {
+   "name": "蒋彬",
+   "name_en": "",
+   "title": "教 授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2017/1017/c13890a194507/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "本研究小组主要关注化学反应动力学的理论模拟，包括气相小分子的反应和光解离动力学，气相分子与表面的碰撞散射动力学等",
+    "这些小分子的基元反应涉及到很多重要的大气、天文、燃烧，催化等相关过程",
+    "从第一性原理出发，我们在构建全域势能面的基础上，进行精确的量子或准经典动力学计算，能够细致的模拟这些反应过程中关键的动力学信息，为化学家优化和调控相关反应提供重要的理论基础",
+    "代表论文： 1. Kolb, Brian, Luo, Xuan, Zhou Xueyao, Jiang, Bin*, Guo, Hua*, High-Dimensional Atomistic Neural Network Potentials for Molecule–Surface Interactions: HCl Scattering from Au(111) , The Journal of Physical Chemistr"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "bjiangch@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2017/1017/c13890a194507/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "江俊",
+   "name_en": "",
+   "title": "教 授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2014/0329/c4440a39708/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1. 多尺度模拟方法研究（量子化学、分子动力学、固体物理、半经验模型） 2. 光催化体系模拟与仿真设计（无机-有机复合结构、低维碳材料、金属纳米颗粒） 3. 功能分子电子学和光子学（生物大分子光谱、分子发光、分子器件） 代表论文 1) L. L. Wang, J. Ge, A. L. Wang, M. S. Deng, X. J. Wang, S. Bai, R. Li, J. Jiang*, Q. Zhang*, Y. Luo, Y. J. Xiong*, Surface Facet Matters: Enabling p-Type Semiconductor-Metal Hybrid Structures to Work for Direct Water Splitting, Angew Chem. Int. Ed. (2014) DOI: 10.1002/anie.201310635"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "jiangj1@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2014/0329/c4440a39708/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "刘光明",
+   "name_en": "",
+   "title": "教 授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2014/0329/c4464a39496/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "- 界面高分子体系中的离子效应 - 智能高分子体系中的离子效应 - 能源高分子体系中的离子效应 - 海洋防污高分子体系中的离子效应 - 生物大分子体系中的离子效应 代表作 1. Jian Zhang, Hongtao Cai, Ling Tang, and"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "gml@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2014/0329/c4464a39496/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "路军岭",
+   "name_en": "",
+   "title": "教 授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2014/0331/c4462a39443/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1. 围绕原子层沉积技术，催化材料的原子级精细设计 2. 多相催化，金属纳米催化 3. 先进功能材料设计 热忱欢迎物理化学、材料、化学等专业背景的青年才俊加盟！ 代表论文 [ 1] J. L. Lu"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "junling@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2014/0331/c4462a39443/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李群祥",
+   "name_en": "",
+   "title": "教 授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2013/1223/c4467a39458/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "liqun@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2013/1223/c4467a39458/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李全新",
+   "name_en": "",
+   "title": "教 授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2013/1209/c4468a39453/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "liqx@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2013/1209/c4468a39453/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李微雪",
+   "name_en": "",
+   "title": "教 授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2015/0709/c4438a39472/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "理论与计算催化化学： 数据驱动催化 、能源催化转化、超稳定新催化剂设计 在研项目 1. 基于大数据驱动的碳资源催化作用基础， 中科院王宽诚率先人才计划卢嘉锡国际团队 2."
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "wxli70@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2015/0709/c4438a39472/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李震宇",
+   "name_en": "",
+   "title": "教 授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2013/1209/c4466a39470/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "动力学过程与化学反应的微观机理 功能材料的理论设计与计算表征 分子器件的输运性质 密度泛函理论及相关数值方法 代表论文： 1. Z ． Qiu, P. Li,"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zyli@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2013/1209/c4466a39470/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "邵翔",
+   "name_en": "",
+   "title": "教 授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2013/1209/c4461a39434/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1. Surface physical chemistry of oxide single crystals and ultra-thin films. 2. Molecular self-assembly on surfaces. 3. Application and development of SPM techniques particularly the scanning tunneling microscopy (STM) and non contact ato mic force microsc -opy (NC-AFM) 4. Surface science of nano-crystals. 在研课题"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Yi Cui, Xiang Shao, Matthias Baidofski, Joachim Sauer, Niklas Nilius* and Hans-Joachim Freund, “Activating O2 Adsorbat e via Doping the O -xide Support”, Angew. Chem. Int. Ed. 2013, 52, 11385-11387. (shared first-author)",
+     "venue": "Angew",
+     "year": 2013
+    },
+    {
+     "title": "Xiang Shao, Stefano Prada, Livia Giordano, Gianfranco Pacchioni, Niklas Nilius*, and Hans-Joachim Freund, “Con t rolling t he shape of metal ad-particles via doping the oxide support: An STM and DFT study”, Angew. Chem. Int. Ed. 2011, 50, 1152 5-11527",
+     "venue": "Angew",
+     "year": 2011
+    },
+    {
+     "title": "Xiang Shao, Niklas Nilius* and Hans-Joachim Freund, “Li-Mo Co-doping of CaO Films: A Means to Tailor the Equi li brium S hape of Au Depos -its”, J. Am. Chem. Soc. 2012, 134, 2352-2354",
+     "venue": "J. Am. Chem. Soc",
+     "year": 2012
+    },
+    {
+     "title": "Fernando Stavale, Xiang Shao, Niklas Nilius,* Hans-Joachim Freund, Stefano Prada, Livia Giordano,* Gianfranco Pacchio ni, “Donor Charact -eristics of Transition-metal Doped Oxides: Cr-doped MgO versus Mo-doped CaO”, J. Am. Chem. Soc. 201 2, 134, 11380-11383. (shared fir -st author)",
+     "venue": "J. Am. Chem. Soc",
+     "year": null
+    },
+    {
+     "title": "Jan-Frederik Jerratsch, Xiang Shao, Niklas Nilius*, Hans-Joachim Freund, Cristina Popa, M. Veronica Ganduglia Pirovano, Joachim Sauer*, “Electron localization in defective ceria films: An STM and DFT study” Phys. Rev. Lett. 2011, 106, 246801",
+     "venue": "",
+     "year": 2011
+    }
+   ],
+   "homepage": "",
+   "email": "shaox@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2013/1209/c4461a39434/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "田善喜",
+   "name_en": "",
+   "title": "教 授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2013/1210/c4460a39420/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "sxtian@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2013/1210/c4460a39420/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王兴安",
+   "name_en": "",
+   "title": "教 授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2020/1029/c4445a456431/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "利用分子束方法和高分辨的激光探测技术，从原子分子尺度和量子态分辨水平上研究气相基元化学反应动力学，同时努力发展高效的产物分子探测技术，以获取化学反应过渡态的关键动力学信息",
+    "目前开展的主要研究内容： 1. 分子反应散射动力学",
+    "2. 分子光解离动力学",
+    "代表论文 [ 1"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "xawang@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2020/1029/c4445a456431/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "闫立峰",
+   "name_en": "",
+   "title": "教 授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2013/1209/c4457a39424/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "绿色化学和高分子化学与物理 (1) 生物功能大分子材料合成与性能 (2) 碳材料及其在催化、能量高效转化中的应用 (3) 以生物质为原材料的绿色化学研究 在研项目 1. 国家自然科学基金： 近红外键合聚多肽高分子合成及在光动力治疗中的应用 2. 国家自然科学基金：生物可降解近红外发光聚合物纳米粒子的合成及其在活体药物示踪中的应用 3. 科技部973计划项目：“基于分子和分子体系的量子调控”子课题：二维结构材料制备与性能"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Pei Huang, Wufeng Chen, Lifeng Yan*. An inorganic-organic double network hydrogel of graphene and polymer. Nanoscal e,2013.5,6034-6039",
+     "venue": "",
+     "year": 2013
+    },
+    {
+     "title": "Wufeng Chen, Lifeng Yan*. Centimeter-Sized Dried Foam Films of Graphene: Preparation, Mechanical and Elec tronic Prop erties. Adv. Mater, 2012, 24, 6229-6233",
+     "venue": "Adv. Mater",
+     "year": 2012
+    },
+    {
+     "title": "Tao Xing, Xianzhu Yang, Bin Lai, Feng Wang, Lifeng Yan*. Synthesis of Polypeptide Conjugated with Near Infrared Fluores cence Probe and Doxorubicin For pH-responsive and Image-guided Drug Delivery. J. Mater. Chem, 2012, 22, 22290-22300",
+     "venue": "",
+     "year": 2012
+    },
+    {
+     "title": "Tao Xing, Chengqiong Mao, Bin Lai, Lifeng Yan*.Synthesis of Disulfide-cross-linked Polypeptide Nanogel Conjugat ed with a Near Infrared Fluo -rescence Probe for Direct Imaging of Reduction Induced Drug Release. ACS Appli. Mater. Interf.2012,4, 5 622-5672",
+     "venue": "",
+     "year": 2012
+    },
+    {
+     "title": "Chengfei Yuan,Wufeng Chen,Lifeng Yan*. Amino-grafted Graphene as Stable and Metal-free Solid Basic Catalyst. J.Mater. Chem, 2012,22, 7456-7460",
+     "venue": "",
+     "year": 2012
+    }
+   ],
+   "homepage": "http://www.researcherid.com/rid/D-5350-2009",
+   "email": "lfyan@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2013/1209/c4457a39424/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "曾杰",
+   "name_en": "",
+   "title": "教 授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2013/1209/c4456a39426/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "随着对环境意识的增强和对有限资源认识的加深，为了减少对石油化工能源等不可再生资源的依赖，寻求并开发清洁、廉价、便捷、有效的能源供给和储存方式已经成为能源产业的首要任务",
+    "这其中，设计和制备廉价且高效的催化剂不论是在能源领域的科学研究中还是在产业化进程中都至关重要",
+    "曾杰教授将研究领域聚焦于选择性高效转化碳基小分子（如 CO 、 CO 2 和 CH 4"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zengj@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2013/1209/c4456a39426/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张群",
+   "name_en": "",
+   "title": "教 授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2013/1209/c4442a39711/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "qunzh@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2013/1209/c4442a39711/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "周晓国",
+   "name_en": "",
+   "title": "教 授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2013/1209/c4441a39461/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "xzhou@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2013/1209/c4441a39461/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "严欢",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2021/1104/c28730a531059/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1. 针对于能源转化，精细化学品合成的多相催化的研究（热催化、电催化、有机催化 2. 催化剂的智能设计 3. 催化反应机理的研究 希望具有化学、物理、材料背景的同学加入我们"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "yanhuan1@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2021/1104/c28730a531059/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "刘进勋",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/ljx/list.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1. 团簇碳资源和氮资源转化理论（热催化和电催化） 发展多尺度理论研究方法与策略，揭示工况环境下团簇催化剂结构的动态演化规律，建立具有普适性的活性与选择性调控原则，面向碳基与氮基小分子活化 / 转化反应，实现新型高效团簇催化剂的优化设计",
+    "2. 数据驱动的高效团簇催化剂理"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "jxliu86@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/ljx/list.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "袁龙",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2022/1213/c33114a585941/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1. 新型二维材料及其异质结的激发态动力学和输运性质 2. 新型光电功能材料界面电荷转移机理和载流子迁移 3. 非稳态激发态动力学和输运性质 代表论文 1"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "lyuan565@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2022/1213/c33114a585941/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李星星",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2019/0104/c17513a370170/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "研究领域为理论与计算化学，长期致力于低维自旋材料和分子器件的第一性原理研究",
+    "以发展下一代高速信息技术为导向，围绕低维自旋材料和分子器件的功能设计开展了系统深入的研究，先后取得了多项重要成果，迄今为止在 Nature Nanotech. 、 Nat. Commun. 、 Sci. Adv. 、 JACS"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "lixx@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2019/0104/c17513a370170/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李少锋",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2024/1227/c38190a670049/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "李少锋教授将研究领域聚焦于氮资源综合利用，尤其是人工固氮和合成氨",
+    "1. 基于精准化、智能化双驱动的化学研究新范式，对现有氮资源转化相关反应进行全面评估，提出绿色低能耗转化新路径，创制新型催化体系，以实现氮资源综合利用领域的突破",
+    "2. 针对当前常温常压下电化学活化氮气的最有效途径（锂介导合成氨），开发出具有高时空分辨能力的可视化表征平台，以揭示多相界面结构在电化学工况下的动态演变规律及其构效关系",
+    "探索基于人工固态电解质界面层构筑高效锂介导合成氨反应界面的新策略，实现高效的人工固氮和合成氨催化体系的构建",
+    "热诚招生 李少锋教授长期从事电化学能源存储与转化系统的研究，特别在电化学合成氨领域取得了具有一定国际影响力的成果",
+    "例如，提出了锂介导合成氨领域的溶剂设计准则，揭示了溶剂对于提高稳定性的关键影响因素，并在电化学还原氮气合成氨领域打破了多项纪录，包括稳定性、产氨量以及气相中氨的分布比例（ N"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "shaofengli@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2024/1227/c38190a670049/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张亮",
+   "name_en": "",
+   "title": "特任研究员",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2025/0325/c38686a678081/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1. 精准化、智能化双驱动的 AIE COF 材料的精准智能创制及机制研究",
+    "2. AI 助力优异光物理性质（如光致、电致、压致、力致发光、室温磷光及多光子荧光等）晶态多孔材料精准智能合成",
+    "3. AI 助力功能和应用导向的"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zhangliang2025@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2025/0325/c38686a678081/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "叶树集",
+   "name_en": "",
+   "title": "教 授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2013/1209/c4443a39466/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "： 复杂体系的界面物理与化学 1. 界面能源学 ： 1 ）界面光电转换构效关系",
+    "2"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "shujiye@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2013/1209/c4443a39466/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "谭世倞",
+   "name_en": "",
+   "title": "教 授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2020/1221/c23705a465817/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "表界面物理与化学 1. 发展扫描隧道显微镜、原子力显微镜、针尖增强拉曼相结合的表征技术，在单化学键分辨尺度上对化学反应进行实空间表征与调控，实现对分子量子体系各参量的精确测量",
+    "2. 发展相干时间分辨光电子能谱技术，在 ~10 飞秒分辨水平上，实现对表界面化学反应中电荷转移与能量转移动力学的精确测量"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "tansj@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2020/1221/c23705a465817/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "朱俊发",
+   "name_en": "",
+   "title": "研究员",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2021/0301/c25068a474540/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "表界面物理化学 1、 模型催化体系的设计、结构和性能研究 ： 1 ）借助同步辐射谱学和扫描隧道显微镜等先进技术研究模型催化剂表面的形貌、组成、电子结构、催化剂表面的热稳定性、催化反应前后表面结构发生的变化",
+    "2 ）研究反应分子在催化剂表面的吸附态、吸附类型、吸附位置"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "jfzhu@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2021/0301/c25068a474540/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "程存峰",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2024/0119/c35636a628914/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1. 分子精密光谱：检验量子化学计算和标准模型，测量质子 / 电子质量比和质子半径等物理常数 2. 发展缓冲分子冷却、单量子态制备和测量等技术，进行量子态制备和调控，用于冷分子碰撞等研究 3. 发展精密光谱技术，测量选定的分子同位素，并开展一系列前沿应用"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "cfcheng@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2024/0119/c35636a628914/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "胡素磊",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2024/0119/c35638a628918/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "氧化物负载纳米材料生长动力学 氧合物 - 氧化物复合界面离子扩散、溶解和溶出动力学 氧化物孔道限域金属或分子吸附、解吸、扩散和输运动力学 代表论文 Sulei Hu ,"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "lyuan565@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2024/0119/c35638a628918/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "胡伟",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2024/0129/c35637a629952/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1. 复杂大体系密度泛函理论计算 2. 复杂电子结构计算和动力学模拟（ Hartree-Fock, TDDFT, GW/BSE, MP2, RPA 等） 3. 第一性原理高性能计算软件开发（"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "whuustc@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2024/0129/c35637a629952/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "刘安雯",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2013/1210/c4449a39463/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1. 大气分子红外光谱学 2. 高灵敏光谱技术 在研项目 1.“气候变化观测关键气体成分量计量标准及测量方法研究”，国家科技支撑计划项目“环境监测关键计量标准及测量 技术研 究”子课题 2.“大气条件下水和二氧化碳分子的连续吸收研究”，中国科学院大气成分与光学重点实验室开放课题基金 近期论文"
+   ],
+   "focus_areas": [],
+   "summary": "2009至今 中国科学技术大学副教授 2007-2009 博士后,合肥微尺度物质与科学国家实验室 2006-2007 博士后, 法国约瑟夫-傅立叶大学 2001-2006 博士,中国科学技术大学 1997-2001 学士,中国科学技术大学",
+   "publications": [],
+   "homepage": "",
+   "email": "awliu@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2013/1210/c4449a39463/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "马运生",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2013/1209/c4448a39485/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1. 模型表面小分子的吸附和反应 2. 催化反应的反应机理研究 3. 纳米催化剂的控制合成和结构-性能关系 在研项目 1. 倒载型CeO2/金属模型催化剂的制备和反应性能，国家自然科学基金 2.“碳资源优化利用的纳米催化基础”子课题，科技部国家重点基础研究发展计划(973) 代表性文章 1. B. Chen, Y. Ma, L. Ding, L. Xu, Z.Wu, Q. Yuan, W. Huang, Reactivity of Hydroxyls and Water on a CeO"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "ysma@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2013/1209/c4448a39485/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "汪文栋",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2013/1209/c4444a39492/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "wangwd@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2013/1209/c4444a39492/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "叶晓东",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2014/0330/c4439a39422/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1.大分子折叠动力学 2.药物载体的设计与合成 3.DNA与离子, 有机小分子和蛋白质间相互作用 采用的研究方法包括:激光光散射(LLS), 分析型超速离心(AUC)和差示扫描量热法(DSC)等. 欢迎感兴趣的同学报考本实验室研究生，也欢迎各年级本科生到实验室学习或做毕业论文",
+    "教学经历 物理化学(II)，2010-现在 分子间的相互作用力，2011-现在 应用物理"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "xdye@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2014/0330/c4439a39422/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张镇",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2018/0104/c14431a216176/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "固体表面电子激发脱附研究 氧化物表面物理化学 催化反应原位表征 代表论文 1.Zhen Zhang, John T. Yates, Jr., A New Form of Chemisorbed Photo- and Electro-active Atomic H Species on the TiO2(110) Surface, Surface Science, 2016, 652, 195-199 2.Zhen Zhang, Ke Cao, John T. Yates, Jr., Defect-Electron Spreading on the TiO2(110) Semiconductor Surface by Water Adsorption, Journal of Physical Chemistry Letters, 2013, 4 (4), 674-679 3.Zhen Zha"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zzchem@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2018/0104/c14431a216176/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "千坤",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/13894/list.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1.等离子体共振诱导的光催化反应 2.催化反应中的原位表征技术 代表论文： 1. K. Qian, B. C. Sweeny, A. C. Johnston-Peck, W. Niu, J. O. Graham, J. S. DuChene, J. Qiu, Y. C. Wang, M. H. Engelhard, D. Su, E. A. Stach, and W. D. Wei‎*, Surface Plasmon-Driven Water Reduction: Gold Nanoparticle Size Matters, Journal of the American Chemical Society, 136, 9842-9845, 2014 2. K. Qian, L. F. Luo, H. Z. Bao, Q. Hua, Z. Q. Jiang and W. X. Huang"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "qiankun@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/13894/list.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张国帧",
+   "name_en": "",
+   "title": "特任副研究员",
+   "research_area": "",
+   "profile_url": "http://dcp.ustc.edu.cn/2017/1017/c13893a194511/page.htm",
+   "department": "化学物理系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1.能源与催化材料的理论设计和模拟 2.蛋白质分子多维光谱模拟 3.材料基因 代表论文： [1] Zhang, G.",
+    "Al-Saidi, W. A.",
+    "Myshakin, E. M.",
+    "Jordan, K. D. “Dispersion-Corrected DFT and Classical Force Field Calculations of Water Loading on a Clay Surface.” J. Phys. Chem. C. 2012, 116, 17134-17141. [2] Zhang, G.",
+    "Konstantinov, I.",
+    "Arturo, S."
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "guozhen@ustc.edu.cn",
+   "sources": [
+    "http://dcp.ustc.edu.cn/2017/1017/c13893a194511/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "杜平武",
+   "name_en": "",
+   "title": "教授、博导",
+   "research_area": "",
+   "profile_url": "http://staff.ustc.edu.cn/~dupingwu/index.html",
+   "department": "材料科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "http://www.wjhxxb.cn/wjhxxbcn/ch/reader/view_abstract.aspx?file_no=20130819&flag=1",
+   "email": "dupingwu@ustc.edu.cn",
+   "sources": [
+    "http://staff.ustc.edu.cn/~dupingwu/index.html"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "陈初升",
+   "name_en": "",
+   "title": "教授、博导",
+   "research_area": "",
+   "profile_url": "http://mse.ustc.edu.cn/2010/0707/c3333a28958/page.htm",
+   "department": "材料科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "： 主要研究兴趣是无机材料的合成、制备、加工、结构、输运性质及其内在相互关系，面向能源和环境应用的关键材料和过程技术",
+    "目前的研究工作包括材料的缺陷结构与物理化学性能关系，中高温致密陶瓷氧分离膜材料和天然气制合成气膜反应器"
+   ],
+   "focus_areas": [],
+   "summary": ": 无机化学学士，中国科技大学，1983 无机化学硕士，中国科技大学，1986 材料科学博士，荷兰TWENTE大学，1994",
+   "publications": [],
+   "homepage": "",
+   "email": "mse@ustc.edu.cn",
+   "sources": [
+    "http://mse.ustc.edu.cn/2010/0707/c3333a28958/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "朱长飞",
+   "name_en": "",
+   "title": "教授、博导",
+   "research_area": "",
+   "profile_url": "http://mse.ustc.edu.cn/2010/0707/c3333a28961/page.htm",
+   "department": "材料科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "： 新型过渡金属氧化物功能材料的制备、物性研究及其在信息和能源领域的应用",
+    "宽带隙半导体材料与新型太阳能电池研究",
+    "在研项目 新型过渡金属氧化物复合量子功能材料研究和新奇物理效应探索,国家重大科学研究计划 (2012.01- 2016.12). 代表性文章 ： 1. Chen, G.L.",
+    "Yuan, C.C.",
+    "Liu，J.W.",
+    "Deng, Y.T."
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "mse@ustc.edu.cn",
+   "sources": [
+    "http://mse.ustc.edu.cn/2010/0707/c3333a28961/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "陆亚林",
+   "name_en": "",
+   "title": "教授、博导",
+   "research_area": "",
+   "profile_url": "http://yllu.ustc.edu.cn/",
+   "department": "材料科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "| 学术成就 | 研究组 | 论文专利 | 承担项目"
+   ],
+   "focus_areas": [],
+   "summary": "量子材料与光子技术实验室 陆亚林教授出席ICNASA 2024国际会议并访问皇家墨尔本理工大学 陆亚林教授应邀参加“第十二届超快现象与太赫兹波国际研讨会”并作大会报告 第一届量子功能材料论坛成功举办 国家重大科研仪器设备研制项目太赫兹近场高通量材料物性测量系统第一阶段安装顺利完成 Nature Commun产H2O2碳基电化学催化剂的高活性氧官能团构建和活性位点确定的研究取得进展 1 2",
+   "publications": [],
+   "homepage": "http://www.ahweilai.com/",
+   "email": "",
+   "sources": [
+    "http://yllu.ustc.edu.cn/"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "陈春华",
+   "name_en": "",
+   "title": "教授、博导",
+   "research_area": "",
+   "profile_url": "https://www.x-mol.com/groups/ustc-lilab",
+   "department": "材料科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "成果及论文 组员介绍 联系我们"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "cchchen@ustc.edu.cn",
+   "sources": [
+    "https://www.x-mol.com/groups/ustc-lilab"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "陈乾旺",
+   "name_en": "",
+   "title": "教授、博导",
+   "research_area": "",
+   "profile_url": "http://mse.ustc.edu.cn/2010/0707/c3333a28956/page.htm",
+   "department": "材料科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "mse@ustc.edu.cn",
+   "sources": [
+    "http://mse.ustc.edu.cn/2010/0707/c3333a28956/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "徐集贤",
+   "name_en": "",
+   "title": "教授、博导",
+   "research_area": "",
+   "profile_url": "http://mse.ustc.edu.cn/2020/0309/c3333a414250/page.htm",
+   "department": "材料科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "https://www.nrel.gov/pv/assets/images/efficiency-chart.png",
+   "email": "jixianxu@ustc.edu.cn",
+   "sources": [
+    "http://mse.ustc.edu.cn/2020/0309/c3333a414250/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "徐鑫",
+   "name_en": "",
+   "title": "教授、博导",
+   "research_area": "",
+   "profile_url": "http://mse.ustc.edu.cn/2010/0707/c3333a28963/page.htm",
+   "department": "材料科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1.新型氧氮化物荧光体",
+    "2.纳米粉末，纳米陶瓷和纳米复合材料",
+    "3.传统和纳米材料的超塑性和蠕变研究",
+    "4.传统和新型胶态成型",
+    "5.陶瓷产品"
+   ],
+   "focus_areas": [],
+   "summary": ": 2006年8月--- 教授，中国科学技术大学",
+   "publications": [
+    {
+     "title": "[5] 1745–1747 (2006) Xin Xu , Toshiyuki Nishimura, Naoto Hirosaki, Rong-Jun Xie, Yoshinobu Yamamoto, and Hidehiko Tanaka, Superplastic deformation of nano-sized S 3 N 4 ceramics with different amount of sintering additives, Scr. Mater.",
+     "venue": "",
+     "year": 2006
+    },
+    {
+     "title": "[3]:215-17 (2006) Xin Xu , Sen Mei, and J.M.F. Ferreira, Frabrication of Si 3 N 4 - SiC nano-composite ceramics through temperature induced gelation and liquid phase sintering, J. Eur. Ceram. Soc ., 26(3), 337-341,2006. Xin Xu , Toshiyuki Nishimura, Naoto Hirosaki, Rong-Jun Xie, Yinchun Zhu, and Yos",
+     "venue": "",
+     "year": 2006
+    },
+    {
+     "title": "(4): 934-937, 2005. Xin Xu , Toshiyuki Nishimura, Naoto Hirosaki, Rong-Jun Xie, Yoshinobu Yamamoto, and Hidehiko Tanaka, Fabrication of β-sialon nano-ceramics by high-energy mechanical milling and spark plasma sintering, Nanotechnology 16:1569-1573, 2005. Xu X , and Ferreira JMF, Temperature-induced",
+     "venue": "",
+     "year": 2005
+    },
+    {
+     "title": "(3): 593-98, 2005. Xu X , Fu RL, Chen KX, and Ferreira JMF, Cost-effective fabrication of porous alpha-SiAlON bonded beta-SiAlON ceramics, Mater. Lett . 59 (19-20): 2601-2604, 2005. Xin Xu , Toshiyuki Nishimura, Naoto Hirosaki, Rong-Jun Xie, Yoshinobu Yamamoto, and Hidehiko Tanaka, Superplastic defo",
+     "venue": "",
+     "year": 2005
+    },
+    {
+     "title": "(5): 745-749, 2004. Xin Xu , Sen Mei, José M. F. Ferreira, Fabrication of a-sialon sheets by tape casting and pressureless sintering, J. Mater. Res.,",
+     "venue": "",
+     "year": 2004
+    }
+   ],
+   "homepage": "http://wos01.isiknowledge.com/CIW.cgi?SID=W4EF6n8h9ECdOLOG2b6&Func=OneClickSearch&field=AU&val=Nishimura+T&curr_doc=2/5&Form=FullRecordPage&doc=2/5",
+   "email": "mse@ustc.edu.cn",
+   "sources": [
+    "http://mse.ustc.edu.cn/2010/0707/c3333a28963/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "向斌",
+   "name_en": "",
+   "title": "教授、博导",
+   "research_area": "",
+   "profile_url": "http://mse.ustc.edu.cn/2012/0912/c3333a29001/page.htm",
+   "department": "材料科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1.新能源材料及其器件应用的研究 2.纳微器件加工 3.电子显微镜的原位表征 在研项目： Ø 原位表征锂离子电池SEI膜形成过程,National Natural Science Foundation of China, Principal Investigator (2014.01- 2017.12). 代表性文章： 1. Lei Yang, Ding Zhong, Jingyu Zhang, Zhiping Yan, Shaofeng Ge, Pingwu Du, Jun Jiang, Dong Sun, Xiaojun Wu, Zhiyong Fan, Shadi A. Dayeh, and Bin Xiang, “Optical Properties of Metal–Molybdenum Disulfide Hybrid Nanosheets and Their Applicat"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "mse@ustc.edu.cn",
+   "sources": [
+    "http://mse.ustc.edu.cn/2012/0912/c3333a29001/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "曹瑞国",
+   "name_en": "",
+   "title": "教授、博导",
+   "research_area": "",
+   "profile_url": "http://mse.ustc.edu.cn/2016/1024/c3333a29024/page.htm",
+   "department": "材料科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "本"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "http://www.researcherid.com/rid/O-7354-2016",
+   "email": "rgcao@ustc.edu.cn",
+   "sources": [
+    "http://mse.ustc.edu.cn/2016/1024/c3333a29024/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "郝绿原",
+   "name_en": "",
+   "title": "教授级高工",
+   "research_area": "",
+   "profile_url": "http://mse.ustc.edu.cn/2010/0707/c3333a28966/page.htm",
+   "department": "材料科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "单分子化学物理 光声光谱 Copyright © 2004 - 2010 中国科技大学 材料科学与工程系All Rights Reserved. 网络中心制作维护（邮件:mse@ustc.edu.cn） 地址:中国合肥市金寨路96号中国科技大学东区 材料科学与工程系 邮编:230026"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "mse@ustc.edu.cn",
+   "sources": [
+    "http://mse.ustc.edu.cn/2010/0707/c3333a28966/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "彭冉冉",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "",
+   "profile_url": "http://mse.ustc.edu.cn/2011/0422/c3331a29053/page.htm",
+   "department": "材料科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "http://www.researcherid.com/rid/F-5934-2010",
+   "email": "mse@ustc.edu.cn",
+   "sources": [
+    "http://mse.ustc.edu.cn/2011/0422/c3331a29053/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "丁锦文",
+   "name_en": "",
+   "title": "高级工程师",
+   "research_area": "",
+   "profile_url": "http://mse.ustc.edu.cn/2015/0724/c3331a29064/page.htm",
+   "department": "材料科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "mse@ustc.edu.cn",
+   "sources": [
+    "http://mse.ustc.edu.cn/2015/0724/c3331a29064/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "陈立东",
+   "name_en": "",
+   "title": "研究员",
+   "research_area": "",
+   "profile_url": "http://mse.ustc.edu.cn/2014/1015/c3332a30119/page.htm",
+   "department": "材料科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "http://www.ecm.ac.cn/yjdw_10/JS/201105/t20110527_112356.html",
+   "email": "mse@ustc.edu.cn",
+   "sources": [
+    "http://mse.ustc.edu.cn/2014/1015/c3332a30119/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "温兆银",
+   "name_en": "",
+   "title": "研究员",
+   "research_area": "",
+   "profile_url": "http://mse.ustc.edu.cn/2014/1015/c3332a30113/page.htm",
+   "department": "材料科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "http://www.ecm.ac.cn/yjdw_10/JS/201105/t20110518_111851.html",
+   "email": "mse@ustc.edu.cn",
+   "sources": [
+    "http://mse.ustc.edu.cn/2014/1015/c3332a30113/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "黄富强",
+   "name_en": "",
+   "title": "研究员",
+   "research_area": "",
+   "profile_url": "http://mse.ustc.edu.cn/2014/1015/c3332a30121/page.htm",
+   "department": "材料科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "http://www.ecm.ac.cn/yjdw_10/JS/201105/t20110527_112346.html",
+   "email": "mse@ustc.edu.cn",
+   "sources": [
+    "http://mse.ustc.edu.cn/2014/1015/c3332a30121/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王绍荣",
+   "name_en": "",
+   "title": "研究员",
+   "research_area": "",
+   "profile_url": "http://mse.ustc.edu.cn/2014/1015/c3332a30124/page.htm",
+   "department": "材料科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "http://www.ecm.ac.cn/yjdw_10/JS/201104/t20110428_104211.html",
+   "email": "mse@ustc.edu.cn",
+   "sources": [
+    "http://mse.ustc.edu.cn/2014/1015/c3332a30124/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "吴文彬",
+   "name_en": "",
+   "title": "教授、博导",
+   "research_area": "",
+   "profile_url": "http://mse.ustc.edu.cn/2014/1015/c3332a30118/page.htm",
+   "department": "材料科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "mse@ustc.edu.cn",
+   "sources": [
+    "http://mse.ustc.edu.cn/2014/1015/c3332a30118/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "孙雪峰",
+   "name_en": "",
+   "title": "教授、博导",
+   "research_area": "",
+   "profile_url": "http://mse.ustc.edu.cn/2014/1015/c3332a30117/page.htm",
+   "department": "材料科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "mse@ustc.edu.cn",
+   "sources": [
+    "http://mse.ustc.edu.cn/2014/1015/c3332a30117/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王德亮",
+   "name_en": "",
+   "title": "教授、博导",
+   "research_area": "",
+   "profile_url": "http://mse.ustc.edu.cn/2011/0422/c3332a30111/page.htm",
+   "department": "材料科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "eedewang@ustc.edu.cn",
+   "sources": [
+    "http://mse.ustc.edu.cn/2011/0422/c3332a30111/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "陈学思",
+   "name_en": "",
+   "title": "兼职教授，院士",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2020/0826/c25101a474970/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "生物降解医用高分子材料 组织工程和药物缓释 聚乳酸和聚己内酯产业化 版权所有 ©2020 中国科学技术大学 高分子科学与工程系 地址：安徽省合肥市金寨路 96 号 联系电话：0551-63601697 邮政编码：230026 皖ICP备05002528号"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "xschen@ciac.ac.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2020/0826/c25101a474970/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "陈昶乐",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "",
+   "profile_url": "http://staff.ustc.edu.cn/~changle/index.html",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "http://www.azom.com/thought-leaders.aspx",
+   "email": "hxu@ustc.edu.cn",
+   "sources": [
+    "http://staff.ustc.edu.cn/~changle/index.html"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "洪春雁",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2010/1119/c25101a474985/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "活性聚合反应 不同拓扑结构聚合物的可控合成 环境响应性聚合物的合成及其在生物医药等领域的应用 序列可控聚合物的合成 聚合反应诱导自组装制备纳米材料"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "hongcy@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2010/1119/c25101a474985/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "胡进明",
+   "name_en": "",
+   "title": "教授 ，系执行主任",
+   "research_area": "",
+   "profile_url": "https://faculty.ustc.edu.cn/jmhu",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "[1] 抗菌抗炎功能高分子材料 [2] 环境响应性高分子的可控合成与超分子自组装 [3] 环境响应性有机/无机杂化材料的制备与功能拓展 [4] 响应性高分子药物与基因输运和控释载体"
+   ],
+   "focus_areas": [],
+   "summary": "胡进明，中国科学技术大学高分子科学与工程系教授，博士生导师；中国科学技术大学附属第一医院（安徽省立医院）特聘专家。2007年本科毕业于合肥工业大学，2012年博士毕业于中国科学技术大学，导师刘世勇教授。2013-2015年分别在澳大利亚新南威尔士大学和莫纳什大学从事博士后研究，合作导师均为Thomas P Davis教授。2016年入职中国科学技术大学 高分子科学与工程系 ，先后担任特任研究员、特任教授、教授。 主要从事高分子材料可控合成、自组装调控及其生物医学功能应用研究，近期研究集中在气体药物（一氧化氮、一氧化碳 和硫化氢）递送高分子材料的可控合成及其在炎症（如风湿性关节炎、炎症性肠病、哮",
+   "publications": [],
+   "homepage": "https://publons.com/researcher/2783084/jinming-hu/",
+   "email": "jmhu@ustc.edu.cn",
+   "sources": [
+    "https://faculty.ustc.edu.cn/jmhu"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "崔昆朋",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2022/0425/c25101a552734/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "高强韧水凝胶结构和性能 高分子结晶"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "kpcui@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2022/0425/c25101a552734/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "刘世勇",
+   "name_en": "",
+   "title": "教授，学院执行院长",
+   "research_area": "",
+   "profile_url": "http://staff.ustc.edu.cn/~sliu",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "http://www.researcherid.com/rid/A-7256-2008",
+   "email": "",
+   "sources": [
+    "http://staff.ustc.edu.cn/~sliu"
+   ],
+   "confidence": "coarse",
+   "verified": false
+  },
+  {
+   "name": "刘和文",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2010/1119/c25101a474986/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "拓扑高分子：近期集中在环状结构的合成及光控转变方面 高分子微纳米化材料：包括光致自推进胶体粒子、二维材料 高分子复合材料：耐极低温复合材料、生物质填充复合材料 辐射化学及光化学研究：耐辐射材料、光固化涂料"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "lhewen@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2010/1119/c25101a474986/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "汪峰",
+   "name_en": "",
+   "title": "教授，系总支书记",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2010/1119/c25101a474983/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2010/1119/c25101a474983/page.htm"
+   ],
+   "confidence": "coarse",
+   "verified": false
+  },
+  {
+   "name": "吴思",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "",
+   "profile_url": "https://faculty.ustc.edu.cn/siwu/zh_CN/index/899560/list/index.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "重要论文 论文成果"
+   ],
+   "focus_areas": [],
+   "summary": "吴思，中国科学技术大学教授，国家杰出青年科学基金获得者，国家海外引进高层次人才，曾在德国马普高分子所担任",
+   "publications": [],
+   "homepage": "",
+   "email": "",
+   "sources": [
+    "https://faculty.ustc.edu.cn/siwu/zh_CN/index/899560/list/index.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王延梅",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2010/1114/c25101a474991/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "聚合物抗污涂层的设计、制备及抗污机理的研究",
+    "聚合物抗污涂层在分离科学中的应用"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "wangyanm@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2010/1114/c25101a474991/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王志刚",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2010/1114/c25101a474990/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "嵌段共聚物和接枝型嵌段共聚物的合成及其仿生力学行为 共聚物和接枝型嵌段共聚物，共混物和复合材料熔体流变学 共聚物和接枝型嵌段共聚物，共混物和复合材料聚集态结构 共聚物和接枝型嵌段共聚物材料结构 - 性能关系 聚合物加工过程中相结构演化和性能调控 聚合物界面和表面相行为"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zgwang2@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2010/1114/c25101a474990/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "徐航勋",
+   "name_en": "",
+   "title": "教授，学院副院长",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2013/0301/c25101a474982/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "能源高分子材料用于光/电催化能量转换研究 高分子光电材料基本物理特性研究 功能高分子材料用于能量耗散及柔性电子技术研究 多孔高分子材料用于吸附、分离研究"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "hxu@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2013/0301/c25101a474982/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "尤业字",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2013/1107/c25101a474979/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "高分子纳米药物控释构建及肿瘤治疗研究 高分子核酸载体的合成和治疗研究 可降解生物高分子的可控合成研究"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "yzyou@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2013/1107/c25101a474979/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "朱平平",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2010/1114/c25101a474994/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zhupp@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2010/1114/c25101a474994/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "程群峰",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "",
+   "profile_url": "https://wp.ustc.edu.cn/_s46/2025/0919/c25101a701833/page.psp",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "仿生纳米复合材料"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "chengqf@ustc.edu.cn",
+   "sources": [
+    "https://wp.ustc.edu.cn/_s46/2025/0919/c25101a701833/page.psp"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "邹纲",
+   "name_en": "",
+   "title": "教授",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2015/0731/c25101a474977/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "智能光子学聚合物材料 手性共轭聚合物的合成及螺旋结构调控 化学与生物传感器"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "gangzou@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2015/0731/c25101a474977/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "崔林松",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "",
+   "profile_url": "http://polymer.ustc.edu.cn/2021/0506/c25101a483987/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "有机发光显示材料与器件 钙钛矿发光器件 分子激发态性质"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "lscui@ustc.edu.cn",
+   "sources": [
+    "http://polymer.ustc.edu.cn/2021/0506/c25101a483987/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李闯",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2021/0621/c25101a513898/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "新型响应性高分子水凝胶材料 超分子组装功能软物质 仿生智能软体驱动器 、 机器人"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "lichuang21@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2021/0621/c25101a513898/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张洁",
+   "name_en": "",
+   "title": "特任研究员",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2021/1014/c25101a525552/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "活性耗能生物高分子 ( 细胞骨架 / 肌动蛋白 ) 体系的力学与流变学性质 活性物质"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Yan, J. * ; Han, M. * ; Zhang, J .; Xu, C.; Luijten, E.; Granick, S. “Reconfiguring Active Particles by Electrostatic Imbalance.” Nat. Mater. , 15, 1095 (2016) 5. Zhang, J. ; Yan, J.; Granick, S. “Directed Self-Assembly Pathways of Active Colloidal Clusters.” Angew. Chem. Int. Ed. , 128, 5252 (2016)",
+     "venue": "Angew",
+     "year": 2016
+    }
+   ],
+   "homepage": "",
+   "email": "zhjie717@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2021/1014/c25101a525552/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王龙海",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2022/0701/c25101a561611/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "生物医用高分子与生物材料 生物医学工程与器件设计 细胞递送与细胞治疗"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "https://wanglabustc.com",
+   "email": "hiwang@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2022/0701/c25101a561611/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "胡祥龙",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2023/0216/c25101a592414/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "功能高分子与光学材料研究，包括生物医用高分子、聚集诱导发光材料等 创新生物医药与制剂开发，如聚前药两亲分子、功能蛋白、脂质体等 生物医学诊疗方案开发，涉及肿瘤、感染与炎症、抗衰修复等"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "huxlong@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2023/0216/c25101a592414/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "邓正玉",
+   "name_en": "",
+   "title": "特任研究员",
+   "research_area": "",
+   "profile_url": "https://wp.ustc.edu.cn/_s46/2024/0724/c25101a648357/page.psp",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "智能生物材料 精密高分子 生物正交化学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zydeng@ustc.edu.cn",
+   "sources": [
+    "https://wp.ustc.edu.cn/_s46/2024/0724/c25101a648357/page.psp"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "陈杜宇",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2025/0713/c25101a691147/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "无序超均匀态 (Disordered hyperuniformity, DHU) 聚合物等软物质体系的多尺度理论模拟 超构材料的理论研究与增材制造 无序功能化软材料的逆向设计"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "ccdy@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2025/0713/c25101a691147/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "何卫东",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2010/1122/c25102a475001/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "高分子合成化学（乳液聚合，可控 / 活性聚合，冷冻聚合） 高分子材料可控合成（核壳粒子，单分散粒子，高分子杂合材料，长链超支化聚合物） 功能高分子（生物医用高分子，药物控释，响应性高分子，光热水蒸发） 凝胶和冻胶（形貌控制，应用开发）"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "wdhe@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2010/1122/c25102a475001/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "刘华蓉",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2010/1122/c25102a475002/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "乳液与辐射技术应用： 无机 / 有机纳米复合材料的制备与应用 纳微结构材料的制备与应用 中空微球和多孔材料的制备与应用"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "hrliu@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2010/1122/c25102a475002/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "阳丽华",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2013/0527/c25102a474997/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "生物材料，纳米医学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "lhyang@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2013/0527/c25102a474997/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张国颖",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2010/1122/c25102a474999/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "环境响应性高分子 高分子药物载体及成像试剂载体"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "gyzhang@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2010/1122/c25102a474999/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "汪谟贞",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2012/1220/c25102a474998/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "高分子材料的辐射合成与改性研究 多孔和中空微球材料的制备与应用研究 功能性有机 / 无机纳米复合材料制备与应用研究"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "pstwmz@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2012/1220/c25102a474998/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王磊",
+   "name_en": "",
+   "title": "副教授",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2026/0515/c25102a740750/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "高分子光 / 电化学能源转换材料 高分子吸附与分离材料 高分子功能材料的构效关系与机理"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "lwang@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2026/0515/c25102a740750/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "肖石燕",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2021/0308/c25102a475570/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "多尺度分子模拟方法发展及其在高分子软物质体系中的应用 DNA 分子机器和反应线路调控 Energy landscape 方法及其在生物物理体系中的应用 高分子软物质组装机制以及组装动力学路径调控 近期代表性工作 1."
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "xiaosy@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2021/0308/c25102a475570/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张泽",
+   "name_en": "",
+   "title": "特任教授",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2023/0221/c25102a592636/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1. 新聚合方法和策略及功能化方法的设计构建 2. 绿色可降解可循环可持续高分子材料设计及性能应用 3. 面向能源领域应用的 功能高分子材料"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [
+    {
+     "title": "Lei Xia, Bo-Fei Cheng, Tian-You Zeng, Xuan Nie, Guang Chen, Ze Zhang*, Wen-Jian Zhang*, Chun-Yan Hong*, Ye-Zi You*; Polymer nanofibers exhibiting remarkable activity in driving the living polymerization under visible light and reusability, Advanced Science, 2020, 1902451.",
+     "venue": "Science",
+     "year": 2020
+    },
+    {
+     "title": "Guang Chen, Zi-Dan Zhang, Wen-Jian Zhang, Lei Xia, Xuan Nie, Wei-Qiang Huang, Xiao-Qian Wang, Long-Hai Wang*, Chun-Yan Hong*, Ze Zhang*, Ye-Zi You*; Photopolymerization performed under dark conditions using long-stored electrons in carbon nitride, Materials Horizons, 2021, 8, 2018-2024. 版权所有 ©2020 中",
+     "venue": "",
+     "year": 2021
+    }
+   ],
+   "homepage": "",
+   "email": "zze320@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2023/0221/c25102a592636/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李良彬",
+   "name_en": "",
+   "title": "双聘教授，同步辐射实验室党委书记 /副主任",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2013/0424/c25101a474981/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "发展同步辐射时间空间能量分辨技术及原位研究方法，原位研究高分子材料加工 - 结构 - 性能关系 近期代表性工作 [1] Zhao, J.",
+    "Chen, P.",
+    "Lin, Y.",
+    "Chen, W.",
+    "Lu, A.",
+    "Meng, L."
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "lbli@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2013/0424/c25101a474981/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "闫立峰",
+   "name_en": "",
+   "title": "兼职教授，学院党委书记",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2013/1028/c25101a474980/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "绿色化学和高分子化学与物理 1. 生物功能大分子材料合成与性能 2. 碳材料及其在催化、能量高效转化中的应用 3. 以生物质为原材料的绿色化学研究"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "lfyan@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2013/1028/c25101a474980/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "徐铜文",
+   "name_en": "",
+   "title": "兼职教授，院士",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2021/0310/c25101a475842/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "膜技术及其相关过程 化工传质与分离 生物活性制剂的可控释放 材料加工与成型"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "twxu@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2021/0310/c25101a475842/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "胡源",
+   "name_en": "",
+   "title": "双聘教授",
+   "research_area": "",
+   "profile_url": "http://sklfs.ustc.edu.cn/2017/0727/c12630a189903/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "新型阻燃剂和阻燃聚合物材料 先进聚合物纳米复合功能材料和无机功能材料 绿色阻燃可生物降解材料 材料火灾安全性评价方法及提高技术 危险化学品应急处置和环境修复关键技术 火灾调查关键技术 生物医用功能材料 安全工程相关材料（棉麻粮食安全保障、锂电池安全和灭火工程材料等）"
+   ],
+   "focus_areas": [],
+   "summary": "中国科学技术大学高分子化学/工程热物理专业博士(1997) 中国科学技术大学副研究员(1998-2001) 中国科学技术大学研究员(2002至今） 中国科学技术大学 讲席教授（2021-） 日本东京大学访问学者（1996-1997） 入选教育部新世纪优秀人才计划(2005) 安全科学与工程系主任(2014-2019)",
+   "publications": [],
+   "homepage": "http://www.zgxfkp.cn/",
+   "email": "yuanhu@ustc.edu.cn",
+   "sources": [
+    "http://sklfs.ustc.edu.cn/2017/0727/c12630a189903/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张忠",
+   "name_en": "",
+   "title": "双聘教授",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2022/0222/c25101a546253/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "高分子基纳米复合材料 结构功能一体化纳米复合材料及应用 奖励和"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zhongzhang@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2022/0222/c25101a546253/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王育才",
+   "name_en": "",
+   "title": "双聘教授",
+   "research_area": "",
+   "profile_url": "https://polymer.ustc.edu.cn/2023/0308/c25101a594183/page.htm",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "1. 生物医用高分子材料 2. 活体显微成像"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "yucaiwang@ustc.edu.cn",
+   "sources": [
+    "https://polymer.ustc.edu.cn/2023/0308/c25101a594183/page.htm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "马骏",
+   "name_en": "",
+   "title": "双聘教授",
+   "research_area": "",
+   "profile_url": "https://wp.ustc.edu.cn/_s46/2023/1129/c25101a622905/page.psp",
+   "department": "高分子科学与工程系",
+   "school": "中国科学技术大学",
+   "research_directions": [
+    "水辐射自由基化学研究 功能性水凝胶的辐射制备与应用研究 高分子基涂层电子束固化研究"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "majun0502@ustc.edu.cn",
+   "sources": [
+    "https://wp.ustc.edu.cn/_s46/2023/1129/c25101a622905/page.psp"
+   ],
+   "confidence": "fine",
+   "verified": true
+  }
+ ]
+}

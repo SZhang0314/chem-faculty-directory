@@ -1,0 +1,3274 @@
+{
+ "school": "中国科学院大学",
+ "professors": [
+  {
+   "name": "敖宇飞",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~aoyufei",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "生物催化是利用生物体系（如微生物或酶）作为催化剂来实现化学反应的方法，与常规有机化学方法相比，生物催化反应具有条件温和、环境友好、高效高选择性的优点",
+    "特别是随着生物技术的不断发展，人们对生物催化剂催化效率、选择性、热稳定性等催化性能进行改造提升，并不断开发其催化多功能性，极大的丰富了生物催化反应种类，甚至可实现自然界中不存在的反应，获得通过现有化学方法无法得到的化合物",
+    "在此基础上，生物催化的应用范围不断拓展，已发展成为精细化学品以及医药生产中的重要方法",
+    "本"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "aoyufe@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~aoyufei"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "白春礼",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0009458",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "物理化学纳米科技 声明：导师网页信息由导师个人维护，仅代表导师本人",
+    "教师系统仅提供信息存储空间服务",
+    "2013 © 中国科学院大学，网络信息中心."
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "clbai@cashq.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0009458"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "边文生",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~bian",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "大气、燃烧和激光化学 PBFC 量子动力学方法和程序发展 超冷分子体系的制备和机制 量子化学和分子反应动力学理论计算 非共价相互作用和催化反应的调控"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "bian@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~bian"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "崔巍",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~cuiwei",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "分子模拟，药物设计，机器学习化学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "cuiwei@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~cuiwei"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "曹安民",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~caoanmin",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "功能材料表界面控制"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "anmin_cao@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~caoanmin"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "曹昌燕",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0041441",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "纳米催化单原子催化纳米结构材料的构筑"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "cycao@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0041441"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "曹荣",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~rcao",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "主要研究领域：有机-无机杂化材料、纳米催化材料、无机超分子化学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "rcao@fjirsm.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~rcao"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "楚甲祥",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~chujiaxiang",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "研究方向关键词：金属有机化学",
+    "无机化学",
+    "配位化学",
+    "有机化学",
+    "催化",
+    "小分子活化"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "chujx@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~chujiaxiang"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "程敏",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0027045",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "气相小分子反应动力学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "chengmin@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0027045"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "程靓",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~chengl",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "https://www.sciengine.com/cfs/files/pdfs/view/1000-8217/D531D4E7F6944D0686EECA3EFABB6193.pdf",
+   "email": "chengl@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~chengl"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "蔡子健",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~zjcai",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "1. 面向高通量新材料发现的自动化实验室 当前的材料发现范式仍严重依赖传统的试错法，导致实验验证的通量难以跟上 AI 辅助结构预测的步伐",
+    "为了突破这一材料发现的瓶颈，我们团队致力于开发全自动化的合成与表征基础设施，构建集成了自动化数据分析与智能决策算法的机器人合成与测试系统",
+    "我们的最终目标是打造一个 “自驱动”的高通量实验室 ，从而彻底变革新材料的研发范式",
+    "2. 先进锂离子电池材料开发 随着全球能源需求的不断攀升，推动交通电气化以及实现可再生能源的高效利用已成为当务之急",
+    "这一趋势对低成本、高能量密度的储能技术提出了迫切需求",
+    "传统的锂离子电池材料研究主要局限于结构高度有序的材料体系，往往忽略了通过调控结构的“有序-无序”度来进一步优化性能的潜力"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zjcai@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~zjcai"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "陈传峰",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~cchen",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "基于三蝶烯新型合成主体的分子识别与组装 超分子组装新方法与组装体功能 螺烯类分子的合成与性能 手性pi-功能分子的设计合成及其应用研究"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "cchen@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~cchen"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "陈春城",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0011501",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "光催化，环境光化学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "ccchen@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0011501"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "陈祥雨",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~chenxy",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "空穴作用促使的光反应，还原偶联 Chen Xiangyu Group ： www.chenxygroup.com/"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "http://www.chenxygroup.com/",
+   "email": "chenxiangyu20@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~chenxy"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "陈飞",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0046036",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "不对称催化合成"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "chenfei211@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0046036"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "陈鹏磊",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0005760",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "胶体与界面体系调控的先进功能材料界面超分子组装能源材料"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "chenpl@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0005760"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "丁奎岭",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~dkl",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "新型手性配体的设计、合成及应用 组合不对称催化 手性催化剂负载化新方法 一氧化碳和二氧化碳的绿色转化"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "kding@sioc.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~dkl"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "丁宝全",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~dingbq",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "生物纳米材料与器件"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "dingbq@nanoctr.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~dingbq"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "杜海峰",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0009440",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "选择性合成方法学不对称催化"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "haifengdu@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0009440"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "董侠",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~DongXia",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "1. 高分子材料的微观结构调控与高性能化 Microstructure control and performance enhancement of polymeric materials 2. 新型热塑性弹性体的分子设计与制备 Molecule design and preparation of new Polyamide thermoplastic elastomers 3. 聚合物基复合材料研究与开发 The key technology of polymerization and industrialization for long chain polyamide"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "xiadong@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~DongXia"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "董焕丽",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~http://donghl.iccas.ac.cn",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "有机/高分子光电材料的设计合成 有机/高分子光电聚集态结构的调控 有机/高分子场效应晶体管及光电功能集成器件"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "dhl522@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~http://donghl.iccas.ac.cn"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "董金勇",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~jydong",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "烯烃配位聚合 高性能/功能化聚烯烃材料 高分子的反应与改性"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "jydong@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~jydong"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "付年凯",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0065588",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "有机电化学合成"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "funiankai@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0065588"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "方晓红",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0000063",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "生物单分子荧光成像及单分子力谱 蛋白质实时检测新探针 纳米生物传感器"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "fangxiaohong@him.cas.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0000063"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "范琳",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0005591",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "耐热性高分子材料"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "fanlin@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0005591"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "范青华",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0002426",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "不对称催化合成 环境友好的有机反应 功能树状大分子的合成、组装及应用"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "fanqh@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0002426"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "葛茂发",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0000069",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "大气物理化学、环境化学、纳米材料和水处理技术： 1、气溶胶物理化学与气候变化（二次有机气溶胶SOA",
+    "灰霾成因 & 气溶胶化学与光学性质",
+    "气态污染物与气溶胶耦合作用） 2、污染形成机理与控制技术（大气氧化性&VOC和臭氧化学",
+    "环境催化",
+    "纳米材料和水处理技术） 3、谱学、结构化学和动力学（质谱、光谱、能谱、色谱",
+    "瞬态物种化学、团簇化学、表界面物理化学）"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "gemaofa@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0000069"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "郭存悦",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~cyguo",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "能量转换材料"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "cyguo@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~cyguo"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "郭振朋",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0022993",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "毛细管电泳，色谱-质谱联用"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "guozhenp@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0022993"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "郭旭东",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~guoxudong",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "超高精细光刻材料"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "scoopguo@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~guoxudong"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "郭洪霞",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~hxguo",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "Ø 软物质体系的多尺度模拟计算方法与应用 Ø 聚合物及其复杂体系的相行为和流变特性 Ø 双亲分子和生物膜的自组装及其物理特性 Ø 合成材料与生物材料的界面"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "hxguo@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~hxguo"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "郭玉国",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~yuguoguo",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "电化学与纳米能源材料 纳米体系离子、电子存储与输运（纳米固体离子学、纳米电化学） 能量转换与存储，​化学电源（ 锂离子电池、锂硫电池、钠电池、镁电池、固态电池等新型二次电池）"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "ygguo@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~yuguoguo"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "高中华",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0042677",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "gaozh@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0042677"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "高月泽",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~gaoyueze",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "1. 超分子体系的高效合成 （有机合成化学） 2. 高性能超分子聚合物材料的精准制备及应用（有机合成及高分子化学） 3. 碳同素异形体分子和材料的制备与应用（有机合成及材料学） 4."
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "yueze.gao@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~gaoyueze"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "何圣贵",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~shengguihe",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "物理化学 分子反应动力学 结构化学 光谱与质谱 计算化学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "shengguihe@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~shengguihe"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "何花",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~hehua",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "无机固相新材料的合成 单晶与粉末X射线衍射 固相反应机理研究 电学与磁学的测量研究"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "hehua@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~hehua"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "侯剑辉",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0017149",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "有机太阳能电池"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "hjhzlz@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0017149"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "胡劲松",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~JinsongHu",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "清洁能源转换材料与器件",
+    "电催化",
+    "燃料电池",
+    "电解水",
+    "太阳能电池"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "hujs@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~JinsongHu"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "胡金波",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0003588",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "有机氟化学研究，包括：（1）有机氟化学新试剂、新反应",
+    "（2）含氟分子制备和相互转化过程中的科学本质研究",
+    "（3）含氟功能材料的合成"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "jinbohu@mail.sioc.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0003588"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "郝永梅",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~haoym",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "光催化降解材料的 设计合成及对环境污染物的降解研究 无机功能材料的合成、结构与 性能"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "ymhao@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~haoym"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "韩布兴",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~hanbx",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "韩布兴，中国科学院化学研究所研究员、华东师范大学特聘教授、英国诺丁汉大学荣誉教授，中国科学院院士、发展中国家科学院院士、英国皇家化学会会士，中国科学院胶体界面与化学热力学重点实验室主任，上海市绿色化学与化工过程绿色化重点实验室主任，中科-福海资源循环利用技术与产业化联合研究中心主任，中科衡水绿色高性能基础材料研发中心主任。1982年毕业于河北科技大学化学工程系，1985年在中国科学院长春应用化学研究所获硕士学位，1988年在中国科学院化学研究所获博士学位，1989年至1991年在加拿大Saskatchewan大学做博士后研究。1991 年至 1993年任中国科学院化学研究所副研究员，1993年",
+   "publications": [],
+   "homepage": "",
+   "email": "hanbx@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~hanbx"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "黄伟",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0004870",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "界面与粘结功能材料"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "huangwei@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0004870"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "姜玮",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~weijiang",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "有机功能分子设计合成及光电器件应用",
+    "手性分子碳的精准合成与功能调控",
+    "共轭高分子合成及应用研究"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "http://apl.aip.org/resource/1/applab/v94/i15/p153306_s1",
+   "email": "jiangw@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~weijiang"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "江剑",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0059953",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "聚电解质/离子液体在介电界面、受限空间中的热力学、结构性质以及相行为"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "jiangj@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0059953"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "江鹏",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0002177",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "有机-无机纳米功能材料的设计及在绿色电池、储能领域的应用"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "pjiang@nanoctr.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0002177"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "蒋礼",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0042676",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "jiangli@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0042676"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "贾月梅",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0026911",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "jiayuemei@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0026911"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "伦正言",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~zylun",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "（1） 新型储能材料 的设计与合成，如锂、钠离子电池电极及固态电解质等",
+    "（2）先进（原位） 表征技术 及其应用 ，如同步辐射，固体核磁ssNMR，干涉散射光学成像iSCAT等 （3）固体材料 合成科学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "https://www.cell.com/joule/fulltext/S2542-4351(22)00474-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2542435122004743%3Fshowall%3Dtrue",
+   "email": "zylun@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~zylun"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "刘会贞",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0040966",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "纳米催化材料设计，可再生碳资源绿色转化"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "liuhz@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0040966"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "刘利",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0000191",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "有机合成方法学 不对称有机反应 水相有机反应"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "lliu@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0000191"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "刘志敏",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~liuzm",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "超临界流体、离子液体的性质及应用研究 二氧化碳、可循环碳的资源化利用 绿色催化材料及绿色催化"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "liuzm@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~liuzm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "刘琛阳",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~liucy",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "Ø 聚合物液体动力学 Ø 聚合物复合材料流变学 Ø 流变测量学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "liucy@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~liucy"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "刘祥军",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0022990",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "分子探针，分子识别材料分离材料"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "xjliu@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0022990"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "刘薇",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~weiliu",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "weiliu@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~weiliu"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "刘辉彪",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~liuhuibiao",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "无机化学、物理化学、有机化学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "liuhb@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~liuhuibiao"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "刘鸣华",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0000171",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "功能性分子组装体与材料 1. 界面组装体的超分子手性研究－从非手性分子到手性组装体 2. 基于新型两亲分子（ bolaamphiphiles, gemini amphiphile ）以及生物分子的组装与功能化 3."
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "liumh@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0000171"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "吕海燕",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0007241",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "1. 螺烯类分子的合成及其性能研究 2. 热激活延迟荧光分子材料的合成及其 OLED 器件应用 3. 功能性大环与芳香带分子的合成与性能研究"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "haiyanlu@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0007241"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李保林",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~libaolin",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "有机合成及功能材料"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "https://www.chinesechemsoc.org/",
+   "email": "libl@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~libaolin"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李向军",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~lixiangj",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "1 基于先进材料（纳米材料，多孔材料等）的分子识别、检测及手性分离",
+    "2 金属离子、有机小分子与DNA、蛋白质相互作用"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "lixiangj@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~lixiangj"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李峻柏",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0005768",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "致力于仿生超分子化学的分子组装和纳米结构体系设计",
+    "尤其是基于生物分子磷脂，肽与蛋白的仿生分子组装和物理化学机理的研究，通过组装构建“人工细胞”",
+    "以模拟生物体结构和功能为基础，在分子水平上构筑具有特殊功能的超分子组装体",
+    "重点研究旋转马达蛋白ATP合酶与线性马达蛋白Kinesin的优化重组，从多维度模拟细胞器结构与功能",
+    "探索ATP合酶在调控叶绿体的光合磷酸化和线粒体的氧化磷酸化过程中的能量合成机制，实现功能增强",
+    "研究寡肽分子尤其是苯丙氨酸的组装与解组装，结构转变调控及其光电性质的研究"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "jbli@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0005768"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李意羡",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0041668",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "tamarali@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0041668"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李永舫",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0000178",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "聚合物太阳电池光伏材料和器件"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "liyf@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0000178"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李灿",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~canli",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "主要从事催化材料、催化反应和催化光谱表征方面的研究，包括绿色催化研究，燃料超深度脱硫等环境催化研究，多相手性催化研究，DNA催化研究以及原位光谱表征研究等",
+    "近年来，致力于太阳能光催化科学利用研究，包括太阳能电池和光电催化分解水、二氧化碳还原等人工光合催化研究",
+    "同时，注重超快光谱技术和成像光谱技术在太阳能转换科学相关基础问题研究中的应用",
+    "更多详细研究内容请登陆"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "canli@dicp.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~canli"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "李玉良",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0004642",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "有机功能分子体系的设计、合成和性质 共价、非共价有机和无机/有机纳米结构超分子体系 富勒烯化学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "ylli@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0004642"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "林原",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~linyuan",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "Ø 半导体光电化学",
+    "Ø 纳米半导体的制备及光电化学性能",
+    "Ø 染料敏化太阳能电池 Ø 纳米半导体光催化机理的光电化学研究"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "linyuan@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~linyuan"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "罗群",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~iccasluoqun",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "1、 多靶点抗肿瘤化合物的设计、合成及其作用机理研究 2、药物相互作用研究新方法， 3、基于多功能分子探针的化学生物学研究"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "qunluo@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~iccasluoqun"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "骆智训",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~zxluo",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "主要致力于原子分子团簇&聚集体物理化学相关研究，具体包括： 1. 团簇物理化学：金属团簇、超原子、团簇反应活性、团簇材料 2. 金属簇合物的光物理、光化学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zxluo@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~zxluo"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "孟玮",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~mengwei",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "人工智能化学理论有机化学不对称催化"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "mengwei@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~mengwei"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "马会民",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~mahm",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "光学(包括吸光、荧光、发光)探针及其传感分析",
+    "光学探针的分子设计、合成及其荧光成像分析等",
+    "分子光谱、光学探针的基础研究",
+    "生化分析：光学探针在生物、临床医学中的应用, 包括研制试剂盒、临床试纸等"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "mahm@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~mahm"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "马大为",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~Daweima",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "有机合成细胞凋亡机制研究 小分子蛋白调控"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "madw@sioc.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~Daweima"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "马家海",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~majia",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "本"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "majia@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~majia"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "倪振杰",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~nizhenjie",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "有机光电材料合成 有机合成方法学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "nizhenjie@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~nizhenjie"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "彭谦",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~qpeng",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "本"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "https://www.chinesechemsoc.org/doi/10.31635/ccschem.021.202101392",
+   "email": "qianpeng@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~qpeng"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "乔燕",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0054350",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "人工细胞的构筑无膜细胞器生物医用材料"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "yanqiao@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0054350"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "裘晓辉",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0003908",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "纳米表征纳米材料与器件"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "xhqiu@nanoctr.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0003908"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "邱东",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~dqiu",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "生物活性有机 / 无机复合材料 高性能凝胶及其应用 胶体分散体系的相互作用及应用基础 原位表征技术（小角中子 /X- 光散射，基于同步辐射的衍射技术与吸收光谱技术）"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "dqiu@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~dqiu"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "齐婷",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~qiting",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "（1） 有机半导体材料 设计、合成稠合的杂并环芳香体系的有机半导体材料，研究它们的光电性质，及其在场效应晶体管、发光二极管和太阳能电池等方面的应用",
+    "（2）超分子组装 设计、合成螺旋芳香折叠体，研究这一体系超分子组装过程中的特性，如超分子聚集形态、主客体分子络合和手性等，并探讨结构和其光电性能之间的关系，如圆偏振发光等"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "qiting@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~qiting"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "上官棣华",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~sgdh",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "教育及工作"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "sgdh@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~sgdh"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "史强",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0007809",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "复杂体系的动力学研究 Ø 凝聚相体系的量子动力学 Ø 光电功能有机纳米结构的理论研究 Ø 生物大分子构象变化的动力学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "qshi@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0007809"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "史文",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0023058",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "shiwen@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0023058"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "孙宪虎",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~sunxianhu",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "https://www.pnas.org/doi/10.1073/pnas.2422711122",
+   "email": "sunxianhu@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~sunxianhu"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "孙文华",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0000165",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "Ø 烯烃聚合导向的金属有机化学",
+    "Ø 烯烃聚合催化工艺研究",
+    "Ø 改良传统聚烯烃催化剂"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "whsun@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0000165"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "宋卫国",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0000064",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "Ø 纳米结构材料与多孔材料构筑与表征 Ø 上述材料在催化与传感的应用"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "wsong@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0000064"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "宋延林",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~ylsong",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "★ 超高密度信息存储 信息时代电子器件的持续微型化要求不断开发具有更高存储密度、更快响应速度的材料和器件",
+    "有机材料因其独特的光电特性和结构可控等优点，在超高密度信息存储领域受到广泛关注",
+    "从材料的结构功能设计出发，制备了一系列有机功能薄膜作为信息存储介质，实现了自组装有机晶体薄膜上纳米尺度信息点的写入－擦除和再写入，为可擦写的超高密度信息存储材料的设计提供了新的思路和途径",
+    "合成了具有强电子给体和电子受体、物理化学性质稳定的有机分子，并在其规整薄膜上实现1.1 nm信息点的写入(Adv. Mater. 2003, 15, 1525-1529)",
+    "通过分子间氢键和π-π相互作用自组装制备了晶态薄膜，实现平均点径2.2 nm的信息点的写入，信息点间距可达1.0 nm (Adv. Mater. 2004, 16, 2018-2021)",
+    "通过对材料结构的设计和改造，在热稳定的新型螺噁嗪薄膜上实现可擦写"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "ylsong@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~ylsong"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "宋锐",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~rsong",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "1）与高分子结晶相关问题的研究：研究对象包括：聚偏氟乙烯(PVDF), 聚乳酸（ PLA) 和结晶性嵌段聚合物等",
+    "研究手段包括：偏光显微镜 + 热台， DSC, 红外，同步辐射（广角和小角"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "rsong@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~rsong"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "唐亚林",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~tangyalin",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "Ø 新药发现的方法学研究及新药研发 Ø 疾病早期检测的新方法研究 Ø 靶向载药体系的研究"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "tangyl@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~tangyalin"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "唐勇",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0003592",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "后过渡烯烃催化剂的设计、合成及可控性聚合",
+    "主族元素化合物的化学",
+    "不对称催化"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "tangy@mail.sioc.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0003592"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "田志远",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~zytian",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "课题组的研究兴趣集中在光化学、具有光学活性的功能材料及其生物应用研究",
+    "具体而言，我们专注于对光具有应激 - 响应特性的功能材料的设计与合成，以及它们在生物成像（高分辨荧光成像及多模态联用成像）、生物光学探测（肿瘤标志物的光学探测）、生物医疗（光激活多重机制协同 抗肿瘤治疗 ）等方面的潜在应用研究",
+    "我们也关注材料的光学和光子学基本光物理特性，以及这些特性在光功能材料设计方面的应用",
+    "研究组正在开展的研究包括：（ 1 ）动态对比超分辨荧光成像及其在生物影像中的应用",
+    "（ 2"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zytian@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~zytian"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "万立骏",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~wanlijun",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "Ø 扫描探针显微技术及应用 Ø 单分子化学和物理性质 Ø 分子组装和纳米器件 Ø 纳米材料化学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "wanlijun@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~wanlijun"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "吴丽",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~WuLi",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "wuli@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~WuLi"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "吴海臣",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~haichen",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "1. 纳米孔传感器在分析检测中的应用 2. 纳米孔DNA测序 3. 纳米孔蛋白质测序"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "haichenwu@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~haichen"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "汪志祥",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~zxwang",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "作为一个计算量子化学科研工作者，我坚信计算量子化学已不再局限于验证实验和得出与实验一致的结论",
+    "计算量子化学家们应该使用最前沿的计算量子化学手段探索和发现新的化学规律,",
+    "激励和挑战实验工作者实现新的理论预言, 从而开辟新的研究领域",
+    "我们将以这个信念为指导开展研究工作"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zxwang@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~zxwang"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "汪福意",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~fuyiwang",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "&Oslash",
+    "质谱分析 &Oslash",
+    "化学生物学 &Oslash",
+    "抗肿瘤药物设计和分子作用机理研究"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "fuyi.wang@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~fuyiwang"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "汪铭",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0047997",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "药物递送及示踪、化学生物学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "mingwang@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0047997"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王从洋",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~wangcy",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "锰族金属有机化学 过渡金属卡拜化学 惰性分子和化学健的活化"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "wangcy@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~wangcy"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王其强",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~qqwang",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "超分子化学， 超分子催化， 有机合成"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "https://www.chinesechemsoc.org/doi/10.31635/ccschem.021.202101366",
+   "email": "qiqiangw@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~qqwang"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王吉政",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~jizheng wang",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "",
+   "sources": [
+    "https://people.ucas.ac.cn/~jizheng wang"
+   ],
+   "confidence": "coarse",
+   "verified": false
+  },
+  {
+   "name": "王建平",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~_jwang",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "飞秒多维 红外光谱学 (1D IR, 2D IR, 3D IR) 与飞秒非线性光谱学（如紫外-可见泵浦/红外探测） 的方法研究、设备建设、 及在 凝聚相化学、 物理、 材料"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "jwang@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~_jwang"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王彩旗",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~cqwang",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "功能高分子，生物医用材料，柔性制动器"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "wang-caiqi@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~cqwang"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王德先",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0007818",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "超分子化学、生物催化生物催化"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "dxwang@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0007818"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王春儒",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0000066",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "富勒烯和内嵌金属富勒烯的合成、分离和表征 碳 纳米材料、纳米器件和微纳米传感器 基于金属富勒烯的高效磁共振造影剂 富勒烯和金属富勒烯产业化"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "crwang@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0000066"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王栋",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0012186",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "表面功能纳米结构与材料"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "wangd@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0012186"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王树",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~wangshu",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "Ø 共轭聚合物设计、合成和性能研究 Ø 共轭聚合物的生物识别与传感研究 Ø 生命化学、生物医药以及化学生物学研究"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "wangshu@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~wangshu"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王洋",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~wanglab",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "催化在现代化学工业中占据着重要地位，直接或间接贡献了世界GDP的20%~30%",
+    "本"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "wangyang21@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~wanglab"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王登超",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~dcwang",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "纳米电极/纳米孔电极基础电化学 单体电化学分析检测 纳米扫描电化学显微镜 纳米材料电化学与生物电化学检测"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "wangdengchao@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~dcwang"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王笃金",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0005287",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "高分子科学与材料"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "djwang@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0005287"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王紫璇",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~zixuan_wang",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "过渡金属催化、不对称合成、有机氟化学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "https://mp.weixin.qq.com/s?__biz=MzU3MDA1MDIyMQ==&mid=2247486662&idx=1&sn=2c162754fb45c0af319ae1235e0d1ab5&chksm=fd4d0c976f3286a30725e12c598a9b2374714b865811791b51ebc8cd41f17191e05615b4675c&mpshare=1&scene=1&srcid=0509jfrWSGxEFTLtrtOdUQ4v&sharer_shareinfo=ecebfebc0a79b28436072aa828fbbb1c&sharer_shareinfo_first=ecebfebc0a79b28436072aa828fbbb1c&exportkey=n_ChQIAhIQ8IhgIG6EhUakSbHCSJY9RhKeAgIE97dBBAEAAAAAAJCOFShnx7YAAAAOpnltbLcz9gKNyK89dVj09WeBgqlBO3qJ60X21uhHB190bNohRGvl0T9ZTZ%2FLuHiJpFSQZtACbAlUnekYFGXPHqwz8iEfJeNvzM7QL%2FzfuR4pQlPguhN0xflxSU1%2BgFrv8uI%2Bd7of2byx8uA2SnMjVCodZ%2F%2BbLESntEfl3syw3ExecsU%2BpXnUNIYuROsCHoTBm9Jsdzr96i64HA4GAn7r9UHehXm3QEdE9OUB1BGY9fpk7he5wj8g8XA7P66wSt69n0Tq%2BbdB3x2SmLQtsUYnBAu5vVIU3PqzGZnEhHIj62f0osOczNTgDjwOtYa5V1O1dRFiMra99mFcpk4U%2FtgaX5UIRurlfJo%3D&acctmode=0&pass_ticket=Gq7kRC4lJsZneFLAHNeO46ML7SBlc7O6RvMma%2FEpIYhSa8ceMiNv0NN35t32HmaC&wx_header=0#rd",
+   "email": "wangzx@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~zixuan_wang"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "王雪飞",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~wxf",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "电化学理论 清洁能源转化技术 光化学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "wangxf@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~wxf"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "向俊锋",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0013542",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "jfxiang@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0013542"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "徐伟",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0002212",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "功能分子材料"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "wxu@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0002212"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "徐彩虹",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~caihong",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "Ø 含硅聚合物 Ø 聚合物先进陶瓷前驱体 Ø 元素有机功能材料"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "caihong@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~caihong"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "肖吉昌",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0000483",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "氟化学稀土萃取与稀土化学氟盐化学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "jchxiao@mail.sioc.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0000483"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "许吉英",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0030911",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "表面等离子体共振传感与成像，多光谱分析"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "xujy@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0030911"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "辛森",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0063983",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "二次电池储能电化学与界面化学同位素电化学与新型储能电池"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "xinsen08@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0063983"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "严会娟",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0026611",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "扫描探针显微技术及应用，单分子器件，纳米结构"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "yanhj@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0026611"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "于萍",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0014295",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "电分析, 活体分析，微纳尺度离子传输电化学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "yuping@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0014295"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "于贵",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~yugui",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "",
+   "sources": [
+    "https://people.ucas.ac.cn/~yugui"
+   ],
+   "confidence": "coarse",
+   "verified": false
+  },
+  {
+   "name": "俞初一",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~yucy",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "天然产物化学 糖化学生物学 杂环化学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "yucy@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~yucy"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "叶松",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~yesong",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "(1) 有机合成方法学 (2)不对称催化 (3)生物活性分子合成"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "songye@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~yesong"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "姚建年",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~jnyao",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "1. 有机功能纳米结构的制备及其性能研究 2. 无机 / 有机复合光致变色材料的构建和性能研究 3. 无机纳米功能结构的制备和应用研究"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "jnyao@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~jnyao"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "姚立",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~liyao",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "纳米生物技术: 超低场生物力谱及磁成像技术的发展 高性能磁功能材料及超低场磁探针的设计、制备与功能开发 重大疾病相关的核酸、蛋白等生物大分子及细胞（肿瘤细胞、细菌）的相互作用研究 肿瘤转移、细胞力学信号转导的重要分子机理与调控机制"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "yaoli@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~liyao"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "杨吉民",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~yangjimin",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "yangjimin@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~yangjimin"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "杨国强",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0040993",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "有机及高分子光物理和光化学光功能材料"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "gqyang@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0040993"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "杨学明",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~yangxueming",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "气相与表面化学动力学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "xmyang@dicp.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~yangxueming"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "杨志勇",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~zyyang",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "杨志勇教授研究兴趣主要包括（但不局限于） 通过 括扫描隧道显微镜（STM）,原子力显微镜（AFM）等扫描探针技术，结合DFT理论计算与MD模拟、器件光电性能测试等，开展： (1)--M oS 2 ​ ，COF"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "yangzhiyong@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~zyyang"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "阳明书",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0002857",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "Ø 聚合物有机/无机杂化材料 Ø 聚合物纳米复合材料 Ø 聚合物多组分多相复合材料"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "yms@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0002857"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "周克斌",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~kbzhou",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "kbzhou@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~kbzhou"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张东辉",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~zhangdh",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "1. 分子反应动力学理论研究 2. 量子散射理论与计算方法 3. 分子体系势能面构造"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zhangdh@dicp.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~zhangdh"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张军",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~jzhang",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "纤维素化学与物理 天然高分子材料的绿色加工与功能化 离子液体在高分子中的应用 功能性高分子材料"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "jzhang@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~jzhang"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张凤娇",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~fjiaozhang",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "有机分子功能材料化学 有机生物电子器件 分子组装调控"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "fjiaozhang@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~fjiaozhang"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张建玲",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0007811",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zhangjl@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0007811"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张德清",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0000181",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "有关有机铁磁体的研究 ¾ 有机稳定自由基 化合物及其金属配合物的制备、结构和磁性能 的研究",
+    "有关有机导体、超导体的研究 ¾ 新型有机电子给体及其电荷转移复合盐的设计、合成、电性能研究和相关的物理化学性质研究"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "dqzhang@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0000181"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张涛",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~taozhang",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "主要从事航天推进剂催化分解技术、环保催化、催化新材料以及生物质催化转化等方面的研究",
+    "结合重大任务背景和特点，张涛"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "taozhang@dicp.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~taozhang"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张科",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0029715",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "高分子合成方法学，活性/可控聚合、高分子精准合成，拓扑结构高分子合成与应用"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "kzhang@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0029715"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张西沙",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0046035",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "有机光电功能材料"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zhangxisha@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0046035"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "张辽云",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~zhangliaoyun",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "储能器件关键材料储能器件关键材料功能高分子材料 2016年以来"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zhangly@ucas.edu.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~zhangliaoyun"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "朱道本",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0001962",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "有机固体，包括有机导体、超导体，高温超导体，有机铁磁体，富勒烯及其衍生物，分子材料及器件等"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zhudb@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0001962"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "赵宁",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0010479",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "动态高分子高性能仿生材料功能表界面"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zhaoning@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0010479"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "赵永生",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0012184",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "纳米光子学材料，光化学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "yszhao@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0012184"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "赵江",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~zhaojiang",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "Ø 高分子的单链结构与动态性质 Ø 高分子与界面的相互作用与动态性质 Ø 纳米流变学与受限高分子的动态性质 Ø 聚合物纳米复合材料的单链力学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "jzhao@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~zhaojiang"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "赵燕飞",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0054488",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "离子液体，可再生碳资源转化"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "lianyi302@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0054488"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "赵睿",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0002791",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "复杂体系高选择性分离分析 多肽探针的设计、合成、筛选与应用 生物分子动态相互作用研究"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zhaorui@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0002791"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "赵红",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0007318",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "1. 微纳结构材料的制备、功能化及其光电性能研究： 单原子、 金属有机框架、层状双氢氧化物、纳米颗粒 、碳点 和 石墨烯 等 2. 能源转换电催化："
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "hongzhao@ucas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0007318"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "赵达",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~dazhao",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "有机合成，均相催化， 分子标记及应用 实验室主页 ​http://zhaolab.ucas.ac.cn/"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zhao@ucas.edu.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~dazhao"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "赵进才",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~jczhao",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "污染物光催化降解新原理和新方法 大气颗粒物表面光化学过程 新型环境纳米材料及纳米光催化 微量污染物光化学检测新方法新原理 光催化绿色有机合成"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "jczhao@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~jczhao"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "赵镇文",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~0021489",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "质谱分析、临床质谱、组学分析质谱分析"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zhenwenzhao@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~0021489"
+   ],
+   "confidence": "fine",
+   "verified": true
+  },
+  {
+   "name": "郑卫军",
+   "name_en": "",
+   "title": "专任教师",
+   "research_area": "",
+   "profile_url": "https://people.ucas.ac.cn/~zhengwj",
+   "department": "化学科学学院",
+   "school": "中国科学院大学",
+   "research_directions": [
+    "物理化学 天体化学"
+   ],
+   "focus_areas": [],
+   "summary": "",
+   "publications": [],
+   "homepage": "",
+   "email": "zhengwj@iccas.ac.cn",
+   "sources": [
+    "https://people.ucas.ac.cn/~zhengwj"
+   ],
+   "confidence": "fine",
+   "verified": true
+  }
+ ]
+}
