@@ -7,27 +7,28 @@ Chinese universities (化学 / 高分子 / 材料 / 化工 / 化学生物学 uni
 
 Open `index.html` directly, or visit the GitHub Pages URL (see repo settings).
 
-Features: full-text search, filters by university / department / research direction,
-sorting by name / school / title. Each card shows the professor's title, research
-directions, research summary, selected publications, and links to the official
-profile, email and personal homepage.
+The page mirrors the **中国高校物理教师汇总** design: a dark theme with school
+tabs, department/title filters, free-text search and "load more" pagination.
+Each card shows the professor's title, affiliation, research summary, research
+directions, selected publications, and links to the official profile, homepage,
+email and (when available) Google Scholar.
 
 ## Covered universities (11)
 
-| University | Records |
-|---|---|
-| 四川大学 Sichuan University | 500 |
-| 南京大学 Nanjing University | 420 |
-| 吉林大学 Jilin University | 341 |
-| 南开大学 Nankai University | 327 |
-| 复旦大学 Fudan University | 306 |
-| 上海交通大学 Shanghai Jiao Tong University | 245 |
-| 浙江大学 Zhejiang University | 209 |
-| 北京大学 Peking University | 198 |
-| 中国科学技术大学 USTC | 167 |
-| 中国科学院大学 UCAS (专任教师) | 147 |
-| 清华大学 Tsinghua University | 88 |
-| **Total** | **2,948** |
+| University | Key | Records |
+|---|---|---|
+| 清华大学 Tsinghua University | thu | 88 |
+| 北京大学 Peking University | pku | 198 |
+| 中国科学院大学 UCAS (专任教师) | ucas | 147 |
+| 浙江大学 Zhejiang University | zju | 209 |
+| 上海交通大学 SJTU | sjtu | 245 |
+| 复旦大学 Fudan University | fudan | 306 |
+| 南京大学 Nanjing University | nju | 420 |
+| 南开大学 Nankai University | nankai | 327 |
+| 吉林大学 Jilin University | jilin | 341 |
+| 中国科学技术大学 USTC | ustc | 167 |
+| 四川大学 Sichuan University | scu | 500 |
+| **Total** | | **2,948** |
 
 Scope: chemistry colleges/departments plus chemistry-adjacent units (polymer,
 materials, chemical engineering, chemical biology). Administrative staff,
@@ -85,6 +86,6 @@ is invented: fields that could not be verified are omitted.
 
 ```bash
 python scripts/validate_data.py --data data/faculty.json
-python scripts/build_site.py --data data/faculty.json --out . \
-       --title "中国十一校化学方向教师目录 · Chemistry Faculty Directory"
+python scripts/consolidate.py          # rebuild data/faculty.json from *_fine.json
+python scripts/build.py                # rebuild index.html from data + template.html
 ```

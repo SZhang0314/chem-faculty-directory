@@ -1,0 +1,6 @@
+﻿h=open(r"D:\USTC-AI\chem-faculty\index.html",encoding="utf-8").read()
+print("title chem:", "中国高校化学教师汇总" in h)
+print("data replaced:", "/*__DATA__*/" not in h)
+print("schooltabs:", 'id="schooltabs"' in h)
+print("schools meta present:", '"schools"' in h)
+print("len", len(h))
